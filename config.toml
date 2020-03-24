@@ -13,7 +13,7 @@ publishDir = "docs"
 # Hero section (from here on is for icon theme)
 [params.hero]
   img = "images/hero_bg.jpg"
-  title = "Create awesome things for better web"
+  title = "SwissRN"
   description = "Lovingly hand-crafted by the fine folks at [FreeHTML5.co](http://freehtml5.co/)"
 
 # Navigation section
