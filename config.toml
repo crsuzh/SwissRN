@@ -1,8 +1,9 @@
 # Main config file for icon theme.
 theme = "hugo-icon"
-baseURL = "https://www.example.com/"
+baseURL = "crsuzh.github.io/SwissRN/"
 languageCode = "en-AU"
 title = "My Awesome Title"
+publishDir = "docs"
 
 # Metadata
 [params]
