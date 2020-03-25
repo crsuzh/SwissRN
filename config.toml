@@ -14,7 +14,7 @@ publishDir = "docs"
 [params.hero]
   img = "images/hero_bg.jpg"
   title = "SwissRN"
-  description = "Lovingly hand-crafted by the fine folks at [FreeHTML5.co](http://freehtml5.co/)"
+  description = "Improving the reproducibility across Swiss institutions."
 
 # Navigation section
 [params.nav]
