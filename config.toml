@@ -1,26 +1,26 @@
 # Main config file for icon theme.
 theme = "hugo-icon"
 baseURL = "https://crsuzh.github.io/SwissRN/"
-languageCode = "en-AU"
-title = "My Awesome Title"
+languageCode = "en-GB"
+title = "SwissRN"
 publishDir = "docs"
 
 # Metadata
 [params]
-  author = "Your name"
-  description = "Cool description"
+  author = "Simon Schwab, Eva Furrer, Nina Pupikofer"
+  description = "CRS Staff"
 
 # Hero section (from here on is for icon theme)
 [params.hero]
-  img = "images/hero_bg.jpg"
+  img = "images/lab.jpg"
   title = "SwissRN"
-  description = "Improving the reproducibility across Swiss institutions."
+  description = "Improving the reproducibility across Swiss research institutions."
 
 # Navigation section
 [params.nav]
   mission = "Our Mission"
   services = "Services"
-  team = "The Team"
+  team = "Network"
   contact = "Get In Touch"
   # Include logo instead if HOME:
   # logo = "path/to/logo"
@@ -33,9 +33,9 @@ publishDir = "docs"
     enable = true
 
     [[params.mission.images.list]]
-      img = "images/img_3.jpg"
+      img = "images/teaching.jpg"
     [[params.mission.images.list]]
-      img = "images/img_2.jpg"
+      img = "images/design.jpg"
     [[params.mission.images.list]]
       img = "images/img_1.jpg"
     [[params.mission.images.list]]
@@ -43,15 +43,15 @@ publishDir = "docs"
 
   [[params.mission.item]]
     weight = 1
-    name = "marketing"
-    title = "Marketing"
+    name = "Research"
+    title = "Research"
     subtitle = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione voluptate laborum sapiente officiis molestiaea."
     description = "<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repudiandae aliquid aperiam eveniet officia molestiae temporibus beatae dolores dignissimos aspernatur eius doloremque ad, eaque pariatur, repellendus illum, nostrum velit necessitatibus molestias.</p><ul class='checked'><li>Web Development</li><li>User Interface Experts</li><li>Pixel Perfect Design</li></ul><p><a href='#' class='btn btn-primary btn-outline fh5co-content-nav' data-nav-section='contact'>Get In Touch</a></p>"
 
   [[params.mission.item]]
     weight = 2
-    name = "analysis"
-    title = "Resources"
+    name = "Teaching"
+    title = "Teaching"
     subtitle = "Quam quasi illum expedita dicta nemo fugit reprehenderit similique! Corporis praesentium magnam sequi."
     description = "<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nulla explicabo, molestiae eaque fugiat dolores est esse, doloremque placeat assumenda corrupti officia dolorum. Sunt saepe ut, explicabo consectetur, nostrum illo est.</p><ul class='checked'><li>Free HTML5 Templates</li><li>Free Bootstrap Templates</li><li>Free HTML5 Bootstrap Templates</li></ul><p><a href='#' class='btn btn-primary btn-outline fh5co-content-nav' data-nav-section='contact'>Get In Touch</a></p>"
 
@@ -72,12 +72,12 @@ publishDir = "docs"
 
   [[params.services.item]]
     icon = "icon-present"
-    title = "Web Development"
+    title = "GRP Courses"
     description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
 
   [[params.services.item]]
     icon = "icon-eye"
-    title = "Retina Ready"
+    title = "Statistical Counsulting"
     description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
 
   [[params.services.item]]
@@ -147,23 +147,23 @@ publishDir = "docs"
 # Team section
 [params.team]
   enable = true
-  title = "Meet The Team"
-  description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
+  title = "Network"
+  description = "The following institutions and organizations are part of the Swiss Reproducibility Network."
 
   [[params.team.item]]
-    name = "Jean Doe"
-    position = "Chief legend"
+    name = "Center for Reproducible Science (CRS)"
+    position = "University of Zurich"
     description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
-    img = "images/person1.jpg"
-    email = "#"
-    telephone = "#"
-    facebook = "#"
-    twitter = "#"
-    dribbble = "#"
-    instagram = "#"
-    github = "#"
-    linkedin = "#"
-    whatsapp = "#"
+    img = "images/crs.jpg"
+    email = "crs@ebpi.uzh.ch"
+    telephone = "+41 44 634 54 45"
+    #facebook = "#"
+    twitter = "https://twitter.com/crsuzh"
+    #dribbble = "#"
+    #instagram = "#"
+    github = "https://github.com/crsuzh"
+    #linkedin = "#"
+    #whatsapp = "#"
 
   [[params.team.item]]
     name = "Alice Doe"
@@ -229,4 +229,3 @@ publishDir = "docs"
   vine = "#"
   linkedin = "#"
   instagram = "#"
-  
