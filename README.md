@@ -11,10 +11,11 @@ brew install hugo
 
 Um die Seite lokal zum laufen zu bringen und zu ändern. muss man folgendes tun.
 
-1. Lokale Kopie der Seite machen (einmalig)
+1. Lokale Kopie der Seite machen (einmalig, einer von beiden, entweder per SSH oder per HTTPS)
 
 ```
 git clone --recurse-submodules git@github.com:crsuzh/SwissRN.git
+git clone --recurse-submodules https://github.com/crsuzh/SwissRN.git
 ```
 2. Inhalte ändern in `config.toml` 
 
