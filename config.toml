@@ -1,4 +1,4 @@
-baseurl                 = "https://crsuzh.github.io/"
+baseurl                 = "https://crsuzh.github.io/SwissRN/"
 DefaultContentLanguage  = "en"
 publishDir              = "docs"
 title                   = "Hugo Future Imperfect Slim"
