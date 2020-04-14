@@ -119,35 +119,35 @@ disableLanguages        = [""]
   [[menu.main]]
     name              = "Home"
     identifier        = "home"
-    url               = "/"
+    url               = "./"
     pre               = "<i class='fa fa-home'></i>"
     weight            = 1
 
   [[menu.main]]
     name              = "About"
     identifier        = "about"
-    url               = "/about/"
+    url               = "./about/"
     pre               = "<i class='far fa-id-card'></i>"
     weight            = 2
 
   [[menu.main]]
     name              = "Blog"
     identifier        = "blog"
-    url               = "/blog/"
+    url               = "./blog/"
     pre               = "<i class='far fa-newspaper'></i>"
     weight            = 3
 
   [[menu.main]]
     name              = "Categories"
     identifier        = "categories"
-    url               = "/categories/"
+    url               = "./categories/"
     pre               = "<i class='fas fa-sitemap'></i>"
     weight            = 5
 
   [[menu.main]]
     name              = "Contact"
     identifier        = "contact"
-    url               = "/contact/"
+    url               = "./contact/"
     pre               = "<i class='far fa-envelope'></i>"
     weight            = 6
 
@@ -168,35 +168,35 @@ disableLanguages        = [""]
     [[Languages.fr.menu.main]]
       name              = "Accueil"
       identifier        = "home"
-      url               = "/"
+      url               = "./"
       pre               = "<i class='fas fa-home'></i>"
       weight            = 1
 
     [[Languages.fr.menu.main]]
       name              = "About"
       identifier        = "about"
-      url               = "/about/"
+      url               = "./about/"
       pre               = "<i class='far fa-id-card'></i>"
       weight            = 2
 
     [[Languages.fr.menu.main]]
       name              = "Blog"
       identifier        = "blog"
-      url               = "/blog/"
+      url               = "./blog/"
       pre               = "<i class='far fa-newspaper'></i>"
       weight            = 3
 
     [[Languages.fr.menu.main]]
       name              = "Catégories"
       identifier        = "categories"
-      url               = "/categories/"
+      url               = "./categories/"
       pre               = "<i class='fas fa-sitemap'></i>"
       weight            = 5
 
     [[Languages.fr.menu.main]]
       name              = "Contact"
       identifier        = "contact"
-      url               = "/contact/"
+      url               = "./contact/"
       pre               = "<i class='far fa-envelope'></i>"
       weight            = 6
 
