@@ -49,12 +49,15 @@ The blockquote element represents content that is quoted from another source, op
 
 ## Tables
 
-Tables aren't part of the core Markdown spec, but Hugo supports supports them out-of-the-box.
 
-   Name | Age
---------|------
-    Bob | 27
-  Alice | 23
+
+<b>Tables</b> aren't part of the core Markdown spec, but Hugo supports supports them out-of-the-box.
+
+
+   Institution|   Contact   |  |
+--------------|-------------|---|
+  [CRS](https://www.crs.uzh.ch)| Simon Schwab, UZH |![alt text](./../img/logo.jpg "Logo Title Text 1")  |
+  Unibe | John Doe           |![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")  |
 
 #### Inline Markdown within tables
 
