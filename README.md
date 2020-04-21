@@ -24,6 +24,8 @@ git clone --recurse-submodules https://github.com/crsuzh/SwissRN.git
 
 ## Editieren der Webseite
 
+- Zuerst alle aktualisierungen holen mit `git pull`
+
 - Globale Einstellungen und Inhalte wie Menüs werden in `config.toml` definiert, die Unterseiten sind separat und werden im Ordner `content` und deren Unterordner geändert.
 
 - Webseite lokal starten, um Änderungen zu begutachten.
