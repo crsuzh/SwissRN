@@ -9,11 +9,20 @@ Test Simon Test. Hugo is a static site engine written in Go.
 # Local Reproducibility Networks
 
 ## Local Network Leads
+<<<<<<< HEAD
    Name | Age
 --------|------
     ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1") | Test CRS UZH
   Alice | 23
   Nina | 23
+=======
+
+
+Institution|   Contact   |  |
+--------------|-------------|---|
+[CRS](https://www.crs.uzh.ch)| Leonhard Held, UZH |![alt text](./../img/logo.jpg "Logo Title Text 1")  |
+Unibe | John Doe           |![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")  |
+>>>>>>> 413e0e3064985cd79521832a468932e1529639b6
 
 ## Local Network Contact Points
 jklhsjkhfjk
