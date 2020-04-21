@@ -53,3 +53,7 @@ git push origin master
 ```
 
 Nun ist die Webseite publiziert und kann unter https://crsuzh.github.io/SwissRN/ angeschaut werden. Es kann einige wenige Minuten dauern, bis die neue Version angezeigt wird.
+
+
+## Icons
+Eine Auswahl von Icons für die Menus sind unter folgendem Link zu finden und können in`config.toml`angepasst werden.  https://github.com/FortAwesome/Font-Awesome/tree/master/svgs.
