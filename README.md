@@ -34,10 +34,13 @@ hugo server
 
 Die Seite läuft nun lokal unter http://localhost:1313/SwissRN/. In der Regel kann die Seite am laufen bleiben, und man muss nur den Browser aktualisieren um Änderungen zu sehen. Um den lokalen Webserver abzubrechen `CTRL+C`.
 
+## Bilder
+
+Bilder sind im Ordner `content/img`, dieser Ordner ist der Ausgangspunkt (root directory) für die relative Pfade im Konfigurationsfile, ein Beispiel für einen korrekten Pfad wäre dann `./img/logo.jpg`.
 
 ## Webseite publizieren
 
-- Als ersten muss die Webseite gebaut werden mit dem Befehl `hugo`. Die Webseite wird im Ordner `docs` gebaut. Um alles vor dem Bauen zu bereininigen, dürfen die beiden Ordner `docs` und `ressources` komlpett gelöscht werden, denn diese werden beim Bauen immer neu erstellt. 
+- Als ersten muss die Webseite gebaut werden mit dem Befehl `hugo`. Die Webseite wird im Ordner `docs` gebaut. Um alles vor dem Bauen zu bereininigen, dürfen die beiden Ordner `docs` und `ressources` komplett gelöscht werden, denn diese werden beim Bauen immer neu erstellt. 
 ```
 cd SwissRN
 hugo
