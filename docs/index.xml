@@ -1,15 +1,65 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hugo Future Imperfect Slim</title>
+    <title>SwissRN</title>
     <link>https://crsuzh.github.io/SwissRN/</link>
-    <description>Recent content on Hugo Future Imperfect Slim</description>
+    <description>Recent content on SwissRN</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://crsuzh.github.io/SwissRN/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Institutions</title>
+      <link>https://crsuzh.github.io/SwissRN/institutions/</link>
+      <pubDate>Tue, 21 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://crsuzh.github.io/SwissRN/institutions/</guid>
+      <description>Test Simon Test. Hugo is a static site engine written in Go.
+It makes use of a variety of open source projects including:
+ Cobra Viper J Walter Weatherman Cast  Learn more and contribute on GitHub.
+Setup Some fun facts about Hugo:
+ Built in Go Loosely inspired by Jekyll Primarily developed by spf13 on the train while commuting to and from Manhattan. Coded in Vim using spf13-vim  Have questions or suggestions?</description>
+    </item>
+    
+    <item>
+      <title>LocalRNs</title>
+      <link>https://crsuzh.github.io/SwissRN/localrns/</link>
+      <pubDate>Tue, 21 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://crsuzh.github.io/SwissRN/localrns/</guid>
+      <description>Test Simon Test. Hugo is a static site engine written in Go.
+Local Reproducibility Networks Local Network Leads jhjkfhjkasdh
+Local Network Contact Points jklhsjkhfjk
+It makes use of a variety of open source projects including:
+ Cobra Viper J Walter Weatherman Cast  Learn more and contribute on GitHub.
+Setup Some fun facts about Hugo:
+ Built in Go Loosely inspired by Jekyll Primarily developed by spf13 on the train while commuting to and from Manhattan.</description>
+    </item>
+    
+    <item>
+      <title>Organisation</title>
+      <link>https://crsuzh.github.io/SwissRN/organisation/</link>
+      <pubDate>Tue, 21 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://crsuzh.github.io/SwissRN/organisation/</guid>
+      <description>Test Simon Test. Hugo is a static site engine written in Go.
+It makes use of a variety of open source projects including:
+ Cobra Viper J Walter Weatherman Cast  Learn more and contribute on GitHub.
+Setup Some fun facts about Hugo:
+ Built in Go Loosely inspired by Jekyll Primarily developed by spf13 on the train while commuting to and from Manhattan. Coded in Vim using spf13-vim  Have questions or suggestions?</description>
+    </item>
+    
+    <item>
+      <title>Stakeholders</title>
+      <link>https://crsuzh.github.io/SwissRN/stakeholders/</link>
+      <pubDate>Tue, 21 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://crsuzh.github.io/SwissRN/stakeholders/</guid>
+      <description>Stakeholder engagement groups </description>
+    </item>
     
     <item>
       <title>Markdown Syntax Guide</title>
@@ -49,11 +99,11 @@ pectora summo.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Contato</title>
-      <link>https://crsuzh.github.io/SwissRN/contact/_index.br/</link>
+      <title>Contact</title>
+      <link>https://crsuzh.github.io/SwissRN/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://crsuzh.github.io/SwissRN/contact/_index.br/</guid>
+      <guid>https://crsuzh.github.io/SwissRN/contact/</guid>
       <description></description>
     </item>
     

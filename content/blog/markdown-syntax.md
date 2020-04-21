@@ -3,9 +3,8 @@ author = "Hugo Authors"
 title = "Markdown Syntax Guide"
 date = "2019-03-11"
 description = "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
-tags = ["markdown", "css", "html", "themes"]
-categories = ["themes", "syntax"]
-images  = ["img/2014/04/pic02.jpg"]
+tags = ["markdown", "css", "html", "themes", "test"]
+categories = ["themes", "syntax", "simon"]
 aliases = ["migrate-from-jekyl"]
 +++
 
@@ -13,6 +12,8 @@ This article offers a sample of basic Markdown syntax that can be used in Hugo c
 <!--more-->
 
 ## Headings
+
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
 The following HTML `<h1>`—`<h6>` elements represent six levels of section headings. `<h1>` is the highest section level while `<h6>` is the lowest.
 

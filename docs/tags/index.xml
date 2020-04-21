@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Hugo Future Imperfect Slim</title>
+    <title>Tags on SwissRN</title>
     <link>https://crsuzh.github.io/SwissRN/tags/</link>
-    <description>Recent content in Tags on Hugo Future Imperfect Slim</description>
+    <description>Recent content in Tags on SwissRN</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
@@ -35,6 +35,15 @@
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>https://crsuzh.github.io/SwissRN/tags/markdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>test</title>
+      <link>https://crsuzh.github.io/SwissRN/tags/test/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://crsuzh.github.io/SwissRN/tags/test/</guid>
       <description></description>
     </item>
     
