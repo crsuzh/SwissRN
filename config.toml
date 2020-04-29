@@ -139,9 +139,9 @@ disableLanguages        = ["fr", "pl", "pt", "de", "es", "zh-cn", "zh-tw", "ja"]
     weight            = 5
 
     [[menu.main]]
-      name              = "LocalRNs"
-      identifier        = "localrns"
-      url               = "./localrns/"
+      name              = "Nodes"
+      identifier        = "Nodes"
+      url               = "./nodes/"
       pre               = "<i class='far fa-newspaper'></i>"
       weight            = 2
 
