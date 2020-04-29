@@ -1,5 +1,5 @@
 # SwissRN
-Swiss Reproducibility Network (SwissRN). Live Seite unter https://crsuzh.github.io/SwissRN/.
+Swiss Reproducibility Network (SwissRN). Live Seite unter <a href="https://crsuzh.github.io/SwissRN/" target="_blank">Go</a>.
 
 ## HOWTO
 
@@ -42,7 +42,7 @@ Bilder sind im Ordner `content/img`, dieser Ordner ist der Ausgangspunkt (root d
 
 ## Webseite publizieren
 
-- Als ersten muss die Webseite gebaut werden mit dem Befehl `hugo`. Die Webseite wird im Ordner `docs` gebaut. Um alles vor dem Bauen zu bereininigen, dürfen die beiden Ordner `docs` und `ressources` komplett gelöscht werden, denn diese werden beim Bauen immer neu erstellt. 
+- Als ersten muss die Webseite gebaut werden mit dem Befehl `hugo`. Die Webseite wird im Ordner `docs` gebaut. Um alles vor dem Bauen zu bereininigen, dürfen die beiden Ordner `docs` und `ressources` komplett gelöscht werden, denn diese werden beim Bauen immer neu erstellt.
 ```
 cd SwissRN
 hugo
