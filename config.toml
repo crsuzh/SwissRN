@@ -128,21 +128,21 @@ disableLanguages        = ["fr", "pl", "pt", "de", "es", "zh-cn", "zh-tw", "ja"]
     name              = "Organisation"
     identifier        = "organisation"
     url               = "./organisation/"
-    pre               = "<i class='far fa-id-card'></i>"
+    pre               = "<i class='far fa-layer-group'></i>"
     weight            = 7
 
   [[menu.main]]
     name              = "Activities"
     identifier        = "blog"
     url               = "./blog/"
-    pre               = "<i class='far fa-newspaper'></i>"
+    pre               = "<i class='far fa-running'></i>"
     weight            = 5
 
     [[menu.main]]
       name              = "Nodes"
       identifier        = "Nodes"
       url               = "./nodes/"
-      pre               = "<i class='far fa-newspaper'></i>"
+      pre               = "<i class='far fa-network-wired'></i>"
       weight            = 2
 
   # [[menu.main]]
@@ -163,14 +163,14 @@ disableLanguages        = ["fr", "pl", "pt", "de", "es", "zh-cn", "zh-tw", "ja"]
       name              = "Institutions"
       identifier        = "institutions"
       url               = "./institutions/"
-      pre               = "<i class='fas fa-allergies'></i>"
+      pre               = "<i class='fas fa-university'></i>"
       weight            = 3
 
       [[menu.main]]
         name              = "Stakeholders"
         identifier        = "stakeholders"
         url               = "./stakeholders/"
-        pre               = "<i class='fas fa-allergies'></i>"
+        pre               = "<i class='fas fa-share-alt'></i>"
         weight            = 4
 
 [Languages]

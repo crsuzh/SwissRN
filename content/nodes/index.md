@@ -4,7 +4,8 @@ date = "2020-04-21"
 +++
 
 
- Nodes, or Local Networks, provide a mechanism through which the aims of the SwissRN can be promoted within that institution (e.g., by establishing open research working groups, running training workshops, advocating for the wider adoption of best practice within the institution, etc.).
+Nodes, or Local Networks, provide a mechanism through which the aims of the SwissRN can be promoted within that institution (e.g., by establishing open research working groups, running training workshops, advocating for the wider adoption of best practice within the institution, etc.).
+
 
 
 ## Local Network Leads
@@ -14,6 +15,7 @@ Institution|   Contact   |  |
 --------------|-------------|---|
 [Universität Zürich](https://www.crs.uzh.ch)| Prof. Dr. Leonhard Held, Biostatistics |![alt text](./../img/pic_leoheld.jpg "Logo Title Text 1")  |
 [Universität Bern](https://www.dcr-vph.unibe.ch/ueber_uns/personen/prof_dr_wuerbel_hanno/index_ger.html)| Prof. Dr. Hanno Würbel, Veterinary Science           |![alt text](./../img/pic_HannoWuerbel.jpg)  |
+[University of Neuchâtel](https://www.unine.ch/tania.zittoun/home.html)| Prof. Tania Zittoun, Institute of Psychology and Education           |![alt text](./../img/pic_taniazittoun.jpg)  |
 
 
 

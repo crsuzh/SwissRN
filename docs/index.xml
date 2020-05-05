@@ -25,13 +25,15 @@ Setup Some fun facts about Hugo:
     </item>
     
     <item>
-      <title>Nodes</title>
-      <link>https://crsuzh.github.io/SwissRN/nodes/</link>
+      <title>LocalRNs</title>
+      <link>https://crsuzh.github.io/SwissRN/localrns/</link>
       <pubDate>Tue, 21 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://crsuzh.github.io/SwissRN/nodes/</guid>
-      <description>Nodes, or Local Networks, provide a mechanism through which the aims of the SwissRN can be promoted within that institution (e.g., by establishing open research working groups, running training workshops, advocating for the wider adoption of best practice within the institution, etc.).
-Local Network Leads A Local Network Lead provides the point of contact for SwissRN, and represents a grass-roots network of researchers at that institution. It is intended that these Local Networks will grow, both in number and size, over time, as researchers elect to participate in SwissRN activities.</description>
+      <guid>https://crsuzh.github.io/SwissRN/localrns/</guid>
+      <description>Test Simon Test. Hugo is a static site engine written in Go.
+Local Reproducibility Networks Local Network Leads    Institution Contact      CRS Leonhard Held, UZH    Unibe John Doe     Local Network Contact Points jklhsjkhfjk
+It makes use of a variety of open source projects including:
+ Cobra Viper J Walter Weatherman Cast  Learn more and contribute on GitHub.</description>
     </item>
     
     <item>
