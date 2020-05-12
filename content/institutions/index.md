@@ -3,7 +3,25 @@ title = "Institutions"
 date = "2020-04-21"
 +++
 
-Test Simon Test. Hugo is a static site engine written in Go.
+Institutions can join the SwissRN if the senior management formally commits to supporting the aims of the network, identifies a responsible person in the management structure leading their implementation at the institution, e.g. through training programs at all levels.
+
+
+
+## Institutions
+More text ...
+
+Institution | Contact | Test | Test
+--------|------ |------ |------
+![alt text](./../img/logo_uzh.png "Logo Title Text 1") | [University of Zurich](https://www.uzh.ch/cmsssl/en.html)| Contact  |
+[University of Geneva](https://www.unige.ch)| Contact | ![alt text](./../img/logo_unige.png "Logo Title Text 1")  |
+ ![University of Zurich](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1") | Test CRS UZH
+Alice | 23
+Nina | 23
+
+## How to join
+We expect that institutions seeking membership of SwissRN will want to develop capacity to deliver a research improvement strategy, and to work with SwissRN to develop a strategy for ensuring the sustainability of the Network in the medium- and long-term, and to build a community of institutions focused on research improvement.
+
+If you would like to become a supporter of the Swiss Reproducibility Network, please send us an email to ...@swissrn.org with subject "Subject".
 
 
 It makes use of a variety of open source projects including:
