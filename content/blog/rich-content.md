@@ -1,15 +1,22 @@
 +++
 author = "Hugo Authors"
-title = "Rich Content"
+title = "Communication"
 date = "2019-03-10"
-description = "A brief description of Hugo Shortcodes"
+description = "The SwissRN coordinates activity across Local Networks in its three focus areas. The dissemination of new evidence, propagation of best practices, and promotion of a culture change (e.g. courses to early career researchers, conception of basic training modules for Bachelor and Master students, preparation of online materials; coordination of virtual seminars and journals clubs)."
 tags = ["shortcodes","privacy", "test"]
 categories = ["simon"]
+images  = ["./img/activities_communication.png"]
 +++
 
 Hugo ships with several [Built-in Shortcodes](https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes) for rich content, along with a [Privacy Config](https://gohugo.io/about/hugo-and-gdpr/) and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.
 <!--more-->
 ---
+
+#### What we offer
+
+* Publications
+* Whitepapers
+* Guidelines
 
 ## Instagram Simple Shortcode
 

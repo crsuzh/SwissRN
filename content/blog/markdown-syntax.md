@@ -1,15 +1,23 @@
 +++
 author = "Hugo Authors"
-title = "Markdown Syntax Guide"
+title = "Education"
 date = "2019-03-11"
-description = "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
+description = "The SwissRN coordinates activity across Local Networks in its three focus areas. To design and establish appropriate training activities (e.g., delivery of short courses to early career researchers, conception of basic training modules for Bachelor and Master students, preparation of online materials; coordination of virtual seminars and journals clubs)."
 tags = ["markdown", "css", "html", "themes", "test"]
 categories = ["themes", "syntax", "simon"]
 aliases = ["migrate-from-jekyl"]
+images  = ["./img/activities_Schulzimmer.jpg"]
 +++
 
 This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.
 <!--more-->
+
+#### What we offer
+
+* Teaching/training matls
+* ReproTeas CH-wide
+* Workshops
+* Seminars
 
 ## Headings
 

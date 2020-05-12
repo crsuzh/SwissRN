@@ -128,21 +128,21 @@ disableLanguages        = ["fr", "pl", "pt", "de", "es", "zh-cn", "zh-tw", "ja"]
     name              = "Organisation"
     identifier        = "organisation"
     url               = "./organisation/"
-    pre               = "<i class='far fa-layer-group'></i>"
+    pre               = "<i class='far fa-users'></i>"
     weight            = 7
 
   [[menu.main]]
     name              = "Activities"
     identifier        = "blog"
     url               = "./blog/"
-    pre               = "<i class='far fa-running'></i>"
+    pre               = "<i class='far fa-calendar-alt'></i>"
     weight            = 5
 
     [[menu.main]]
       name              = "Nodes"
       identifier        = "Nodes"
       url               = "./nodes/"
-      pre               = "<i class='far fa-network-wired'></i>"
+      pre               = "<i class='far fa-sitemap'></i>"
       weight            = 2
 
   # [[menu.main]]

@@ -1,12 +1,16 @@
 +++
 author = "Hugo Authors"
-title = "Placeholder Text"
+title = "Transformation"
 date = "2019-03-09"
-description = "Lorem Ipsum Dolor Si Amet"
+description = "The SwissRN coordinates activity across Local Networks in its three focus areas. Design and evaluation of research improvement measures and policy in collaboration with stakeholders."
 tags = ["markdown","text"]
 categories = [""]
-images  = ["./img/2014/09/pic03.jpg"]
+images  = ["./img/activities_transformation.png"]
 +++
+
+#### What we offer
+
+* Research projects
 
 Lorem est tota propiore conpellat pectoribus de
 pectora summo. <!--more-->Redit teque digerit hominumque toris verebor lumina non cervice
