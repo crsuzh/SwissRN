@@ -19,7 +19,7 @@
       <guid>https://crsuzh.github.io/SwissRN/institutions/</guid>
       <description>Institutions can join the SwissRN if the senior management formally commits to supporting the aims of the network, identifies a responsible person in the management structure leading their implementation at the institution, e.g. through training programs at all levels.
 Institutions More text &amp;hellip;
-   Institution Contact Test Test      University of Zurich Contact    University of Geneva Contact      Test CRS UZH     Alice 23     Nina 23      How to join We expect that institutions seeking membership of SwissRN will want to develop capacity to deliver a research improvement strategy, and to work with SwissRN to develop a strategy for ensuring the sustainability of the Network in the medium- and long-term, and to build a community of institutions focused on research improvement.</description>
+   Institution Contact Test Test      UZH Contact     unige Contact     EPFL Contact     ETHZ Contact     unibas Contact    Test 23     Nina 23      How to join We expect that institutions seeking membership of SwissRN will want to develop capacity to deliver a research improvement strategy, and to work with SwissRN to develop a strategy for ensuring the sustainability of the Network in the medium- and long-term, and to build a community of institutions focused on research improvement.</description>
     </item>
     
     <item>
@@ -38,11 +38,8 @@ Local Network Leads A Local Network Lead provides the point of contact for Swiss
       <pubDate>Tue, 21 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>https://crsuzh.github.io/SwissRN/organisation/</guid>
-      <description>Test Simon Test. Hugo is a static site engine written in Go.
-It makes use of a variety of open source projects including:
- Cobra Viper J Walter Weatherman Cast  Learn more and contribute on GitHub.
-Setup Some fun facts about Hugo:
- Built in Go Loosely inspired by Jekyll Primarily developed by spf13 on the train while commuting to and from Manhattan. Coded in Vim using spf13-vim  Have questions or suggestions?</description>
+      <description>The Swiss Reproducibility Network (SwissRN) is a peer-led consortium that aims to promote and ensure rigorous research practices in Switzerland by establishing appropriate training activities, designing and evaluating research improvement efforts, disseminating best practice, and working with stakeholders to ensure coordination of efforts across the sector. SwissRN’s activities span multiple levels, including researchers, institutions and other stakeholders (e.g., funders and public authorities).
+Steering Committee The steering committee consists of three to four persons (currently Leonhard Held, Evie Vergauwe, Hanno Würbel) and is responsible for the overall coordination of SwissRN activity and strategy.</description>
     </item>
     
     <item>
@@ -56,7 +53,7 @@ Stakeholder engagement groups More text &amp;hellip;</description>
     </item>
     
     <item>
-      <title>Markdown Syntax Guide</title>
+      <title>Education</title>
       <link>https://crsuzh.github.io/SwissRN/blog/markdown-syntax/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
@@ -65,7 +62,7 @@ Stakeholder engagement groups More text &amp;hellip;</description>
     </item>
     
     <item>
-      <title>Rich Content</title>
+      <title>Communication</title>
       <link>https://crsuzh.github.io/SwissRN/blog/rich-content/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
@@ -74,12 +71,16 @@ Stakeholder engagement groups More text &amp;hellip;</description>
     </item>
     
     <item>
-      <title>Placeholder Text</title>
+      <title>Transformation</title>
       <link>https://crsuzh.github.io/SwissRN/blog/placeholder-text/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>https://crsuzh.github.io/SwissRN/blog/placeholder-text/</guid>
-      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de
+      <description>&lt;h4 id=&#34;what-we-offer&#34;&gt;What we offer&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Research projects&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Lorem est tota propiore conpellat pectoribus de
 pectora summo.&lt;/p&gt;</description>
     </item>
     

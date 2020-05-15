@@ -12,7 +12,7 @@
     
     
     <item>
-      <title>Markdown Syntax Guide</title>
+      <title>Education</title>
       <link>https://crsuzh.github.io/SwissRN/blog/markdown-syntax/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
@@ -21,7 +21,7 @@
     </item>
     
     <item>
-      <title>Rich Content</title>
+      <title>Communication</title>
       <link>https://crsuzh.github.io/SwissRN/blog/rich-content/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
@@ -30,12 +30,16 @@
     </item>
     
     <item>
-      <title>Placeholder Text</title>
+      <title>Transformation</title>
       <link>https://crsuzh.github.io/SwissRN/blog/placeholder-text/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>https://crsuzh.github.io/SwissRN/blog/placeholder-text/</guid>
-      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de
+      <description>&lt;h4 id=&#34;what-we-offer&#34;&gt;What we offer&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Research projects&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Lorem est tota propiore conpellat pectoribus de
 pectora summo.&lt;/p&gt;</description>
     </item>
     
