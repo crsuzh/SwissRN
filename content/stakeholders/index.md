@@ -3,11 +3,13 @@ title = "Stakeholders"
 date = "2020-04-21"
 +++
 
-Stakeholders who support the SwissRN form the Stakeholder Engagement Group. This ensures that SwissRN activity is aligned with the strategy and activity of the stakeholders, and allows the exchange of ideas. In addition, the relationship between the Stakeholder Engagement Group and the SwissRN provides stakeholders with a mechanism for obtaining feedback on new initiatives from the research community. See Annex 5: Potential Stakeholders in Switzerland.
+Stakeholders who support the SwissRN form the Stakeholder Engagement Group with the goal of
 
+* alignining SwissRN activity with the strategy and activity of the stakeholders 
+* allowing the exchange of ideas
+* facilitating feedback on new stakeholder initiatives
 
-## Stakeholder engagement groups
-More text ...
+## Stakeholders
 
 Institution|   Contact   |  |
 --------------|-------------|---|

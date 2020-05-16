@@ -28,10 +28,10 @@ disableLanguages        = ["fr", "pl", "pt", "de", "es", "zh-cn", "zh-tw", "ja"]
   # Sets where "View More Posts" links to
   viewMorePostsLink     = "/blog/"
   # Activate Estimated Reading Times, which appear in the post headers
-  readingTime           = true
+  readingTime           = false
   # Sets which Social Share links appear in posts.
   # Options are twitter, facebook, reddit, linkedin, pinterest, email
-  socialShare           = ["twitter", "email"]
+  #socialShare           = ["twitter", "email"]
   #socialShare           = ["twitter", "facebook", "reddit", "linkedin",
   #                        "pinterest", "email"]
 
@@ -129,7 +129,7 @@ disableLanguages        = ["fr", "pl", "pt", "de", "es", "zh-cn", "zh-tw", "ja"]
     identifier        = "organisation"
     url               = "./organisation/"
     pre               = "<i class='far fa-users'></i>"
-    weight            = 7
+    weight            = 6
 
   [[menu.main]]
     name              = "Activities"
@@ -152,12 +152,6 @@ disableLanguages        = ["fr", "pl", "pt", "de", "es", "zh-cn", "zh-tw", "ja"]
   #   pre               = "<i class='fas fa-sitemap'></i>"
   #   weight            = 5
 
-  # [[menu.main]]
-  #   name              = "Contact"
-  #   identifier        = "contact"
-  #   url               = "./contact/"
-  #   pre               = "<i class='far fa-envelope'></i>"
-  #   weight            = 6
 
     [[menu.main]]
       name              = "Institutions"
@@ -182,9 +176,9 @@ disableLanguages        = ["fr", "pl", "pt", "de", "es", "zh-cn", "zh-tw", "ja"]
 
   [Languages.fr]
     LanguageCode        = "fr"
-    LanguageName        = "Français"
-    title               = "Hugo Future Imperfect Slim en français"
-    description         = "Un thème par HTML5 UP, porté par Julio Pescador. Simplifié et amélioré par Patrick Collins. Multilingue par StatnMap. Propulsé par Hugo."
+    LanguageName        = "Fran??ais"
+    title               = "Hugo Future Imperfect Slim en fran??ais"
+    description         = "Un th??me par HTML5 UP, port?? par Julio Pescador. Simplifi?? et am??lior?? par Patrick Collins. Multilingue par StatnMap. Propuls?? par Hugo."
     weight              = 2
 
     [[Languages.fr.menu.main]]
@@ -209,7 +203,7 @@ disableLanguages        = ["fr", "pl", "pt", "de", "es", "zh-cn", "zh-tw", "ja"]
       weight            = 3
 
     [[Languages.fr.menu.main]]
-      name              = "Catégories"
+      name              = "Cat??gories"
       identifier        = "categories"
       url               = "./categories/"
       pre               = "<i class='fas fa-sitemap'></i>"
@@ -226,7 +220,7 @@ disableLanguages        = ["fr", "pl", "pt", "de", "es", "zh-cn", "zh-tw", "ja"]
     LanguageCode        = "pl"
     LanguageName        = "Polski"
     title               = "Hugo Future Imperfect Slim po polsku"
-    description         = "Motyw HTML5 UP, przeniesiony przez Julio Pescadora i wzbogacony przez Patricka Collinsa. Wielojęzyczny przez StatnMap. Zasilany przez Hugo."
+    description         = "Motyw HTML5 UP, przeniesiony przez Julio Pescadora i wzbogacony przez Patricka Collinsa. Wieloj??zyczny przez StatnMap. Zasilany przez Hugo."
     weight              = 2
 
     [[Languages.pl.menu.main]]
@@ -266,13 +260,13 @@ disableLanguages        = ["fr", "pl", "pt", "de", "es", "zh-cn", "zh-tw", "ja"]
 
   [Languages.pt]
     LanguageCode        = "pt"
-    LanguageName        = "Português"
-    title               = "Hugo Future Imperfect Slim em português"
-    description         = "Um tema do HTML5 UP, portado por Julio Pescadora e reduzido por Patrick Collins. Multilíngue por StatnMap. Feito com Hugo."
+    LanguageName        = "Portugu??s"
+    title               = "Hugo Future Imperfect Slim em portugu??s"
+    description         = "Um tema do HTML5 UP, portado por Julio Pescadora e reduzido por Patrick Collins. Multil??ngue por StatnMap. Feito com Hugo."
     weight              = 4
 
     [[Languages.pt.menu.main]]
-      name              = "Início"
+      name              = "In??cio"
       identifier        = "home"
       url               = "/"
       pre               = "<i class='fas fa-home'></i>"
@@ -313,22 +307,22 @@ disableLanguages        = ["fr", "pl", "pt", "de", "es", "zh-cn", "zh-tw", "ja"]
 
   [Languages.es]
     LanguageCode        = "es"
-    LanguageName        = "Española"
+    LanguageName        = "Espa??ola"
     weight              = 6
 
   [Languages.zh-CN]
     LanguageCode        = "zh-CN"
-    LanguageName        = "中文"
+    LanguageName        = "??????"
     weight              = 7
 
   [Languages.zh-TW]
     LanguageCode        = "zh-TW"
-    LanguageName        = "中文"
+    LanguageName        = "??????"
     weight              = 8
 
   [Languages.ja]
     LanguageCode        = "ja"
-    LanguageName        = "日本語"
+    LanguageName        = "?????????"
     weight              = 9
 
 # Sets Social Media icons to appear and link to your account. Value should be your

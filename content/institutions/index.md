@@ -3,12 +3,9 @@ title = "Institutions"
 date = "2020-04-21"
 +++
 
-Institutions can join the SwissRN if the senior management formally commits to supporting the aims of the network, identifies a responsible person in the management structure leading their implementation at the institution, e.g. through training programs at all levels.
-
-
+Member institutions of the SwissRN have formally committed to support the aims of SwissRN and have started their implementation at the institution.
 
 ## Institutions
-More text ...
 
 Institution | Contact | Test | Test
 --------|------ |------ |------
@@ -21,9 +18,9 @@ Test | 23
 Nina | 23
 
 ## How to join
-We expect that institutions seeking membership of SwissRN will want to develop capacity to deliver a research improvement strategy, and to work with SwissRN to develop a strategy for ensuring the sustainability of the Network in the medium- and long-term, and to build a community of institutions focused on research improvement.
+We expect that institutions seeking membership of SwissRN will want to develop capacity to deliver a research improvement strategy, and to work with SwissRN to develop a strategy for ensuring the sustainability of SwissRN in the medium- and long-term, and to build a community of institutions focused on research improvement.
 
-If you would like to become a supporter of the Swiss Reproducibility Network, please send us an email to [Simon Schwab](mailto:simon.schwab@uzh.ch) with subject "Subject".
+Interested institutions please contact [Eva Furrer](mailto:eva.furrer@uzh.ch).
 
 
 It makes use of a variety of open source projects including:
