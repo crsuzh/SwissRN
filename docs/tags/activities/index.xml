@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Activities on SwissRN</title>
+    <link>https://crsuzh.github.io/SwissRN/tags/activities/</link>
+    <description>Recent content in Activities on SwissRN</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 17 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://crsuzh.github.io/SwissRN/tags/activities/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Communication</title>
+      <link>https://crsuzh.github.io/SwissRN/blog/focusareacommunication/</link>
+      <pubDate>Sun, 17 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://crsuzh.github.io/SwissRN/blog/focusareacommunication/</guid>
+      <description>&lt;p&gt;One of the SwissRN Focus Areas is communication:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Dissemination of new evidence&lt;/li&gt;
+&lt;li&gt;Propagation of best practices&lt;/li&gt;
+&lt;li&gt;Promotion of a culture change&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Education</title>
+      <link>https://crsuzh.github.io/SwissRN/blog/focusareaeducation/</link>
+      <pubDate>Sun, 17 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://crsuzh.github.io/SwissRN/blog/focusareaeducation/</guid>
+      <description>&lt;p&gt;One of the SwissRN Focus Areas is education:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;courses to early career researchers,&lt;/li&gt;
+&lt;li&gt;conception of basic Good Research Practice training modules for Bachelor and Master students,&lt;/li&gt;
+&lt;li&gt;preparation of online materials;&lt;/li&gt;
+&lt;li&gt;coordination of virtual seminars and journals clubs&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Transformation</title>
+      <link>https://crsuzh.github.io/SwissRN/blog/focusareatransformation/</link>
+      <pubDate>Sun, 17 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://crsuzh.github.io/SwissRN/blog/focusareatransformation/</guid>
+      <description>&lt;p&gt;One of the SwissRN Focus Areas is transformation:&lt;/p&gt;
+&lt;h2 id=&#34;research-improvement-measures-and-related-policies-will-be-designed-and-evaluated-in-collaboration-with-stakeholders-swissrn-offers-the-leverage-of-a-nationwide-network-with-close-connection-to-key-players-together-we-aim-to-order-to-influence-policy-and-policy-makers-towards-the-improvement-of-the-quality-and-robustness-of-research-by-reforming-culture-and-practice&#34;&gt;Research improvement measures and related policies will be designed and evaluated in collaboration with stakeholders. SwissRN offers the leverage of a nationwide network with close connection to key players. Together we aim to order to influence policy and policy makers towards the improvement of the quality and robustness of research by reforming culture and practice.&lt;/h2&gt;
+&lt;h4 id=&#34;what-we-offer&#34;&gt;What we offer&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Research projects&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Lorem est tota propiore conpellat pectoribus de
+pectora summo.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

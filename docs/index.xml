@@ -12,14 +12,62 @@
     
     
     <item>
+      <title>Communication</title>
+      <link>https://crsuzh.github.io/SwissRN/blog/focusareacommunication/</link>
+      <pubDate>Sun, 17 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://crsuzh.github.io/SwissRN/blog/focusareacommunication/</guid>
+      <description>&lt;p&gt;One of the SwissRN Focus Areas is communication:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Dissemination of new evidence&lt;/li&gt;
+&lt;li&gt;Propagation of best practices&lt;/li&gt;
+&lt;li&gt;Promotion of a culture change&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Education</title>
+      <link>https://crsuzh.github.io/SwissRN/blog/focusareaeducation/</link>
+      <pubDate>Sun, 17 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://crsuzh.github.io/SwissRN/blog/focusareaeducation/</guid>
+      <description>&lt;p&gt;One of the SwissRN Focus Areas is education:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;courses to early career researchers,&lt;/li&gt;
+&lt;li&gt;conception of basic Good Research Practice training modules for Bachelor and Master students,&lt;/li&gt;
+&lt;li&gt;preparation of online materials;&lt;/li&gt;
+&lt;li&gt;coordination of virtual seminars and journals clubs&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Transformation</title>
+      <link>https://crsuzh.github.io/SwissRN/blog/focusareatransformation/</link>
+      <pubDate>Sun, 17 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://crsuzh.github.io/SwissRN/blog/focusareatransformation/</guid>
+      <description>&lt;p&gt;One of the SwissRN Focus Areas is transformation:&lt;/p&gt;
+&lt;h2 id=&#34;research-improvement-measures-and-related-policies-will-be-designed-and-evaluated-in-collaboration-with-stakeholders-swissrn-offers-the-leverage-of-a-nationwide-network-with-close-connection-to-key-players-together-we-aim-to-order-to-influence-policy-and-policy-makers-towards-the-improvement-of-the-quality-and-robustness-of-research-by-reforming-culture-and-practice&#34;&gt;Research improvement measures and related policies will be designed and evaluated in collaboration with stakeholders. SwissRN offers the leverage of a nationwide network with close connection to key players. Together we aim to order to influence policy and policy makers towards the improvement of the quality and robustness of research by reforming culture and practice.&lt;/h2&gt;
+&lt;h4 id=&#34;what-we-offer&#34;&gt;What we offer&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Research projects&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Lorem est tota propiore conpellat pectoribus de
+pectora summo.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Institutions</title>
       <link>https://crsuzh.github.io/SwissRN/institutions/</link>
       <pubDate>Tue, 21 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>https://crsuzh.github.io/SwissRN/institutions/</guid>
-      <description>Institutions can join the SwissRN if the senior management formally commits to supporting the aims of the network, identifies a responsible person in the management structure leading their implementation at the institution, e.g. through training programs at all levels.
-Institutions More text &amp;hellip;
-   Institution Contact Test Test      UZH Contact     unige Contact     EPFL Contact     ETHZ Contact     unibas Contact    Test 23     Nina 23      How to join We expect that institutions seeking membership of SwissRN will want to develop capacity to deliver a research improvement strategy, and to work with SwissRN to develop a strategy for ensuring the sustainability of the Network in the medium- and long-term, and to build a community of institutions focused on research improvement.</description>
+      <description>Member institutions of the SwissRN have formally committed to support the aims of SwissRN and have started their implementation at the institution.
+Institutions    Institution Contact Test Test      UZH Contact     unige Contact     EPFL Contact     ETHZ Contact     unibas Contact    Test 23     Nina 23      How to join We expect that institutions seeking membership of SwissRN will want to develop capacity to deliver a research improvement strategy, and to work with SwissRN to develop a strategy for ensuring the sustainability of SwissRN in the medium- and long-term, and to build a community of institutions focused on research improvement.</description>
     </item>
     
     <item>
@@ -28,8 +76,8 @@ Institutions More text &amp;hellip;
       <pubDate>Tue, 21 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>https://crsuzh.github.io/SwissRN/nodes/</guid>
-      <description>Nodes, or Local Networks, provide a mechanism through which the aims of the SwissRN can be promoted within that institution (e.g., by establishing open research working groups, running training workshops, advocating for the wider adoption of best practice within the institution, etc.).
-Local Network Leads A Local Network Lead provides the point of contact for SwissRN, and represents a grass-roots network of researchers at that institution. It is intended that these Local Networks will grow, both in number and size, over time, as researchers elect to participate in SwissRN activities.</description>
+      <description>Local Nodes of the SwissRN build the backbone of the network by initiating and coordinating activities at universities and other research institutions. Activities of local nodes are manifold, e.g.
+ open research working groups, ReproducibiliTea journal clubs, organisation of training activities such as carpentries workshops, grant and ethics peer review groups etc.  The organisation of local nodes differs from institution to institutions from a formalized administration to informal grassroot groups.</description>
     </item>
     
     <item>
@@ -38,8 +86,8 @@ Local Network Leads A Local Network Lead provides the point of contact for Swiss
       <pubDate>Tue, 21 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>https://crsuzh.github.io/SwissRN/organisation/</guid>
-      <description>The Swiss Reproducibility Network (SwissRN) is a peer-led consortium that aims to promote and ensure rigorous research practices in Switzerland by establishing appropriate training activities, designing and evaluating research improvement efforts, disseminating best practice, and working with stakeholders to ensure coordination of efforts across the sector. SwissRN’s activities span multiple levels, including researchers, institutions and other stakeholders (e.g., funders and public authorities).
-Steering Committee The steering committee consists of three to four persons (currently Leonhard Held, Evie Vergauwe, Hanno Würbel) and is responsible for the overall coordination of SwissRN activity and strategy.</description>
+      <description>Steering Committee The steering committee is responsible for the overall coordination of SwissRN activity and strategy.
+   Department Institution Contact      Center for Reproducible Science UZH Prof. Dr. Leonhard Held    Geneva University Neurocenter University of Geneva Evie Vergauwe    Department of Clinical Research and Veterinary Public Health (DCR-VPH) University of Bern Prof. Dr. Hanno Würbel, Veterinary Science     Advisory Board An external Advisory Board comprising academics from the international research community with expertise related to the goals of the network supports the steering committee regarding strategy and direction.</description>
     </item>
     
     <item>
@@ -48,8 +96,8 @@ Steering Committee The steering committee consists of three to four persons (cur
       <pubDate>Tue, 21 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>https://crsuzh.github.io/SwissRN/stakeholders/</guid>
-      <description>Stakeholders who support the SwissRN form the Stakeholder Engagement Group. This ensures that SwissRN activity is aligned with the strategy and activity of the stakeholders, and allows the exchange of ideas. In addition, the relationship between the Stakeholder Engagement Group and the SwissRN provides stakeholders with a mechanism for obtaining feedback on new initiatives from the research community. See Annex 5: Potential Stakeholders in Switzerland.
-Stakeholder engagement groups More text &amp;hellip;</description>
+      <description>Stakeholders who support the SwissRN form the Stakeholder Engagement Group with the goal of
+ alignining SwissRN activity with the strategy and activity of the stakeholders allowing the exchange of ideas facilitating feedback on new stakeholder initiatives  Stakeholders    Institution Contact      Swiss National Science Foundation Contact    Swiss Academies Contact    Swiss Universities Contact    SFVO Contact    FOAG Contact    FOEN Contact    FORS Contact    SERI Contact    swissmedic Contact    Swiss Ethics Contact    Ethics committees for animal experimentation Contact !</description>
     </item>
     
     <item>
@@ -91,15 +139,6 @@ pectora summo.&lt;/p&gt;</description>
       
       <guid>https://crsuzh.github.io/SwissRN/blog/emoji-support/</guid>
       <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>https://crsuzh.github.io/SwissRN/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://crsuzh.github.io/SwissRN/contact/</guid>
-      <description></description>
     </item>
     
   </channel>

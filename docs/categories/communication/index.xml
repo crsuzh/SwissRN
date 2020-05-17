@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Communication on SwissRN</title>
+    <link>https://crsuzh.github.io/SwissRN/categories/communication/</link>
+    <description>Recent content in Communication on SwissRN</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 17 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://crsuzh.github.io/SwissRN/categories/communication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Communication</title>
+      <link>https://crsuzh.github.io/SwissRN/blog/focusareacommunication/</link>
+      <pubDate>Sun, 17 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://crsuzh.github.io/SwissRN/blog/focusareacommunication/</guid>
+      <description>&lt;p&gt;One of the SwissRN Focus Areas is communication:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Dissemination of new evidence&lt;/li&gt;
+&lt;li&gt;Propagation of best practices&lt;/li&gt;
+&lt;li&gt;Promotion of a culture change&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

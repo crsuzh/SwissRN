@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Education on SwissRN</title>
+    <link>https://crsuzh.github.io/SwissRN/tags/education/</link>
+    <description>Recent content in Education on SwissRN</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 17 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://crsuzh.github.io/SwissRN/tags/education/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Education</title>
+      <link>https://crsuzh.github.io/SwissRN/blog/focusareaeducation/</link>
+      <pubDate>Sun, 17 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://crsuzh.github.io/SwissRN/blog/focusareaeducation/</guid>
+      <description>&lt;p&gt;One of the SwissRN Focus Areas is education:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;courses to early career researchers,&lt;/li&gt;
+&lt;li&gt;conception of basic Good Research Practice training modules for Bachelor and Master students,&lt;/li&gt;
+&lt;li&gt;preparation of online materials;&lt;/li&gt;
+&lt;li&gt;coordination of virtual seminars and journals clubs&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
