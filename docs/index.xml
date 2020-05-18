@@ -87,7 +87,7 @@ Institutions    Institution Contact Test Test      UZH Contact     unige Contact
       
       <guid>https://crsuzh.github.io/SwissRN/organisation/</guid>
       <description>Steering Committee The steering committee is responsible for the overall coordination of SwissRN activity and strategy.
-   Department Institution Contact      Center for Reproducible Science UZH Prof. Dr. Leonhard Held    Geneva University Neurocenter University of Geneva Evie Vergauwe    Department of Clinical Research and Veterinary Public Health (DCR-VPH) University of Bern Prof. Dr. Hanno Würbel, Veterinary Science     Advisory Board An external Advisory Board comprising academics from the international research community with expertise related to the goals of the network supports the steering committee regarding strategy and direction.</description>
+   Institution Department Member      University of Zurich Center for Reproducible Science Prof. Dr. Leonhard Held    University of Geneva Geneva University Neurocenter Evie Vergauwe    University of Bern Department of Clinical Research and Veterinary Public Health (DCR-VPH) Prof. Dr. Hanno Würbel, Veterinary Science     Advisory Board An external Advisory Board comprising academics from the international research community with expertise related to the goals of the network supports the steering committee regarding strategy and direction.</description>
     </item>
     
     <item>
@@ -97,7 +97,7 @@ Institutions    Institution Contact Test Test      UZH Contact     unige Contact
       
       <guid>https://crsuzh.github.io/SwissRN/stakeholders/</guid>
       <description>Stakeholders who support the SwissRN form the Stakeholder Engagement Group with the goal of
- alignining SwissRN activity with the strategy and activity of the stakeholders allowing the exchange of ideas facilitating feedback on new stakeholder initiatives  Stakeholders    Institution Contact      Swiss National Science Foundation Contact    Swiss Academies Contact    Swiss Universities Contact    SFVO Contact    FOAG Contact    FOEN Contact    FORS Contact    SERI Contact    swissmedic Contact    Swiss Ethics Contact    Ethics committees for animal experimentation Contact !</description>
+ aligning SwissRN activity with the strategy and activity of the stakeholders allowing the exchange of ideas facilitating feedback on new stakeholder initiatives  Stakeholders    Institution Contact      Swiss National Science Foundation Contact    Swiss Academies Contact    Swiss Universities Contact    SFVO Contact    FOAG Contact    FOEN Contact    FORS Contact    SERI Contact    swissmedic Contact    Swiss Ethics Contact    Ethics committees for animal experimentation Contact !</description>
     </item>
     
     <item>
@@ -139,15 +139,6 @@ pectora summo.&lt;/p&gt;</description>
       
       <guid>https://crsuzh.github.io/SwissRN/blog/emoji-support/</guid>
       <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>https://crsuzh.github.io/SwissRN/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://crsuzh.github.io/SwissRN/contact/</guid>
-      <description></description>
     </item>
     
   </channel>
