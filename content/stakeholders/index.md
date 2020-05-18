@@ -5,7 +5,7 @@ date = "2020-04-21"
 
 Stakeholders who support the SwissRN form the Stakeholder Engagement Group with the goal of
 
-* alignining SwissRN activity with the strategy and activity of the stakeholders 
+* aligning SwissRN activity with the strategy and activity of the stakeholders 
 * allowing the exchange of ideas
 * facilitating feedback on new stakeholder initiatives
 
@@ -28,6 +28,6 @@ Institution|   Contact   |  |
 [Swiss Clinical Trial Organisation](https://www.scto.ch/de/news.html)| Contact | ![alt text](./../img/stakeholder_scto.png "Logo Title Text 1")  |
 
 ## How to join
-Potential stakeholders include funders (both governmental and charity) and non-profit organizations that are part of the academic environment, e.g., swissethics, 3RCC, SCTO etc. To become a member of the Stakeholder Engagement Group an organization has to provide direct financial support or support in kind to SwissRN and is required to agree to our mission and values.
+Potential stakeholders include funders (both governmental and charity) and non-profit organizations that are part of the academic environment. To become a member of the Stakeholder Engagement Group an organization has to provide direct financial support or support in kind to SwissRN and is required to agree to our mission and values.
 
-If you would like to become a supporter of the Swiss Reproducibility Network, please send us an email to [Simon Schwab](mailto:simon.schwab@uzh.ch) with subject "Subject".
+If you would like to become a supporter of the Swiss Reproducibility Network, please send an email to [Eva Furrer](mailto:eva.furrer@uzh.ch).
