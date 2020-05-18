@@ -128,7 +128,7 @@ disableLanguages        = ["fr", "pl", "pt", "de", "es", "zh-cn", "zh-tw", "ja"]
     name              = "Organisation"
     identifier        = "organisation"
     url               = "./organisation/"
-    pre               = "<i class='far fa-users'></i>"
+    pre               = "<i class='fa fa-users'></i>"
     weight            = 6
 
   [[menu.main]]
@@ -142,7 +142,7 @@ disableLanguages        = ["fr", "pl", "pt", "de", "es", "zh-cn", "zh-tw", "ja"]
       name              = "Nodes"
       identifier        = "Nodes"
       url               = "./nodes/"
-      pre               = "<i class='far fa-sitemap'></i>"
+      pre               = "<i class='fa fa-sitemap'></i>"
       weight            = 2
 
   # [[menu.main]]

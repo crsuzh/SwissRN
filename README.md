@@ -75,3 +75,6 @@ Nun ist die Webseite publiziert und kann unter https://crsuzh.github.io/SwissRN/
 
 ## Icons
 Eine Auswahl von Icons für die Menus sind unter folgendem Link zu finden und können in`config.toml`angepasst werden.  https://github.com/FortAwesome/Font-Awesome/tree/master/svgs.
+
+## Anpassen des Theme
+Die Frontseite zeigt nicht den Blog "Activites" an sondern eine statische Seite. Dies wird erreicht durch Überschreiben der Dateien in `themes/hugo-future-imperfect-slim/layouts/_default/` mit entsprechenden Dateien unter `layouts/_default/`.
