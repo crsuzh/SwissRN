@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="{{ .Page.Language | default "en" }}">
+  {{ partial "head" . }}
+  <body>
+    {{ partial "site-header" . }}
+    <div id="wrapper">
+      {{ partial "site-intro" . }}
+      <main id="site-main">
+        <!-- Disable blog on front page by Simon
+        {{ $paginator := .Paginate (where site.RegularPages "Type" "in" site.Params.mainSections) }}
+        {{ range $paginator.Pages }}
+          {{ .Render "content-list" }}
+        {{ end }}
+        {{ partial "pagination" . }}
+        -->
+
+        <!-- start new front page by Simon -->
+        <article class="post">
+          <header>
+            <div class="title">
+              <h2>SwissRN</h2>
+              <p>Swiss Reproducibility Network</p>
+            </div>
+          </header>
+
+          <!-- Optional picture
+          <a href="/SwissRN/blog/focusareacommunication/" class="image featured">
+              <img src="/SwissRN/img/activities_communication.png" alt="">
+          </a>
+          -->
+
+          <p>
+          The Swiss Reproducibility Network (SwissRN) is a peer-led consortium that aims to promote and ensure rigorous research practices in Switzerland by
+          </p>
+
+          <ul>
+            <li>establishing appropriate training activities,</li>
+            <li>designing and evaluating research improvement efforts,</li>
+            <li>disseminating best practice,</li>
+            <li>working with stakeholders to ensure coordination of efforts across the sector.</li>
+          </ul>
+          SwissRN is currently led by Leonhard Held (University of Zurich), Evie Vergauwe (University of Geneva) and Hanno W&uuml;rbel (University of Bern).
+
+          Poor research reproducibility and replicability affects all empirical disciplines, hence SwissRN aims for broad disciplinary representation and an intensive interdisciplinary dialogue.
+          </p>
+
+        </article>
+        <!-- end new front page by Simon -->
+
+      </main>
+      {{ partial "site-sidebar" . }}
+      {{ partial "site-footer" . }}
+      {{ partial "scripts" . }}
+    </div>
+  </body>
+</html>
