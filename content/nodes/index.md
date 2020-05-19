@@ -1,36 +1,30 @@
 +++
 title = "Nodes"
-date = "2020-04-21"
+date = "2020-05-19"
 +++
 
-Local Nodes of the SwissRN build the backbone of the network by initiating and coordinating activities at universities and other research institutions. Activities of local nodes are manifold, e.g. 
+Local Nodes of the SwissRN build the backbone of the network by initiating and coordinating activities at universities and other research institutions. Activities of local nodes are manifold, e.g.
 
-* open research working groups, 
-* ReproducibiliTea journal clubs, 
-* organisation of training activities such as carpentries workshops, 
-* grant and ethics peer review groups etc. 
+* open research working groups,
+* ReproducibiliTea journal clubs,
+* organisation of training activities such as carpentries workshops,
+* grant and ethics peer review groups etc.
 
 The organisation of local nodes differs from institution to institutions from a formalized administration to informal grassroot groups. SwissRN encourages to ensure that membership is open to academic and research staff (at all levels) and professional services staff. Each Local Node has a Local Network Leader providing the point of contact for SwissRN.
 
-Department | Institution |   Contact   |  |
+Institution |  Department |   Contact   |  |
 --------------|---|-------------|---|
-[LPSY ??? Laboratory of Psychophysics](https://www.epfl.ch/labs/lpsy/team/herzog/)  | [EPFL](https://www.epfl.ch/en/)| Prof. Michael Herzog | ![alt text](./../img/pic_herzog_new.jpg "Logo Title Text 1")  |
-[Department of Biosystems Science and Engineering](https://bsse.ethz.ch/department/people/detail-person.MTQ5NDE3.TGlzdC8yNjY5LDEwNjI4NTM0MDk=.html/) |  [ETHZ](https://ethz.ch/en.html)  | Prof. Dr. Niko Beerenwinkel  |   ![alt text](./../img/pic_beerenwinkel.jpg "Logo Title Text 1")  |
-[Psychologie](https://fernuni.ch/forschung/forschung-fakultaeten/psychologie/forschungsgruppe-nicolas-rothen/nicolas-rothen/)| [FernUni.ch](https://fernuni.ch)| Prof. Dr. Nicolas Rothen | ![alt text](./../img/pic_rothen.jpg "Logo Title Text 1")  |
-[Department of Environmental Sciences](https://duw.unibas.ch/en/persons/valentin-amrhein-2310/)| [University of Basel](https://duw.unibas.ch/en/home/)| Prof. Dr. Valentin Amrhein | ![alt text](./../img/pic_Valentin_Amrhein.jpeg "Logo Title Text 1")  |
-[Faculty of Business and Economics](https://wwz.unibas.ch/en/kleiber/)| [University of Basel](https://duw.unibas.ch/en/home/)|Prof. Dr. Christian Kleiber | ![alt text](./../img/pic_ChristianKleiber.jpg "Logo Title Text 1")  |
-[Institute of Social and Preventive Medicine (ISPM)](https://www.ispm.unibe.ch/about_us/staff/low_nicola/index_eng.html)| [University of Bern](https://www.unibe.ch/index_eng.html)|Prof. Dr. med., MSc FFPH Nicola Low | ![alt text](./../img/pic_LowNicola.jpg "Logo Title Text 1")  |
-[Department of Clinical Research and Veterinary Public Health (DCR-VPH)](https://www.dcr-vph.unibe.ch/ueber_uns/personen/prof_dr_wuerbel_hanno/index_ger.html)| [University of Bern](https://www.unibe.ch/index_eng.html)| Prof. Dr. Hanno W??rbel, Veterinary Science |![alt text](./../img/pic_HannoWuerbel.jpg)  |
-[Consumer Behavior (ISPM)](https://www.consumer.imu.unibe.ch/ueber_uns/team/pd_dr_schulte_mecklenbeck_michael/index_ger.html)| [University of Bern](https://www.unibe.ch/index_eng.html)|PD Dr. Michael Schulte-Mecklenbeck | ![alt text](./../img/pic_Schulte-Mecklenbeck.jpg "Logo Title Text 1")  |
-[Departement f??r Psychologie ](https://www3.unifr.ch/psycho/de/departement/mitarbeitende/dept/people/185474/78b81)| [University of Fribourg](https://www.unifr.ch/home/en.html)|Dr. Meike Ramon | ![alt text](./../img/pic_meikeramon.jpg "Logo Title Text 1")  |
-[Swiss Center for Affective Sciences ](https://www.unige.ch/cisa/members/cova-florian/)| [University of Geneva](https://www.unige.ch/cisa/members/cova-florian/)|Prof. Florian Cova | ![alt text](./../img/pic_floriancova.jpg "Logo Title Text 1")  |
-[Fondation Campus Biotech ](https://people.epfl.ch/michael.dayan)| [EPFL](https://www.epfl.ch/en/)|Micha??l J??r??my Pierre Dayan | ![alt text](./../img/pic_michaeldayan.svg "Logo Title Text 1")  |
-[Department of Ecology and Evolution ](https://www.unil.ch/dee/en/home/menuinst/people/group-leaders/prof-marc-robinson-rechavi.html)| [UNIL](https://www.unil.ch/index.html)| Prof. Marc Robinson | ![alt text](./../img/pic_marcrobinson.jpg "Logo Title Text 1")  |
-[Institute of Psychology and Education](https://www.unine.ch/tania.zittoun/home.html)| [unine](https://www.unine.ch/unine/home.html)| Prof. Tania Zittoun |![alt text](./../img/pic_taniazittoun.jpg)  |
-[Institut de Psychologie du Travail et des Organisations](https://www.unine.ch/ipto/home/collaborateurstrices/laurenzmeier.html)| [unine](https://www.unine.ch/unine/home.html) | Laurenz Meier |![alt text](./../img/pic_LaurenzMeier.png)  |
-[Center for Reproducible Science](https://www.ebpi.uzh.ch/en/aboutus/departments/biostatistics/teambiostats/held.html)| [UZH](https://www.uzh.ch/en.html) | Prof. Dr. Leonhard Held |![alt text](./../img/pic_held_leonhard.jpg)  |
-[Psychologisches Institut](https://www.psychologie.uzh.ch/de/bereiche/sob/sozpsy/Team1/jullrich.html)| [UZH](https://www.uzh.ch/en.html) | Prof. Dr. Johannes Ullrich |![alt text](./../img/pic_johannesullrich.jpg)  |
-[Gesundheit](https://www.zhaw.ch/de/ueber-uns/person/gerd/)| [ZHAW](https://www.zhaw.ch/de/hochschule/) |Prof. Dr. Andreas Gerber-Grote |![alt text](./../img/pic_andreasGerber-grote.jpg)  |
+[&Eacute;cole polytechnique fédérale de Lausanne (EPFL)](https://www.epfl.ch/en/) | Laboratory of Psychophysics (LPSY) | [Prof. Michael Herzog](https://www.epfl.ch/labs/lpsy/team/herzog/)| ![alt text](./../img/pic_herzog_new.jpg "Logo Title Text 1")  |
+[FernUni Schweiz](https://fernuni.ch)| Psychology | [Prof. Dr. Nicolas Rothen](https://fernuni.ch/forschung/forschung-fakultaeten/psychologie/forschungsgruppe-nicolas-rothen/nicolas-rothen/) | ![alt text](./../img/pic_rothen.jpg "Logo Title Text 1")  |
+[University of Basel](https://www.unibas.ch/en.html)| Department of Environmental Sciences| [Prof. Dr. Valentin Amrhein](https://duw.unibas.ch/en/persons/valentin-amrhein-2310/) | ![alt text](./../img/pic_Valentin_Amrhein.jpeg "Logo Title Text 1")  |
+[University of Bern](https://www.unibe.ch/index_eng.html)| Department of Clinical Research and Veterinary Public Health (DCR-VPH)| [Prof. Dr. Hanno W&uuml;rbel, Veterinary Science](https://www.dcr-vph.unibe.ch/ueber_uns/personen/prof_dr_wuerbel_hanno/index_ger.html) |![alt text](./../img/pic_HannoWuerbel.jpg)  |
+[University of Bern](https://www.unibe.ch/index_eng.html)| Consumer Behavior (ISPM) | [PD Dr. Michael Schulte-Mecklenbeck](https://www.consumer.imu.unibe.ch/ueber_uns/team/pd_dr_schulte_mecklenbeck_michael/index_ger.html) | ![alt text](./../img/pic_Schulte-Mecklenbeck.jpg "Logo Title Text 1")  |
+[University of Fribourg (UNIFR)](https://www.unifr.ch/home/en.html)| Department of Psychology | [Dr. Meike Ramon](https://www3.unifr.ch/psycho/de/departement/mitarbeitende/dept/people/185474/78b81) | ![alt text](./../img/pic_meikeramon.jpg "Logo Title Text 1")  |
+[University of Geneva (Unige)](https://unige.ch)| Faculty of Psychology and Science of Education | [Evie Vergauwe](https://neurocenter-unige.ch/research-groups/evie-vergauwe/) | ![alt text](./../img/pic_Evie_Vergauwe.jpeg "Logo Title Text 1")  |
+[&Eacute;cole polytechnique fédérale de Lausanne (EPFL)](https://www.epfl.ch/en/) | Fondation Campus Biotech | [Micha&euml;l J&eacute;r&eacute;my Pierre Dayan](https://people.epfl.ch/michael.dayan) | ![alt text](./../img/pic_michaeldayan.svg "Logo Title Text 1")  |
+[Universit&eacute; de Neuch&acirc;tel (unine)](https://www.unine.ch/unine/home.html)| Institut de Psychologie du Travail et des Organisations | [Laurenz Meier](https://www.unine.ch/ipto/home/collaborateurstrices/laurenzmeier.html) |![alt text](./../img/pic_LaurenzMeier.png)  |
+[University of Zurich (UZH)](https://www.uzh.ch/en.html)| Psychologisches Institut | [Prof. Dr. Johannes Ullrich](https://www.psychologie.uzh.ch/de/bereiche/sob/sozpsy/Team1/jullrich.html) |![alt text](./../img/pic_johannesullrich.jpg)  |
+[Zurich University of Applied Sciences (ZHAW)](https://www.zhaw.ch/en/university/)| School of Health Professions | [Prof. Dr. Andreas Gerber-Grote](https://www.zhaw.ch/de/ueber-uns/person/gerd/) |![alt text](./../img/pic_andreasGerber-grote.jpg)  |
 
 
 ## How to join
