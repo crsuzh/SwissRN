@@ -47,14 +47,8 @@ Institutions    Institution  Contact     University of Zurich (UZH)  NN   Univer
       <pubDate>Sun, 17 May 2020 00:00:00 +0000</pubDate>
       
       <guid>https://crsuzh.github.io/SwissRN/blog/focusareacommunication/</guid>
-      <description>&lt;p&gt;One of the SwissRN Focus Areas is communication:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Dissemination of new evidence&lt;/li&gt;
-&lt;li&gt;Propagation of best practices&lt;/li&gt;
-&lt;li&gt;Promotion of a culture change&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
+      <description>One of the SwissRN Focus Areas is communication:
+ Dissemination of new evidence Propagation of best practices Promotion of a culture change   What we offer  Publications Whitepapers Guidelines  </description>
     </item>
     
     <item>
@@ -63,15 +57,8 @@ Institutions    Institution  Contact     University of Zurich (UZH)  NN   Univer
       <pubDate>Sun, 17 May 2020 00:00:00 +0000</pubDate>
       
       <guid>https://crsuzh.github.io/SwissRN/blog/focusareaeducation/</guid>
-      <description>&lt;p&gt;One of the SwissRN Focus Areas is education:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;courses to early career researchers,&lt;/li&gt;
-&lt;li&gt;conception of basic Good Research Practice training modules for Bachelor and Master students,&lt;/li&gt;
-&lt;li&gt;preparation of online materials;&lt;/li&gt;
-&lt;li&gt;coordination of virtual seminars and journals clubs&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+      <description>One of the SwissRN Focus Areas is education:
+ courses to early career researchers, conception of basic Good Research Practice training modules for Bachelor and Master students, preparation of online materials; coordination of virtual seminars and journals clubs   What we offer  Teaching/training matls ReproTeas CH-wide Workshops Seminars  </description>
     </item>
     
     <item>
@@ -80,14 +67,9 @@ Institutions    Institution  Contact     University of Zurich (UZH)  NN   Univer
       <pubDate>Sun, 17 May 2020 00:00:00 +0000</pubDate>
       
       <guid>https://crsuzh.github.io/SwissRN/blog/focusareatransformation/</guid>
-      <description>&lt;p&gt;One of the SwissRN Focus Areas is transformation:&lt;/p&gt;
-&lt;h2 id=&#34;research-improvement-measures-and-related-policies-will-be-designed-and-evaluated-in-collaboration-with-stakeholders-swissrn-offers-the-leverage-of-a-nationwide-network-with-close-connection-to-key-players-together-we-aim-to-order-to-influence-policy-and-policy-makers-towards-the-improvement-of-the-quality-and-robustness-of-research-by-reforming-culture-and-practice&#34;&gt;Research improvement measures and related policies will be designed and evaluated in collaboration with stakeholders. SwissRN offers the leverage of a nationwide network with close connection to key players. Together we aim to order to influence policy and policy makers towards the improvement of the quality and robustness of research by reforming culture and practice.&lt;/h2&gt;
-&lt;h4 id=&#34;what-we-offer&#34;&gt;What we offer&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;Research projects&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Lorem est tota propiore conpellat pectoribus de
-pectora summo.&lt;/p&gt;</description>
+      <description>One of the SwissRN Focus Areas is transformation:
+Research improvement measures and related policies will be designed and evaluated in collaboration with stakeholders. SwissRN offers the leverage of a nationwide network with close connection to key players. Together we aim to order to influence policy and policy makers towards the improvement of the quality and robustness of research by reforming culture and practice.
+ What we offer  Research projects  </description>
     </item>
     
     <item>
@@ -98,47 +80,6 @@ pectora summo.&lt;/p&gt;</description>
       <guid>https://crsuzh.github.io/SwissRN/organisation/</guid>
       <description>The Swiss Reproducibility Network (SwissRN) is a peer-led consortium that aims to promote and ensure rigorous research practices in Switzerland by establishing appropriate training activities, designing and evaluating research improvement efforts, disseminating best practice, and working with stakeholders to ensure coordination of efforts across the sector. SwissRN’s activities span multiple levels, including researchers, institutions and other stakeholders (e.g., funders and public authorities).
 Steering Committee The steering committee consists of three to four persons (currently Leonhard Held, Evie Vergauwe, Hanno Würbel) and is responsible for the overall coordination of SwissRN activity and strategy.</description>
-    </item>
-    
-    <item>
-      <title>Education</title>
-      <link>https://crsuzh.github.io/SwissRN/blog/markdown-syntax/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://crsuzh.github.io/SwissRN/blog/markdown-syntax/</guid>
-      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Communication</title>
-      <link>https://crsuzh.github.io/SwissRN/blog/rich-content/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://crsuzh.github.io/SwissRN/blog/rich-content/</guid>
-      <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Transformation</title>
-      <link>https://crsuzh.github.io/SwissRN/blog/placeholder-text/</link>
-      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://crsuzh.github.io/SwissRN/blog/placeholder-text/</guid>
-      <description>&lt;h4 id=&#34;what-we-offer&#34;&gt;What we offer&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;Research projects&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Lorem est tota propiore conpellat pectoribus de
-pectora summo.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Emoji Support</title>
-      <link>https://crsuzh.github.io/SwissRN/blog/emoji-support/</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://crsuzh.github.io/SwissRN/blog/emoji-support/</guid>
-      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
     </item>
     
     <item>
