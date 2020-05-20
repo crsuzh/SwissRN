@@ -6,7 +6,7 @@
     <description>Recent content in Categories on SwissRN</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 17 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://crsuzh.github.io/SwissRN/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,9 +14,45 @@
     <item>
       <title>Communication</title>
       <link>https://crsuzh.github.io/SwissRN/categories/communication/</link>
-      <pubDate>Sun, 17 May 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
       
       <guid>https://crsuzh.github.io/SwissRN/categories/communication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Organisation</title>
+      <link>https://crsuzh.github.io/SwissRN/categories/organisation/</link>
+      <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://crsuzh.github.io/SwissRN/categories/organisation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Institutions</title>
+      <link>https://crsuzh.github.io/SwissRN/categories/institutions/</link>
+      <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://crsuzh.github.io/SwissRN/categories/institutions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Local Nodes</title>
+      <link>https://crsuzh.github.io/SwissRN/categories/local-nodes/</link>
+      <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://crsuzh.github.io/SwissRN/categories/local-nodes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stakeholders</title>
+      <link>https://crsuzh.github.io/SwissRN/categories/stakeholders/</link>
+      <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://crsuzh.github.io/SwissRN/categories/stakeholders/</guid>
       <description></description>
     </item>
     

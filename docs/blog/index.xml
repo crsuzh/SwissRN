@@ -6,10 +6,23 @@
     <description>Recent content in Blog on SwissRN</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 17 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://crsuzh.github.io/SwissRN/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Reproducibility Notes</title>
+      <link>https://crsuzh.github.io/SwissRN/blog/reproducibilitynotes/</link>
+      <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://crsuzh.github.io/SwissRN/blog/reproducibilitynotes/</guid>
+      <description>The Center for Reproducible Science (CRS) at the University of Zurich publishes a column on Reproducibility in the british-american magazine Significance:
+January 2020
+April 2020
+Special on COVID-19
+ </description>
+    </item>
     
     <item>
       <title>Communication</title>
@@ -28,7 +41,7 @@
       
       <guid>https://crsuzh.github.io/SwissRN/blog/focusareaeducation/</guid>
       <description>One of the SwissRN Focus Areas is education:
- courses to early career researchers, conception of basic Good Research Practice training modules for Bachelor and Master students, preparation of online materials; coordination of virtual seminars and journals clubs   What we offer  Teaching/training matls ReproTeas CH-wide Workshops Seminars  </description>
+ courses to early career researchers, conception of basic Good Research Practice training modules for Bachelor and Master students, preparation of online materials; coordination of virtual seminars and journals clubs   What we offer  Teaching/training materials ReproducibiliTeas CH-wide Workshops Seminars  </description>
     </item>
     
     <item>
@@ -38,8 +51,8 @@
       
       <guid>https://crsuzh.github.io/SwissRN/blog/focusareatransformation/</guid>
       <description>One of the SwissRN Focus Areas is transformation:
-Research improvement measures and related policies will be designed and evaluated in collaboration with stakeholders. SwissRN offers the leverage of a nationwide network with close connection to key players. Together we aim to order to influence policy and policy makers towards the improvement of the quality and robustness of research by reforming culture and practice.
- What we offer  Research projects  </description>
+Research improvement measures and related policies will be designed and evaluated in collaboration with stakeholders. Together we aim to order to influence policy and policy makers towards the improvement of the quality and robustness of research by reforming culture and practice.
+ What we offer  Network to intiate collaboration projects Leverage of a nationwide network with close connection to key players  </description>
     </item>
     
   </channel>

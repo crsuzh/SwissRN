@@ -1,6 +1,9 @@
 +++
 title = "Stakeholders"
 date = "2020-05-19"
+tags = ["Stakeholders", "Organisation"]
+categories = ["Stakeholders","Organisation"]
+
 +++
 
 Stakeholders who support the SwissRN form the Stakeholder Engagement Group with the goal of

@@ -18,7 +18,7 @@ One of the SwissRN Focus Areas is education:
 
 #### What we offer
 
-* Teaching/training matls
-* ReproTeas CH-wide
+* Teaching/training materials
+* ReproducibiliTeas CH-wide
 * Workshops
 * Seminars

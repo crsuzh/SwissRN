@@ -1,62 +1,33 @@
 +++
 title = "Organisation"
-date = "2020-04-21"
+date = "2020-05-20"
+tags = ["Steering Committee", "Organisation"]
+categories = ["Organisation"]
 +++
 
-The Swiss Reproducibility Network (SwissRN) is a peer-led consortium that aims to promote and ensure rigorous research practices in Switzerland by establishing appropriate training activities, designing and evaluating research improvement efforts, disseminating best practice, and working with stakeholders to ensure coordination of efforts across the sector. SwissRN’s activities span multiple levels, including researchers, institutions and other stakeholders (e.g., funders and public authorities).
-
 ## Steering Committee
-The steering committee consists of three to four persons (currently Leonhard Held, Evie Vergauwe, Hanno Würbel) and is responsible for the overall coordination of SwissRN activity and strategy. It is supported by a part-time administrator, the SwissRN coordinator.
+The steering committee is responsible for the overall coordination of SwissRN activity and strategy.
 
 Institution | Department |   Contact   |  |
 --------------|---|-------------|---|
-[University of Zurich (UZH)](https://www.uzh.ch/en.html)| Center for Reproducible Science | [Prof. Dr. Leonhard Held](https://www.ebpi.uzh.ch/en/aboutus/departments/biostatistics/teambiostats/held.html) |![alt text](./../img/pic_held_leonhard.jpg)  |
-[University of Geneva (Unige)](https://unige.ch)| Faculty of Psychology and Science of Education | [Evie Vergauwe](https://neurocenter-unige.ch/research-groups/evie-vergauwe/) | ![alt text](./../img/pic_Evie_Vergauwe.jpeg "Logo Title Text 1")  |
-[University of Bern](https://www.unibe.ch/index_eng.html)| Department of Clinical Research and Veterinary Public Health (DCR-VPH)| [Prof. Dr. Hanno W&uuml;rbel, Veterinary Science](https://www.dcr-vph.unibe.ch/ueber_uns/personen/prof_dr_wuerbel_hanno/index_ger.html) |![alt text](./../img/pic_HannoWuerbel.jpg)  |
+[University of Zurich (UZH)](https://www.uzh.ch/en.html)| Center for Reproducible Science | [Prof. Dr. Leonhard Held](https://www.ebpi.uzh.ch/en/aboutus/departments/biostatistics/teambiostats/held.html) |![Leonhard Held](./../img/pic_held_leonhard.jpg)  |
+[University of Geneva (Unige)](https://unige.ch)| Faculty of Psychology and Science of Education | [Evie Vergauwe](https://neurocenter-unige.ch/research-groups/evie-vergauwe/) | ![Evie Vergauwe](./../img/pic_Evie_Vergauwe.jpeg "Logo Title Text 1")  |
+[University of Bern](https://www.unibe.ch/index_eng.html)| Department of Clinical Research and Veterinary Public Health (DCR-VPH)| [Prof. Dr. Hanno W&uuml;rbel, Veterinary Science](https://www.dcr-vph.unibe.ch/ueber_uns/personen/prof_dr_wuerbel_hanno/index_ger.html) |![Hanno W&uuml;rbel](./../img/pic_HannoWuerbel.jpg)  |
 
 ## Advisory Board
-The Steering Group is advised by an external Advisory Board comprising (senior) academics from the international research community with expertise related to the goals of the network. Members of the Advisory Board are asked to serve a three-year term in the first instance, with the option to renew this for a further three years at the end of this term.
+An external Advisory Board comprising academics from the international research community with expertise related to the goals of the network supports the steering committee regarding strategy and direction. 
 
-Department | Institution|   Contact   |  |
+Institution| Department | Contact |  |
 --------------|---|-------------|---|
-[School of Psychological Science](http://www.bristol.ac.uk/expsych/people/marcus-r-munafo/)| [University of Bristol](https://www.bristol.ac.uk) | Prof. Marcus Munafo |![alt text](./../img/orga_Munafo.jpg)  |
-[Department](https://www.ebpi.uzh.ch/en/aboutus/departments/biostatistics/teambiostats/held.html)| [Institution](https://www.uzh.ch/en.html) | Contact |![alt text](./../img/pic_duck.png)  |
-[Department](https://www.ebpi.uzh.ch/en/aboutus/departments/biostatistics/teambiostats/held.html)| [Institution](https://www.uzh.ch/en.html) | Contact |![alt text](./../img/pic_duck.png)  |
-[Department](https://www.ebpi.uzh.ch/en/aboutus/departments/biostatistics/teambiostats/held.html)| [Institution](https://www.uzh.ch/en.html) | Contact |![alt text](./../img/pic_duck.png)  |
+[University of Bristol](https://www.bristol.ac.uk)| School of Psychological Science | [Prof. Marcus Munafo](http://www.bristol.ac.uk/expsych/people/marcus-r-munafo/) |![Marcus Munafo](./../img/pic_MarcusMunafo.jpg)  |
+NN | NN | NN |![no picture](./../img/pic_NoPickDuck.png)  |
+NN | NN | NN |![no picture](./../img/pic_NoPickDuck.png)  |
 
 ## SwissRN coordinator
-The Steering Group is advised by an external Advisory Board comprising (senior) academics from the international research community with expertise related to the goals of the network. Members of the Advisory Board are asked to serve a three-year term in the first instance, with the option to renew this for a further three years at the end of this term.
 
-Department | Institution|   Contact   |  |
---------------|---|-------------|---|
-[Department](https://www.ebpi.uzh.ch/en/aboutus/departments/biostatistics/teambiostats/held.html)| [Institution](https://www.uzh.ch/en.html) | Eva Furrer |![alt text](./../img/orga_furrer_eva.jpg)  |
+Institution|   Contact   |  
+--------------|---|-------------|
+[University of Zurich](https://www.uzh.ch/en.html) | [Eva Furrer](https://www.ebpi.uzh.ch/en/aboutus/departments/biostatistics/teambiostats/furrer.html) |![Eva Furrer](./../img/pic_EvaFurrer.jpg)  |
 
 ## Contact
-We expect that institutions seeking membership of SwissRN will want to develop capacity to deliver a research improvement strategy, and to work with SwissRN to develop a strategy for ensuring the sustainability of the Network in the medium- and long-term, and to build a community of institutions focused on research improvement.
-
-If you would like to become a supporter of the Swiss Reproducibility Network, please send us an email to [Eva Furrer](mailto:eva.furrer@uzh.ch) with subject "Subject".
-
-## Subscribe to our Newsletter
-
-
-It makes use of a variety of open source projects including:
-
-* [Cobra](https://github.com/spf13/cobra)
-* [Viper](https://github.com/spf13/viper)
-* [J Walter Weatherman](https://github.com/spf13/jWalterWeatherman)
-* [Cast](https://github.com/spf13/cast)
-
-Learn more and contribute on [GitHub](https://github.com/spf13).
-
-## Setup
-
-Some fun facts about [Hugo](http://gohugo.io/):
-
-* Built in [Go](http://golang.org/)
-* Loosely inspired by [Jekyll](http://jekyllrb.com/)
-* Primarily developed by [spf13](http://spf13.com/) on the train while commuting to and from Manhattan.
-* Coded in [Vim](http://vim.org) using [spf13-vim](http://vim.spf13.com/)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/spf13/hugo/issues/new) or [ask me on Twitter](https://twitter.com/spf13).
-
-Thanks for reading!
+The primary contact point for SwissRN is currently Eva Furrer, please send an email to [Eva Furrer](mailto:eva.furrer@uzh.ch) for more information.
