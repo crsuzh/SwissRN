@@ -1,4 +1,5 @@
-baseurl                 = "https://crsuzh.github.io/SwissRN/"
+baseurl                 = "http://www.swissrn.org/"
+# baseurl                 = "https://crsuzh.github.io/SwissRN/"
 DefaultContentLanguage  = "en"
 publishDir              = "docs"
 title                   = "SwissRN"

@@ -2,111 +2,111 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on SwissRN</title>
-    <link>https://crsuzh.github.io/SwissRN/tags/</link>
+    <link>http://www.swissrn.org/tags/</link>
     <description>Recent content in Tags on SwissRN</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Wed, 20 May 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://crsuzh.github.io/SwissRN/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.swissrn.org/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Activities</title>
-      <link>https://crsuzh.github.io/SwissRN/tags/activities/</link>
+      <link>http://www.swissrn.org/tags/activities/</link>
       <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://crsuzh.github.io/SwissRN/tags/activities/</guid>
+      <guid>http://www.swissrn.org/tags/activities/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Communication</title>
-      <link>https://crsuzh.github.io/SwissRN/tags/communication/</link>
+      <link>http://www.swissrn.org/tags/communication/</link>
       <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://crsuzh.github.io/SwissRN/tags/communication/</guid>
+      <guid>http://www.swissrn.org/tags/communication/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Organisation</title>
-      <link>https://crsuzh.github.io/SwissRN/tags/organisation/</link>
+      <link>http://www.swissrn.org/tags/organisation/</link>
       <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://crsuzh.github.io/SwissRN/tags/organisation/</guid>
+      <guid>http://www.swissrn.org/tags/organisation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Publication</title>
-      <link>https://crsuzh.github.io/SwissRN/tags/publication/</link>
+      <link>http://www.swissrn.org/tags/publication/</link>
       <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://crsuzh.github.io/SwissRN/tags/publication/</guid>
+      <guid>http://www.swissrn.org/tags/publication/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reproducibility Notes</title>
-      <link>https://crsuzh.github.io/SwissRN/tags/reproducibility-notes/</link>
+      <link>http://www.swissrn.org/tags/reproducibility-notes/</link>
       <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://crsuzh.github.io/SwissRN/tags/reproducibility-notes/</guid>
+      <guid>http://www.swissrn.org/tags/reproducibility-notes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Steering Committee</title>
-      <link>https://crsuzh.github.io/SwissRN/tags/steering-committee/</link>
+      <link>http://www.swissrn.org/tags/steering-committee/</link>
       <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://crsuzh.github.io/SwissRN/tags/steering-committee/</guid>
+      <guid>http://www.swissrn.org/tags/steering-committee/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Institutions</title>
-      <link>https://crsuzh.github.io/SwissRN/tags/institutions/</link>
+      <link>http://www.swissrn.org/tags/institutions/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://crsuzh.github.io/SwissRN/tags/institutions/</guid>
+      <guid>http://www.swissrn.org/tags/institutions/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Local Nodes</title>
-      <link>https://crsuzh.github.io/SwissRN/tags/local-nodes/</link>
+      <link>http://www.swissrn.org/tags/local-nodes/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://crsuzh.github.io/SwissRN/tags/local-nodes/</guid>
+      <guid>http://www.swissrn.org/tags/local-nodes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Stakeholders</title>
-      <link>https://crsuzh.github.io/SwissRN/tags/stakeholders/</link>
+      <link>http://www.swissrn.org/tags/stakeholders/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://crsuzh.github.io/SwissRN/tags/stakeholders/</guid>
+      <guid>http://www.swissrn.org/tags/stakeholders/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Education</title>
-      <link>https://crsuzh.github.io/SwissRN/tags/education/</link>
+      <link>http://www.swissrn.org/tags/education/</link>
       <pubDate>Sun, 17 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://crsuzh.github.io/SwissRN/tags/education/</guid>
+      <guid>http://www.swissrn.org/tags/education/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Transformation</title>
-      <link>https://crsuzh.github.io/SwissRN/tags/transformation/</link>
+      <link>http://www.swissrn.org/tags/transformation/</link>
       <pubDate>Sun, 17 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://crsuzh.github.io/SwissRN/tags/transformation/</guid>
+      <guid>http://www.swissrn.org/tags/transformation/</guid>
       <description></description>
     </item>
     

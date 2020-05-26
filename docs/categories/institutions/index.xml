@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Institutions on SwissRN</title>
-    <link>https://crsuzh.github.io/SwissRN/categories/institutions/</link>
+    <link>http://www.swissrn.org/categories/institutions/</link>
     <description>Recent content in Institutions on SwissRN</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 19 May 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://crsuzh.github.io/SwissRN/categories/institutions/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.swissrn.org/categories/institutions/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Institutions</title>
-      <link>https://crsuzh.github.io/SwissRN/institutions/</link>
+      <link>http://www.swissrn.org/institutions/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://crsuzh.github.io/SwissRN/institutions/</guid>
+      <guid>http://www.swissrn.org/institutions/</guid>
       <description>Member institutions of the SwissRN have formally committed to support the aims of SwissRN and have started their implementation at the institution.
    Institution  Contact     University of Zurich (UZH)  NN   University of Geneva (unige)  NN    How to join We expect that institutions seeking membership of SwissRN will want to develop capacity to deliver a research improvement strategy, and to work with SwissRN to develop a strategy for ensuring the sustainability of SwissRN in the medium- and long-term, and to build a community of institutions focused on research improvement.</description>
     </item>
