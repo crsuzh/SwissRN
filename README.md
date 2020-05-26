@@ -1,5 +1,5 @@
 # SwissRN
-Swiss Reproducibility Network (SwissRN). Live Seite unter https://crsuzh.github.io/SwissRN/.
+Swiss Reproducibility Network (SwissRN). Live Seite unter http://www.swissrn.org/.
 
 ## HOWTO
 
@@ -34,13 +34,14 @@ cd SwissRN
 hugo server
 ```
 
-Die Seite läuft nun lokal unter http://localhost:1313/SwissRN/. In der Regel kann die Seite am laufen bleiben, und man muss nur den Browser aktualisieren um Änderungen zu sehen. Um den lokalen Webserver abzubrechen `CTRL+C`.
+Die Seite läuft nun lokal unter http://localhost:1313/. In der Regel kann die Seite am laufen bleiben, und man muss nur den Browser aktualisieren um Änderungen zu sehen. Um den lokalen Webserver abzubrechen `CTRL+C`.
 
 ## Bilder
 
 Bilder sind im Ordner `content/img`. Beispiele für korrekte Pfade sind folgende:
 - Für `config.toml` lautet der Pfad `./img/logo.jpg`.
 - Für die Unterseiten in `content` lautet der Pfad `./../img/bild.jpg`
+- Bilder für Activities sind 900x150 pixel.
 
 ## Webseite publizieren
 
@@ -70,7 +71,7 @@ git push
 git rm Pfad zur Datei
 ```
 
-Nun ist die Webseite publiziert und kann unter https://crsuzh.github.io/SwissRN/ angeschaut werden. Es kann einige wenige Minuten dauern, bis die neue Version angezeigt wird.
+Nun ist die Webseite publiziert und kann unter http://www.swissrn.org/ angeschaut werden. Es kann einige wenige Minuten dauern, bis die neue Version angezeigt wird.
 
 
 ## Icons
