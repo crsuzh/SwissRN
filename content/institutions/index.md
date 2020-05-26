@@ -8,7 +8,6 @@ categories = ["Institutions","Organisation"]
 
 Member institutions of the SwissRN have formally committed to support the aims of SwissRN and have started their implementation at the institution.
 
-## Institutions
 
 Institution |  | Contact
 --------|------ |------

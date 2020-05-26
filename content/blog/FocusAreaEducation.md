@@ -5,7 +5,7 @@ date = "2020-05-17"
 description = "SwissRN Focus Area Education"
 tags = ["Education", "Activities"]
 categories = ["Education"]
-images  = ["./img/activities_Schulzimmer.jpg"]
+images  = ["./img/activities_M3.jpeg"]
 +++
 
 One of the SwissRN Focus Areas is education:

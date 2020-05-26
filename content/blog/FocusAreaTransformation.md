@@ -5,7 +5,7 @@ date = "2020-05-17"
 description = "SwissRN Focus Area Transformation"
 tags = ["Transformation","Activities"]
 categories = ["Transformation"]
-images  = ["./img/activities_transformation.jpg"]
+images  = ["./img/activities_M2.jpeg"]
 +++
 
 One of the SwissRN Focus Areas is transformation:
@@ -18,4 +18,3 @@ Research improvement measures and related policies will be designed and evaluate
 
 * Network to intiate collaboration projects
 * Leverage of a nationwide network with close connection to key players
-
