@@ -1,7 +1,7 @@
 +++
 title = "Organisation"
 date = "2020-05-20"
-tags = ["Steering Committee", "Org"]
+tags = ["Org"]
 categories = ["Org"]
 +++
 
