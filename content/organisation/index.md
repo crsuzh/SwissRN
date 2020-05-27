@@ -1,8 +1,8 @@
 +++
 title = "Organisation"
 date = "2020-05-20"
-tags = ["Steering Committee", "Organisation"]
-categories = ["Organisation"]
+tags = ["Steering Committee", "Org"]
+categories = ["Org"]
 +++
 
 ## Steering Committee
@@ -15,7 +15,7 @@ Institution | Department |   Contact   |  |
 [University of Bern](https://www.unibe.ch/index_eng.html)| Department of Clinical Research and Veterinary Public Health (DCR-VPH)| [Prof. Dr. Hanno W&uuml;rbel, Veterinary Science](https://www.dcr-vph.unibe.ch/ueber_uns/personen/prof_dr_wuerbel_hanno/index_ger.html) |![Hanno W&uuml;rbel](./../img/pic_HannoWuerbel.jpg)  |
 
 ## Advisory Board
-An external Advisory Board comprising academics from the international research community with expertise related to the goals of the network supports the steering committee regarding strategy and direction. 
+An external Advisory Board comprising academics from the international research community with expertise related to the goals of the network supports the steering committee regarding strategy and direction.
 
 Institution| Department | Contact |  |
 --------------|---|-------------|---|

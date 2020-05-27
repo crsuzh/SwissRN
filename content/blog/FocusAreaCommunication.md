@@ -4,8 +4,8 @@ title = "Communication"
 date = "2020-05-17"
 description = "SwissRN Focus Area Communication"
 images  = ["./img/activities_communication.jpg"]
-tags = ["Communication","Activities"]
-categories = ["Communication"]
+tags = ["Comm","Activities"]
+categories = ["Comm"]
 +++
 
 One of the SwissRN Focus Areas is communication:

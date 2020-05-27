@@ -4,7 +4,7 @@ title = "Reproducibility Notes"
 date = "2020-05-20"
 description = "SwissRN Focus Area Communication"
 images  = ["./img/activities_repronotes.jpg"]
-tags = ["Communication","Activities", "Reproducibility Notes", "Publication"]
+tags = ["Comm","Activities", "Rep Notes", "Publication"]
 categories = ["Communication"]
 +++
 

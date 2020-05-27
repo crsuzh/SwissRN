@@ -12,6 +12,15 @@
     
     
     <item>
+      <title>Comm</title>
+      <link>http://www.swissrn.org/categories/comm/</link>
+      <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.swissrn.org/categories/comm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Communication</title>
       <link>http://www.swissrn.org/categories/communication/</link>
       <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
@@ -21,20 +30,20 @@
     </item>
     
     <item>
-      <title>Organisation</title>
-      <link>http://www.swissrn.org/categories/organisation/</link>
+      <title>Org</title>
+      <link>http://www.swissrn.org/categories/org/</link>
       <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://www.swissrn.org/categories/organisation/</guid>
+      <guid>http://www.swissrn.org/categories/org/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Institutions</title>
-      <link>http://www.swissrn.org/categories/institutions/</link>
+      <title>Inst</title>
+      <link>http://www.swissrn.org/categories/inst/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://www.swissrn.org/categories/institutions/</guid>
+      <guid>http://www.swissrn.org/categories/inst/</guid>
       <description></description>
     </item>
     
@@ -48,11 +57,11 @@
     </item>
     
     <item>
-      <title>Stakeholders</title>
-      <link>http://www.swissrn.org/categories/stakeholders/</link>
+      <title>Stakehold</title>
+      <link>http://www.swissrn.org/categories/stakehold/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://www.swissrn.org/categories/stakeholders/</guid>
+      <guid>http://www.swissrn.org/categories/stakehold/</guid>
       <description></description>
     </item>
     
@@ -66,11 +75,11 @@
     </item>
     
     <item>
-      <title>Transformation</title>
-      <link>http://www.swissrn.org/categories/transformation/</link>
+      <title>Transform</title>
+      <link>http://www.swissrn.org/categories/transform/</link>
       <pubDate>Sun, 17 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://www.swissrn.org/categories/transformation/</guid>
+      <guid>http://www.swissrn.org/categories/transform/</guid>
       <description></description>
     </item>
     

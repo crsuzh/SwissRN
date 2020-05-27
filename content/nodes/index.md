@@ -1,9 +1,8 @@
 +++
 title = "Nodes"
 date = "2020-05-19"
-tags = ["Local Nodes", "Organisation"]
-categories = ["Local Nodes", "Organisation"]
-
+tags = ["Local Nodes", "Org"]
+categories = ["Local Nodes", "Org"]
 +++
 
 Local Nodes of the SwissRN build the backbone of the network by initiating and coordinating activities at universities and other research institutions. Activities of local nodes are manifold, e.g.

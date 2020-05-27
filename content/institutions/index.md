@@ -1,8 +1,8 @@
 +++
 title = "Institutions"
 date = "2020-05-19"
-tags = ["Institutions", "Organisation"]
-categories = ["Institutions","Organisation"]
+tags = ["Inst", "Org"]
+categories = ["Inst","Org"]
 
 +++
 
