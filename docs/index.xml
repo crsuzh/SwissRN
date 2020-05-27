@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SwissRN</title>
+    <link>http://www.swissrn.org/</link>
+    <description>Recent content on SwissRN</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 20 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.swissrn.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Organisation</title>
+      <link>http://www.swissrn.org/organisation/</link>
+      <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.swissrn.org/organisation/</guid>
+      <description>Steering Committee The steering committee is responsible for the overall coordination of SwissRN activity and strategy.
+   Institution Department Contact      University of Zurich (UZH) Center for Reproducible Science Leonhard Held    University of Geneva (Unige) Faculty of Psychology and Science of Education Evie Vergauwe    University of Bern Department of Clinical Research and Veterinary Public Health (DCR-VPH) Hanno Würbel, Veterinary Science     Advisory Board An external Advisory Board comprising academics from the international research community with expertise related to the goals of the network supports the steering committee regarding strategy and direction.</description>
+    </item>
+    
+    <item>
+      <title>Reproducibility Notes</title>
+      <link>http://www.swissrn.org/blog/reproducibilitynotes/</link>
+      <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.swissrn.org/blog/reproducibilitynotes/</guid>
+      <description>The Center for Reproducible Science (CRS) at the University of Zurich publishes a column on Reproducibility in the british-american magazine Significance:
+January 2020
+April 2020
+Special on COVID-19
+ </description>
+    </item>
+    
+    <item>
+      <title>Institutions</title>
+      <link>http://www.swissrn.org/institutions/</link>
+      <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.swissrn.org/institutions/</guid>
+      <description>Member institutions of the SwissRN have formally committed to support the aims of SwissRN and have started their implementation at the institution.
+   Institution  Contact     University of Zurich (UZH)  NN   University of Geneva (unige)  NN    How to join We expect that institutions seeking membership of SwissRN will want to develop capacity to deliver a research improvement strategy, and to work with SwissRN to develop a strategy for ensuring the sustainability of SwissRN in the medium- and long-term, and to build a community of institutions focused on research improvement.</description>
+    </item>
+    
+    <item>
+      <title>Nodes</title>
+      <link>http://www.swissrn.org/nodes/</link>
+      <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.swissrn.org/nodes/</guid>
+      <description>Local Nodes of the SwissRN build the backbone of the network by initiating and coordinating activities at universities and other research institutions. Activities of local nodes are manifold, e.g.
+ open research working groups, ReproducibiliTea journal clubs, organisation of training activities such as carpentries workshops, grant and ethics peer review groups etc.  The organisation of local nodes differs from institution to institutions from a formalized administration to informal grassroot groups.</description>
+    </item>
+    
+    <item>
+      <title>Stakeholders</title>
+      <link>http://www.swissrn.org/stakeholders/</link>
+      <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.swissrn.org/stakeholders/</guid>
+      <description>Stakeholders who support the SwissRN form the Stakeholder Engagement Group with the goal of
+ aligning SwissRN activity with the strategy and activity of the stakeholders allowing the exchange of ideas facilitating feedback on new stakeholder initiatives     Institution  Contact     Swiss National Science Foundation  NN   Swiss Academies of Arts and Sciences  NN    How to join Potential stakeholders include funders (both governmental and charity) and non-profit organizations that are part of the academic environment.</description>
+    </item>
+    
+    <item>
+      <title>Communication</title>
+      <link>http://www.swissrn.org/blog/focusareacommunication/</link>
+      <pubDate>Sun, 17 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.swissrn.org/blog/focusareacommunication/</guid>
+      <description>One of the SwissRN Focus Areas is communication:
+ Dissemination of new evidence Propagation of best practices Promotion of a culture change   What we offer  Publications Whitepapers Guidelines  </description>
+    </item>
+    
+    <item>
+      <title>Education</title>
+      <link>http://www.swissrn.org/blog/focusareaeducation/</link>
+      <pubDate>Sun, 17 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.swissrn.org/blog/focusareaeducation/</guid>
+      <description>One of the SwissRN Focus Areas is education:
+ courses to early career researchers, conception of basic Good Research Practice training modules for Bachelor and Master students, preparation of online materials; coordination of virtual seminars and journals clubs   What we offer  Teaching/training materials ReproducibiliTeas CH-wide Workshops Seminars  </description>
+    </item>
+    
+    <item>
+      <title>Transformation</title>
+      <link>http://www.swissrn.org/blog/focusareatransformation/</link>
+      <pubDate>Sun, 17 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.swissrn.org/blog/focusareatransformation/</guid>
+      <description>One of the SwissRN Focus Areas is transformation:
+Research improvement measures and related policies will be designed and evaluated in collaboration with stakeholders. Together we aim to order to influence policy and policy makers towards the improvement of the quality and robustness of research by reforming culture and practice.
+ What we offer  Network to intiate collaboration projects Leverage of a nationwide network with close connection to key players  </description>
+    </item>
+    
+  </channel>
+</rss>

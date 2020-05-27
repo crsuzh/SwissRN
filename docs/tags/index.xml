@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on SwissRN</title>
+    <link>http://www.swissrn.org/tags/</link>
+    <description>Recent content in Tags on SwissRN</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 20 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.swissrn.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Activities</title>
+      <link>http://www.swissrn.org/tags/activities/</link>
+      <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.swissrn.org/tags/activities/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comm</title>
+      <link>http://www.swissrn.org/tags/comm/</link>
+      <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.swissrn.org/tags/comm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Org</title>
+      <link>http://www.swissrn.org/tags/org/</link>
+      <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.swissrn.org/tags/org/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publication</title>
+      <link>http://www.swissrn.org/tags/publication/</link>
+      <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.swissrn.org/tags/publication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rep Notes</title>
+      <link>http://www.swissrn.org/tags/rep-notes/</link>
+      <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.swissrn.org/tags/rep-notes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inst</title>
+      <link>http://www.swissrn.org/tags/inst/</link>
+      <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.swissrn.org/tags/inst/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Local Nodes</title>
+      <link>http://www.swissrn.org/tags/local-nodes/</link>
+      <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.swissrn.org/tags/local-nodes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stakehold</title>
+      <link>http://www.swissrn.org/tags/stakehold/</link>
+      <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.swissrn.org/tags/stakehold/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Education</title>
+      <link>http://www.swissrn.org/tags/education/</link>
+      <pubDate>Sun, 17 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.swissrn.org/tags/education/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transform</title>
+      <link>http://www.swissrn.org/tags/transform/</link>
+      <pubDate>Sun, 17 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.swissrn.org/tags/transform/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
