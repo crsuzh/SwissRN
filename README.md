@@ -45,7 +45,8 @@ Bilder sind im Ordner `content/img`. Beispiele für korrekte Pfade sind folgende
 
 ## Webseite publizieren
 
-- Als erstes muss die Webseite mit dem Befehl `hugo` gebaut werden. Die Webseite wird im Ordner `docs` erstellt. Um alles vor dem Bauen zu bereinigen, dürfen die beiden Ordner `docs` und `ressources` komplett gelöscht werden, denn diese werden beim Bauen immer neu erstellt.
+- Als erstes muss die Webseite mit dem Befehl `hugo` gebaut werden. Die Webseite wird im Ordner `docs` erstellt. Um alles vor dem Bauen zu bereinigen, dürfen die Files in den beiden Ordnern `docs` und `ressources` gelöscht werden, denn diese werden beim Bauen mit dem Befehl `hugo` jedesmal neu neu erstellt. Jedoch darf das File `docs/CNAME` nicht gelöscht werden, darin ist der DNS eintrag `www.swissrn.org` enthalten. Um dieses File wieder herzustellen, siehe unten.
+
 ```
 cd SwissRN
 hugo
@@ -79,3 +80,8 @@ Eine Auswahl von Icons für die Menus sind unter folgendem Link zu finden und k�
 
 ## Anpassen des Theme
 Die Frontseite zeigt nicht den Blog "Activites" an sondern eine statische Seite. Dies wird erreicht durch Überschreiben der Dateien in `themes/hugo-future-imperfect-slim/layouts/_default/` mit entsprechenden Dateien unter `layouts/_default/`.
+
+## Wie vorgehen falls das File `docs/CNAME` gelöscht wurde?
+Auf der Github Seite des Projektes `crsuzh/SwissRN` auf "Settings" gehen, dannach unter "GitHub Pages" bei "Custom domain" folgendes eintragen: `www.swissrn.org`. Dies erstellt ein neues File `docs/CNAME`. Mit `git pull` kann jetzt noch die lokale Kopie auf den neusten Stand gebracht werden.
+
+
