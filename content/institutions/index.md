@@ -12,7 +12,6 @@ Member institutions of the SwissRN have formally committed to support the aims o
 Institution |  | Contact
 --------|------ |------
 [University of Zurich (UZH)](https://www.uzh.ch/cmsssl/en.html) | ![alt text](./../img/logo_uzh.png "Logo Title Text 1") | NN |
-[University of Geneva (unige)](https://www.unige.ch) | ![alt text](./../img/logo_unige.png "Logo Title Text 1") | NN |
 
 
 ## How to join

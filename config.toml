@@ -64,7 +64,7 @@ disableLanguages        = ["fr", "pl", "pt", "de", "es", "zh-cn", "zh-tw", "ja"]
   # required for proper functionality. HTML is supported within the params.
   [params.intro]
     header                = "Swiss Reproducibility Network"
-    paragraph             = "To promote and ensure rigorous research practices in Switzerland."
+    paragraph             = "To promote rigorous research and robust results in Switzerland."
     rssIntro              = false
     socialIntro           = true
     # You may not want to display a long intro above content in the
