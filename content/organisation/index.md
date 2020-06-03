@@ -8,7 +8,7 @@ categories = ["Org"]
 ## Steering Committee
 The steering committee is responsible for the overall coordination of SwissRN activity and strategy.
 
-Institution | Department |   Contact   |  |
+Institution | Unit |   Contact   |  |
 --------------|---|-------------|---|
 [University of Zurich (UZH)](https://www.uzh.ch/en.html)| Center for Reproducible Science (CRS) | [Leonhard Held](https://www.ebpi.uzh.ch/en/aboutus/departments/biostatistics/teambiostats/held.html) |![Leonhard Held](./../img/pic_LeonhardHeld.jpg)  |
 [University of Geneva (Unige)](https://unige.ch)| Faculty of Psychology and Educational Sciences | [Evie Vergauwe](https://neurocenter-unige.ch/research-groups/evie-vergauwe/) | ![Evie Vergauwe](./../img/pic_EvieVergauwe.jpg)  |
@@ -27,7 +27,7 @@ NN | NN | NN |![no picture](./../img/pic_NoPickDuck.png)  |
 
 Institution|   Contact   |  
 --------------|---|-------------|
-[University of Zurich](https://www.uzh.ch/en.html) | [Eva Furrer](https://www.ebpi.uzh.ch/en/aboutus/departments/biostatistics/teambiostats/furrer.html) |![Eva Furrer](./../img/pic_EvaFurrer.jpg)  |
+[University of Zurich (UZH)](https://www.uzh.ch/en.html) | [Eva Furrer](https://www.ebpi.uzh.ch/en/aboutus/departments/biostatistics/teambiostats/furrer.html) |![Eva Furrer](./../img/pic_EvaFurrer.jpg)  |
 
 ## Contact
 The primary contact point for SwissRN is currently Eva Furrer, please send an email to [Eva Furrer](mailto:eva.furrer@uzh.ch) for more information.
