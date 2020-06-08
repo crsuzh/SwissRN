@@ -23,7 +23,7 @@ An external Advisory Board comprising academics from the international research 
 Institution| Department | Name |  |
 --------------|---|-------------|---|
 [University of Bristol](https://www.bristol.ac.uk)| School of Psychological Science | [Marcus Munafo](http://www.bristol.ac.uk/expsych/people/marcus-r-munafo/) |![Marcus Munafo](./../img/pic_MarcusMunafo.jpg)  |
-NN | NN | NN |![no picture](./../img/pic_NoPickDuck.png)  |
+Emeritus professor of the University of Luxembourg | Statistical Consultancy for the Pharmaceutical Industry | [Stephen Senn](http://www.senns.demon.co.uk/Consult.htm) |![Stephen Senn](./../img/pic_StephenSenn.jpg)  |
 NN | NN | NN |![no picture](./../img/pic_NoPickDuck.png)  |
 
 
