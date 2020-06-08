@@ -1,6 +1,6 @@
 +++
 title = "Stakeholders"
-date = "2020-05-19"
+date = "2020-06-08"
 tags = ["Stakehold", "Org"]
 categories = ["Stakehold","Org"]
 

@@ -12,6 +12,15 @@
     
     
     <item>
+      <title>Inst</title>
+      <link>http://www.swissrn.org/categories/inst/</link>
+      <pubDate>Mon, 08 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.swissrn.org/categories/inst/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Local Nodes</title>
       <link>http://www.swissrn.org/categories/local-nodes/</link>
       <pubDate>Mon, 08 Jun 2020 00:00:00 +0000</pubDate>
@@ -30,6 +39,15 @@
     </item>
     
     <item>
+      <title>Stakehold</title>
+      <link>http://www.swissrn.org/categories/stakehold/</link>
+      <pubDate>Mon, 08 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.swissrn.org/categories/stakehold/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Comm</title>
       <link>http://www.swissrn.org/categories/comm/</link>
       <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
@@ -44,24 +62,6 @@
       <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
       
       <guid>http://www.swissrn.org/categories/communication/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Inst</title>
-      <link>http://www.swissrn.org/categories/inst/</link>
-      <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.swissrn.org/categories/inst/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Stakehold</title>
-      <link>http://www.swissrn.org/categories/stakehold/</link>
-      <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.swissrn.org/categories/stakehold/</guid>
       <description></description>
     </item>
     

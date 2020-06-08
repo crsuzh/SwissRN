@@ -12,6 +12,15 @@
     
     
     <item>
+      <title>Inst</title>
+      <link>http://www.swissrn.org/tags/inst/</link>
+      <pubDate>Mon, 08 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.swissrn.org/tags/inst/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Local Nodes</title>
       <link>http://www.swissrn.org/tags/local-nodes/</link>
       <pubDate>Mon, 08 Jun 2020 00:00:00 +0000</pubDate>
@@ -26,6 +35,15 @@
       <pubDate>Mon, 08 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>http://www.swissrn.org/tags/org/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stakehold</title>
+      <link>http://www.swissrn.org/tags/stakehold/</link>
+      <pubDate>Mon, 08 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.swissrn.org/tags/stakehold/</guid>
       <description></description>
     </item>
     
@@ -62,24 +80,6 @@
       <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
       
       <guid>http://www.swissrn.org/tags/rep-notes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Inst</title>
-      <link>http://www.swissrn.org/tags/inst/</link>
-      <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.swissrn.org/tags/inst/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Stakehold</title>
-      <link>http://www.swissrn.org/tags/stakehold/</link>
-      <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.swissrn.org/tags/stakehold/</guid>
       <description></description>
     </item>
     

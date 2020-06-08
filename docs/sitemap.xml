@@ -8,6 +8,21 @@
   </url>
   
   <url>
+    <loc>http://www.swissrn.org/tags/inst/</loc>
+    <lastmod>2020-06-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.swissrn.org/categories/inst/</loc>
+    <lastmod>2020-06-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.swissrn.org/institutions/</loc>
+    <lastmod>2020-06-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.swissrn.org/tags/local-nodes/</loc>
     <lastmod>2020-06-08T00:00:00+00:00</lastmod>
   </url>
@@ -34,6 +49,21 @@
   
   <url>
     <loc>http://www.swissrn.org/organisation/</loc>
+    <lastmod>2020-06-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.swissrn.org/tags/stakehold/</loc>
+    <lastmod>2020-06-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.swissrn.org/categories/stakehold/</loc>
+    <lastmod>2020-06-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.swissrn.org/stakeholders/</loc>
     <lastmod>2020-06-08T00:00:00+00:00</lastmod>
   </url>
   
@@ -85,36 +115,6 @@
   <url>
     <loc>http://www.swissrn.org/blog/reproducibilitynotes/</loc>
     <lastmod>2020-05-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.swissrn.org/tags/inst/</loc>
-    <lastmod>2020-05-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.swissrn.org/categories/inst/</loc>
-    <lastmod>2020-05-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.swissrn.org/institutions/</loc>
-    <lastmod>2020-05-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.swissrn.org/tags/stakehold/</loc>
-    <lastmod>2020-05-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.swissrn.org/categories/stakehold/</loc>
-    <lastmod>2020-05-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.swissrn.org/stakeholders/</loc>
-    <lastmod>2020-05-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
