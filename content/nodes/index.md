@@ -28,6 +28,8 @@ Institution |  Unit |   Contact   |  |
 [University of Zurich (UZH)](https://www.uzh.ch/en.html)| Center for Reproducible Science| [Leonhard Held](https://www.ebpi.uzh.ch/en/aboutus/departments/biostatistics/teambiostats/held.html) |![Leonhard Held](./../img/pic_LeonhardHeld.jpg)  |
 [Zurich University of Applied Sciences (ZHAW)](https://www.zhaw.ch/en/university/)| Departement Gesundheit | [Andreas Gerber-Grote](https://www.zhaw.ch/de/ueber-uns/person/gerd/) |![Andreas Gerber-Grote](./../img/pic_AndreasGerber-Grote.jpg)  |
 
+&nbsp;  
+
 ## Local Node Activities {#local-node-activities}
 Local Node |  Unit |   Institution   | Contact  | 
 --------------|---|-------------|---|
@@ -35,6 +37,7 @@ Local Node |  Unit |   Institution   | Contact  |
 [Center for Reproducible Science](http://www.crs.uzh.ch/en.html) |  [UZH](https://www.uzh.ch/en.html)| [UZH](https://www.uzh.ch/en.html)| [Leonhard Held](https://www.ebpi.uzh.ch/en/aboutus/departments/biostatistics/teambiostats/held.html) |
 [Swiss Open Psychological Science Initiative (SOPSI)](https://www.sopsi.org/about-us) | [Faculty of Psychology and Educational Sciences](https://www.unige.ch/fapse/en/) | [Unige](https://www.unige.ch/en/university/presentation/) and [UZH](https://www.uzh.ch/en.html)|[Evie Vergauwe](https://neurocenter-unige.ch/research-groups/evie-vergauwe/)  |
 
+&nbsp;  
 
 ## How to join {#how-to-join}
-If you are organizing a local group with pertinent activities/goals and want to become a Local SwissRN Node please contact [Eva Furrer](mailto:eva.furrer@uzh.ch).
+If you are organizing a local group with pertinent activities/goals and want to become a Local SwissRN Node please send an email to [Eva Furrer](mailto:eva.furrer@uzh.ch).

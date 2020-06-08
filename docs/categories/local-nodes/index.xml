@@ -6,7 +6,7 @@
     <description>Recent content in Local Nodes on SwissRN</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 19 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://www.swissrn.org/categories/local-nodes/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,10 +14,11 @@
     <item>
       <title>Nodes</title>
       <link>http://www.swissrn.org/nodes/</link>
-      <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 08 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>http://www.swissrn.org/nodes/</guid>
-      <description>Local Nodes of the SwissRN build the backbone of the network by initiating and coordinating activities at universities and other research institutions. Activities of local nodes are manifold, e.g.
+      <description>Local Node Leaders Local Node Activities How to join
+Local Nodes of the SwissRN build the backbone of the network by initiating and coordinating activities at universities and other research institutions. Activities of local nodes are manifold, e.g.
  open research working groups, ReproducibiliTea journal clubs, organisation of training activities such as carpentries workshops, grant and ethics peer review groups etc.  The organisation of local nodes differs from institution to institutions from a formalized administration to informal grassroot groups.</description>
     </item>
     

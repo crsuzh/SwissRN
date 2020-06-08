@@ -6,10 +6,28 @@
     <description>Recent content in Tags on SwissRN</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 20 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://www.swissrn.org/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Local Nodes</title>
+      <link>http://www.swissrn.org/tags/local-nodes/</link>
+      <pubDate>Mon, 08 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.swissrn.org/tags/local-nodes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Org</title>
+      <link>http://www.swissrn.org/tags/org/</link>
+      <pubDate>Mon, 08 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.swissrn.org/tags/org/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Activities</title>
@@ -26,15 +44,6 @@
       <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
       
       <guid>http://www.swissrn.org/tags/comm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Org</title>
-      <link>http://www.swissrn.org/tags/org/</link>
-      <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.swissrn.org/tags/org/</guid>
       <description></description>
     </item>
     
@@ -62,15 +71,6 @@
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
       
       <guid>http://www.swissrn.org/tags/inst/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Local Nodes</title>
-      <link>http://www.swissrn.org/tags/local-nodes/</link>
-      <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.swissrn.org/tags/local-nodes/</guid>
       <description></description>
     </item>
     
