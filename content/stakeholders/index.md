@@ -11,6 +11,7 @@ Stakeholders who support the SwissRN form the Stakeholder Engagement Group with 
 * aligning SwissRN activity with the strategy and activity of the stakeholders
 * allowing the exchange of ideas
 * facilitating feedback on new stakeholder initiatives
+&nbsp;
 
 ## Current stakeholder group
 Institution |  | Contact |

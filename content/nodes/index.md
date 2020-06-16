@@ -4,7 +4,7 @@ date = "2020-06-08"
 tags = ["Local Nodes", "Org"]
 categories = ["Local Nodes", "Org"]
 +++
-[*`Local Node Leaders`*](#local-node-leaders) [*`Local Node Activities`*](#local-node-activities) [*`How to join`*](#how-to-join) 
+[*`Local Node Leaders`*](#local-node-leaders) [*`Local Node Activities`*](#local-node-activities) [*`How to join`*](#how-to-join)
 
 Local Nodes of the SwissRN build the backbone of the network by initiating and coordinating activities at universities and other research institutions. Activities of local nodes are manifold, e.g.
 
@@ -32,7 +32,7 @@ Institution |  Unit |   Contact   |  |
 &nbsp;  
 
 ## Local Node Activities {#local-node-activities}
-Local Node |  Unit |   Institution   | Contact  | 
+Activity |  Unit |   Institution   | Contact  |
 --------------|---|-------------|---|
 [Open Science Initiative](https://www.psychologie.uzh.ch/de/dienstleistungen/open-science.html) | [Department of Psychology at the University of Zurich](https://www.psychology.uzh.ch/en.html) | [UZH](https://www.uzh.ch/en.html)| [Johannes Ullrich](https://www.psychologie.uzh.ch/de/bereiche/sob/sozpsy/Team1/jullrich.html) |
 [Center for Reproducible Science](http://www.crs.uzh.ch/en.html) |  [UZH](https://www.uzh.ch/en.html)| [UZH](https://www.uzh.ch/en.html)| [Leonhard Held](https://www.ebpi.uzh.ch/en/aboutus/departments/biostatistics/teambiostats/held.html) |
