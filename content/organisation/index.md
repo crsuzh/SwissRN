@@ -4,7 +4,7 @@ date = "2020-06-08"
 tags = ["Org"]
 categories = ["Org"]
 +++
-[*`Steering Committee`*](#steering-committee) [*`Advisory Board`*](#advisory-board) [*`Coordinator`*](#coordinator)
+[*`Steering Committee`*](#steering-committee) [*`Advisory Board`*](#advisory-board) [*`Terms of Reference`*](#terms-of-reference) [*`Coordinator`*](#coordinator)
 
 ## Steering Committee {#steering-committee}
 The steering committee is responsible for the overall coordination of SwissRN activity and strategy.
@@ -27,6 +27,10 @@ Institution| Unit/Function | Name |  |
 [National Centre for the Replacement, Refinement and Reduction of Animals in Research](https://www.nc3rs.org.uk/)|  Head of Experimental Design and Reporting | [Nathalie Percie Du Sert](https://www.nc3rs.org.uk/dr-nathalie-percie-du-sert) |![Nathalie Percie Du Sert](./../img/pic_Nathalie_PercieDuSert.jpg)  |
 Emeritus professor of the University of Luxembourg | Statistical Consultancy for the Pharmaceutical Industry | [Stephen Senn](http://www.senns.demon.co.uk/Consult.htm) |![Stephen Senn](./../img/pic_StephenSenn.jpg)  |
 
+&nbsp;
+
+## Terms of Reference{#terms-of-reference}
+The SwissRN Terms of Reference are available for download [here](20200311_SwissRN_Terms_of_Ref_V04.pdf) (Version April 2020)
 
 &nbsp;  
 
