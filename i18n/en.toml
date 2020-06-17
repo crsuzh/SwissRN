@@ -38,7 +38,7 @@
   other = "Sorry, but the page you were trying to view does not exist."
 [404_goback]
   other = "Go Back"
-[blog]
+[activities]
   other = "Activities"
 [contact]
   other = "Contact"

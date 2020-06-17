@@ -134,8 +134,8 @@ disableLanguages        = ["fr", "pl", "pt", "de", "es", "zh-cn", "zh-tw", "ja"]
 
   [[menu.main]]
     name              = "Activities"
-    identifier        = "blog"
-    url               = "./blog/"
+    identifier        = "activities"
+    url               = "./activities/"
     pre               = "<i class='far fa-calendar-alt'></i>"
     weight            = 5
 
