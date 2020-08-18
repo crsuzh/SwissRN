@@ -29,7 +29,6 @@ Institution |  Unit |   Contact   |  |
 [University of Lausanne (Unil)](https://www.unil.ch/index.html)| Persuasive Technology Lab | [Mauro Cherubini](https://www.maurocherubini.it) | ![Mauro Cherubini](./../img/pic_MauroCherubini.png)  |
 [Universit&eacute; de Neuch&acirc;tel (Unine)](https://www.unine.ch/unine/home.html)| Institut de Psychologie du Travail et des Organisations | [Laurenz Meier](https://www.unine.ch/ipto/home/collaborateurstrices/laurenzmeier.html) |![Laurenz Meier](./../img/pic_LaurenzMeier.png)  |
 [University of Zurich (UZH)](https://www.uzh.ch/en.html)| Center for Reproducible Science| [Leonhard Held](https://www.ebpi.uzh.ch/en/aboutus/departments/biostatistics/teambiostats/held.html) |![Leonhard Held](./../img/pic_LeonhardHeld.jpg)  |
-[Zurich University of Applied Sciences (ZHAW)](https://www.zhaw.ch/en/university/)| Departement Gesundheit | [Andreas Gerber-Grote](https://www.zhaw.ch/de/ueber-uns/person/gerd/) |![Andreas Gerber-Grote](./../img/pic_AndreasGerber-Grote.jpg)  |
 
 &nbsp;  
 
