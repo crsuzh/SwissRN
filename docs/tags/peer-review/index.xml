@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publication on SwissRN</title>
-    <link>http://www.swissrn.org/tags/publication/</link>
-    <description>Recent content in Publication on SwissRN</description>
+    <title>Peer Review on SwissRN</title>
+    <link>http://www.swissrn.org/tags/peer-review/</link>
+    <description>Recent content in Peer Review on SwissRN</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 31 Aug 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://www.swissrn.org/tags/publication/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.swissrn.org/tags/peer-review/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -22,19 +22,6 @@ Shocked? Read what is mentioned on Retraction Watch:
 &amp;ldquo;The retraction of a Trojan horse paper on the novel coronavirus has called into question the validity of another article in the same journal which found that hydroxychloroquine is effective against Covid-19.&amp;rdquo;
 See also the Retraction Watch website
 Florian has talked with radio RTS Info on this story</description>
-    </item>
-    
-    <item>
-      <title>Reproducibility Notes</title>
-      <link>http://www.swissrn.org/activities/reproducibilitynotes/</link>
-      <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.swissrn.org/activities/reproducibilitynotes/</guid>
-      <description>The Center for Reproducible Science (CRS) at the University of Zurich publishes a column on Reproducibility in the british-american magazine Significance:
-January 2020
-April 2020
-Special on COVID-19
- </description>
     </item>
     
   </channel>

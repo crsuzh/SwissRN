@@ -6,10 +6,19 @@
     <description>Recent content in Categories on SwissRN</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 08 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://www.swissrn.org/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Transform</title>
+      <link>http://www.swissrn.org/categories/transform/</link>
+      <pubDate>Mon, 31 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.swissrn.org/categories/transform/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Inst</title>
@@ -71,15 +80,6 @@
       <pubDate>Sun, 17 May 2020 00:00:00 +0000</pubDate>
       
       <guid>http://www.swissrn.org/categories/education/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Transform</title>
-      <link>http://www.swissrn.org/categories/transform/</link>
-      <pubDate>Sun, 17 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.swissrn.org/categories/transform/</guid>
       <description></description>
     </item>
     
