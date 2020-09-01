@@ -11,8 +11,9 @@ Member institutions of the SwissRN have formally committed to support the aims o
 
 Institution |  | Contact
 --------|------ |------
-[University of Bern](https://www.unibe.ch) | ![alt text](./../img/logo_unibern.png "Logo Title Text 1") |  |
 [University of Zurich](https://www.uzh.ch) | ![alt text](./../img/logo_uzh.png "Logo Title Text 1") | Luzia Budmiger, UZH Research Development |
+[University of Bern](https://www.unibe.ch) | ![alt text](./../img/logo_unibern.png "Logo Title Text 1") |  |
+
 
 &nbsp;  
 
