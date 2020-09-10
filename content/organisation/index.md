@@ -11,9 +11,9 @@ The steering committee is responsible for the overall coordination of SwissRN ac
 
 Institution | Unit |   Name   |  |
 --------------|---|-------------|---|
-[University of Zurich](https://www.uzh.ch/en.html)| Center for Reproducible Science| [Leonhard Held](https://www.ebpi.uzh.ch/en/aboutus/departments/biostatistics/teambiostats/held.html) |![Leonhard Held](./../img/pic_LeonhardHeld.jpg)  |
-[University of Geneva](https://unige.ch)| Faculty of Psychology and Educational Sciences | [Evie Vergauwe](https://neurocenter-unige.ch/research-groups/evie-vergauwe/) | ![Evie Vergauwe](./../img/pic_EvieVergauwe.jpg)  |
-[University of Bern](https://www.unibe.ch/index_eng.html)| Veterinary Public Health Institute (VPHI)| [Hanno W&uuml;rbel](https://www.dcr-vph.unibe.ch/ueber_uns/personen/prof_dr_wuerbel_hanno/index_ger.html) |![Hanno W&uuml;rbel](./../img/pic_HannoWuerbel.jpg)  |
+[University of Zurich](https://www.uzh.ch/en.html)|Faculty of Science and Faculty of Medicine, Center for Reproducible Science| [Leonhard Held](https://www.ebpi.uzh.ch/en/aboutus/departments/biostatistics/teambiostats/held.html) |![Leonhard Held](./../img/pic_LeonhardHeld.jpg)  |
+[University of Geneva](https://unige.ch)| Faculty of Psychology and Educational Sciences, Swiss Open Psychological Science Initiative | [Evie Vergauwe](https://neurocenter-unige.ch/research-groups/evie-vergauwe/) | ![Evie Vergauwe](./../img/pic_EvieVergauwe.jpg)  |
+[University of Bern](https://www.unibe.ch/index_eng.html)| Vetsuisse Faculty Bern, Swiss 3R Competence Centre| [Hanno W&uuml;rbel](https://www.dcr-vph.unibe.ch/ueber_uns/personen/prof_dr_wuerbel_hanno/index_ger.html) |![Hanno W&uuml;rbel](./../img/pic_HannoWuerbel.jpg)  |
 
 &nbsp;  
 
