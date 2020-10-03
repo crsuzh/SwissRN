@@ -6,7 +6,7 @@
     <description>Recent content in Tags on SwissRN</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 31 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://www.swissrn.org/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,9 +14,27 @@
     <item>
       <title>Activities</title>
       <link>http://www.swissrn.org/tags/activities/</link>
-      <pubDate>Mon, 31 Aug 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 02 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>http://www.swissrn.org/tags/activities/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Incentives</title>
+      <link>http://www.swissrn.org/tags/incentives/</link>
+      <pubDate>Fri, 02 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.swissrn.org/tags/incentives/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publication</title>
+      <link>http://www.swissrn.org/tags/publication/</link>
+      <pubDate>Fri, 02 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.swissrn.org/tags/publication/</guid>
       <description></description>
     </item>
     
@@ -26,15 +44,6 @@
       <pubDate>Mon, 31 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>http://www.swissrn.org/tags/peer-review/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Publication</title>
-      <link>http://www.swissrn.org/tags/publication/</link>
-      <pubDate>Mon, 31 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.swissrn.org/tags/publication/</guid>
       <description></description>
     </item>
     

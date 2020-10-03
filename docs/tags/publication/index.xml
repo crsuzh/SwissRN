@@ -6,10 +6,20 @@
     <description>Recent content in Publication on SwissRN</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 31 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://www.swissrn.org/tags/publication/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Best Negative Data Prize</title>
+      <link>http://www.swissrn.org/activities/bestnegativedata/</link>
+      <pubDate>Fri, 02 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.swissrn.org/activities/bestnegativedata/</guid>
+      <description>SwissRN steering committee member Hanno Würbel is senior author on a publication that has been awarded the Best Negative Data Prize: Evaluation of the effects of space allowance on measures of animal welfare in laboratory mice.
+&amp;ldquo;Established in 2018 by the Global Preclinical Data Forum (GPDF) and co-sponsored by CVB, a non-profit research biotech, and the European College of Neuropsychopharmacology (ECNP), the Best Negative Data Prize aims to highlight the value to negative data—or data where the results do not confirm the expected outcomes or original hypotheses—toward advancing knowledge in neuroscience, providing an incentive for preclinical researchers to publish their &amp;ldquo;negative data&amp;rdquo; results.</description>
+    </item>
     
     <item>
       <title>Trojan horse paper</title>
