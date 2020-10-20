@@ -33,6 +33,11 @@
   </url>
   
   <url>
+    <loc>http://www.swissrn.org/</loc>
+    <lastmod>2020-10-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.swissrn.org/tags/</loc>
     <lastmod>2020-10-02T00:00:00+00:00</lastmod>
   </url>
@@ -113,17 +118,7 @@
   </url>
   
   <url>
-    <loc>http://www.swissrn.org/</loc>
-    <lastmod>2020-06-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://www.swissrn.org/tags/comm/</loc>
-    <lastmod>2020-05-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.swissrn.org/categories/comm/</loc>
     <lastmod>2020-05-20T00:00:00+00:00</lastmod>
   </url>
   
@@ -140,6 +135,11 @@
   <url>
     <loc>http://www.swissrn.org/activities/reproducibilitynotes/</loc>
     <lastmod>2020-05-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.swissrn.org/categories/comm/</loc>
+    <lastmod>2020-05-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
