@@ -3,13 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://www.swissrn.org/tags/activities/</loc>
-    <lastmod>2020-10-02T00:00:00+00:00</lastmod>
+    <loc>http://www.swissrn.org/activities/</loc>
+    <lastmod>2020-10-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.swissrn.org/activities/</loc>
-    <lastmod>2020-10-02T00:00:00+00:00</lastmod>
+    <loc>http://www.swissrn.org/tags/news/</loc>
+    <lastmod>2020-10-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.swissrn.org/</loc>
+    <lastmod>2020-10-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.swissrn.org/activities/launchmeeting/</loc>
+    <lastmod>2020-10-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.swissrn.org/tags/</loc>
+    <lastmod>2020-10-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -29,16 +44,6 @@
   
   <url>
     <loc>http://www.swissrn.org/tags/publication/</loc>
-    <lastmod>2020-10-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.swissrn.org/</loc>
-    <lastmod>2020-10-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.swissrn.org/tags/</loc>
     <lastmod>2020-10-02T00:00:00+00:00</lastmod>
   </url>
   
@@ -118,11 +123,6 @@
   </url>
   
   <url>
-    <loc>http://www.swissrn.org/tags/comm/</loc>
-    <lastmod>2020-05-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://www.swissrn.org/categories/communication/</loc>
     <lastmod>2020-05-20T00:00:00+00:00</lastmod>
   </url>
@@ -138,7 +138,7 @@
   </url>
   
   <url>
-    <loc>http://www.swissrn.org/categories/comm/</loc>
+    <loc>http://www.swissrn.org/tags/communication/</loc>
     <lastmod>2020-05-17T00:00:00+00:00</lastmod>
   </url>
   
@@ -163,7 +163,12 @@
   </url>
   
   <url>
-    <loc>http://www.swissrn.org/tags/transform/</loc>
+    <loc>http://www.swissrn.org/tags/transformation/</loc>
+    <lastmod>2020-05-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.swissrn.org/categories/transformation/</loc>
     <lastmod>2020-05-17T00:00:00+00:00</lastmod>
   </url>
   

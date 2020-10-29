@@ -4,7 +4,7 @@ title = "Trojan horse paper"
 date = "2020-08-31"
 description = "SwissRN Focus Area Transformation"
 images  = ["./img/activities_scooter.jpg"]
-tags = ["Activities", "Publication", "Peer Review"]
+tags = [ "Publication", "Peer Review"]
 categories = ["Transform"]
 +++
 SwissRN member [Florian Cova](https://www.unige.ch/cisa/members/cova-florian/) is an author on the **retracted** paper "SARS-CoV-2 was Unexpectedly Deadlier than Push-scooters: Could Hydroxychloroquine be the Unique Solution?".

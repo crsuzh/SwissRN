@@ -6,17 +6,17 @@
     <description>Recent content in Tags on SwissRN</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 02 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://www.swissrn.org/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Activities</title>
-      <link>http://www.swissrn.org/tags/activities/</link>
-      <pubDate>Fri, 02 Oct 2020 00:00:00 +0000</pubDate>
+      <title>News</title>
+      <link>http://www.swissrn.org/tags/news/</link>
+      <pubDate>Tue, 27 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://www.swissrn.org/tags/activities/</guid>
+      <guid>http://www.swissrn.org/tags/news/</guid>
       <description></description>
     </item>
     
@@ -84,20 +84,20 @@
     </item>
     
     <item>
-      <title>Comm</title>
-      <link>http://www.swissrn.org/tags/comm/</link>
-      <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.swissrn.org/tags/comm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Rep Notes</title>
       <link>http://www.swissrn.org/tags/rep-notes/</link>
       <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
       
       <guid>http://www.swissrn.org/tags/rep-notes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Communication</title>
+      <link>http://www.swissrn.org/tags/communication/</link>
+      <pubDate>Sun, 17 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.swissrn.org/tags/communication/</guid>
       <description></description>
     </item>
     
@@ -111,11 +111,11 @@
     </item>
     
     <item>
-      <title>Transform</title>
-      <link>http://www.swissrn.org/tags/transform/</link>
+      <title>Transformation</title>
+      <link>http://www.swissrn.org/tags/transformation/</link>
       <pubDate>Sun, 17 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://www.swissrn.org/tags/transform/</guid>
+      <guid>http://www.swissrn.org/tags/transformation/</guid>
       <description></description>
     </item>
     

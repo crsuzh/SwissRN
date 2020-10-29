@@ -66,20 +66,20 @@
     </item>
     
     <item>
-      <title>Comm</title>
-      <link>http://www.swissrn.org/categories/comm/</link>
-      <pubDate>Sun, 17 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.swissrn.org/categories/comm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Education</title>
       <link>http://www.swissrn.org/categories/education/</link>
       <pubDate>Sun, 17 May 2020 00:00:00 +0000</pubDate>
       
       <guid>http://www.swissrn.org/categories/education/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transformation</title>
+      <link>http://www.swissrn.org/categories/transformation/</link>
+      <pubDate>Sun, 17 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.swissrn.org/categories/transformation/</guid>
       <description></description>
     </item>
     
