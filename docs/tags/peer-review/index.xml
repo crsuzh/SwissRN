@@ -5,7 +5,6 @@
     <link>http://www.swissrn.org/tags/peer-review/</link>
     <description>Recent content in Peer Review on SwissRN</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
     <lastBuildDate>Mon, 31 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://www.swissrn.org/tags/peer-review/index.xml" rel="self" type="application/rss+xml" />
@@ -13,10 +12,10 @@
     
     <item>
       <title>Trojan horse paper</title>
-      <link>http://www.swissrn.org/activities/covaretractionwatch/</link>
+      <link>http://www.swissrn.org/news/covaretractionwatch/</link>
       <pubDate>Mon, 31 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://www.swissrn.org/activities/covaretractionwatch/</guid>
+      <guid>http://www.swissrn.org/news/covaretractionwatch/</guid>
       <description>SwissRN member Florian Cova is an author on the retracted paper &amp;ldquo;SARS-CoV-2 was Unexpectedly Deadlier than Push-scooters: Could Hydroxychloroquine be the Unique Solution?&amp;rdquo;.
 Shocked? Read what is mentioned on Retraction Watch:
 &amp;ldquo;The retraction of a Trojan horse paper on the novel coronavirus has called into question the validity of another article in the same journal which found that hydroxychloroquine is effective against Covid-19.&amp;rdquo;

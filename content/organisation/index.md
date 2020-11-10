@@ -1,12 +1,11 @@
 +++
 title = "Organisation"
-date = "2020-06-08"
-tags = ["Org"]
-categories = ["Org"]
-+++
-[*`Steering Committee`*](#steering-committee) [*`Advisory Board`*](#advisory-board) [*`Terms of Reference`*](#terms-of-reference) [*`Coordinator`*](#coordinator)
+date = "2020-11-09"
 
-## Steering Committee {#steering-committee}
++++
+ [*`Steering Committee`*](#steering-committee) [*`Institutions`*](#institutions) [*`Stakeholders`*](#stakeholders) [*`Advisory Board`*](#advisory-board)  [*`Coordinator`*](#coordinator)
+
+### Steering Committee {#steering-committee}
 The steering committee is responsible for the overall coordination of SwissRN activity and strategy.
 
 Institution | Unit |   Name   |  |
@@ -15,9 +14,50 @@ Institution | Unit |   Name   |  |
 [University of Geneva](https://unige.ch)| Faculty of Psychology and Educational Sciences, Swiss Open Psychological Science Initiative | [Evie Vergauwe](https://neurocenter-unige.ch/research-groups/evie-vergauwe/) | ![Evie Vergauwe](./../img/pic_EvieVergauwe.jpg)  |
 [University of Bern](https://www.unibe.ch/index_eng.html)| Vetsuisse Faculty Bern, Swiss 3R Competence Centre| [Hanno W&uuml;rbel](https://www.dcr-vph.unibe.ch/ueber_uns/personen/prof_dr_wuerbel_hanno/index_ger.html) |![Hanno W&uuml;rbel](./../img/pic_HannoWuerbel.jpg)  |
 
+&nbsp; 
+
+
+### Institutions  {#institutions}  
+Member institutions of the SwissRN have formally committed to support the aims of SwissRN and have started their implementation at the institution. Current institutional members are:
+
+
+Institution |  | Contact
+--------|------ |------
+[University of Bern](https://www.unibe.ch) | ![alt text](./../img/logo_unibern.png "University of Bern") |  |
+[University of Geneva](https://www.unige.ch) | ![alt text](./../img/logo_unige.png "University of Geneva") |Antoine Geissbuhler, vice-rector digital transformation  |
+[University of Zurich](https://www.uzh.ch) | ![alt text](./../img/logo_uzh.png "University of Zurich") | Luzia Budmiger, UZH Research Development |
+
+
 &nbsp;  
 
-## Advisory Board {#advisory-board}
+**Become a SwissRN Institution**
+
+We expect that institutions seeking membership of SwissRN will want to develop capacity to deliver a research improvement strategy, and to work with SwissRN to develop a strategy for ensuring the sustainability of SwissRN in the medium- and long-term, and to build a community of institutions focused on research improvement.
+
+Interested institutions please send an email to [Eva Furrer](mailto:eva.furrer@uzh.ch).
+
+### Stakeholders  {#stakeholders}  
+Stakeholders who support the SwissRN form the Stakeholder Engagement Group with the goal of
+
+* aligning SwissRN activity with the strategy and activity of the stakeholders
+* allowing the exchange of ideas
+* facilitating feedback on new stakeholder initiatives
+&nbsp;
+
+Institution |  | Contact |
+--------------|-------------|---|
+[Swiss National Science Foundation](http://www.snf.ch/en/Pages/default.aspx/)| ![alt text](./../img/stakeholder_snf.png "Logo Title Text 1") | Katrin Milzow, head of strategy |
+[Swiss Academies of Arts and Sciences](http://www.swiss-academies.ch/en/index/Aktuell/News.html)| ![alt text](./../img/stakeholder_swissacademies.png "Logo Title Text 1") | Claudia Appenzeller  |
+
+&nbsp;  
+
+**Become a stakeholder in SwissRN**
+
+Potential stakeholders include funders (both governmental and charity) and non-profit organizations that are part of the academic environment. To become a member of the Stakeholder Engagement Group an organization has to provide direct financial support or support in kind to SwissRN and is required to agree to our mission and values.
+
+If you would like to become a supporter of the Swiss Reproducibility Network, please send an email to [Eva Furrer](mailto:eva.furrer@uzh.ch).
+
+### Advisory Board {#advisory-board}
 An external Advisory Board comprising academics from the international research community with expertise related to the goals of the network supports the steering committee regarding strategy and direction.
 
 Institution| Unit/Function | Name |  |
@@ -29,12 +69,8 @@ Former head of Competence Centre for Methodology and Statistics at the Luxembour
 
 &nbsp;
 
-## Terms of Reference{#terms-of-reference}
-The SwissRN Terms of Reference are available for download [here](20200311_SwissRN_Terms_of_Ref_V04.pdf) (Version April 2020)
 
-&nbsp;  
-
-## Coordinator {#coordinator}
+### Coordinator {#coordinator}
 Institution|   Name & Contact   |  |
 --------------|---|-------------|
 [University of Zurich (UZH)](https://www.uzh.ch/en.html) | [Eva Furrer](https://www.ebpi.uzh.ch/en/aboutus/departments/biostatistics/teambiostats/furrer.html), SwissRN coordinator. Please send inquiries to [eva.furrer@uzh.ch](mailto:eva.furrer@uzh.ch) |![Eva Furrer](./../img/pic_EvaFurrer.jpg)  |

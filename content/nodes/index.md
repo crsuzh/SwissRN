@@ -15,11 +15,12 @@ Local Nodes of the SwissRN build the backbone of the network by initiating and c
 
 The organisation of local nodes differs from institution to institutions from a formalized administration to informal grassroot groups. SwissRN encourages to ensure that membership is open to academic and research staff (at all levels) and professional services staff. Each Local Node has a Local Network Leader providing the point of contact for SwissRN.
 
-## Local Node Leaders {#local-node-leaders}
+### Local Node Leaders {#local-node-leaders}
 Institution |  Unit |   Contact   |  |
 --------------|---|-------------|---|
 [&Eacute;cole polytechnique f&eacute;d&eacute;rale de Lausanne (EPFL)](https://www.epfl.ch/en/) | Neuroscience -- Brain Mind Institute | [Michael Herzog](https://www.epfl.ch/labs/lpsy/team/herzog/)| ![Michael Herzog](./../img/pic_MichaelHerzog.jpg)  |
 [EPFL/Unige Campus Biotech](https://www.campusbiotech.ch/) | Fondation Campus Biotech | [Micha&euml;l Dayan](https://people.epfl.ch/michael.dayan) | ![Michael Dayan](./../img/pic_MichaelDayan.jpg)  |
+[ETH](https://www.ethz.ch) | NEXUS Personalized Health Technologies | [Daniel Stekhoven](https://www.nexus.ethz.ch/people/person-detail.html?persid=143058) | ![Daniel Stekhoven](./../img/pic_DanielStekhoven.jpeg)  |
 [Lausanne University Hospital (CHUV)](https://www.chuv.ch/fr/chuv-home) | Precision Medicine Unit  | [Romain-Daniel Gosselin](https://www.chuv.ch/fr/medecine-precision/accueil/en-bref/notre-equipe/romain-daniel-gosselin) | ![Romain-Daniel Gosselin](./../img/pic_RomainDanielGosselin.jpg)  |
 [FernUni Schweiz](https://fernuni.ch)| Psychology | [Nicolas Rothen](https://fernuni.ch/forschung/forschung-fakultaeten/psychologie/forschungsgruppe-nicolas-rothen/nicolas-rothen/) | ![Nicoals Rothern](./../img/pic_NicolasRothen.jpg)  |
 [Swiss Institute of Bioinformatics (SIB)](https://www.sib.swiss/) |Bioinformatics |[Patricia Palagi](https://www.sib.swiss/directory?cn=patricia%20palagi)| ![Patricia Palagi](./../img/pic_PatriciaPalagi.jpg)  |
@@ -35,7 +36,7 @@ Institution |  Unit |   Contact   |  |
 
 &nbsp;  
 
-## Local Node Activities {#local-node-activities}
+### Local Node Activities {#local-node-activities}
 Activity |  Unit |   Institution   | Contact  |
 --------------|---|-------------|---|
 [Open Science Initiative](https://www.psychologie.uzh.ch/de/dienstleistungen/open-science.html) | [Department of Psychology at the University of Zurich](https://www.psychology.uzh.ch/en.html) | [UZH](https://www.uzh.ch/en.html)| [Johannes Ullrich](https://www.psychologie.uzh.ch/de/bereiche/sob/sozpsy/Team1/jullrich.html) |
@@ -44,5 +45,5 @@ Activity |  Unit |   Institution   | Contact  |
 
 &nbsp;  
 
-## How to join {#how-to-join}
+### How to join {#how-to-join}
 If you are organizing a local group with pertinent activities/goals and want to become a Local SwissRN Node please send an email to [Eva Furrer](mailto:eva.furrer@uzh.ch).

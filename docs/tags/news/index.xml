@@ -5,7 +5,6 @@
     <link>http://www.swissrn.org/tags/news/</link>
     <description>Recent content in News on SwissRN</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
     <lastBuildDate>Tue, 27 Oct 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://www.swissrn.org/tags/news/index.xml" rel="self" type="application/rss+xml" />
@@ -13,10 +12,10 @@
     
     <item>
       <title>SwissRN Launch Meeting</title>
-      <link>http://www.swissrn.org/activities/launchmeeting/</link>
+      <link>http://www.swissrn.org/news/launchmeeting/</link>
       <pubDate>Tue, 27 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://www.swissrn.org/activities/launchmeeting/</guid>
+      <guid>http://www.swissrn.org/news/launchmeeting/</guid>
       <description>On October 23rd, 2020 the Swiss Reproducibility Network had its official (virtual) launch meeting. Members of the advisory board and of other Reproducibility Networks and stakeholders presented their vision on the reproducibility of research. A lively discussion of view points and potential action points inspired the more informal afternoon in which SwissRN defined its future activities.
 Working groups have been formed on
  Preregistration and Registered Reports: initial leader Evie Vergauwe Research Assessment and Incentives: initial leader Eva Furrer Replication Studies: initial leader Leonhard Held Research Methodology: initial leader Hanno Würbel Courses and course materials: initial leader Simon Schwab Journal club and communication: initial leader Eva Furrer  More details on the working groups will be announced soon.</description>

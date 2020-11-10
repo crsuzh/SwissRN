@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News on SwissRN</title>
+    <link>http://www.swissrn.org/news/</link>
+    <description>Recent content in News on SwissRN</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 27 Oct 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.swissrn.org/news/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SwissRN Launch Meeting</title>
+      <link>http://www.swissrn.org/news/launchmeeting/</link>
+      <pubDate>Tue, 27 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.swissrn.org/news/launchmeeting/</guid>
+      <description>On October 23rd, 2020 the Swiss Reproducibility Network had its official (virtual) launch meeting. Members of the advisory board and of other Reproducibility Networks and stakeholders presented their vision on the reproducibility of research. A lively discussion of view points and potential action points inspired the more informal afternoon in which SwissRN defined its future activities.
+Working groups have been formed on
+ Preregistration and Registered Reports: initial leader Evie Vergauwe Research Assessment and Incentives: initial leader Eva Furrer Replication Studies: initial leader Leonhard Held Research Methodology: initial leader Hanno Würbel Courses and course materials: initial leader Simon Schwab Journal club and communication: initial leader Eva Furrer  More details on the working groups will be announced soon.</description>
+    </item>
+    
+    <item>
+      <title>Best Negative Data Prize</title>
+      <link>http://www.swissrn.org/news/bestnegativedata/</link>
+      <pubDate>Fri, 02 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.swissrn.org/news/bestnegativedata/</guid>
+      <description>SwissRN steering committee member Hanno Würbel is senior author on a publication that has been awarded the Best Negative Data Prize: Evaluation of the effects of space allowance on measures of animal welfare in laboratory mice.
+&amp;ldquo;Established in 2018 by the Global Preclinical Data Forum (GPDF) and co-sponsored by CVB, a non-profit research biotech, and the European College of Neuropsychopharmacology (ECNP), the Best Negative Data Prize aims to highlight the value to negative data—or data where the results do not confirm the expected outcomes or original hypotheses—toward advancing knowledge in neuroscience, providing an incentive for preclinical researchers to publish their &amp;ldquo;negative data&amp;rdquo; results.</description>
+    </item>
+    
+    <item>
+      <title>Trojan horse paper</title>
+      <link>http://www.swissrn.org/news/covaretractionwatch/</link>
+      <pubDate>Mon, 31 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.swissrn.org/news/covaretractionwatch/</guid>
+      <description>SwissRN member Florian Cova is an author on the retracted paper &amp;ldquo;SARS-CoV-2 was Unexpectedly Deadlier than Push-scooters: Could Hydroxychloroquine be the Unique Solution?&amp;rdquo;.
+Shocked? Read what is mentioned on Retraction Watch:
+&amp;ldquo;The retraction of a Trojan horse paper on the novel coronavirus has called into question the validity of another article in the same journal which found that hydroxychloroquine is effective against Covid-19.&amp;rdquo;
+See also the Retraction Watch website
+Florian has talked with radio RTS Info on this story</description>
+    </item>
+    
+    <item>
+      <title>Reproducibility Notes</title>
+      <link>http://www.swissrn.org/news/reproducibilitynotes/</link>
+      <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.swissrn.org/news/reproducibilitynotes/</guid>
+      <description>The Center for Reproducible Science (CRS) at the University of Zurich publishes a column on Reproducibility in the british-american magazine Significance:
+January 2020
+April 2020
+Special on COVID-19
+ </description>
+    </item>
+    
+    <item>
+      <title>Communication</title>
+      <link>http://www.swissrn.org/news/focusareacommunication/</link>
+      <pubDate>Sun, 17 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.swissrn.org/news/focusareacommunication/</guid>
+      <description>One of the SwissRN Focus Areas is communication:
+ Dissemination of new evidence Propagation of best practices Promotion of a culture change   What we offer  Publications Whitepapers Guidelines  </description>
+    </item>
+    
+    <item>
+      <title>Education</title>
+      <link>http://www.swissrn.org/news/focusareaeducation/</link>
+      <pubDate>Sun, 17 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.swissrn.org/news/focusareaeducation/</guid>
+      <description>One of the SwissRN Focus Areas is education:
+ courses to early career researchers, conception of basic Good Research Practice training modules for Bachelor and Master students, preparation of online materials; coordination of virtual seminars and journals clubs   What we offer  Teaching/training materials ReproducibiliTeas CH-wide Workshops Seminars  </description>
+    </item>
+    
+    <item>
+      <title>Transformation</title>
+      <link>http://www.swissrn.org/news/focusareatransformation/</link>
+      <pubDate>Sun, 17 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.swissrn.org/news/focusareatransformation/</guid>
+      <description>One of the SwissRN Focus Areas is transformation:
+Research improvement measures and related policies will be designed and evaluated in collaboration with stakeholders. Together we aim to order to influence policy and policy makers towards the improvement of the quality and robustness of research by reforming culture and practice.
+ What we offer  Network to intiate collaboration projects Leverage of a nationwide network with close connection to key players  </description>
+    </item>
+    
+  </channel>
+</rss>

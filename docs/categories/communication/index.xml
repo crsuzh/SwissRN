@@ -5,7 +5,6 @@
     <link>http://www.swissrn.org/categories/communication/</link>
     <description>Recent content in Communication on SwissRN</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
     <lastBuildDate>Wed, 20 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://www.swissrn.org/categories/communication/index.xml" rel="self" type="application/rss+xml" />
@@ -13,10 +12,10 @@
     
     <item>
       <title>Reproducibility Notes</title>
-      <link>http://www.swissrn.org/activities/reproducibilitynotes/</link>
+      <link>http://www.swissrn.org/news/reproducibilitynotes/</link>
       <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://www.swissrn.org/activities/reproducibilitynotes/</guid>
+      <guid>http://www.swissrn.org/news/reproducibilitynotes/</guid>
       <description>The Center for Reproducible Science (CRS) at the University of Zurich publishes a column on Reproducibility in the british-american magazine Significance:
 January 2020
 April 2020
@@ -26,10 +25,10 @@ Special on COVID-19
     
     <item>
       <title>Communication</title>
-      <link>http://www.swissrn.org/activities/focusareacommunication/</link>
+      <link>http://www.swissrn.org/news/focusareacommunication/</link>
       <pubDate>Sun, 17 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://www.swissrn.org/activities/focusareacommunication/</guid>
+      <guid>http://www.swissrn.org/news/focusareacommunication/</guid>
       <description>One of the SwissRN Focus Areas is communication:
  Dissemination of new evidence Propagation of best practices Promotion of a culture change   What we offer  Publications Whitepapers Guidelines  </description>
     </item>

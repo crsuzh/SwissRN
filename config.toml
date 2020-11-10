@@ -9,7 +9,6 @@ paginate                = 4
 disqusShortname         = ""
 googleAnalytics         = ""
 pluralizeListTitles     = false
-disableLanguages        = ["fr", "pl", "pt", "de", "es", "zh-cn", "zh-tw", "ja"]
 
 [params]
   # Add additional section names to mainSections to include posts from
@@ -27,7 +26,7 @@ disableLanguages        = ["fr", "pl", "pt", "de", "es", "zh-cn", "zh-tw", "ja"]
   highlightjsTheme      = "github"
   highlightjsLang       = ["html", "css", "js", "toml"]
   # Sets where "View More Posts" links to
-  viewMorePostsLink     = "/blog/"
+  viewMorePostsLink     = "/news/"
   # Activate Estimated Reading Times, which appear in the post headers
   readingTime           = false
   # Sets which Social Share links appear in posts.
@@ -130,14 +129,14 @@ disableLanguages        = ["fr", "pl", "pt", "de", "es", "zh-cn", "zh-tw", "ja"]
     identifier        = "organisation"
     url               = "./organisation/"
     pre               = "<i class='fa fa-users'></i>"
-    weight            = 6
+    weight            = 3
 
   [[menu.main]]
-    name              = "Activities"
-    identifier        = "activities"
-    url               = "./activities/"
+    name              = "News"
+    identifier        = "news"
+    url               = "./news/"
     pre               = "<i class='far fa-calendar-alt'></i>"
-    weight            = 5
+    weight            = 6
 
     [[menu.main]]
       name              = "Nodes"
@@ -155,176 +154,19 @@ disableLanguages        = ["fr", "pl", "pt", "de", "es", "zh-cn", "zh-tw", "ja"]
 
 
     [[menu.main]]
-      name              = "Institutions"
-      identifier        = "institutions"
-      url               = "./institutions/"
+      name              = "Resources"
+      identifier        = "resources"
+      url               = "./resources/"
       pre               = "<i class='fas fa-university'></i>"
-      weight            = 3
+      weight            = 4
 
       [[menu.main]]
-        name              = "Stakeholders"
-        identifier        = "stakeholders"
-        url               = "./stakeholders/"
+        name              = "Initiatives"
+        identifier        = "initiatives"
+        url               = "./initiatives/"
         pre               = "<i class='fas fa-share-alt'></i>"
-        weight            = 4
+        weight            = 5
 
-[Languages]
-  # Each language has its own menu.
-  [Languages.en]
-    LanguageCode        = "en"
-    LanguageName        = "English"
-    weight              = 1
-
-  [Languages.fr]
-    LanguageCode        = "fr"
-    LanguageName        = "Fran??ais"
-    title               = "Hugo Future Imperfect Slim en fran??ais"
-    description         = "Un th??me par HTML5 UP, port?? par Julio Pescador. Simplifi?? et am??lior?? par Patrick Collins. Multilingue par StatnMap. Propuls?? par Hugo."
-    weight              = 2
-
-    [[Languages.fr.menu.main]]
-      name              = "Accueil"
-      identifier        = "home"
-      url               = "./"
-      pre               = "<i class='fas fa-home'></i>"
-      weight            = 1
-
-    [[Languages.fr.menu.main]]
-      name              = "About"
-      identifier        = "about"
-      url               = "./about/"
-      pre               = "<i class='far fa-id-card'></i>"
-      weight            = 2
-
-    [[Languages.fr.menu.main]]
-      name              = "Blog"
-      identifier        = "blog"
-      url               = "./blog/"
-      pre               = "<i class='far fa-newspaper'></i>"
-      weight            = 3
-
-    [[Languages.fr.menu.main]]
-      name              = "Cat??gories"
-      identifier        = "categories"
-      url               = "./categories/"
-      pre               = "<i class='fas fa-sitemap'></i>"
-      weight            = 5
-
-    [[Languages.fr.menu.main]]
-      name              = "Contact"
-      identifier        = "contact"
-      url               = "./contact/"
-      pre               = "<i class='far fa-envelope'></i>"
-      weight            = 6
-
-  [Languages.pl]
-    LanguageCode        = "pl"
-    LanguageName        = "Polski"
-    title               = "Hugo Future Imperfect Slim po polsku"
-    description         = "Motyw HTML5 UP, przeniesiony przez Julio Pescadora i wzbogacony przez Patricka Collinsa. Wieloj??zyczny przez StatnMap. Zasilany przez Hugo."
-    weight              = 2
-
-    [[Languages.pl.menu.main]]
-      name              = "Home"
-      identifier        = "home"
-      url               = "/"
-      pre               = "<i class='fas fa-home'></i>"
-      weight            = 1
-
-    [[Languages.pl.menu.main]]
-      name              = "O mnie"
-      identifier        = "about"
-      url               = "/about/"
-      pre               = "<i class='far fa-id-card'></i>"
-      weight            = 2
-
-    [[Languages.pl.menu.main]]
-      name              = "Blog"
-      identifier        = "blog"
-      url               = "/blog/"
-      pre               = "<i class='far fa-newspaper'></i>"
-      weight            = 3
-
-    [[Languages.pl.menu.main]]
-      name              = "Kategorie"
-      identifier        = "categories"
-      url               = "/categories/"
-      pre               = "<i class='fas fa-sitemap'></i>"
-      weight            = 5
-
-    [[Languages.pl.menu.main]]
-      name              = "Kontakt"
-      identifier        = "contact"
-      url               = "/contact/"
-      pre               = "<i class='far fa-envelope'></i>"
-      weight            = 6
-
-  [Languages.pt]
-    LanguageCode        = "pt"
-    LanguageName        = "Portugu??s"
-    title               = "Hugo Future Imperfect Slim em portugu??s"
-    description         = "Um tema do HTML5 UP, portado por Julio Pescadora e reduzido por Patrick Collins. Multil??ngue por StatnMap. Feito com Hugo."
-    weight              = 4
-
-    [[Languages.pt.menu.main]]
-      name              = "In??cio"
-      identifier        = "home"
-      url               = "/"
-      pre               = "<i class='fas fa-home'></i>"
-      weight            = 1
-
-    [[Languages.pt.menu.main]]
-      name              = "Sobre"
-      identifier        = "about"
-      url               = "/about/"
-      pre               = "<i class='far fa-id-card'></i>"
-      weight            = 2
-
-    [[Languages.pt.menu.main]]
-      name              = "Blog"
-      identifier        = "blog"
-      url               = "/blog/"
-      pre               = "<i class='far fa-newspaper'></i>"
-      weight            = 3
-
-    [[Languages.pt.menu.main]]
-      name              = "Categorias"
-      identifier        = "categories"
-      url               = "/categories/"
-      pre               = "<i class='fas fa-sitemap'></i>"
-      weight            = 5
-
-    [[Languages.pt.menu.main]]
-      name              = "Contato"
-      identifier        = "contact"
-      url               = "/contact/"
-      pre               = "<i class='far fa-envelope'></i>"
-      weight            = 6
-
-  [Languages.de]
-    LanguageCode        = "de"
-    LanguageName        = "Deutsche"
-    weight              = 5
-
-  [Languages.es]
-    LanguageCode        = "es"
-    LanguageName        = "Espa??ola"
-    weight              = 6
-
-  [Languages.zh-CN]
-    LanguageCode        = "zh-CN"
-    LanguageName        = "??????"
-    weight              = 7
-
-  [Languages.zh-TW]
-    LanguageCode        = "zh-TW"
-    LanguageName        = "??????"
-    weight              = 8
-
-  [Languages.ja]
-    LanguageCode        = "ja"
-    LanguageName        = "?????????"
-    weight              = 9
 
 # Sets Social Media icons to appear and link to your account. Value should be your
 # username unless otherwise noted. These are the icons affected by socialAppearAtTop

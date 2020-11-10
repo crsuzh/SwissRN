@@ -5,7 +5,6 @@
     <link>http://www.swissrn.org/categories/education/</link>
     <description>Recent content in Education on SwissRN</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
     <lastBuildDate>Sun, 17 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://www.swissrn.org/categories/education/index.xml" rel="self" type="application/rss+xml" />
@@ -13,10 +12,10 @@
     
     <item>
       <title>Education</title>
-      <link>http://www.swissrn.org/activities/focusareaeducation/</link>
+      <link>http://www.swissrn.org/news/focusareaeducation/</link>
       <pubDate>Sun, 17 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://www.swissrn.org/activities/focusareaeducation/</guid>
+      <guid>http://www.swissrn.org/news/focusareaeducation/</guid>
       <description>One of the SwissRN Focus Areas is education:
  courses to early career researchers, conception of basic Good Research Practice training modules for Bachelor and Master students, preparation of online materials; coordination of virtual seminars and journals clubs   What we offer  Teaching/training materials ReproducibiliTeas CH-wide Workshops Seminars  </description>
     </item>
