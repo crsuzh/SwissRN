@@ -30,7 +30,7 @@ Institution |  Unit |   Contact   |  |
 [University of Geneva (Unige)](https://www.unige.ch)| Swiss Center for affective Sciences | [Florian Cova](https://www.unige.ch/cisa/members/cova-florian/) | ![Michael Schulte-Mecklenbeck](./../img/pic_florianCova.png)  |
 [University of Lausanne (Unil)](https://www.unil.ch/index.html)| Persuasive Technology Lab | [Mauro Cherubini](https://www.maurocherubini.it) | ![Mauro Cherubini](./../img/pic_MauroCherubini.png)  |
 [Universit&eacute; de Neuch&acirc;tel (Unine)](https://www.unine.ch/unine/home.html)| Institut de Psychologie du Travail et des Organisations | [Laurenz Meier](https://www.unine.ch/ipto/home/collaborateurstrices/laurenzmeier.html) |![Laurenz Meier](./../img/pic_LaurenzMeier.png)  |
-[Università della Svizzera italiana (USI)](https://www.usi.ch/)| Data Science Lab | [Antonietta Mira](http://usi.to/exz) |![Antonietta Mira](./../img/pic_AntoniettaMira.jpeg)  |
+[Università della Svizzera italiana (USI)](https://www.usi.ch/)| Data Science Lab | [Antonietta Mira](https://usi.to/exz) |![Antonietta Mira](./../img/pic_AntoniettaMira.jpeg)  |
 [University of Zurich (UZH)](https://www.uzh.ch/en.html)| Center for Reproducible Science| [Leonhard Held](https://www.ebpi.uzh.ch/en/aboutus/departments/biostatistics/teambiostats/held.html) |![Leonhard Held](./../img/pic_LeonhardHeld.jpg)  |
 
 
