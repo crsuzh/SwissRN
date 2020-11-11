@@ -25,7 +25,7 @@ Institution |  Unit |   Contact   |  |
 [FernUni Schweiz](https://fernuni.ch)| Psychology | [Nicolas Rothen](https://fernuni.ch/forschung/forschung-fakultaeten/psychologie/forschungsgruppe-nicolas-rothen/nicolas-rothen/) | ![Nicoals Rothern](./../img/pic_NicolasRothen.jpg)  |
 [Swiss Institute of Bioinformatics (SIB)](https://www.sib.swiss/) |Bioinformatics |[Patricia Palagi](https://www.sib.swiss/directory?cn=patricia%20palagi)| ![Patricia Palagi](./../img/pic_PatriciaPalagi.jpg)  |
 [University of Basel (Unibas)](https://www.unibas.ch/en.html)| Department of Environmental Sciences| [Valentin Amrhein](https://duw.unibas.ch/en/persons/valentin-amrhein-2310/) | ![Valentin Amrhein](./../img/pic_ValentinAmrhein.jpeg)  |
-[University of Bern (Unibe)](https://www.unibe.ch/index_eng.html)| Institut f&uuml;r Marketing und Unternehmensf&uuml;hrung (IMU) | [Michael Schulte-Mecklenbeck](https://www.consumer.imu.unibe.ch/ueber_uns/team/pd_dr_schulte_mecklenbeck_michael/index_ger.html) | ![Michael Schulte-Mecklenbeck](./../img/pic_MichaelSchulte-Mecklenbeck.jpg)  |
+[University of Bern (Unibe)](https://www.unibe.ch/index_eng.html)| Institut f&uuml;r Marketing und Unternehmensf&uuml;hrung (IMU) | [Michael Schulte-Mecklenbeck](https://www.consumer.imu.unibe.ch/ueber_uns/team/prof_dr_schulte_mecklenbeck_michael/index_ger.html) | ![Michael Schulte-Mecklenbeck](./../img/pic_MichaelSchulte-Mecklenbeck.jpg)  |
 [University of Fribourg (Unifr)](https://www.unifr.ch/home/en.html)| Department of Psychology | [Meike Ramon](https://www3.unifr.ch/psycho/de/departement/mitarbeitende/dept/people/185474/78b81) | ![Meike Ramon](./../img/pic_MeikeRamon.jpg)  |
 [University of Geneva (Unige)](https://www.unige.ch)| Swiss Center for affective Sciences | [Florian Cova](https://www.unige.ch/cisa/members/cova-florian/) | ![Michael Schulte-Mecklenbeck](./../img/pic_florianCova.png)  |
 [University of Lausanne (Unil)](https://www.unil.ch/index.html)| Persuasive Technology Lab | [Mauro Cherubini](https://www.maurocherubini.it) | ![Mauro Cherubini](./../img/pic_MauroCherubini.png)  |
@@ -40,7 +40,7 @@ Institution |  Unit |   Contact   |  |
 Activity |  Unit |   Institution   | Contact  |
 --------------|---|-------------|---|
 [Open Science Initiative](https://www.psychologie.uzh.ch/de/dienstleistungen/open-science.html) | [Department of Psychology at the University of Zurich](https://www.psychology.uzh.ch/en.html) | [UZH](https://www.uzh.ch/en.html)| [Johannes Ullrich](https://www.psychologie.uzh.ch/de/bereiche/sob/sozpsy/Team1/jullrich.html) |
-[Center for Reproducible Science](http://www.crs.uzh.ch/en.html) |  [UZH](https://www.uzh.ch/en.html)| [UZH](https://www.uzh.ch/en.html)| [Leonhard Held](https://www.ebpi.uzh.ch/en/aboutus/departments/biostatistics/teambiostats/held.html) |
+[Center for Reproducible Science](https://www.crs.uzh.ch/en.html) |  [UZH](https://www.uzh.ch/en.html)| [UZH](https://www.uzh.ch/en.html)| [Leonhard Held](https://www.ebpi.uzh.ch/en/aboutus/departments/biostatistics/teambiostats/held.html) |
 [Swiss Open Psychological Science Initiative (SOPSI)](https://www.sopsi.org/about-us) | [Faculty of Psychology and Educational Sciences](https://www.unige.ch/fapse/en/) | [Unige](https://www.unige.ch/en/university/presentation/) and [UZH](https://www.uzh.ch/en.html)|[Evie Vergauwe](https://neurocenter-unige.ch/research-groups/evie-vergauwe/)  |
 
 &nbsp;  

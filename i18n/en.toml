@@ -4,7 +4,7 @@
   one = "1 minute read"
   other = "{{ .Count }} minutes read"
 [recent_posts]
-  other = "Activities"
+  other = "News"
 [see_more]
   other = "See more"
 [read_more]
@@ -39,7 +39,7 @@
 [404_goback]
   other = "Go Back"
 [activities]
-  other = "Activities"
+  other = "News"
 [contact]
   other = "Contact"
 [next_page]
