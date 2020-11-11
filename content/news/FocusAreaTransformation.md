@@ -2,7 +2,6 @@
 author = "Eva Furrer"
 title = "Transformation"
 date = "2020-05-17"
-description = "SwissRN Focus Area Transformation"
 tags = ["Transformation"]
 categories = ["Transformation"]
 images  = ["./img/activities_M2.jpeg"]

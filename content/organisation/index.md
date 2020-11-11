@@ -1,6 +1,8 @@
 +++
 title = "Organisation"
 date = "2020-11-09"
+tags = ["People"]
+categories = ["Organisation"]
 
 +++
  [*`Steering Committee`*](#steering-committee) [*`Institutions`*](#institutions) [*`Stakeholders`*](#stakeholders) [*`Advisory Board`*](#advisory-board)  [*`Coordinator`*](#coordinator)

@@ -2,10 +2,9 @@
 author = "Eva Furrer"
 title = "Best Negative Data Prize"
 date = "2020-10-02"
-description = "SwissRN Focus Area Transformation"
 images  = ["./img/activities_mice.jpg"]
 tags = [ "Publication", "Incentives"]
-categories = ["Transform"]
+categories = ["News"]
 +++
 SwissRN steering committee member [Hanno W&uuml;rbel](https://www.dcr-vph.unibe.ch/ueber_uns/personen/prof_dr_wuerbel_hanno/index_ger.html) is senior author on a publication that has been awarded the [Best Negative Data Prize](https://www.ecnp.eu/research-innovation/awards/best-negative-data-prize): [Evaluation of the effects of space allowance on measures of animal welfare in laboratory mice](https://www.nature.com/articles/s41598-017-18493-6).
 

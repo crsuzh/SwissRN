@@ -5,10 +5,37 @@
     <link>http://www.swissrn.org/categories/</link>
     <description>Recent content in Categories on SwissRN</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 27 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://www.swissrn.org/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Initiatives</title>
+      <link>http://www.swissrn.org/categories/initiatives/</link>
+      <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.swissrn.org/categories/initiatives/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Organisation</title>
+      <link>http://www.swissrn.org/categories/organisation/</link>
+      <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.swissrn.org/categories/organisation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resources</title>
+      <link>http://www.swissrn.org/categories/resources/</link>
+      <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.swissrn.org/categories/resources/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>News</title>
@@ -20,36 +47,9 @@
     </item>
     
     <item>
-      <title>Transform</title>
-      <link>http://www.swissrn.org/categories/transform/</link>
-      <pubDate>Fri, 02 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.swissrn.org/categories/transform/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Local Nodes</title>
-      <link>http://www.swissrn.org/categories/local-nodes/</link>
-      <pubDate>Mon, 08 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.swissrn.org/categories/local-nodes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Org</title>
-      <link>http://www.swissrn.org/categories/org/</link>
-      <pubDate>Mon, 08 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.swissrn.org/categories/org/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Communication</title>
       <link>http://www.swissrn.org/categories/communication/</link>
-      <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 17 May 2020 00:00:00 +0000</pubDate>
       
       <guid>http://www.swissrn.org/categories/communication/</guid>
       <description></description>

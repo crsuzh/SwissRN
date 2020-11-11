@@ -2,7 +2,6 @@
 author = "Eva Furrer"
 title = "Education"
 date = "2020-05-17"
-description = "SwissRN Focus Area Education"
 tags = ["Education"]
 categories = ["Education"]
 images  = ["./img/activities_M3.jpeg"]

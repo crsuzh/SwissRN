@@ -5,7 +5,7 @@ date = "2020-05-20"
 description = "SwissRN Focus Area Communication"
 images  = ["./img/activities_repronotes.jpg"]
 tags = ["Rep Notes", "Publication"]
-categories = ["Communication"]
+categories = ["News"]
 +++
 
 The Center for Reproducible Science (CRS) at the University of Zurich publishes a column on Reproducibility in the british-american magazine Significance:

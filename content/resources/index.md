@@ -1,7 +1,7 @@
 +++
 title = "Resources"
 date = "2020-11-09"
-tags = [ "Resources"]
+tags = [ "Terms of Reference"]
 categories = ["Resources"]
 +++
 

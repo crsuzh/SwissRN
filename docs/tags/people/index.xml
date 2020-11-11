@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>People on SwissRN</title>
+    <link>http://www.swissrn.org/tags/people/</link>
+    <description>Recent content in People on SwissRN</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 09 Nov 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.swissrn.org/tags/people/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Organisation</title>
+      <link>http://www.swissrn.org/organisation/</link>
+      <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.swissrn.org/organisation/</guid>
+      <description>Steering Committee Institutions Stakeholders Advisory Board Coordinator
+Steering Committee The steering committee is responsible for the overall coordination of SwissRN activity and strategy.
+   Institution Unit Name      University of Zurich Faculty of Science and Faculty of Medicine, Center for Reproducible Science Leonhard Held    University of Geneva Faculty of Psychology and Educational Sciences, Swiss Open Psychological Science Initiative Evie Vergauwe    University of Bern Vetsuisse Faculty Bern, Swiss 3R Competence Centre Hanno Würbel      Institutions  Member institutions of the SwissRN have formally committed to support the aims of SwissRN and have started their implementation at the institution.</description>
+    </item>
+    
+    <item>
+      <title>SwissRN Launch Meeting</title>
+      <link>http://www.swissrn.org/news/launchmeeting/</link>
+      <pubDate>Tue, 27 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.swissrn.org/news/launchmeeting/</guid>
+      <description>On October 23rd, 2020 the Swiss Reproducibility Network had its official (virtual) launch meeting. Members of the advisory board and of other Reproducibility Networks and stakeholders presented their vision on the reproducibility of research. A lively discussion of view points and potential action points inspired the more informal afternoon in which SwissRN defined its future activities.
+Working groups have been formed on
+ Preregistration and Registered Reports: initial leader Evie Vergauwe Research Assessment and Incentives: initial leader Eva Furrer Replication Studies: initial leader Leonhard Held Research Methodology: initial leader Hanno Würbel Courses and course materials: initial leader Simon Schwab Journal club and communication: initial leader Eva Furrer  More details on the working groups will be announced soon.</description>
+    </item>
+    
+    <item>
+      <title>Nodes</title>
+      <link>http://www.swissrn.org/nodes/</link>
+      <pubDate>Mon, 08 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.swissrn.org/nodes/</guid>
+      <description>Local Node Leaders Local Node Activities How to join
+Local Nodes of the SwissRN build the backbone of the network by initiating and coordinating activities at universities and other research institutions. Activities of local nodes are manifold, e.g.
+ open research working groups, ReproducibiliTea journal clubs, organisation of training activities such as carpentries workshops, grant and ethics peer review groups etc.  The organisation of local nodes differs from institution to institutions from a formalized administration to informal grassroot groups.</description>
+    </item>
+    
+  </channel>
+</rss>

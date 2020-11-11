@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Working Groups on SwissRN</title>
+    <link>http://www.swissrn.org/tags/working-groups/</link>
+    <description>Recent content in Working Groups on SwissRN</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 09 Nov 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.swissrn.org/tags/working-groups/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Initiatives</title>
+      <link>http://www.swissrn.org/initiatives/</link>
+      <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.swissrn.org/initiatives/</guid>
+      <description>Preregistration and Registered Reports Research Assessment and Incentives Replication Studies Research Methodology Training Communication and Outreach ReproducibiliTea
+Preregistration and Registered Reports Preregistration, or the practice of documenting research aspects such as hypothesis, sample size, design, data exclusion, and statistical analyses, before data collection or data analysis, can help reducing questionable research practices. When integrated into the publishing process in the form of Registered Reports, it can also reduce publication bias. The aim of the SwissRN working group on preregistration and Registered Reports is to promote and support existing initiatives and services related to preregistration and Registered Reports (e.</description>
+    </item>
+    
+    <item>
+      <title>SwissRN Launch Meeting</title>
+      <link>http://www.swissrn.org/news/launchmeeting/</link>
+      <pubDate>Tue, 27 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.swissrn.org/news/launchmeeting/</guid>
+      <description>On October 23rd, 2020 the Swiss Reproducibility Network had its official (virtual) launch meeting. Members of the advisory board and of other Reproducibility Networks and stakeholders presented their vision on the reproducibility of research. A lively discussion of view points and potential action points inspired the more informal afternoon in which SwissRN defined its future activities.
+Working groups have been formed on
+ Preregistration and Registered Reports: initial leader Evie Vergauwe Research Assessment and Incentives: initial leader Eva Furrer Replication Studies: initial leader Leonhard Held Research Methodology: initial leader Hanno Würbel Courses and course materials: initial leader Simon Schwab Journal club and communication: initial leader Eva Furrer  More details on the working groups will be announced soon.</description>
+    </item>
+    
+  </channel>
+</rss>
