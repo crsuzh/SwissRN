@@ -1,7 +1,7 @@
 +++
 title = "Nodes"
 date = "2020-06-08"
-tags = ["People"]
+tags = ["Local Nodes"]
 categories = ["Organisation"]
 +++
 [*`Local Node Leaders`*](#local-node-leaders) [*`Local Node Activities`*](#local-node-activities) [*`How to join`*](#how-to-join)
