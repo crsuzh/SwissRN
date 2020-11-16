@@ -56,7 +56,7 @@ Diversity is a strength of the SwissRN. There will be a chorus of different voic
 
 &nbsp;
 
-![Florian Cova](./../../img/pic_FlorianCova.png#floatleft)
+![Florian Cova](./../../img/pic_CovaFlorian.png#floatleft)
 *"In my field of research, philosophy, numerous heated debates about human nature and behavior have turned and are still turning on famous experiments that ultimately failed to replicate. As such, my goal is not only to encourage researchers to scrutinize and replicate influential studies, but also to sensibilize them to the need for replication, and the way unreliable but famous results can lead us astray in theorizing."* &nbsp; **Florian Cova, Philosophy, University of Geneva**
 
 &nbsp;
