@@ -1,7 +1,7 @@
 +++
 author = "Eva Furrer and Valentin Amrhein"
 title = "The Swiss Reproducibility Network - many fields, different voices"
-date = "2020-11-14"
+date = "2020-11-16"
 description = "SwissRN Voices"
 images  = ["./img/zoomlaunch.png"]
 tags = [ "Diversity", "Meetings"]
@@ -14,7 +14,7 @@ The original reproducibility network was created in the UK, the [UKRN](https://w
 Diversity is a strength of the SwissRN. There will be a chorus of different voices, for example:
 
 ![Hanno Würbel](./../../img/pic_HannoWuerbel.jpg#floatleft)
-*“Rigorous and reproducible research depends on a healthy research culture. As the research ecosystem is dynamic and researchers adapt to new incentives, research performance needs to be assessed and refined continuously. With the SwissRN we aim to contribute to a healthy research culture and facilitate performance standards that promote rigorous and reproducible research."* &nbsp; **Hanno Würbel, Animal Welfare, University of Bern**
+*"Rigorous and reproducible research depends on a healthy research culture. As the research ecosystem is dynamic and researchers adapt to new incentives, research performance needs to be assessed and refined continuously. With the SwissRN we aim to contribute to a healthy research culture and facilitate performance standards that promote rigorous and reproducible research."* &nbsp; **Hanno Würbel, Animal Welfare, University of Bern**
 
 &nbsp;
 
@@ -36,7 +36,6 @@ Diversity is a strength of the SwissRN. There will be a chorus of different voic
 &nbsp;
 
 &nbsp;
-
 
 ![Patricia Palagi](./../../img/pic_PatriciaPalagi.jpg#floatleft)
 *"Reproducibility in bioinformatics and life sciences research is a primary concern at SIB. We contribute to promoting reproducible research by training scientists in best practices for robust and high-quality research, among other things. The Swiss Reproducibility Network brings together scientists from several different fields who face very similar issues. The network's multidisciplinary environment will promote new opportunities for learning from peers. I'm sure it will positively impact Swiss research and will enrich SIB' training offer as well."* &nbsp; **Patricia Palagi, Team Leader, SIB Training, SIB Swiss Institute of Bioinformatics**

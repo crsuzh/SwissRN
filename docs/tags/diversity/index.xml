@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Diversity on SwissRN</title>
+    <link>http://www.swissrn.org/tags/diversity/</link>
+    <description>Recent content in Diversity on SwissRN</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 16 Nov 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.swissrn.org/tags/diversity/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Swiss Reproducibility Network - many fields, different voices</title>
+      <link>http://www.swissrn.org/news/voices/</link>
+      <pubDate>Mon, 16 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.swissrn.org/news/voices/</guid>
+      <description>The SwissRN is a grassroots movement – everybody can participate, no matter the field they work in, no matter if they are from a big or a small university or from another institution within academia, no matter if they are senior or junior. The common ground of these diverse researchers is the desire to increase reproducibility of research. The goal of the network is to benefit from diversity, to push for trustworthiness from the bottom up, and, quite simply, to promote a culture change towards a focus on quality rather than novelty.</description>
+    </item>
+    
+  </channel>
+</rss>
