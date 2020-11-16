@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Working Groups on SwissRN</title>
-    <link>http://www.swissrn.org/tags/working-groups/</link>
-    <description>Recent content in Working Groups on SwissRN</description>
+    <title>Meetings on SwissRN</title>
+    <link>http://www.swissrn.org/tags/meetings/</link>
+    <description>Recent content in Meetings on SwissRN</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sat, 14 Nov 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://www.swissrn.org/tags/working-groups/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.swissrn.org/tags/meetings/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,16 +17,6 @@
       
       <guid>http://www.swissrn.org/news/voices/</guid>
       <description>The SwissRN is a grassroots movement, everybody can participate, no matter the field they work in, no matter if they are from a big or small university or from another institution within academia, no matter if they are senior or junior. The common ground of these diverse researchers is the desire to increase reproducibility of research. The goal of the network is to benefit from diversity, to push for trustworthiness from the bottom up, and, quite simply, a culture change towards a focus on quality instead of novelty.</description>
-    </item>
-    
-    <item>
-      <title>Initiatives</title>
-      <link>http://www.swissrn.org/initiatives/</link>
-      <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.swissrn.org/initiatives/</guid>
-      <description>Preregistration and Registered Reports Research Assessment and Incentives Replication Studies Research Methodology Training Communication and Outreach ReproducibiliTea
-Preregistration and Registered Reports Preregistration, or the practice of documenting research aspects such as hypothesis, sample size, design, data exclusion, and statistical analyses, before data collection or data analysis, can help reducing questionable research practices. When integrated into the publishing process in the form of Registered Reports, it can also reduce publication bias. The aim of the SwissRN working group on preregistration and Registered Reports is to promote and support existing initiatives and services related to preregistration and Registered Reports (e.</description>
     </item>
     
     <item>

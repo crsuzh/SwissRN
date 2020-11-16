@@ -19,7 +19,7 @@ The organisation of local nodes differs from institution to institutions from a 
 Institution |  Unit |   Contact   |  |
 --------------|---|-------------|---|
 [&Eacute;cole polytechnique f&eacute;d&eacute;rale de Lausanne (EPFL)](https://www.epfl.ch/en/) | Neuroscience -- Brain Mind Institute | [Michael Herzog](https://www.epfl.ch/labs/lpsy/team/herzog/)| ![Michael Herzog](./../img/pic_MichaelHerzog.jpg)  |
-[EPFL/Unige Campus Biotech](https://www.campusbiotech.ch/) | Fondation Campus Biotech | [Micha&euml;l Dayan](https://people.epfl.ch/michael.dayan) | ![Michael Dayan](./../img/pic_MichaelDayan.jpg)  |
+[EPFL/Unige Campus Biotech](https://www.campusbiotech.ch/) | Fondation Campus Biotech | [Micha&euml;l Dayan](https://www.campusbiotech.ch/en/people/michael-dayan) | ![Michael Dayan](./../img/pic_MichaelDayan.jpg)  |
 [ETH](https://www.ethz.ch) | NEXUS Personalized Health Technologies | [Daniel Stekhoven](https://www.nexus.ethz.ch/people/person-detail.html?persid=143058) | ![Daniel Stekhoven](./../img/pic_DanielStekhoven.jpeg)  |
 [Lausanne University Hospital (CHUV)](https://www.chuv.ch/fr/chuv-home) | Precision Medicine Unit  | [Romain-Daniel Gosselin](https://www.chuv.ch/fr/medecine-precision/accueil/en-bref/notre-equipe/romain-daniel-gosselin) | ![Romain-Daniel Gosselin](./../img/pic_RomainDanielGosselin.jpg)  |
 [FernUni Schweiz](https://fernuni.ch)| Psychology | [Nicolas Rothen](https://fernuni.ch/forschung/forschung-fakultaeten/psychologie/forschungsgruppe-nicolas-rothen/nicolas-rothen/) | ![Nicoals Rothern](./../img/pic_NicolasRothen.jpg)  |
@@ -27,7 +27,7 @@ Institution |  Unit |   Contact   |  |
 [University of Basel (Unibas)](https://www.unibas.ch/en.html)| Department of Environmental Sciences| [Valentin Amrhein](https://duw.unibas.ch/en/persons/valentin-amrhein-2310/) | ![Valentin Amrhein](./../img/pic_ValentinAmrhein.jpeg)  |
 [University of Bern (Unibe)](https://www.unibe.ch/index_eng.html)| Institut f&uuml;r Marketing und Unternehmensf&uuml;hrung (IMU) | [Michael Schulte-Mecklenbeck](https://www.consumer.imu.unibe.ch/ueber_uns/team/prof_dr_schulte_mecklenbeck_michael/index_ger.html) | ![Michael Schulte-Mecklenbeck](./../img/pic_MichaelSchulte-Mecklenbeck.jpg)  |
 [University of Fribourg (Unifr)](https://www.unifr.ch/home/en.html)| Department of Psychology | [Meike Ramon](https://www3.unifr.ch/psycho/de/departement/mitarbeitende/dept/people/185474/78b81) | ![Meike Ramon](./../img/pic_MeikeRamon.jpg)  |
-[University of Geneva (Unige)](https://www.unige.ch)| Swiss Center for affective Sciences | [Florian Cova](https://www.unige.ch/cisa/members/cova-florian/) | ![Michael Schulte-Mecklenbeck](./../img/pic_florianCova.png)  |
+[University of Geneva (Unige)](https://www.unige.ch)| Swiss Center for affective Sciences | [Florian Cova](https://www.unige.ch/cisa/members/cova-florian/) | ![Florian Cova](./../img/pic_FlorianCova.png)  |
 [University of Lausanne (Unil)](https://www.unil.ch/index.html)| Persuasive Technology Lab | [Mauro Cherubini](https://www.maurocherubini.it) | ![Mauro Cherubini](./../img/pic_MauroCherubini.png)  |
 [Universit&eacute; de Neuch&acirc;tel (Unine)](https://www.unine.ch/unine/home.html)| Institut de Psychologie du Travail et des Organisations | [Laurenz Meier](https://www.unine.ch/ipto/home/collaborateurstrices/laurenzmeier.html) |![Laurenz Meier](./../img/pic_LaurenzMeier.png)  |
 [Università della Svizzera italiana (USI)](https://www.usi.ch/)| Data Science Lab | [Antonietta Mira](https://usi.to/exz) |![Antonietta Mira](./../img/pic_AntoniettaMira.jpeg)  |

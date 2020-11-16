@@ -5,10 +5,19 @@
     <link>http://www.swissrn.org/news/</link>
     <description>Recent content in News on SwissRN</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 27 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://www.swissrn.org/news/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The Swiss Reproducibility Network - many fields, different voices</title>
+      <link>http://www.swissrn.org/news/voices/</link>
+      <pubDate>Sat, 14 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.swissrn.org/news/voices/</guid>
+      <description>The SwissRN is a grassroots movement, everybody can participate, no matter the field they work in, no matter if they are from a big or small university or from another institution within academia, no matter if they are senior or junior. The common ground of these diverse researchers is the desire to increase reproducibility of research. The goal of the network is to benefit from diversity, to push for trustworthiness from the bottom up, and, quite simply, a culture change towards a focus on quality instead of novelty.</description>
+    </item>
     
     <item>
       <title>SwissRN Launch Meeting</title>
