@@ -37,31 +37,36 @@ Diversity is a strength of the SwissRN. There will be a chorus of different voic
 
 &nbsp;
 
-![Patricia Palagi](./../../img/pic_PatriciaPalagi.jpg#floatleft)
+![Meike Ramon](./../../img/pic_MeikeRamon.jpg#floatleft)
+*"As a local node leader at UniFR, together with my team, I will focus on identifying best practices and advocating for them among researchers. This involves for instance identifying and implementing standards for data sharing - and extends to working with journal editors who can ensure that reproducibility is a requirement for publication. With reproducibility networks just emerging internationally, this is an exciting time to get involved in the movement."* &nbsp; **Meike Ramon, Psychology,  University of Fribourg**
+
+&nbsp;
+
+![Patricia Palagi](./../../img/pic_PatriciaPalagi.jpg#floatright)
 *"Reproducibility in bioinformatics and life sciences research is a primary concern at SIB. We contribute to promoting reproducible research by training scientists in best practices for robust and high-quality research, among other things. The Swiss Reproducibility Network brings together scientists from several different fields who face very similar issues. The network's multidisciplinary environment will promote new opportunities for learning from peers. I'm sure it will positively impact Swiss research and will enrich SIB' training offer as well."* &nbsp; **Patricia Palagi, Team Leader, SIB Training, SIB Swiss Institute of Bioinformatics**
 
 &nbsp;
 
-![Laurenz Meier](./../../img/pic_LaurenzMeier.png#floatright)
+![Laurenz Meier](./../../img/pic_LaurenzMeier.png#floatleft)
 *"The University of Neuchâtel is a comparatively small university, so exchanges between students and researchers, as well as between faculties, are easier and a strength that we would like to capitalize on. We aim to provide an overview of the existing courses (e.g. lectures, doctoral programs) and to promote interdisciplinary and interfaculty exchange by means of short workshops and meetings."* &nbsp; **Laurenz Meier, Psychology, University of Neuchâtel**  
 
 &nbsp;
 
-![Leonhard Held](./../../img/pic_LeonhardHeld.jpg#floatleft)*"The reproducibility of research findings is crucial for the credibility of science. Many factors contribute to irreproducible research, including poor methodology, poor reporting and incentives that focus on quantity rather than quality, novelty rather than replication. The Swiss Reproducibility Network offers unique possibilities to improve research quality and to change the research landscape in Switzerland for the better. I am proud to be part of this exciting initiative."*  &nbsp; **Leonhard Held, Biostatistics, University of Zurich**
+![Leonhard Held](./../../img/pic_LeonhardHeld.jpg#floatright)*"The reproducibility of research findings is crucial for the credibility of science. Many factors contribute to irreproducible research, including poor methodology, poor reporting and incentives that focus on quantity rather than quality, novelty rather than replication. The Swiss Reproducibility Network offers unique possibilities to improve research quality and to change the research landscape in Switzerland for the better. I am proud to be part of this exciting initiative."*  &nbsp; **Leonhard Held, Biostatistics, University of Zurich**
 
 &nbsp;
 
-![Michael Dayan](./../../img/pic_MichaelDayan.jpg#floatright)
+![Michael Dayan](./../../img/pic_MichaelDayan.jpg#floatleft)
 *“In my field, neuroimaging, the variety of approaches and tools is such that building on other researcher’s work can often be a major challenge. The issue of low reproducibility that hampers generalization of research findings is faced by many fields. It is my hope that together within the Swiss Reproducibility Network we will learn from each other to promote best practices to enhance reproducibility, build awareness on the subject, and help improve research generalizability in whichever way we can.”* &nbsp; **Michael Dayan, Neuroimaging, EPFL/Unige Campus Biotech**  
 
 &nbsp;
 
-![Florian Cova](./../../img/pic_CovaFlorian.png#floatleft)
+![Florian Cova](./../../img/pic_CovaFlorian.png#floatright)
 *"In my field of research, philosophy, numerous heated debates about human nature and behavior have turned and are still turning on famous experiments that ultimately failed to replicate. As such, my goal is not only to encourage researchers to scrutinize and replicate influential studies, but also to sensibilize them to the need for replication, and the way unreliable but famous results can lead us astray in theorizing."* &nbsp; **Florian Cova, Philosophy, University of Geneva**
 
 &nbsp;
 
-![Valentin Amrhein](./../../img/pic_ValentinAmrhein.jpeg#floatright)
+![Valentin Amrhein](./../../img/pic_ValentinAmrhein.jpeg#floatleft)
 *"The most important aspect of reproducibility, among all the other most important aspects, is communication. Currently, researchers are paid for drawing conclusions from isolated bits of research that we call "studies", and for communicating the conclusions in aphoristic PR texts that we call "papers". It should be no surprise that such conclusions are often not reproducible. I'm looking forward to the debates in the Swiss Reproducibility Network, and I hope the debates will transfer to the universities and funding bodies."* &nbsp; **Valentin Amrhein, Zoology, University of Basel**
 
 
