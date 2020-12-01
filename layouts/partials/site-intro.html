@@ -5,7 +5,7 @@
   </header>
   <main>
     {{ with .Site.Params.intro.paragraph }}<p>{{ . | safeHTML }}</p> <p></p>{{ end }}
-    <a class="twitter-timeline" data-lang="en" data-width="300" data-tweet-limit="3" href="https://twitter.com/SwissRN?ref_src=twsrc%5Etfw">Tweets by SwissRN</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+    <a class="twitter-timeline" data-lang="en" data-width="300" data-tweet-limit="1" href="https://twitter.com/SwissRN?ref_src=twsrc%5Etfw">Tweets by SwissRN</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
   </main>
   {{ if or (.Site.Params.intro.rssIntro) (.Site.Params.intro.socialIntro) }}
     <footer>
