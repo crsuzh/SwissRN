@@ -35,7 +35,7 @@ Contact: [Leonhard Held](mailto:leonhard.held@uzh.ch)
 ---
 
 ### Research Methodology{#methods}
-Reproducibility of research findings essentially depends on rigorous research methodology, including the selection of the study population to represent the target population, study design to control for potential confounders, study conduct to minimise risks of bias, adequate data analysis and balanced interpretation of results. The aim of the SwissRN working group on research methodology is to engage with different stakeholders to promote rigorous research methods, with a view to commonalities and differences across different research disciplines.
+Reproducibility of research findings essentially depends on rigorous research methodology, including the selection of the study population to represent the target population, study design to control for potential confounders, study conduct to minimise risks of bias, adequate data analysis, and balanced interpretation of results. The aim of the SwissRN working group on research methodology is to promote rigorous research methods, with a view to commonalities and differences across different research disciplines, and to engage with different stakeholders to facilitate dissemination and uptake.
 
 Contact: [Hanno Würbel](hanno.wuerbel@vetsuisse.unibe.ch)
 
