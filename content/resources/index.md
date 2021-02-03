@@ -6,7 +6,7 @@ categories = ["Resources"]
 +++
 
 ### Terms of Reference
-[Terms of Reference](20200311_SwissRN_Terms_of_Ref_V04.pdf) (Version April 2020)
+[Terms of Reference](SwissRNTermsofReferenceV05.pdf) (Version January 2021)
 
 &nbsp;
 

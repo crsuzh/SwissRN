@@ -25,9 +25,10 @@ Member institutions of the SwissRN have formally committed to support the aims o
 
 Institution |  | Contact
 --------|------ |------
+[FernUni Schweiz / UniDistance Suisse](https://fernuni.ch/)| ![alt text](./../img/Logo_kurz_bi_small.jpg "FernUni Schweiz / UniDistance Suisse") | Prof. Dr. Walter Perrig, Vice Rector Research |
 [University of Basel](https://www.unibas.ch) | ![alt text](./../img/UniBas_Logo_EN_Schwarz_RGB_65.jpg "University of Basel") | Dr. Frank Neumann, Head Research Office |
 [University of Bern](https://www.unibe.ch) | ![alt text](./../img/logo_unibern.png "University of Bern") |  |
-[University of Geneva](https://www.unige.ch) | ![alt text](./../img/logo_unige.png "University of Geneva") |Antoine Geissbuhler, vice-rector digital transformation  |
+[University of Geneva](https://www.unige.ch) | ![alt text](./../img/logo_unige.png "University of Geneva") |Prof. Dr. Antoine Geissbuhler, vice-rector digital transformation  |
 [University of Zurich](https://www.uzh.ch) | ![alt text](./../img/logo_uzh.png "University of Zurich") | Luzia Budmiger, UZH Research Development |
 
 
