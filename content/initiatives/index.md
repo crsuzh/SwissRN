@@ -1,6 +1,6 @@
 +++
 title = "Initiatives"
-date = "2020-11-09"
+date = "2021-01-07"
 tags = ["Working Groups", "ReproducibiliTea"]
 categories = ["Initiatives"]
 

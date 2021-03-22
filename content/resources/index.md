@@ -1,12 +1,17 @@
 +++
 title = "Resources"
-date = "2020-11-09"
+date = "2021-03-22"
 tags = [ "Terms of References"]
 categories = ["Resources"]
 +++
 
 ### Terms of Reference
 [Terms of Reference](SwissRNTermsofReferenceV05.pdf) (Version January 2021)
+
+&nbsp;
+
+### Executive Summary
+[Executive Summary](SwissRNExecutiveSummary.pdf) (Version March 2021)
 
 &nbsp;
 

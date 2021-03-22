@@ -1,6 +1,6 @@
 +++
 title = "Nodes"
-date = "2020-06-08"
+date = "2021-03-22"
 tags = ["Local Nodes"]
 categories = ["Organisation"]
 +++
@@ -21,8 +21,9 @@ Institution |  Unit |   Contact   |  |
 [&Eacute;cole polytechnique f&eacute;d&eacute;rale de Lausanne (EPFL)](https://www.epfl.ch/en/) | Neuroscience -- Brain Mind Institute | [Michael Herzog](https://www.epfl.ch/labs/lpsy/team/herzog/)| ![Michael Herzog](./../img/pic_MichaelHerzog.jpg)  |
 [EPFL/Unige Campus Biotech](https://www.campusbiotech.ch/) | Fondation Campus Biotech | [Micha&euml;l Dayan](https://www.campusbiotech.ch/en/people/michael-dayan) | ![Michael Dayan](./../img/pic_MichaelDayan.jpg)  |
 [ETH](https://www.ethz.ch) | NEXUS Personalized Health Technologies | [Daniel Stekhoven](https://www.nexus.ethz.ch/people/person-detail.html?persid=143058) | ![Daniel Stekhoven](./../img/pic_DanielStekhoven.jpeg)  |
-[Lausanne University Hospital (CHUV)](https://www.chuv.ch/fr/chuv-home) | Precision Medicine Unit  | [Romain-Daniel Gosselin](https://www.chuv.ch/fr/medecine-precision/accueil/en-bref/notre-equipe/romain-daniel-gosselin) | ![Romain-Daniel Gosselin](./../img/pic_RomainDanielGosselin.jpg)  |
 [FernUni Schweiz](https://fernuni.ch)| Psychology | [Nicolas Rothen](https://fernuni.ch/forschung/forschung-fakultaeten/psychologie/forschungsgruppe-nicolas-rothen/nicolas-rothen/) | ![Nicoals Rothern](./../img/pic_NicolasRothen.jpg)  |
+[Lausanne University Hospital (CHUV)](https://www.chuv.ch/fr/chuv-home) | Precision Medicine Unit  | [Romain-Daniel Gosselin](https://www.chuv.ch/fr/medecine-precision/accueil/en-bref/notre-equipe/romain-daniel-gosselin) | ![Romain-Daniel Gosselin](./../img/pic_RomainDanielGosselin.jpg)  |
+[Haute école de gestion de Genève (HEG-Genève)](https://www.hesge.ch/heg/ ) |Data Mining and Machine Learning group  | [Grigorios Anagnostopoulos](http://dmml.ch/grigorios-anagnostopoulos/) | ![Grigorios Anagnostopoulos](./../img/pic_GrigoriosAnagnostopoulos.jpeg)  |
 [Swiss Institute of Bioinformatics (SIB)](https://www.sib.swiss/) |Bioinformatics |[Patricia Palagi](https://www.sib.swiss/directory?cn=patricia%20palagi)| ![Patricia Palagi](./../img/pic_PatriciaPalagi.jpg)  |
 [University of Basel (Unibas)](https://www.unibas.ch/en.html)| Department of Environmental Sciences| [Valentin Amrhein](https://camargue.unibas.ch) | ![Valentin Amrhein](./../img/pic_ValentinAmrhein.jpeg)  |
 [University of Bern (Unibe)](https://www.unibe.ch/index_eng.html)| Institut f&uuml;r Marketing und Unternehmensf&uuml;hrung (IMU) | [Michael Schulte-Mecklenbeck](https://www.consumer.imu.unibe.ch/ueber_uns/team/prof_dr_schulte_mecklenbeck_michael/index_ger.html) | ![Michael Schulte-Mecklenbeck](./../img/pic_MichaelSchulte-Mecklenbeck.jpg)  |
@@ -42,6 +43,8 @@ Activity |  Unit |   Institution   | Contact  |
 [Open Science Initiative](https://www.psychologie.uzh.ch/de/dienstleistungen/open-science.html) | [Department of Psychology at the University of Zurich](https://www.psychology.uzh.ch/en.html) | [UZH](https://www.uzh.ch/en.html)| [Johannes Ullrich](https://www.psychologie.uzh.ch/de/bereiche/sob/sozpsy/Team1/jullrich.html) |
 [Center for Reproducible Science](https://www.crs.uzh.ch/en.html) |  [UZH](https://www.uzh.ch/en.html)| [UZH](https://www.uzh.ch/en.html)| [Leonhard Held](https://www.ebpi.uzh.ch/en/aboutus/departments/biostatistics/teambiostats/held.html) |
 [Swiss Open Psychological Science Initiative (SOPSI)](https://www.sopsi.org/about-us) | [Faculty of Psychology and Educational Sciences](https://www.unige.ch/fapse/en/) | [Unige](https://www.unige.ch/en/university/presentation/) and [UZH](https://www.uzh.ch/en.html)|[Evie Vergauwe](https://neurocenter-unige.ch/research-groups/evie-vergauwe/)  |
+[Promoting more reliable research and communication of results](https://camargue.unibas.ch/en/reproducibility/) | [Department of Environmental Sciences](https://duw.unibas.ch/en/) | [Unibas](https://www.unibas.ch/en.html)|[Valentin Amrhein](https://camargue.unibas.ch)  |
+
 
 &nbsp;  
 

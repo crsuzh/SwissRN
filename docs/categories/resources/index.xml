@@ -5,7 +5,7 @@
     <link>http://www.swissrn.org/categories/resources/</link>
     <description>Recent content in Resources on SwissRN</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 09 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Mar 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://www.swissrn.org/categories/resources/index.xml" rel="self" type="application/rss+xml" />
     
@@ -13,15 +13,15 @@
     <item>
       <title>Resources</title>
       <link>http://www.swissrn.org/resources/</link>
-      <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 22 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>http://www.swissrn.org/resources/</guid>
       <description>Terms of Reference Terms of Reference (Version January 2021)
+ Executive Summary Executive Summary (Version March 2021)
  Presentation Slides Presentation slides on OSF
  Reproducibility Reports   The Royal Netherlands Academy of Arts and Sciences, 2018: Improving Reproducibility in the Empirical Sciences
   The National Academies of Science Engineering Medicine, 2019: Reproducibility and Replicability in Science
-  Directorate-General for Research and Innovation (European Commission), 2020: Reproducibility of scientific results in the EU
-  </description>
+  Directorate-General for Research and Innovation (European Commission), 2020: Reproducibility of scientific results in the EU</description>
     </item>
     
   </channel>
