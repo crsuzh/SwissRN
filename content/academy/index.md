@@ -7,7 +7,7 @@ categories = ["Academy"]
 +++
 
 *Ordered alphabetically by last name.*  
- [*`Ursa Bernadic`*](#UrsaBernadic)[*`Charlotte Micheloud`*](#CharlotteMicheloud)[*`Marianna Rosso`*](#MariannaRosso)
+ [*`Ursa Bernadic`*](#UrsaBernadic)[*`Charlotte Micheloud`*](#CharlotteMicheloud)[*`Samuel Pawel`*](#Samuel Pawel)[*`Marianna Rosso`*](#MariannaRosso)
 
 # {#UrsaBernadic}
 
