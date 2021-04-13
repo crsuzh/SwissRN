@@ -18,7 +18,7 @@ categories = ["Academy"]
 
 #  {#CharlotteMicheloud}
 
-|  [Charlotte Micheloud](https://orcid.org/0000-0002-4995-4505) | Reverse-Bayes Design and Analysis of Replication Studies |
+|  [Charlotte Micheloud](https://orcid.org/0000-0002-4995-4505) | Reverse-Bayes design and analysis of replication studies |
 | ----------- | :----------- |
 ||Replication studies are receiving a lot of attention in most empirical domains of science. However, there is no consensus on how to design and analyze them. The aim of my project is to further develop a new quantitative measure for the assessment of replication success based on a reverse-Bayes approach: the sceptical p-value. In particular, I am extending this approach to equivalence and non-inferiority studies, and to sequential designs. |
 ||Supervisor: Leonhard Held| 
