@@ -23,6 +23,14 @@ categories = ["Academy"]
 ||Replication studies are receiving a lot of attention in most empirical domains of science. However, there is no consensus on how to design and analyze them. The aim of my project is to further develop a new quantitative measure for the assessment of replication success based on a reverse-Bayes approach: the sceptical p-value. In particular, I am extending this approach to equivalence and non-inferiority studies, and to sequential designs. |
 ||Supervisor: Leonhard Held| 
 
+#  {#Samuel Pawel}
+
+|  [Samuel Pawel](https://orcid.org/0000-0003-2779-320X) | Reverse-Bayes design and analysis of replication studies |
+| ----------- | :----------- |
+||The focus of my PhD is Bayesian methodology for the analysis and design of replication studies. Specifically, I am investigating the combination of reverse-Bayes methods with Bayesian hypothesis testing. The aim of the project is to study theoretical properties of the approach, but also to provide scientists with computational tools that allow them to easily apply it to their research. |
+||Supervisor: Leonhard Held| 
+
+
 # {#MariannaRosso}
 
 |  [Marianna Rosso](https://www.tierschutz.vetsuisse.unibe.ch/about_us/personnel/rosso_marianna/index_eng.html) | Improving the reproducibility and translatability of animal models|
