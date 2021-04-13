@@ -117,26 +117,13 @@ pluralizeListTitles     = false
 [menu]
   # Sets the menu items in the navigation bar
   # Identifier prepends a Font Awesome icon to the menu item
-  [[menu.main]]
-    name              = "Home"
-    identifier        = "home"
-    url               = "./"
-    pre               = "<i class='fa fa-home'></i>"
-    weight            = 1
+    [[menu.main]]
+      name              = "Home"
+      identifier        = "home"
+      url               = "./"
+      pre               = "<i class='fa fa-home'></i>"
+      weight            = 1
 
-  [[menu.main]]
-    name              = "Organisation"
-    identifier        = "organisation"
-    url               = "./organisation/"
-    pre               = "<i class='fa fa-users'></i>"
-    weight            = 3
-
-  [[menu.main]]
-    name              = "News"
-    identifier        = "news"
-    url               = "./news/"
-    pre               = "<i class='far fa-calendar-alt'></i>"
-    weight            = 6
 
     [[menu.main]]
       name              = "Nodes"
@@ -145,13 +132,19 @@ pluralizeListTitles     = false
       pre               = "<i class='fa fa-sitemap'></i>"
       weight            = 2
 
+    [[menu.main]]
+      name              = "Organisation"
+      identifier        = "organisation"
+      url               = "./organisation/"
+      pre               = "<i class='fa fa-users'></i>"
+      weight            = 3
+
   # [[menu.main]]
   #   name              = "Categories"
   #   identifier        = "categories"
   #   url               = "./categories/"
   #   pre               = "<i class='fas fa-sitemap'></i>"
   #   weight            = 5
-
 
     [[menu.main]]
       name              = "Resources"
@@ -160,12 +153,26 @@ pluralizeListTitles     = false
       pre               = "<i class='fas fa-university'></i>"
       weight            = 4
 
-      [[menu.main]]
-        name              = "Initiatives"
-        identifier        = "initiatives"
-        url               = "./initiatives/"
-        pre               = "<i class='fas fa-share-alt'></i>"
-        weight            = 5
+    [[menu.main]]
+      name              = "Initiatives"
+      identifier        = "initiatives"
+      url               = "./initiatives/"
+      pre               = "<i class='fas fa-share-alt'></i>"
+      weight            = 5
+
+     [[menu.main]]
+       name              = "Academy"
+       identifier        = "academy"
+       url               = "./academy/"
+       pre               = "<i class='fas fa-user-graduate'></i>"
+       weight            = 6
+
+    [[menu.main]]
+      name              = "News"
+      identifier        = "news"
+      url               = "./news/"
+      pre               = "<i class='far fa-calendar-alt'></i>"
+      weight            = 7
 
 
 # Sets Social Media icons to appear and link to your account. Value should be your

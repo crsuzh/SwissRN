@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ERC on SwissRN</title>
+    <link>http://www.swissrn.org/tags/erc/</link>
+    <description>Recent content in ERC on SwissRN</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 13 Apr 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.swissrn.org/tags/erc/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SwissRN academy</title>
+      <link>http://www.swissrn.org/academy/</link>
+      <pubDate>Tue, 13 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.swissrn.org/academy/</guid>
+      <description>Ordered alphabetically by last name.
+Ursa BernadicCharlotte MicheloudMarianna Rosso
+    Ursa Bernardic Current practices in marketing and management journals      My aim is to investigate the current practices for replicability and transparency in the top marketing and management journals. This project will review the current practices in journals (concerning data sharing, preregistration, registered reports), and compare them to advances in connected fields (i.e. economics, psychology, neuroscience).</description>
+    </item>
+    
+  </channel>
+</rss>
