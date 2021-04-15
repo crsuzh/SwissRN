@@ -6,7 +6,15 @@ tags = [ "ERC"]
 categories = ["Academy"]
 +++
 
+
+### Organisation and membership
+
+The SwissRN Academy connects doctoral students at SwissRN member institutions who are working on topics related to reproducibility, research reliability, transparency, metascience or similar research topics. The SwissRN contact for the Academy is [Leonhard Held](https://www.ebpi.uzh.ch/en/aboutus/departments/biostatistics/teambiostats/held.html). Other Reproducibility Networks have established similar academies, e.g. the [UKRN Academy](https://www.ukrn.org/ukrn-academy/), and international connections are foreseen as well.
+
+### PhD student profiles
+
 *Ordered alphabetically by last name.*  
+
  [*`Ursa Bernadic`*](#UrsaBernadic)[*`Charlotte Micheloud`*](#CharlotteMicheloud)[*`Samuel Pawel`*](#SamuelPawel)[*`Marianna Rosso`*](#MariannaRosso)
 
 # {#UrsaBernadic}

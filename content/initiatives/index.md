@@ -65,6 +65,9 @@ Contact: [Eva Furrer](eva.furrer@uzh.ch)
 ReproducibiliTea is a grassroots journal club initiative that helps researchers create local Open Science journal clubs at their universities to discuss diverse issues, papers and ideas about improving science, reproducibility and the Open Science movement, see [https://reproducibilitea.org/](https://www.crs.uzh.ch/en/training/ReproducibiliTea.html).
 
 ReproducibiliTeas at SwissRN local nodes: 
+* Basel: [https://osf.io/kp98v/](https://osf.io/kp98v/)
+* Bern: [https://unibe-reptea.netlify.app/](https://unibe-reptea.netlify.app/)
+* Geneva: [https://reproducibilitea.org/journal-clubs/#Geneva](https://reproducibilitea.org/journal-clubs/#Geneva)
 * Zurich: [https://www.crs.uzh.ch/en/training/ReproducibiliTea.html](https://www.crs.uzh.ch/en/training/ReproducibiliTea.html)
 
 [*`Back to top`*](#)
