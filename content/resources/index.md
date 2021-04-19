@@ -28,6 +28,8 @@ categories = ["Resources"]
 
 * Directorate-General for Research and Innovation (European Commission), 2020: [Reproducibility of scientific results in the EU](https://op.europa.eu/en/publication-detail/-/publication/6bc538ad-344f-11eb-b27b-01aa75ed71a1/language-en)
 
+&nbsp;
+
 
 ### Courses related to Reproducibility and Good Research Practice
 Course title | Host institution | Contact person
