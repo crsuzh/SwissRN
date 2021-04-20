@@ -3,12 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://www.swissrn.org/categories/academy/</loc>
-    <lastmod>2021-04-13T00:00:00+00:00</lastmod>
+    <loc>http://www.swissrn.org/tags/april-2021/</loc>
+    <lastmod>2021-04-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://www.swissrn.org/categories/</loc>
+    <lastmod>2021-04-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.swissrn.org/news/</loc>
+    <lastmod>2021-04-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.swissrn.org/categories/newsletter/</loc>
+    <lastmod>2021-04-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.swissrn.org/</loc>
+    <lastmod>2021-04-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.swissrn.org/news/newsletter202104april/</loc>
+    <lastmod>2021-04-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.swissrn.org/tags/</loc>
+    <lastmod>2021-04-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.swissrn.org/categories/academy/</loc>
     <lastmod>2021-04-13T00:00:00+00:00</lastmod>
   </url>
   
@@ -18,17 +48,7 @@
   </url>
   
   <url>
-    <loc>http://www.swissrn.org/</loc>
-    <lastmod>2021-04-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://www.swissrn.org/academy/</loc>
-    <lastmod>2021-04-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.swissrn.org/tags/</loc>
     <lastmod>2021-04-13T00:00:00+00:00</lastmod>
   </url>
   
@@ -104,11 +124,6 @@
   
   <url>
     <loc>http://www.swissrn.org/categories/news/</loc>
-    <lastmod>2020-11-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.swissrn.org/news/</loc>
     <lastmod>2020-11-16T00:00:00+00:00</lastmod>
   </url>
   
