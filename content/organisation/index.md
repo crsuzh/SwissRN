@@ -28,8 +28,9 @@ Institution |  | Contact
 [FernUni Schweiz / UniDistance Suisse](https://fernuni.ch/)| ![alt text](./../img/Logo_kurz_bi_small.jpg "FernUni Schweiz / UniDistance Suisse") | [Prof. Dr. Walter Perrig](https://fernuni.ch/ueber-uns/organisation/direktion/), Vice Rector Research |
 [University of Basel](https://www.unibas.ch) | ![alt text](./../img/UniBas_Logo_EN_Schwarz_RGB_65.jpg "University of Basel") | [Dr. Frank Neumann](https://www.unibas.ch/en/University/Administration-Services/Vice-President-for-Research/Research-Office.html), Head Research Office |
 [University of Bern](https://www.unibe.ch) | ![alt text](./../img/logo_unibern.png "University of Bern") |  |
-[University of Geneva](https://www.unige.ch) | ![alt text](./../img/logo_unige.png "University of Geneva") |[Prof. Dr. Antoine Geissbuhler](https://www.unige.ch/rectorat/en/home/vice-recteur-antoine-geissbuhler/), vice-rector digital transformation  |
-[University of Zurich](https://www.uzh.ch) | ![alt text](./../img/logo_uzh.png "University of Zurich") | [Prof. Dr. Elisabeth Stark](https://www.research.uzh.ch/de/vp/Prorektor-in-Forschung.html), Vice Presiden Research |
+[University of Geneva](https://www.unige.ch) | ![alt text](./../img/logo_unige.png "University of Geneva") |[Prof. Dr. Antoine Geissbuhler](https://www.unige.ch/rectorat/en/home/vice-recteur-antoine-geissbuhler/), Vice-rector Digital Transformation  |
+[University of Fribourg](https://www.unifr.ch) | ![alt text](./../img/UNF_Logo_100pr_pos.png "University of Fribourg") |[Prof. Dr. Bernhard Ries](https://www.unifr.ch/uni/fr/organisation/direction/relations-internationales/ries.html), Vice-rector  International Relations, Digitalisation and Interdisciplinarity  |
+[University of Zurich](https://www.uzh.ch) | ![alt text](./../img/logo_uzh.png "University of Zurich") | [Prof. Dr. Elisabeth Stark](https://www.research.uzh.ch/de/vp/Prorektor-in-Forschung.html), Vice President Research |
 
 
 &nbsp;  
