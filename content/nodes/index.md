@@ -1,6 +1,6 @@
 +++
 title = "Nodes"
-date = "2021-03-22"
+date = "2021-05-04"
 tags = ["Local Nodes"]
 categories = ["Organisation"]
 +++
@@ -24,6 +24,7 @@ Institution |  Unit |   Contact   |  |
 [FernUni Schweiz](https://fernuni.ch)| Psychology | [Nicolas Rothen](https://fernuni.ch/forschung/forschung-fakultaeten/psychologie/forschungsgruppe-nicolas-rothen/nicolas-rothen/) | ![Nicoals Rothern](./../img/pic_NicolasRothen.jpg)  |
 [Lausanne University Hospital (CHUV)](https://www.chuv.ch/fr/chuv-home) | Precision Medicine Unit  | [Romain-Daniel Gosselin](https://www.chuv.ch/fr/medecine-precision/accueil/en-bref/notre-equipe/romain-daniel-gosselin) | ![Romain-Daniel Gosselin](./../img/pic_RomainDanielGosselin.jpg)  |
 [Haute école de gestion de Genève (HEG-Genève)](https://www.hesge.ch/heg/ ) |Data Mining and Machine Learning group  | [Grigorios Anagnostopoulos](http://dmml.ch/grigorios-anagnostopoulos/) | ![Grigorios Anagnostopoulos](./../img/pic_GrigoriosAnagnostopoulos.jpeg)  |
+[St.Gallen University of Teacher Education](https://www.phsg.ch/en)|Research Methods Working Group| [Michael Beck](https://www.phsg.ch/de/team/prof-dr-michael-beck) | ![Michael Beck](./../img/pic_MichaelBeck.jpg)  |
 [Swiss Institute of Bioinformatics (SIB)](https://www.sib.swiss/) |Bioinformatics |[Patricia Palagi](https://www.sib.swiss/directory?cn=patricia%20palagi)| ![Patricia Palagi](./../img/pic_PatriciaPalagi.jpg)  |
 [University of Basel (Unibas)](https://www.unibas.ch/en.html)| Department of Environmental Sciences| [Valentin Amrhein](https://camargue.unibas.ch/en/team/valentin-amrhein/) | ![Valentin Amrhein](./../img/pic_ValentinAmrhein.jpeg)  |
 [University of Bern (Unibe)](https://www.unibe.ch/index_eng.html)| Institut f&uuml;r Marketing und Unternehmensf&uuml;hrung (IMU) | [Michael Schulte-Mecklenbeck](https://www.consumer.imu.unibe.ch/ueber_uns/team/prof_dr_schulte_mecklenbeck_michael/index_ger.html) | ![Michael Schulte-Mecklenbeck](./../img/pic_MichaelSchulte-Mecklenbeck.jpg)  |

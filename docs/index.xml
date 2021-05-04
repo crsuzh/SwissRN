@@ -5,10 +5,21 @@
     <link>http://www.swissrn.org/</link>
     <description>Recent content on SwissRN</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 20 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 May 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://www.swissrn.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Nodes</title>
+      <link>http://www.swissrn.org/nodes/</link>
+      <pubDate>Tue, 04 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.swissrn.org/nodes/</guid>
+      <description>Local Node Leaders Local Node Activities How to join
+Local Nodes of the SwissRN build the backbone of the network by initiating and coordinating activities at universities and other research institutions. Activities of local nodes are manifold, e.g.
+ open research working groups, ReproducibiliTea journal clubs, organisation of training activities such as carpentries workshops, grant and ethics peer review groups etc.  The organisation of local nodes differs from institution to institutions from a formalized administration to informal grassroot groups.</description>
+    </item>
     
     <item>
       <title>SwissRN Newsletter</title>
@@ -46,17 +57,6 @@ Ursa BernadicCharlotte MicheloudSamuel PawelMarianna Rosso
  Reproducibility Reports   The Royal Netherlands Academy of Arts and Sciences, 2018: Improving Reproducibility in the Empirical Sciences
   The National Academies of Science Engineering Medicine, 2019: Reproducibility and Replicability in Science
   Directorate-General for Research and Innovation (European Commission), 2020: Reproducibility of scientific results in the EU</description>
-    </item>
-    
-    <item>
-      <title>Nodes</title>
-      <link>http://www.swissrn.org/nodes/</link>
-      <pubDate>Mon, 22 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.swissrn.org/nodes/</guid>
-      <description>Local Node Leaders Local Node Activities How to join
-Local Nodes of the SwissRN build the backbone of the network by initiating and coordinating activities at universities and other research institutions. Activities of local nodes are manifold, e.g.
- open research working groups, ReproducibiliTea journal clubs, organisation of training activities such as carpentries workshops, grant and ethics peer review groups etc.  The organisation of local nodes differs from institution to institutions from a formalized administration to informal grassroot groups.</description>
     </item>
     
     <item>

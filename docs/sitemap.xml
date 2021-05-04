@@ -3,12 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://www.swissrn.org/tags/april-2021/</loc>
-    <lastmod>2021-04-20T00:00:00+00:00</lastmod>
+    <loc>http://www.swissrn.org/categories/</loc>
+    <lastmod>2021-05-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.swissrn.org/categories/</loc>
+    <loc>http://www.swissrn.org/tags/local-nodes/</loc>
+    <lastmod>2021-05-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.swissrn.org/nodes/</loc>
+    <lastmod>2021-05-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.swissrn.org/categories/organisation/</loc>
+    <lastmod>2021-05-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.swissrn.org/</loc>
+    <lastmod>2021-05-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.swissrn.org/tags/</loc>
+    <lastmod>2021-05-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.swissrn.org/tags/april-2021/</loc>
     <lastmod>2021-04-20T00:00:00+00:00</lastmod>
   </url>
   
@@ -23,17 +48,7 @@
   </url>
   
   <url>
-    <loc>http://www.swissrn.org/</loc>
-    <lastmod>2021-04-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://www.swissrn.org/news/newsletter202104april/</loc>
-    <lastmod>2021-04-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.swissrn.org/tags/</loc>
     <lastmod>2021-04-20T00:00:00+00:00</lastmod>
   </url>
   
@@ -65,21 +80,6 @@
   <url>
     <loc>http://www.swissrn.org/tags/terms-of-references/</loc>
     <lastmod>2021-03-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.swissrn.org/tags/local-nodes/</loc>
-    <lastmod>2021-03-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.swissrn.org/nodes/</loc>
-    <lastmod>2021-03-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.swissrn.org/categories/organisation/</loc>
-    <lastmod>2021-03-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
