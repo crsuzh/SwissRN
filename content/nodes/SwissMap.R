@@ -30,6 +30,8 @@ maps2[[5]] +
   # Neuchâtel
   geom_point(aes(x=561256, y=204454), colour="#dd1572") +
   # Lugano
-  geom_point(aes(x=717505, y=96295), colour="#dd1572")
+  geom_point(aes(x=717505, y=96295), colour="#dd1572") +
+  # St. Gallen
+  geom_point(aes(x=746284, y=254335), colour="#dd1572")
 
 
