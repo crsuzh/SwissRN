@@ -51,8 +51,9 @@ Stakeholders who support the SwissRN form the Stakeholder Engagement Group with 
 
 Institution |  | Contact |
 --------------|-------------|---|
-[Swiss National Science Foundation](http://www.snf.ch/en/Pages/default.aspx/)| ![alt text](./../img/stakeholder_snf.png "Logo Title Text 1") | Katrin Milzow, head of strategy |
-[Swiss Academies of Arts and Sciences](http://www.swiss-academies.ch/en/index/Aktuell/News.html)| ![alt text](./../img/stakeholder_swissacademies.png "Logo Title Text 1") | Claudia Appenzeller  |
+[Swiss National Science Foundation](http://www.snf.ch/en/Pages/default.aspx/)| ![SNF](./../img/stakeholder_snf.png "SNF") | Katrin Milzow, head of strategy |
+[Swiss Academies of Arts and Sciences](http://www.swiss-academies.ch/en/index/Aktuell/News.html)| ![Academies](./../img/stakeholder_swissacademies.png "Academies") | Claudia Appenzeller  |
+[FORS - Swiss Centre of Expertise in the Social Sciences](https://www.forscenter)| ![FORS](./../img/forslogo.png "FORS") | Marieke Heers |
 
 &nbsp;  
 
