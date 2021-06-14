@@ -1,5 +1,5 @@
 +++
-author = "Eva Furrer"
+author = "Updated by Eva Furrer"
 title = "SwissRN academy"
 date = "2021-04-13"
 tags = [ "ERC"]
@@ -9,7 +9,7 @@ categories = ["Academy"]
 
 ### Organisation and membership
 
-The SwissRN Academy connects doctoral students at SwissRN member institutions who are working on topics related to reproducibility, research reliability, transparency, metascience or similar research topics. The SwissRN contact for the Academy is [Leonhard Held](https://www.ebpi.uzh.ch/en/aboutus/departments/biostatistics/teambiostats/held.html). Other Reproducibility Networks have established similar academies, e.g. the [UKRN Academy](https://www.ukrn.org/ukrn-academy/), and international connections are foreseen as well.
+The SwissRN Academy connects doctoral students at SwissRN member institutions who are working on topics related to reproducibility, research reliability, transparency, metascience or similar research topics. The SwissRN contact for the Academy is [Leonhard Held](https://www.ebpi.uzh.ch/en/aboutus/departments/biostatistics/teambiostats/held.html). Other Reproducibility Networks have established similar academies, such as the [UKRN Academy](https://www.ukrn.org/ukrn-academy/).
 
 ### PhD student profiles
 
@@ -21,7 +21,7 @@ The SwissRN Academy connects doctoral students at SwissRN member institutions wh
 
 |  [Ursa Bernardic](https://orcid.org/0000-0001-5503-9736) | Current practices in marketing and management journals |
 | ----------- | :----------- |
-||My aim is to investigate the current practices for replicability and transparency in the top marketing and management journals. This project will review the current practices in journals (concerning data sharing, preregistration, registered reports), and compare them to advances in connected fields (i.e. economics, psychology, neuroscience). These insights will be used to 1) provide the current state of the art in marketing and management journals, 2) design a qualitative questionnaire examining the view of stakeholders (to be collected in the conference), 3) inform journal policies about possible improvements. |
+||My aim is to investigate the current practices for replicability and transparency in the top marketing and management journals (concerning data sharing, preregistration, registered reports), and compare them to advances in connected fields (i.e. economics, psychology, neuroscience). These insights will be used to 1) provide the current state of the art in marketing and management journals, 2) design a qualitative questionnaire examining the view of stakeholders, 3) inform journal policies about possible improvements. |
 ||Supervisor: Giuseppe Ugazio| 
 
 #  {#CharlotteMicheloud}

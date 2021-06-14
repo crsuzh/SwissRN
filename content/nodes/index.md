@@ -1,19 +1,20 @@
 +++
+author = "Updated by Eva Furrer"
 title = "Nodes"
-date = "2021-05-04"
+date = "2021-05-21"
 tags = ["Local Nodes"]
 categories = ["Organisation"]
 +++
-[*`Local Node Leaders`*](#local-node-leaders) [*`Local Node Activities`*](#local-node-activities) [*`How to join`*](#how-to-join)
+`Go to:` [*`Local Node Leaders`*](#local-node-leaders) [*`Local Node Activities`*](#local-node-activities) [*`How to join`*](#how-to-join)
 
 Local Nodes of the SwissRN build the backbone of the network by initiating and coordinating activities at universities and other research institutions. Activities of local nodes are manifold, e.g.
 
-* open research working groups,
-* ReproducibiliTea journal clubs,
-* organisation of training activities such as carpentries workshops,
-* grant and ethics peer review groups etc.
+* open research working groups
+* ReproducibiliTea journal clubs
+* organisation of training activities such as carpentries workshops
+* grant and ethics peer review groups etc
 
-The organisation of local nodes differs from institution to institutions from a formalized administration to informal grassroot groups. SwissRN encourages to ensure that membership is open to academic and research staff (at all levels) and professional services staff. Each Local Node has a Local Network Leader providing the point of contact for SwissRN.
+The organisation of local nodes differs from institution to institution: from a formalized administration to informal grassroot groups. SwissRN encourages to ensure that membership is open to academic and research staff (at all levels) and professional services staff. Each Local Node has a Local Node Leader providing the point of contact for SwissRN.
 
 ### Local Node Leaders {#local-node-leaders}
 Institution |  Unit |   Contact   |  |

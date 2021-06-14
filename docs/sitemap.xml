@@ -4,32 +4,77 @@
   
   <url>
     <loc>http://www.swissrn.org/categories/</loc>
-    <lastmod>2021-05-04T00:00:00+00:00</lastmod>
+    <lastmod>2021-06-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.swissrn.org/tags/local-nodes/</loc>
-    <lastmod>2021-05-04T00:00:00+00:00</lastmod>
+    <loc>http://www.swissrn.org/categories/initiatives/</loc>
+    <lastmod>2021-06-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.swissrn.org/nodes/</loc>
-    <lastmod>2021-05-04T00:00:00+00:00</lastmod>
+    <loc>http://www.swissrn.org/initiatives/</loc>
+    <lastmod>2021-06-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.swissrn.org/categories/organisation/</loc>
-    <lastmod>2021-05-04T00:00:00+00:00</lastmod>
+    <loc>http://www.swissrn.org/tags/reproducibilitea/</loc>
+    <lastmod>2021-06-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.swissrn.org/categories/resources/</loc>
+    <lastmod>2021-06-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.swissrn.org/resources/</loc>
+    <lastmod>2021-06-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://www.swissrn.org/</loc>
-    <lastmod>2021-05-04T00:00:00+00:00</lastmod>
+    <lastmod>2021-06-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://www.swissrn.org/tags/</loc>
-    <lastmod>2021-05-04T00:00:00+00:00</lastmod>
+    <lastmod>2021-06-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.swissrn.org/tags/terms-of-references/</loc>
+    <lastmod>2021-06-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.swissrn.org/tags/working-groups/</loc>
+    <lastmod>2021-06-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.swissrn.org/tags/committees/</loc>
+    <lastmod>2021-05-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.swissrn.org/categories/organisation/</loc>
+    <lastmod>2021-05-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.swissrn.org/organisation/</loc>
+    <lastmod>2021-05-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.swissrn.org/tags/local-nodes/</loc>
+    <lastmod>2021-05-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.swissrn.org/nodes/</loc>
+    <lastmod>2021-05-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -65,51 +110,6 @@
   <url>
     <loc>http://www.swissrn.org/academy/</loc>
     <lastmod>2021-04-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.swissrn.org/categories/resources/</loc>
-    <lastmod>2021-03-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.swissrn.org/resources/</loc>
-    <lastmod>2021-03-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.swissrn.org/tags/terms-of-references/</loc>
-    <lastmod>2021-03-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.swissrn.org/tags/committees/</loc>
-    <lastmod>2021-02-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.swissrn.org/organisation/</loc>
-    <lastmod>2021-02-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.swissrn.org/categories/initiatives/</loc>
-    <lastmod>2021-01-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.swissrn.org/initiatives/</loc>
-    <lastmod>2021-01-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.swissrn.org/tags/reproducibilitea/</loc>
-    <lastmod>2021-01-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.swissrn.org/tags/working-groups/</loc>
-    <lastmod>2021-01-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>

@@ -1,6 +1,7 @@
 +++
+author = "Updated by Eva Furrer"
 title = "Resources"
-date = "2021-03-25"
+date = "2021-06-14"
 tags = [ "Terms of References"]
 categories = ["Resources"]
 +++
@@ -39,3 +40,5 @@ Course title | Host institution | Contact person
 [NeuroImaging Data Science (NIDS): neuroimaging module](https://www.unil.ch/files/live/sites/ln/files/shared/courses/NIDS_Dayan2020.pdf) | Foundation Campus Biotech Geneva (FCBG) | Michael Dayan
 [Good Statistical Practice](https://studentservices.uzh.ch/uzh/anonym/vvz/index.html?sap-language=DE&sap-ui-language=DE#/details/2020/003/SM/50954674)| University of Zurich | Eva Furrer
 [Various courses](https://www.sib.swiss/training/upcoming-training-courses)| SIB Swiss Institute of Bioinformatics | Patricia Palagi
+[Understanding Statistics](https://edu.epfl.ch/coursebook/en/understanding-statistics-and-experimental-design-BIO-449)| EPFL | Michael Herzog
+

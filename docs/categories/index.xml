@@ -5,15 +5,33 @@
     <link>http://www.swissrn.org/categories/</link>
     <description>Recent content in Categories on SwissRN</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 04 May 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Jun 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://www.swissrn.org/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Initiatives</title>
+      <link>http://www.swissrn.org/categories/initiatives/</link>
+      <pubDate>Mon, 14 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.swissrn.org/categories/initiatives/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resources</title>
+      <link>http://www.swissrn.org/categories/resources/</link>
+      <pubDate>Mon, 14 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.swissrn.org/categories/resources/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Organisation</title>
       <link>http://www.swissrn.org/categories/organisation/</link>
-      <pubDate>Tue, 04 May 2021 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 31 May 2021 00:00:00 +0000</pubDate>
       
       <guid>http://www.swissrn.org/categories/organisation/</guid>
       <description></description>
@@ -34,24 +52,6 @@
       <pubDate>Tue, 13 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>http://www.swissrn.org/categories/academy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Resources</title>
-      <link>http://www.swissrn.org/categories/resources/</link>
-      <pubDate>Thu, 25 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.swissrn.org/categories/resources/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Initiatives</title>
-      <link>http://www.swissrn.org/categories/initiatives/</link>
-      <pubDate>Thu, 07 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.swissrn.org/categories/initiatives/</guid>
       <description></description>
     </item>
     

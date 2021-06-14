@@ -1,11 +1,12 @@
-  +++
++++
+author = "Updated by Eva Furrer"
 title = "Organisation"
-date = "2021-02-03"
+date = "2021-05-31"
 tags = ["Committees"]
 categories = ["Organisation"]
 
 +++
- [*`Steering Committee`*](#steering-committee) [*`Institutions`*](#institutions) [*`Stakeholders`*](#stakeholders) [*`Advisory Board`*](#advisory-board)  [*`Coordinator`*](#coordinator)
+`Go to:` [*`Steering Committee`*](#steering-committee) [*`Institutions`*](#institutions) [*`Stakeholders`*](#stakeholders) [*`Advisory Board`*](#advisory-board)  [*`Coordinator`*](#coordinator)
 
 ### Steering Committee {#steering-committee}
 The steering committee is responsible for the overall coordination of SwissRN activity and strategy.
@@ -20,10 +21,10 @@ Institution | Unit |   Name   |  |
 
 
 ### Institutions  {#institutions}  
-Member institutions of the SwissRN have formally committed to support the aims of SwissRN and have started their implementation at the institution. Current institutional members are:
+Member institutions of the SwissRN are formally committed to support the aims of SwissRN and begun implementing them. Current institutional members are:
 
 
-Institution |  | Contact
+Institution |  | Contact person
 --------|------ |------
 [FernUni Schweiz / UniDistance Suisse](https://fernuni.ch/)| ![alt text](./../img/Logo_kurz_bi_small.jpg "FernUni Schweiz / UniDistance Suisse") | [Prof. Dr. Walter Perrig](https://fernuni.ch/ueber-uns/organisation/direktion/), Vice Rector Research |
 [University of Basel](https://www.unibas.ch) | ![alt text](./../img/UniBas_Logo_EN_Schwarz_RGB_65.jpg "University of Basel") | [Dr. Frank Neumann](https://www.unibas.ch/en/University/Administration-Services/Vice-President-for-Research/Research-Office.html), Head Research Office |
@@ -49,11 +50,11 @@ Stakeholders who support the SwissRN form the Stakeholder Engagement Group with 
 * facilitating feedback on new stakeholder initiatives
 &nbsp;
 
-Institution |  | Contact |
+Institution |  | Contact person |
 --------------|-------------|---|
-[Swiss National Science Foundation](http://www.snf.ch/en/Pages/default.aspx/)| ![SNF](./../img/stakeholder_snf.png "SNF") | Katrin Milzow, head of strategy |
+[Swiss National Science Foundation](http://www.snf.ch/en/Pages/default.aspx/)| ![SNF](./../img/stakeholder_snf.png "SNF") | Dr. Katrin Milzow, head of strategy |
 [Swiss Academies of Arts and Sciences](http://www.swiss-academies.ch/en/index/Aktuell/News.html)| ![Academies](./../img/stakeholder_swissacademies.png "Academies") | Claudia Appenzeller  |
-[FORS - Swiss Centre of Expertise in the Social Sciences](https://www.forscenter)| ![FORS](./../img/forslogo.png "FORS") | Marieke Heers |
+[FORS - Swiss Centre of Expertise in the Social Sciences](https://www.forscenter)| ![FORS](./../img/forslogo.png "FORS") | Dr. Marieke Heers |
 
 &nbsp;  
 
@@ -61,7 +62,7 @@ Institution |  | Contact |
 
 Potential stakeholders include funders (both governmental and charity) and non-profit organizations that are part of the academic environment. To become a member of the Stakeholder Engagement Group an organization has to provide direct financial support or support in kind to SwissRN and is required to agree to our mission and values.
 
-If you would like to become a supporter of the Swiss Reproducibility Network, please send an email to [Eva Furrer](mailto:eva.furrer@uzh.ch).
+If you would like to become a member of the Stakeholder Engagement Group of the Swiss Reproducibility Network, please send an email to [Eva Furrer](mailto:eva.furrer@uzh.ch).
 
 ### Advisory Board {#advisory-board}
 An external Advisory Board comprising academics from the international research community with expertise related to the goals of the network supports the steering committee regarding strategy and direction.

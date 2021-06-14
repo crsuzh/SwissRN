@@ -116,7 +116,7 @@ body, input, select, textarea {
 
 a {
   border-bottom: dotted 1px rgba(160, 160, 160, 0.65);
-  color: inherit;
+  color: #222460;
   text-decoration: none;
   -webkit-transition: color .2s ease, border-bottom-color 0.2s ease;
   -moz-transition: color .2s ease, border-bottom-color 0.2s ease;
@@ -131,7 +131,7 @@ a {
     transition: color ease; }
   a:hover {
     border-bottom-color: transparent;
-    color: #2ebaae; }
+    color: #222460; }
 
 h1, h2, h3, h4, h5, h6 {
   color: #3c3b3b;
@@ -151,9 +151,9 @@ blockquote {
     margin-bottom: 0; }
 
 code {
-  border: solid 1px rgba(160, 160, 160, 0.3);
+  border: solid 0px rgba(160, 160, 160, 0.3);
   font-family: "Courier New", monospace;
-  font-size: 0.9em;
+  font-size: 0.8em;
   margin: 0 0.25em;
   padding: 0.25em 0.65em;
   overflow-x: auto; }
@@ -210,8 +210,8 @@ input[type="button"],
   input[type="reset"]:hover,
   input[type="button"]:hover,
   .button:hover {
-    border: solid 1px #2ebaae;
-    color: #2ebaae !important; }
+    border: solid 1px #222460;
+    color: #222460 !important; }
     input[type="submit"]:hover:active,
     input[type="reset"]:hover:active,
     input[type="button"]:hover:active,
@@ -233,14 +233,14 @@ input, select, textarea {
   padding: 0 1em;
   width: 100%; }
   input:hover, select:hover, textarea:hover {
-    border-color: #2ebaae;
+    border-color: #222460;
     -webkit-transition: border-color 0.3s ease-in-out;
     -moz-transition: border-color 0.3s ease-in-out;
     -ms-transition: border-color 0.3s ease-in-out;
     -o-transition: border-color 0.3s ease-in-out;
     transition: border-color 0.3s ease-in-out; }
   input:focus, input:active, select:focus, select:active, textarea:focus, textarea:active {
-    border: solid 1px #2ebaae; }
+    border: solid 1px #222460; }
 
 input, select {
   height: 2.75em; }
@@ -506,8 +506,8 @@ table {
   text-transform: uppercase;
   width: fit-content; }
   .button:hover {
-    border: solid 1px #2ebaae;
-    color: #2ebaae !important; }
+    border: solid 1px #222460;
+    color: #222460 !important; }
   .button:active {
     background-color: rgba(46, 186, 174, 0.05); }
 
