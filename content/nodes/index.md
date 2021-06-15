@@ -3,7 +3,7 @@ author = "Updated by Eva Furrer"
 title = "Nodes"
 date = "2021-05-21"
 tags = ["Local Nodes"]
-categories = ["Organisation"]
+categories = ["Nodes"]
 +++
 `Go to:` [*`Local Node Leaders`*](#local-node-leaders)    &nbsp; [*`Local Node Activities`*](#local-node-activities)    &nbsp; [*`How to join`*](#how-to-join)
 
