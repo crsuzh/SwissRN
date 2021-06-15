@@ -15,7 +15,7 @@ The SwissRN Academy connects doctoral students at SwissRN member institutions wh
 
 *Ordered alphabetically by last name.*  
 
- [*`Ursa Bernadic`*](#UrsaBernadic)[*`Charlotte Micheloud`*](#CharlotteMicheloud)[*`Samuel Pawel`*](#SamuelPawel)[*`Marianna Rosso`*](#MariannaRosso)
+ [*`Ursa Bernadic`*](#UrsaBernadic)    &nbsp;[*`Charlotte Micheloud`*](#CharlotteMicheloud)    &nbsp;[*`Samuel Pawel`*](#SamuelPawel)    &nbsp;[*`Marianna Rosso`*](#MariannaRosso)
 
 # {#UrsaBernadic}
 
