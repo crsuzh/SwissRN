@@ -5,7 +5,7 @@ date = "2021-05-21"
 tags = ["Local Nodes"]
 categories = ["Organisation"]
 +++
-`Go to:` [*`Local Node Leaders`*](#local-node-leaders) [*`Local Node Activities`*](#local-node-activities) [*`How to join`*](#how-to-join)
+`Go to:` [*`Local Node Leaders`*](#local-node-leaders)    &nbsp; [*`Local Node Activities`*](#local-node-activities)    &nbsp; [*`How to join`*](#how-to-join)
 
 Local Nodes of the SwissRN build the backbone of the network by initiating and coordinating activities at universities and other research institutions. Activities of local nodes are manifold, e.g.
 

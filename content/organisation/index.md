@@ -6,7 +6,7 @@ tags = ["Committees"]
 categories = ["Organisation"]
 
 +++
-`Go to:` [*`Steering Committee`*](#steering-committee) [*`Institutions`*](#institutions) [*`Stakeholders`*](#stakeholders) [*`Advisory Board`*](#advisory-board)  [*`Coordinator`*](#coordinator)
+`Go to:` [*`Steering Committee`*](#steering-committee)    &nbsp; [*`Institutions`*](#institutions)    &nbsp; [*`Stakeholders`*](#stakeholders)    &nbsp; [*`Advisory Board`*](#advisory-board)    &nbsp; [*`Coordinator`*](#coordinator)
 
 ### Steering Committee {#steering-committee}
 The steering committee is responsible for the overall coordination of SwissRN activity and strategy.
