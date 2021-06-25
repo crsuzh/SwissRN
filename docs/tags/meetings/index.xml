@@ -5,10 +5,21 @@
     <link>http://www.swissrn.org/tags/meetings/</link>
     <description>Recent content in Meetings on SwissRN</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 14 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Jun 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://www.swissrn.org/tags/meetings/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>European Reproducibility Summit 2021</title>
+      <link>http://www.swissrn.org/news/europeansummit2021/</link>
+      <pubDate>Fri, 25 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.swissrn.org/news/europeansummit2021/</guid>
+      <description>The first European Reproducibility summit will take place on September 30, 2021 at the University of Bern. Leaders of current and emerging European Reproducibility Networks will meet with the goal of discussing collaboration and coordination. Many of those leaders will stay as guests for the SwissRN Annual Meeting on Ocotber 1st.
+List of confirmed attendees:
+   Name Institution Country     Dirnagl, Ulrich Charité Universitätsmedizin Berlin Germany   Ijzerman, Hans Roch Université Grenoble Alpes France   Lakens, Daniel Eindhoven University of Technology The Netherlands   Munafo, Marcus University of Bristol UK   Nilsonne, Gustave Karolinska Institutet, Stockholm Sweden   Scherer, Andreas Institute for Molecular Medicine Finland, Helsinki Finland   Souza, Alessandra University of Porto Portugal   Zogmaister, Cristina University of Milan – Bicocca Italy     </description>
+    </item>
     
     <item>
       <title>SwissRN Annual Meeting 2021</title>
