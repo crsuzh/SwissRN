@@ -14,7 +14,7 @@ Local Nodes of the SwissRN build the backbone of the network by initiating and c
 * organisation of training activities such as carpentries workshops
 * grant and ethics peer review groups etc
 
-The organisation of local nodes differs from institution to institution: from a formalized administration to informal grassroot groups. SwissRN encourages to ensure that membership is open to academic and research staff (at all levels) and professional services staff. Each Local Node has a Local Node Leader providing the point of contact for SwissRN.
+The organisation of local nodes differs from institution to institution: from a formalised administration to informal grassroot groups. SwissRN encourages to ensure that membership is open to academic and research staff (at all levels) and professional services staff. Each Local Node has a Local Node Leader providing the point of contact for SwissRN.
 
 ### Local Node Leaders {#local-node-leaders}
 Institution |  Unit |   Contact   |  |
