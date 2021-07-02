@@ -43,7 +43,7 @@ Institution |  Unit |   Contact   |  |
 ### Local Node Activities {#local-node-activities}
 Activity |  Unit |   Institution   | Contact  |
 --------------|---|-------------|---|
-[Open Science Initiative](https://www.psychologie.uzh.ch/de/dienstleistungen/open-science.html) | [Department of Psychology at the University of Zurich](https://www.psychology.uzh.ch/en.html) | [UZH](https://www.uzh.ch/en.html)| [Johannes Ullrich](https://www.psychologie.uzh.ch/de/bereiche/sob/sozpsy/Team1/jullrich.html) |
+[Open Science Initiative](https://www.psychologie.uzh.ch/de/dienstleistungen/open-science.html) | [Department of Psychology](https://www.psychology.uzh.ch/en.html) | [UZH](https://www.uzh.ch/en.html)| [Johannes Ullrich](https://www.psychologie.uzh.ch/de/bereiche/sob/sozpsy/Team1/jullrich.html) |
 [Center for Reproducible Science](https://www.crs.uzh.ch/en.html) |  [UZH](https://www.uzh.ch/en.html)| [UZH](https://www.uzh.ch/en.html)| [Leonhard Held](https://www.ebpi.uzh.ch/en/aboutus/departments/biostatistics/teambiostats/held.html) |
 [Swiss Open Psychological Science Initiative (SOPSI)](https://www.sopsi.org/about-us) | [Faculty of Psychology and Educational Sciences](https://www.unige.ch/fapse/en/) | [Unige](https://www.unige.ch/en/university/presentation/) and [UZH](https://www.uzh.ch/en.html)|[Evie Vergauwe](https://neurocenter-unige.ch/research-groups/evie-vergauwe/)  |
 [Promoting more reliable research and communication of results](https://camargue.unibas.ch/en/reproducibility/) | [Department of Environmental Sciences](https://duw.unibas.ch/en/) | [Unibas](https://www.unibas.ch/en.html)|[Valentin Amrhein](https://camargue.unibas.ch/en/team/valentin-amrhein/)  |
@@ -52,4 +52,4 @@ Activity |  Unit |   Institution   | Contact  |
 &nbsp;  
 
 ### How to join {#how-to-join}
-If you are organizing a local group with pertinent activities/goals and want to become a Local SwissRN Node please send an email to [Eva Furrer](mailto:eva.furrer@uzh.ch).
+If you are organising a local group with pertinent activities/goals and want to become a Local SwissRN Node please send an email to [Eva Furrer](mailto:eva.furrer@uzh.ch).
