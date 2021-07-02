@@ -21,6 +21,11 @@ categories = ["Resources"]
 
 &nbsp;
 
+### UKRN Open Research Primers
+The UKRN [primer series](https://www.ukrn.org/primers/) is designed to introduce a broad audience to important topics in open and reproducible scholarship.
+
+&nbsp;
+
 ### Reproducibility Reports
 * The Royal Netherlands Academy of Arts and Sciences, 2018: [Improving Reproducibility in the Empirical Sciences](https://www.knaw.nl/en/news/publications/replication-studies)
 
