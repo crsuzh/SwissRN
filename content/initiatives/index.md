@@ -17,7 +17,7 @@ Contact: [Evie Vergauwe](mailto:Evie.Vergauwe@unige.ch)
 ---
 
 ### Research Assessment and Incentives{#assess}
-Trustworthiness of research is unevitably linked to robustness, rigor and transparency. But the assessment of researchers for hiring and promotion rarely emphasizes behaviors that contribute to these factors. The SwissRN working group on Research Assessment and Incentives will be discussing possibilities to reward and recognize researchers for such behavior. In a dialogue with institutions and stakeholders the group will push for a change of culture. See the [Hong Kong Principles](https://doi.org/10.1371/journal.pbio.3000737) for a starting point.
+Trustworthiness of research is unevitably linked to robustness, rigor and transparency. But the assessment of researchers for hiring and promotion rarely emphasizes behaviors that contribute to these factors. The SwissRN working group on Research Assessment and Incentives will be discussing possibilities to reward and recognise researchers for such behavior. In a dialogue with institutions and stakeholders the group will push for a change of culture. See the [Hong Kong Principles](https://doi.org/10.1371/journal.pbio.3000737) for a starting point.
 
 Contact: [Romain-Daniel Gosselin](mailto:Romain-Daniel.Gosselin@chuv.ch)
 

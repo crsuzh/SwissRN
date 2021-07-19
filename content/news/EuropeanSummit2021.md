@@ -8,21 +8,24 @@ tags = [ "Meetings"]
 categories = ["News"]
 +++
 
-The first European Reproducibility summit will take place on **September 30, 2021** at the University of Bern. Leaders of current and emerging European Reproducibility Networks will meet with the goal of discussing collaboration and coordination. Many of those leaders will stay as guests for the  SwissRN Annual Meeting on Ocotber 1st. 
+SwissRN will host the first **European Reproducibility summit  on September 30, 2021** at the University of Bern. Leaders of current and emerging European Reproducibility Networks will meet with the goal of discussing collaboration and coordination. Many of those leaders will stay as guests for the  SwissRN Annual Meeting on Ocotber 1st. 
 
 List of confirmed attendees:
 
 
 |Name | Institution|Country
-| :----------- | :----------- | :----------- |
-Dirnagl, Ulrich| Charité Universitätsmedizin Berlin| Germany|
-Ijzerman, Hans Roch|  Université Grenoble Alpes| France|
-Lakens, Daniel| Eindhoven University of Technology| The Netherlands|
-Munafo, Marcus| University of Bristol| UK|
-Nilsonne, Gustave| Karolinska Institutet, Stockholm| Sweden|
-Scherer, Andreas| Institute for Molecular Medicine Finland, Helsinki| Finland|
-Souza, Alessandra| University of Porto| Portugal|
-Zogmaister, Cristina|  University of Milan – Bicocca| Italy|
+| :----------- | :----------- | :----------- | 
+Uli Dirnagl| Charité Universitätsmedizin Berlin| Germany|
+Leonhard Held | University of Zurich |Switzerland|
+Hans Rocha Ijzerman|  Université Grenoble Alpes| France|
+Daniel Lakens| Eindhoven University of Technology| The Netherlands|
+Marcus Munafo| University of Bristol| UK|
+Gustave Nilsonne| Karolinska Institutet, Stockholm| Sweden|
+Andreas Scherer| Institute for Molecular Medicine Finland, Helsinki| Finland|
+Alessandra Souza| University of Porto| Portugal|
+Evie Vergauwe | University of Geneva | Switzerland|
+Hanno Würbel | University of Bern | Switzerland|
+Cristina Zogmeister|  University of Milan – Bicocca| Italy|
 
 
 
