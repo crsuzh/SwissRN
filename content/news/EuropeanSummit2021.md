@@ -15,7 +15,7 @@ List of confirmed attendees:
 
 |Name | Institution|Country
 | :----------- | :----------- | :----------- | 
-Uli Dirnagl| Charité Universitätsmedizin Berlin| Germany|
+Christian Fiebach, Antonia Schrader| Goethe University Frankfurt, Helmholtz Association Open Science Office| Germany|
 Leonhard Held | University of Zurich |Switzerland|
 Hans Rocha Ijzerman|  Université Grenoble Alpes| France|
 Daniel Lakens| Eindhoven University of Technology| The Netherlands|
