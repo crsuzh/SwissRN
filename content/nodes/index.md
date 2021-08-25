@@ -51,11 +51,5 @@ Activity |  Unit |   Institution   | Contact  |
 
 &nbsp;
 
-### Local Node Members {#local-node-members}
-{< detail-tag "Local Node Zurich" "Person 1" >}
-
-
-&nbsp;
-
 ### How to join {#how-to-join}
 If you are organising a local group with pertinent activities/goals and want to become a Local SwissRN Node please send an email to [Eva Furrer](mailto:eva.furrer@uzh.ch).
