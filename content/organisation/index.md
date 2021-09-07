@@ -32,6 +32,7 @@ Institution |  | Contact person
 [University of Geneva](https://www.unige.ch) | ![alt text](./../img/logo_unige.png "University of Geneva") |[Prof. Dr. Antoine Geissbuhler](https://www.unige.ch/rectorat/en/home/vice-recteur-antoine-geissbuhler/), Vice Rector Digital Transformation  |
 [University of Fribourg](https://www.unifr.ch) | ![alt text](./../img/UNF_Logo_100pr_pos.png "University of Fribourg") |[Prof. Dr. Bernhard Ries](https://www.unifr.ch/uni/fr/organisation/direction/relations-internationales/ries.html), Vice Rector  International Relations, Digitalisation and Interdisciplinarity  |
 [University of Zurich](https://www.uzh.ch) | ![alt text](./../img/logo_uzh.png "University of Zurich") | [Prof. Dr. Elisabeth Stark](https://www.research.uzh.ch/de/vp/Prorektor-in-Forschung.html), Vice President Research |
+[Università della Svizzera italiana](https://www.usi.ch)  | ![alt text](./../img/usi-logo.png "Università della Svizzera italiana") |[Prof. Dr. Patrick Gagliardini](https://www.usi.ch/en/university/organisation/structure/rectorate), Pro-Rector for Research |
 
 
 &nbsp;  
