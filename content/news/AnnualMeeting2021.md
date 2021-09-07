@@ -12,18 +12,22 @@ The first SwissRN Annual Meeting will take place on **October 1st, 2021**. The d
 
 If you are working in or close to research in Switzerland and would like to participate, please register for the meeting through this [link](https://forms.gle/qNt44HHqEpwHZGgz8) (deadline September 15).
 
-Preliminary meeting schedule:
+Meeting schedule:
 
 |Time | Topic|
 | -----------: | :----------- |
-|9:00-10:00   |   Report from the European Reproducibility Networks Summit|
-|10:00-11:00   |  Keynote lecture (E. Machery)|
-|11:00-11:30   |  **Coffee break**|
-|11:30-12:30  |   SwissRN Academy presentations|
-|12:30-14:00  |   **Lunch break**|
-|14:00-15:30 |  Reports from Local Nodes and working groups |
-|15:30-16:30 |   **Coffee break**|
-|16:30-17:30 |  SwissRN general assembly|
+|9:00-9:30   |   Welcome and round-table of participants|
+|9:30-10:00   |   News from the steering committee|
+|10:00-10:30   |  **Coffee break**|
+|10:30-11:15  |   Report from local nodes|
+|11:15-12:00  |   SwissRN Academy|
+|12:00-12:30 | Research evaluation at SNF (Michael Hill)
+|12:30-14:00  |**Lunch break**|
+|14:00-15:00 |  Reports working groups |
+|15:00-15:30 |   **Coffee break**|
+|15:30-16:30   |  Keynote lecture (E. Machery, virtual)|
+|16:30-17:00 |  SwissRN general assembly|
+
 
 
 ---
