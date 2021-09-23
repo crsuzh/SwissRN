@@ -1,7 +1,7 @@
 +++
 author = "Updated by Eva Furrer"
 title = "Organisation"
-date = "2021-05-31"
+date = "2021-09-23"
 tags = ["Committees"]
 categories = ["Organisation"]
 
@@ -53,10 +53,10 @@ Stakeholders who support the SwissRN form the Stakeholder Engagement Group with 
 
 Institution |  | Contact person |
 --------------|-------------|---|
-[Swiss National Science Foundation](http://www.snf.ch/en/Pages/default.aspx/)| ![SNF](./../img/stakeholder_snf.png "SNF") | Dr. Katrin Milzow, head of strategy |
+[Swiss National Science Foundation](http://www.snf.ch/en/Pages/default.aspx/)| ![SNSF](./../img/stakeholder_snf.png "SNF") | Dr. Katrin Milzow, head of strategy |
 [Swiss Academies of Arts and Sciences](http://www.swiss-academies.ch/en/index/Aktuell/News.html)| ![Academies](./../img/stakeholder_swissacademies.png "Academies") | Claudia Appenzeller  |
-[FORS - Swiss Centre of Expertise in the Social Sciences](https://www.forscenter)| ![FORS](./../img/forslogo.png "FORS") | Dr. Marieke Heers |
-
+[FORS - Swiss Centre of Expertise in the Social Sciences](https://www.forscenter.ch)| ![FORS](./../img/forslogo.png "FORS") | Dr. Marieke Heers |
+[Swiss Psychological Society](https://www.ssp-sgp.ch)| ![SSP-SGP](./../img/SPS_SGP_SSP_Logo_rgb-01.png "SSP-SGP") |Prof. Dr. Matthias Kliegel |
 &nbsp;  
 
 **Become a stakeholder in SwissRN**
