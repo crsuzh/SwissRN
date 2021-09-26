@@ -48,6 +48,11 @@ Activity |  Unit |   Institution   | Contact  |
 [Swiss Open Psychological Science Initiative (SOPSI)](https://www.sopsi.org/about-us) | [Faculty of Psychology and Educational Sciences](https://www.unige.ch/fapse/en/) | [Unige](https://www.unige.ch/en/university/presentation/) and [UZH](https://www.uzh.ch/en.html)|[Evie Vergauwe](https://neurocenter-unige.ch/research-groups/evie-vergauwe/)  |
 [Promoting more reliable research and communication of results](https://camargue.unibas.ch/en/reproducibility/) | [Department of Environmental Sciences](https://duw.unibas.ch/en/) | [Unibas](https://www.unibas.ch/en.html)|[Valentin Amrhein](https://camargue.unibas.ch/en/team/valentin-amrhein/)  |
 
+&nbsp;
+
+### Local Node Members {#local-node-members}
+{{< detail_tag06 "University of Basel" "Valentin Amrhein (Department of Environmental Sciences)" "Silke Bellanger (University Library)" "Florian Brühlmann (Center for General Psychology and Methodology)" "Lars G. Hemkens (Department of Clinical Research)" "Christian Kleiber (Econometrics and Statistics)" "Deborah Vogt (Department of Clinical Research)">}}
+{{< detail_tag_link "University of Zurich" "Find our members on the " "https://www.crs.uzh.ch/en/people.html" "CRS website">}}
 
 &nbsp;
 

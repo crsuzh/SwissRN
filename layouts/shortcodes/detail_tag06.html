@@ -1,0 +1,12 @@
+{{ $summary:= .Get 0 }} {{ $content1 := .Get 1 }} {{ $content2 := .Get 2 }} {{ $content3 := .Get 3 }} {{ $content4 := .Get 4 }} {{ $content5 := .Get 5 }} {{ $content6 := .Get 6 }}
+<details>
+    <summary>{{$summary}}</summary>
+    <ul>
+	<li>{{$content1}}</li>
+	<li>{{$content2}}</li>
+	<li>{{$content3}}</li>
+	<li>{{$content4}}</li>
+	<li>{{$content5}}</li>
+	<li>{{$content6}}</li>
+</ul>
+</details>

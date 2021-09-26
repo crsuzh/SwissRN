@@ -1,0 +1,7 @@
+{{ $summary:= .Get 0 }} {{ $content1 := .Get 1 }} {{ $content2 := .Get 2 }} {{ $content3 := .Get 3 }}
+<details>
+    <summary>{{$summary}}</summary>
+    <p>
+	{{$content1}} <a href="{{$content2}}" target=_blank>{{$content3}}.</a>
+</p>
+</details>
