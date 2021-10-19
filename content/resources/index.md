@@ -40,7 +40,7 @@ The UKRN [primer series](https://www.ukrn.org/primers/) is designed to introduce
 ### Courses related to Reproducibility and Good Research Practice
 Course title | Host institution | Contact person
 -------------|------------------|---------------
-[Good Research Practice (GRP)](http://www.crs.uzh.ch/en/training/courses/GRP.html)| University of Zurich | Simon Schwab
+[Good Research Practice (GRP)](http://www.crs.uzh.ch/en/training/courses/GRP.html)| University of Zurich | Eva Furrer
 [NeuroImaging Data Science (NIDS): data science module](https://www.unil.ch/files/live/sites/ln/files/shared/courses/NIDS_Dayan2020.pdf) | Foundation Campus Biotech Geneva (FCBG) | Michael Dayan
 [NeuroImaging Data Science (NIDS): neuroimaging module](https://www.unil.ch/files/live/sites/ln/files/shared/courses/NIDS_Dayan2020.pdf) | Foundation Campus Biotech Geneva (FCBG) | Michael Dayan
 [Good Statistical Practice](https://studentservices.uzh.ch/uzh/anonym/vvz/index.html?sap-language=DE&sap-ui-language=DE#/details/2020/003/SM/50954674)| University of Zurich | Eva Furrer
