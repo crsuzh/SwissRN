@@ -5,7 +5,11 @@
     <link>http://www.swissrn.org/tags/meetings/</link>
     <description>Recent content in Meetings on SwissRN</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 13 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://www.swissrn.org/tags/meetings/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 13 Sep 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.swissrn.org/tags/meetings/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>European Reproducibility Summit 2021</title>
       <link>http://www.swissrn.org/news/europeansummit2021/</link>
