@@ -52,6 +52,7 @@ Activity |  Unit |   Institution   | Contact  |
 
 ### Local Node Members {#local-node-members}
 {{< detail_tag06 "University of Basel" "Valentin Amrhein (Department of Environmental Sciences)" "Silke Bellanger (University Library)" "Florian Brühlmann (Center for General Psychology and Methodology)" "Lars G. Hemkens (Department of Clinical Research)" "Christian Kleiber (Econometrics and Statistics)" "Deborah Vogt (Department of Clinical Research)">}}
+{{< detail_tag_link "University of Geneva" "Find our members on " "https://www.unige.ch/swissrn/team" "our website">}}
 {{< detail_tag_link "University of Zurich" "Find our members on the " "https://www.crs.uzh.ch/en/people.html" "CRS website">}}
 
 &nbsp;
