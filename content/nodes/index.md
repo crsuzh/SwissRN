@@ -31,12 +31,12 @@ Institution |  Unit |   Contact   |  |
 [University of Basel (Unibas)](https://www.unibas.ch/en.html)| Department of Environmental Sciences| [Valentin Amrhein](https://camargue.unibas.ch/en/team/valentin-amrhein/) | ![Valentin Amrhein](./../img/pic_ValentinAmrhein.jpeg)  |
 [University of Bern (Unibe)](https://www.unibe.ch/index_eng.html)| Institut f&uuml;r Marketing und Unternehmensf&uuml;hrung (IMU) | [Michael Schulte-Mecklenbeck](https://www.consumer.imu.unibe.ch/ueber_uns/team/prof_dr_schulte_mecklenbeck_michael/index_ger.html) | ![Michael Schulte-Mecklenbeck](./../img/pic_MichaelSchulte-Mecklenbeck.jpg)  |
 [University of Fribourg (Unifr)](https://www.unifr.ch/home/en.html)| Department of Psychology | [Meike Ramon](https://www3.unifr.ch/psycho/de/departement/mitarbeitende/dept/people/185474/78b81) | ![Meike Ramon](./../img/pic_MeikeRamon.jpg)  |
-[University of Geneva (Unige)](https://www.unige.ch)| Swiss Center for affective Sciences/ Faculty of Psychology and Educational Sciences | [Florian Cova](https://www.unige.ch/cisa/members/cova-florian/)/ [Evie Vergauwe](https://neurocenter-unige.ch/research-groups/evie-vergauwe/) | ![Florian Cova](./../img/pic_CovaFlorian.png) ![Florian Cova](./../img/pic_EvieVergauwe.jpg)  |
+[University of Geneva (Unige)](https://www.unige.ch)| Swiss Center for affective Sciences/ Faculty of Psychology and Educational Sciences | [Florian Cova](https://www.unige.ch/cisa/members/cova-florian/)/ [Evie Vergauwe](https://neurocenter-unige.ch/research-groups/evie-vergauwe/) | ![Florian Cova](./../img/pic_CovaFlorian.png) ![Evie Vergauwe](./../img/pic_EvieVergauwe.jpg)  |
 [University of Lausanne (Unil)](https://www.unil.ch/index.html)| Persuasive Technology Lab | [Mauro Cherubini](https://www.maurocherubini.it) | ![Mauro Cherubini](./../img/pic_MauroCherubini.png)  |
 [Universit&eacute; de Neuch&acirc;tel (Unine)](https://www.unine.ch/unine/home.html)| Institut de Psychologie du Travail et des Organisations | [Laurenz Meier](https://www.unine.ch/ipto/home/collaborateurstrices/laurenzmeier.html) |![Laurenz Meier](./../img/pic_LaurenzMeier.png)  |
 [Università della Svizzera italiana (USI)](https://www.usi.ch/)| Data Science Lab | [Antonietta Mira](https://usi.to/exz) |![Antonietta Mira](./../img/pic_AntoniettaMira.jpeg)  |
 [University of Zurich (UZH)](https://www.uzh.ch/en.html)| Center for Reproducible Science| [Leonhard Held](https://www.ebpi.uzh.ch/en/aboutus/departments/biostatistics/teambiostats/held.html) |![Leonhard Held](./../img/pic_LeonhardHeld.jpg)  |
-
+[Zurich University of Applied Sciences (ZHAW)](https://zhaw.ch)| Institute of Data Analysis and Process Design (IDP) / ZHAW Services Research Data | [Christoph Hofer](https://www.zhaw.ch/en/about-us/person/hofc/)/ [Vanessa Klaas](https://www.zhaw.ch/en/about-us/person/klav/) | ![Christoph Hofer](./../img/pic_ChristophHofer.jpeg) ![Vanessa Klaas](./../img/pic_VanessaKlaas.png)  |
 
 &nbsp;  
 
