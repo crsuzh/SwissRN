@@ -32,6 +32,8 @@ maps2[[5]] +
   # Lugano
   geom_point(aes(x=717505, y=96295), colour="#dd1572") +
   # St. Gallen
-  geom_point(aes(x=746284, y=254335), colour="#dd1572")
+  geom_point(aes(x=746284, y=254335), colour="#dd1572") +
+  # Winterthur
+  geom_point(aes(x=697052, y=261734), colour="#dd1572")
 
 
