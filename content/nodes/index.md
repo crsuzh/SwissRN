@@ -1,7 +1,7 @@
 +++
-author = "Updated by Eva Furrer"
+author = "Updated by Tina Wünn"
 title = "Nodes"
-date = "2021-05-21"
+date = "2021-10-19"
 tags = ["Local Nodes"]
 categories = ["Nodes"]
 +++

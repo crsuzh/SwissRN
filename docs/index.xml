@@ -5,7 +5,51 @@
     <link>http://www.swissrn.org/</link>
     <description>Recent content on SwissRN</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 23 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://www.swissrn.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 19 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://www.swissrn.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Initiatives</title>
+      <link>http://www.swissrn.org/initiatives/</link>
+      <pubDate>Tue, 19 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.swissrn.org/initiatives/</guid>
+      <description>Go to: Preregistration and Registered Reports Research Assessment and Incentives Replication Studies Research Methodology Training ReproducibiliTea
+Preregistration and Registered Reports Preregistration, or the practice of documenting research aspects such as hypothesis, sample size, design, data exclusion, and statistical analyses, before data collection or data analysis, can help reduce questionable research practices. When integrated into the publishing process in the form of Registered Reports, it can also reduce publication bias. The aim of the SwissRN working group on Preregistration and Registered Reports is to promote and support existing initiatives and services related to Preregistration and Registered Reports (e.</description>
+    </item>
+    
+    <item>
+      <title>Nodes</title>
+      <link>http://www.swissrn.org/nodes/</link>
+      <pubDate>Tue, 19 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.swissrn.org/nodes/</guid>
+      <description>Go to: Local Node Leaders Local Node Activities Local Node Members How to join
+Local Nodes of the SwissRN build the backbone of the network by initiating and coordinating activities at universities and other research institutions. Activities of local nodes are manifold, e.g.
+ open research working groups ReproducibiliTea journal clubs organisation of training activities such as carpentries workshops grant and ethics peer review groups etc  The organisation of local nodes differs from institution to institution: from a formalised administration to informal grassroot groups.</description>
+    </item>
+    
+    <item>
+      <title>Resources</title>
+      <link>http://www.swissrn.org/resources/</link>
+      <pubDate>Tue, 19 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.swissrn.org/resources/</guid>
+      <description>Terms of Reference Terms of Reference (Version March 2021)
+ Executive Summary Executive Summary (Version March 2021)
+ Presentation Slides Presentation slides on OSF
+ UKRN Open Research Primers The UKRN primer series is designed to introduce a broad audience to important topics in open and reproducible scholarship.
+ Reproducibility Reports   The Royal Netherlands Academy of Arts and Sciences, 2018: Improving Reproducibility in the Empirical Sciences
+  The National Academies of Science Engineering Medicine, 2019: Reproducibility and Replicability in Science</description>
+    </item>
+    
+    <item>
+      <title>SwissRN academy</title>
+      <link>http://www.swissrn.org/academy/</link>
+      <pubDate>Tue, 19 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.swissrn.org/academy/</guid>
+      <description>Organisation and membership The Swiss Reproducibility Network (SwissRN) Academy is a group of Early Career Researchers from Swiss universities who are interested in reproducibility, metascience, good research practices, and transparency. Our goal is improving the quality of science by sharing our knowledge of reproducible research with students and researchers. We want to create a national network among young researchers from various fields and backgrounds, that enables interdisciplinary dialogue and collaboration.</description>
+    </item>
+    
     <item>
       <title>Organisation</title>
       <link>http://www.swissrn.org/organisation/</link>
@@ -51,41 +95,6 @@ Image credits: Dennis Skley
     </item>
     
     <item>
-      <title>Initiatives</title>
-      <link>http://www.swissrn.org/initiatives/</link>
-      <pubDate>Mon, 14 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.swissrn.org/initiatives/</guid>
-      <description>Go to: Preregistration and Registered Reports Research Assessment and Incentives Replication Studies Research Methodology Training ReproducibiliTea
-Preregistration and Registered Reports Preregistration, or the practice of documenting research aspects such as hypothesis, sample size, design, data exclusion, and statistical analyses, before data collection or data analysis, can help reduce questionable research practices. When integrated into the publishing process in the form of Registered Reports, it can also reduce publication bias. The aim of the SwissRN working group on Preregistration and Registered Reports is to promote and support existing initiatives and services related to Preregistration and Registered Reports (e.</description>
-    </item>
-    
-    <item>
-      <title>Resources</title>
-      <link>http://www.swissrn.org/resources/</link>
-      <pubDate>Mon, 14 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.swissrn.org/resources/</guid>
-      <description>Terms of Reference Terms of Reference (Version March 2021)
- Executive Summary Executive Summary (Version March 2021)
- Presentation Slides Presentation slides on OSF
- UKRN Open Research Primers The UKRN primer series is designed to introduce a broad audience to important topics in open and reproducible scholarship.
- Reproducibility Reports   The Royal Netherlands Academy of Arts and Sciences, 2018: Improving Reproducibility in the Empirical Sciences
-  The National Academies of Science Engineering Medicine, 2019: Reproducibility and Replicability in Science</description>
-    </item>
-    
-    <item>
-      <title>Nodes</title>
-      <link>http://www.swissrn.org/nodes/</link>
-      <pubDate>Fri, 21 May 2021 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.swissrn.org/nodes/</guid>
-      <description>Go to: Local Node Leaders Local Node Activities Local Node Members How to join
-Local Nodes of the SwissRN build the backbone of the network by initiating and coordinating activities at universities and other research institutions. Activities of local nodes are manifold, e.g.
- open research working groups ReproducibiliTea journal clubs organisation of training activities such as carpentries workshops grant and ethics peer review groups etc  The organisation of local nodes differs from institution to institution: from a formalised administration to informal grassroot groups.</description>
-    </item>
-    
-    <item>
       <title>SwissRN Newsletter</title>
       <link>http://www.swissrn.org/news/newsletter202104april/</link>
       <pubDate>Tue, 20 Apr 2021 00:00:00 +0000</pubDate>
@@ -95,18 +104,6 @@ Local Nodes of the SwissRN build the backbone of the network by initiating and c
 You can subscribe to the newsletter by subscribing to our mailing list.
 Image credits: Dennis Skley
  </description>
-    </item>
-    
-    <item>
-      <title>SwissRN academy</title>
-      <link>http://www.swissrn.org/academy/</link>
-      <pubDate>Tue, 13 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.swissrn.org/academy/</guid>
-      <description>Organisation and membership The SwissRN Academy connects doctoral students at SwissRN member institutions who are working on topics related to reproducibility, research reliability, transparency, metascience or similar research topics. The SwissRN contact for the Academy is Leonhard Held. Other Reproducibility Networks have established similar academies, such as the UKRN Academy.
-PhD student profiles Ordered alphabetically by last name.
-Ursa Bernadic Charlotte Micheloud Samuel Pawel Marianna Rosso
-    Ursa Bernardic Current practices in marketing and management journals      My aim is to investigate the current practices for replicability and transparency in the top marketing and management journals (concerning data sharing, preregistration, registered reports), and compare them to advances in connected fields (i.</description>
     </item>
     
     <item>

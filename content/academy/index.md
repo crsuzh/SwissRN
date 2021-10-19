@@ -1,7 +1,7 @@
 +++
-author = "Updated by Eva Furrer"
+author = "Updated by Tina Wünn"
 title = "SwissRN academy"
-date = "2021-04-13"
+date = "2021-10-19"
 tags = [ "ERC"]
 categories = ["Academy"]
 +++
@@ -9,7 +9,14 @@ categories = ["Academy"]
 
 ### Organisation and membership
 
-The SwissRN Academy connects doctoral students at SwissRN member institutions who are working on topics related to reproducibility, research reliability, transparency, metascience or similar research topics. The SwissRN contact for the Academy is [Leonhard Held](https://www.ebpi.uzh.ch/en/aboutus/departments/biostatistics/teambiostats/held.html). Other Reproducibility Networks have established similar academies, such as the [UKRN Academy](https://www.ukrn.org/ukrn-academy/).
+The Swiss Reproducibility Network (SwissRN) Academy is a group of Early Career Researchers from Swiss universities who are interested in reproducibility, metascience, good research practices, and transparency.
+Our goal is improving the quality of science by sharing our knowledge of reproducible research with students and researchers. We want to create a national network among young researchers from various fields and backgrounds, that enables interdisciplinary dialogue and collaboration.
+
+If you are interested in these or related topics, feel free to contact us to find out how to join and contribute: [swissrnacademy@gmail.com](mailto:swissrnacademy@gmail.com)
+
+We’d be happy to see our community grow! 
+
+Other Reproducibility Networks have established similar academies, such as the [UKRN Academy](https://www.ukrn.org/ukrn-academy/).
 
 ### PhD student profiles
 

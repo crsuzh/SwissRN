@@ -1,7 +1,7 @@
 +++
-author = "Updated by Eva Furrer"
+author = "Updated by Tina Wünn"
 title = "Initiatives"
-date = "2021-06-14"
+date = "2021-10-19"
 tags = ["Working Groups", "ReproducibiliTea"]
 categories = ["Initiatives"]
 
