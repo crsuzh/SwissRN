@@ -33,6 +33,7 @@ Institution |  | Contact person
 [University of Fribourg](https://www.unifr.ch) | ![alt text](./../img/UNF_Logo_100pr_pos.png "University of Fribourg") |[Prof. Dr. Bernhard Ries](https://www.unifr.ch/uni/fr/organisation/direction/relations-internationales/ries.html), Vice Rector  International Relations, Digitalisation and Interdisciplinarity  |
 [University of Zurich](https://www.uzh.ch) | ![alt text](./../img/logo_uzh.png "University of Zurich") | [Prof. Dr. Elisabeth Stark](https://www.research.uzh.ch/de/vp/Prorektor-in-Forschung.html), Vice President Research |
 [Università della Svizzera italiana](https://www.usi.ch)  | ![alt text](./../img/usi-logo.png "Università della Svizzera italiana") |[Prof. Dr. Patrick Gagliardini](https://www.usi.ch/en/university/organisation/structure/rectorate), Pro-Rector for Research |
+[Zurich University of Applied Sciences](https://www.zhaw.ch/en/university/) | ![alt text](./../img/zhaw_rgb_byline_e.png "ZHAW") |[Prof. Dr. Andreas Gerber-Grote](https://www.zhaw.ch/en/about-us/person/gerd/), Head of Research and Development |
 
 
 &nbsp;  
