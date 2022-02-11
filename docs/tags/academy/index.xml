@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Academy on SwissRN</title>
+    <link>http://www.swissrn.org/tags/academy/</link>
+    <description>Recent content in Academy on SwissRN</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 11 Feb 2022 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.swissrn.org/tags/academy/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SwissRN Academy </title>
+      <link>http://www.swissrn.org/news/academyfirstmeeting/</link>
+      <pubDate>Fri, 11 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.swissrn.org/news/academyfirstmeeting/</guid>
+      <description>The first event of the Swiss Reproducibility Network Academy will take place online on Friday, February 25 from 16:00 to 17:15.
+It will be an informal event where we will talk about why reproducibility and open science matter to us/you. We will also discuss future events. The (tentative) program is the following:
+16:00 - 16:30 : presentations (from us/you) + discussion 16:30 - 16:50 : networking (getting to know each other) 16:50 - 17:15 : future activities + closing remarks</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,10 +5,30 @@
     <link>http://www.swissrn.org/</link>
     <description>Recent content on SwissRN</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 19 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Feb 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://www.swissrn.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>SwissRN academy</title>
+      <link>http://www.swissrn.org/academy/</link>
+      <pubDate>Fri, 11 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.swissrn.org/academy/</guid>
+      <description>Organisation and membership The Swiss Reproducibility Network (SwissRN) Academy is a group of Early Career Researchers from Swiss universities who are interested in reproducibility, metascience, good research practices, and transparency. Our goal is improving the quality of science by sharing our knowledge of reproducible research with students and researchers. We want to create a national network among young researchers from various fields and backgrounds, that enables interdisciplinary dialogue and collaboration. **We’d be happy to see our community grow!</description>
+    </item>
+    
+    <item>
+      <title>SwissRN Academy </title>
+      <link>http://www.swissrn.org/news/academyfirstmeeting/</link>
+      <pubDate>Fri, 11 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.swissrn.org/news/academyfirstmeeting/</guid>
+      <description>The first event of the Swiss Reproducibility Network Academy will take place online on Friday, February 25 from 16:00 to 17:15.
+It will be an informal event where we will talk about why reproducibility and open science matter to us/you. We will also discuss future events. The (tentative) program is the following:
+16:00 - 16:30 : presentations (from us/you) + discussion 16:30 - 16:50 : networking (getting to know each other) 16:50 - 17:15 : future activities + closing remarks</description>
+    </item>
     
     <item>
       <title>Initiatives</title>
@@ -43,15 +63,6 @@ Local Nodes of the SwissRN build the backbone of the network by initiating and c
  UKRN Open Research Primers The UKRN primer series is designed to introduce a broad audience to important topics in open and reproducible scholarship.
  Reproducibility Reports   The Royal Netherlands Academy of Arts and Sciences, 2018: Improving Reproducibility in the Empirical Sciences
   The National Academies of Science Engineering Medicine, 2019: Reproducibility and Replicability in Science</description>
-    </item>
-    
-    <item>
-      <title>SwissRN academy</title>
-      <link>http://www.swissrn.org/academy/</link>
-      <pubDate>Tue, 19 Oct 2021 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.swissrn.org/academy/</guid>
-      <description>Organisation and membership The Swiss Reproducibility Network (SwissRN) Academy is a group of Early Career Researchers from Swiss universities who are interested in reproducibility, metascience, good research practices, and transparency. Our goal is improving the quality of science by sharing our knowledge of reproducible research with students and researchers. We want to create a national network among young researchers from various fields and backgrounds, that enables interdisciplinary dialogue and collaboration.</description>
     </item>
     
     <item>

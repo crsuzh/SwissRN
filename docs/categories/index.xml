@@ -5,7 +5,7 @@
     <link>http://www.swissrn.org/categories/</link>
     <description>Recent content in Categories on SwissRN</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 19 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Feb 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://www.swissrn.org/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -13,9 +13,18 @@
     <item>
       <title>Academy</title>
       <link>http://www.swissrn.org/categories/academy/</link>
-      <pubDate>Tue, 19 Oct 2021 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 11 Feb 2022 00:00:00 +0000</pubDate>
       
       <guid>http://www.swissrn.org/categories/academy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>News</title>
+      <link>http://www.swissrn.org/categories/news/</link>
+      <pubDate>Fri, 11 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.swissrn.org/categories/news/</guid>
       <description></description>
     </item>
     
@@ -52,15 +61,6 @@
       <pubDate>Thu, 23 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>http://www.swissrn.org/categories/organisation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>News</title>
-      <link>http://www.swissrn.org/categories/news/</link>
-      <pubDate>Mon, 13 Sep 2021 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.swissrn.org/categories/news/</guid>
       <description></description>
     </item>
     

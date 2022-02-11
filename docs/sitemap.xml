@@ -3,18 +3,53 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://www.swissrn.org/tags/academy/</loc>
+    <lastmod>2022-02-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.swissrn.org/categories/academy/</loc>
-    <lastmod>2021-10-19T00:00:00+00:00</lastmod>
+    <lastmod>2022-02-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://www.swissrn.org/categories/</loc>
-    <lastmod>2021-10-19T00:00:00+00:00</lastmod>
+    <lastmod>2022-02-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://www.swissrn.org/tags/erc/</loc>
-    <lastmod>2021-10-19T00:00:00+00:00</lastmod>
+    <lastmod>2022-02-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.swissrn.org/categories/news/</loc>
+    <lastmod>2022-02-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.swissrn.org/news/</loc>
+    <lastmod>2022-02-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.swissrn.org/</loc>
+    <lastmod>2022-02-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.swissrn.org/academy/</loc>
+    <lastmod>2022-02-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.swissrn.org/news/academyfirstmeeting/</loc>
+    <lastmod>2022-02-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.swissrn.org/tags/</loc>
+    <lastmod>2022-02-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -58,21 +93,6 @@
   </url>
   
   <url>
-    <loc>http://www.swissrn.org/</loc>
-    <lastmod>2021-10-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.swissrn.org/academy/</loc>
-    <lastmod>2021-10-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.swissrn.org/tags/</loc>
-    <lastmod>2021-10-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://www.swissrn.org/tags/terms-of-references/</loc>
     <lastmod>2021-10-19T00:00:00+00:00</lastmod>
   </url>
@@ -104,16 +124,6 @@
   
   <url>
     <loc>http://www.swissrn.org/tags/meetings/</loc>
-    <lastmod>2021-09-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.swissrn.org/categories/news/</loc>
-    <lastmod>2021-09-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.swissrn.org/news/</loc>
     <lastmod>2021-09-13T00:00:00+00:00</lastmod>
   </url>
   
