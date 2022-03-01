@@ -5,10 +5,17 @@
     <link>http://www.swissrn.org/</link>
     <description>Recent content on SwissRN</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 15 Feb 2022 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://www.swissrn.org/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Tue, 01 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://www.swissrn.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nodes</title>
+      <link>http://www.swissrn.org/nodes/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.swissrn.org/nodes/</guid>
+      <description>Go to: Local Node Leaders Local Node Activities Local Node Members How to join
+Local Nodes of the SwissRN build the backbone of the network by initiating and coordinating activities at universities and other research institutions. Activities of local nodes are manifold, e.g.
+ open research working groups ReproducibiliTea journal clubs organisation of training activities such as carpentries workshops grant and ethics peer review groups etc  The organisation of local nodes differs from institution to institution: from a formalised administration to informal grassroot groups.</description>
+    </item>
     
     <item>
       <title>SwissRN Newsletter</title>
@@ -50,17 +57,6 @@ It will be an informal event where we will talk about why reproducibility and op
       <guid>http://www.swissrn.org/initiatives/</guid>
       <description>Go to: Preregistration and Registered Reports Research Assessment and Incentives Replication Studies Research Methodology Training ReproducibiliTea
 Preregistration and Registered Reports Preregistration, or the practice of documenting research aspects such as hypothesis, sample size, design, data exclusion, and statistical analyses, before data collection or data analysis, can help reduce questionable research practices. When integrated into the publishing process in the form of Registered Reports, it can also reduce publication bias. The aim of the SwissRN working group on Preregistration and Registered Reports is to promote and support existing initiatives and services related to Preregistration and Registered Reports (e.</description>
-    </item>
-    
-    <item>
-      <title>Nodes</title>
-      <link>http://www.swissrn.org/nodes/</link>
-      <pubDate>Tue, 19 Oct 2021 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.swissrn.org/nodes/</guid>
-      <description>Go to: Local Node Leaders Local Node Activities Local Node Members How to join
-Local Nodes of the SwissRN build the backbone of the network by initiating and coordinating activities at universities and other research institutions. Activities of local nodes are manifold, e.g.
- open research working groups ReproducibiliTea journal clubs organisation of training activities such as carpentries workshops grant and ethics peer review groups etc  The organisation of local nodes differs from institution to institution: from a formalised administration to informal grassroot groups.</description>
     </item>
     
     <item>
