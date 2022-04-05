@@ -2,8 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://www.swissrn.org/tags/academy/</loc>
+    <lastmod>2022-04-05T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://www.swissrn.org/categories/</loc>
-    <lastmod>2022-03-29T00:00:00+00:00</lastmod>
+    <lastmod>2022-04-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.swissrn.org/categories/news/</loc>
+    <lastmod>2022-04-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.swissrn.org/news/</loc>
+    <lastmod>2022-04-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.swissrn.org/</loc>
+    <lastmod>2022-04-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.swissrn.org/news/academyhackathon/</loc>
+    <lastmod>2022-04-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.swissrn.org/tags/</loc>
+    <lastmod>2022-04-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://www.swissrn.org/tags/local-nodes/</loc>
     <lastmod>2022-03-29T00:00:00+00:00</lastmod>
@@ -14,16 +32,7 @@
     <loc>http://www.swissrn.org/nodes/</loc>
     <lastmod>2022-03-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://www.swissrn.org/</loc>
-    <lastmod>2022-03-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://www.swissrn.org/tags/</loc>
-    <lastmod>2022-03-29T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://www.swissrn.org/tags/february-2022/</loc>
-    <lastmod>2022-02-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://www.swissrn.org/news/</loc>
     <lastmod>2022-02-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://www.swissrn.org/categories/newsletter/</loc>
@@ -32,16 +41,10 @@
     <loc>http://www.swissrn.org/news/newsletter202202february/</loc>
     <lastmod>2022-02-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://www.swissrn.org/tags/academy/</loc>
-    <lastmod>2022-02-11T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://www.swissrn.org/categories/academy/</loc>
     <lastmod>2022-02-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://www.swissrn.org/tags/erc/</loc>
-    <lastmod>2022-02-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://www.swissrn.org/categories/news/</loc>
     <lastmod>2022-02-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://www.swissrn.org/academy/</loc>
