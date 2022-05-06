@@ -1,7 +1,7 @@
 +++
 author = "Updated by Tina Wünn"
 title = "Nodes"
-date = "2021-10-19"
+date = "2022-03-29"
 tags = ["Local Nodes"]
 categories = ["Nodes"]
 +++
@@ -30,9 +30,8 @@ Institution |  Unit |   Contact   |  |
 [Swiss Institute of Bioinformatics (SIB)](https://www.sib.swiss/) |Bioinformatics |[Patricia Palagi](https://www.sib.swiss/directory?cn=patricia%20palagi)| ![Patricia Palagi](./../img/pic_PatriciaPalagi.jpg)  |
 [University of Basel (Unibas)](https://www.unibas.ch/en.html)| Department of Environmental Sciences| [Valentin Amrhein](https://camargue.unibas.ch/en/team/valentin-amrhein/) | ![Valentin Amrhein](./../img/pic_ValentinAmrhein.jpeg)  |
 [University of Bern (Unibe)](https://www.unibe.ch/index_eng.html)| Institut f&uuml;r Marketing und Unternehmensf&uuml;hrung (IMU) | [Michael Schulte-Mecklenbeck](https://www.consumer.imu.unibe.ch/ueber_uns/team/prof_dr_schulte_mecklenbeck_michael/index_ger.html) | ![Michael Schulte-Mecklenbeck](./../img/pic_MichaelSchulte-Mecklenbeck.jpg)  |
-[University of Fribourg (Unifr)](https://www.unifr.ch/home/en.html)| Department of Psychology | [Meike Ramon](https://www3.unifr.ch/psycho/de/departement/mitarbeitende/dept/people/185474/78b81) | ![Meike Ramon](./../img/pic_MeikeRamon.jpg)  |
 [University of Geneva (Unige)](https://www.unige.ch)| Swiss Center for affective Sciences/ Faculty of Psychology and Educational Sciences | [Florian Cova](https://www.unige.ch/cisa/members/cova-florian/)/ [Evie Vergauwe](https://neurocenter-unige.ch/research-groups/evie-vergauwe/) | ![Florian Cova](./../img/pic_CovaFlorian.png) ![Evie Vergauwe](./../img/pic_EvieVergauwe.jpg)  |
-[University of Lausanne (Unil)](https://www.unil.ch/index.html)| Persuasive Technology Lab | [Mauro Cherubini](https://www.maurocherubini.it) | ![Mauro Cherubini](./../img/pic_MauroCherubini.png)  |
+[University of Lausanne (Unil)](https://www.unil.ch/index.html)| Persuasive Technology Lab/ Cognitive and Affective Regulation Laboratory | [Mauro Cherubini](https://www.maurocherubini.it)/ [Meike Ramon](https://www.unil.ch/carla/fr/home/menuinst/membres.html?url_params=-v_faculte=40-v_unite=320-v_personne=1247293-mode=fiche&pubsIdParam=1f9b04a579774d0ca23c851ddb76a2c4) | ![Mauro Cherubini](./../img/pic_MauroCherubini.png) ![Meike Ramon](./../img/pic_MeikeRamon.jpg)  |
 [Universit&eacute; de Neuch&acirc;tel (Unine)](https://www.unine.ch/unine/home.html)| Institut de Psychologie du Travail et des Organisations | [Laurenz Meier](https://www.unine.ch/ipto/home/collaborateurstrices/laurenzmeier.html) |![Laurenz Meier](./../img/pic_LaurenzMeier.png)  |
 [Università della Svizzera italiana (USI)](https://www.usi.ch/)| Data Science Lab | [Antonietta Mira](https://usi.to/exz) |![Antonietta Mira](./../img/pic_AntoniettaMira.jpeg)  |
 [University of Zurich (UZH)](https://www.uzh.ch/en.html)| Center for Reproducible Science| [Leonhard Held](https://www.ebpi.uzh.ch/en/aboutus/departments/biostatistics/teambiostats/held.html) |![Leonhard Held](./../img/pic_LeonhardHeld.jpg)  |
