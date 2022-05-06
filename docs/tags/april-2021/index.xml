@@ -5,7 +5,11 @@
     <link>http://www.swissrn.org/tags/april-2021/</link>
     <description>Recent content in April 2021 on SwissRN</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 20 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://www.swissrn.org/tags/april-2021/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 20 Apr 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.swissrn.org/tags/april-2021/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>SwissRN Newsletter</title>
       <link>http://www.swissrn.org/news/newsletter202104april/</link>

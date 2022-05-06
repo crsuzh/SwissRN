@@ -5,7 +5,11 @@
     <link>http://www.swissrn.org/categories/academy/</link>
     <description>Recent content in Academy on SwissRN</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 11 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://www.swissrn.org/categories/academy/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 11 Feb 2022 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.swissrn.org/categories/academy/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>SwissRN academy</title>
       <link>http://www.swissrn.org/academy/</link>
