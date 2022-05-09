@@ -17,18 +17,17 @@ The Swiss Reproducibility Network (SwissRN) is a peer-led consortium that aims t
 - The submission must adhere to the highest standards of reproducibility. It can be a fully reproducible empirical study, a systematic review, a methodological paper with supplementary software or any other contribution that submitters deem relevant.  
 
 **Nomination process**
-A letter of nomination (300 words) may be submitted for an eligible manuscript containing a link to the work. Self-nomination is encouraged. 
+A letter of nomination (300 words) may be submitted for an eligible research output. Self-nomination is encouraged. 
 
 **Review process**
 The SwissRN Steering Committee and the SwissRN advisory board will select the winners from the nominated manuscripts while soliciting additional expertise from external reviewers as needed.
 
 **Award**
-The three recipients will receive a cash award of CHF 500 along with an official certificate at the SwissRN Annual Meeting. The awardees are expected to give a brief presentation about their work during the Annual Meeting.
+The three recipients will receive a cash award of CHF 500 along with an official certificate at the SwissRN Annual Meeting. The awardees are expected to give a brief presentation about their work.
 
 
 **Submit nomination**
-To submit your nomination, visit the 2022 Swiss Reproducibility Award Nominations Form and submit before June 30th, 2022 through the [linked form](https://forms.gle/Wt8xYwhfEq4ta7SG9). 
-SwissRN encourages applications from all sections of the community irrespective of gender, race, ethnic or national origin, religion or belief, sexual orientation, disability or age.
+To submit your nomination, visit the [2022 Swiss Reproducibility Award Nominations Form](https://forms.gle/Wt8xYwhfEq4ta7SG9) and submit **before June 30th**. SwissRN encourages applications from all sections of the community irrespective of gender, race, ethnic or national origin, religion or belief, sexual orientation, disability or age.
 
 Please direct any questions to the SwissRN coordinator Eva Furrer at [eva.furrer@uzh.ch](mailto:eva.furrer@uzh.ch)
 
