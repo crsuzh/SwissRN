@@ -1,7 +1,7 @@
 +++
-author = "Updated by Eva Furrer"
+author = "Updated by Tina Wünn"
 title = "Organisation"
-date = "2021-09-23"
+date = "2022-05-10"
 tags = ["Committees"]
 categories = ["Organisation"]
 
@@ -15,7 +15,7 @@ Institution | Unit |   Name   |  |
 --------------|---|-------------|---|
 [University of Zurich](https://www.uzh.ch/en.html)|Faculty of Science and Faculty of Medicine, Center for Reproducible Science| [Leonhard Held](https://www.ebpi.uzh.ch/en/aboutus/departments/biostatistics/teambiostats/held.html) |![Leonhard Held](./../img/pic_LeonhardHeld.jpg)  |
 [University of Geneva](https://unige.ch)| Faculty of Psychology and Educational Sciences, Swiss Open Psychological Science Initiative | [Evie Vergauwe](https://neurocenter-unige.ch/research-groups/evie-vergauwe/) | ![Evie Vergauwe](./../img/pic_EvieVergauwe.jpg)  |
-[University of Bern](https://www.unibe.ch/index_eng.html)| Vetsuisse Faculty Bern, Swiss 3R Competence Centre| [Hanno W&uuml;rbel](https://www.tierschutz.vetsuisse.unibe.ch/about_us/personnel/prof_dr_wuerbel_hanno/index_eng.htmll) |![Hanno W&uuml;rbel](./../img/pic_HannoWuerbel.jpg)  |
+[University of Bern](https://www.unibe.ch/index_eng.html)| Vetsuisse Faculty Bern, Swiss 3R Competence Centre| [Hanno W&uuml;rbel](https://www.tierschutz.vetsuisse.unibe.ch/about_us/personnel/prof_dr_wuerbel_hanno/index_eng.html) |![Hanno W&uuml;rbel](./../img/pic_HannoWuerbel.jpg)  |
 
 &nbsp; 
 
@@ -31,7 +31,7 @@ Institution |  | Contact person
 [University of Bern](https://www.unibe.ch) | ![alt text](./../img/logo_unibern.png "University of Bern") |     [Prof. Dr. Hugues Abriel](https://www.unibe.ch/university/organization/executive_board_and_central_administration/vice_rectorate_research/prof_dr_abriel_hugues/index_eng.html), Vice Rector for Research  |
 [University of Geneva](https://www.unige.ch) | ![alt text](./../img/logo_unige.png "University of Geneva") |[Prof. Dr. Antoine Geissbuhler](https://www.unige.ch/rectorat/en/home/vice-recteur-antoine-geissbuhler/), Vice Rector Digital Transformation  |
 [University of Fribourg](https://www.unifr.ch) | ![alt text](./../img/UNF_Logo_100pr_pos.png "University of Fribourg") |[Prof. Dr. Bernhard Ries](https://www.unifr.ch/uni/fr/organisation/direction/relations-internationales/ries.html), Vice Rector  International Relations, Digitalisation and Interdisciplinarity  |
-[University of Zurich](https://www.uzh.ch) | ![alt text](./../img/logo_uzh.png "University of Zurich") | [Prof. Dr. Elisabeth Stark](https://www.research.uzh.ch/de/vp/Prorektor-in-Forschung.html), Vice President Research |
+[University of Zurich](https://www.uzh.ch) | ![alt text](./../img/logo_uzh.png "University of Zurich") | [Prof. Dr. Elisabeth Stark](https://www.research.uzh.ch/de/vp/prorektorin_forschung.html), Vice President Research |
 [Università della Svizzera italiana](https://www.usi.ch)  | ![alt text](./../img/usi-logo.png "Università della Svizzera italiana") |[Prof. Dr. Patrick Gagliardini](https://www.usi.ch/en/university/organisation/structure/rectorate), Pro-Rector for Research |
 [Zurich University of Applied Sciences](https://www.zhaw.ch/en/university/) | ![alt text](./../img/zhaw_rgb_byline_e.png "ZHAW") |[Prof. Dr. Andreas Gerber-Grote](https://www.zhaw.ch/en/about-us/person/gerd/), Head of Research and Development |
 
@@ -55,9 +55,9 @@ Stakeholders who support the SwissRN form the Stakeholder Engagement Group with 
 Institution |  | Contact person |
 --------------|-------------|---|
 [Swiss National Science Foundation](http://www.snf.ch/en/Pages/default.aspx/)| ![SNSF](./../img/stakeholder_snf.png "SNF") | Dr. Katrin Milzow, head of strategy |
-[Swiss Academies of Arts and Sciences](http://www.swiss-academies.ch/en/index/Aktuell/News.html)| ![Academies](./../img/stakeholder_swissacademies.png "Academies") | Claudia Appenzeller  |
+[Swiss Academies of Arts and Sciences](https://akademien-schweiz.ch/en)| ![Academies](./../img/stakeholder_swissacademies.png "Academies") | Claudia Appenzeller  |
 [FORS - Swiss Centre of Expertise in the Social Sciences](https://www.forscenter.ch)| ![FORS](./../img/forslogo.png "FORS") | Dr. Marieke Heers |
-[Swiss Psychological Society](https://www.ssp-sgp.ch)| ![SSP-SGP](./../img/SPS_SGP_SSP_Logo_rgb-01.png "SSP-SGP") |Prof. Dr. Matthias Kliegel |
+[Swiss Psychological Society](https://www.swisspsychologicalsociety.ch/)| ![SSP-SGP](./../img/SPS_SGP_SSP_Logo_rgb-01.png "SSP-SGP") |Prof. Dr. Matthias Kliegel |
 &nbsp;  
 
 **Become a stakeholder in SwissRN**

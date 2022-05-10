@@ -5,10 +5,42 @@
     <link>http://www.swissrn.org/</link>
     <description>Recent content on SwissRN</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 05 May 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://www.swissrn.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nodes</title>
+      <link>http://www.swissrn.org/nodes/</link>
+      <pubDate>Tue, 10 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.swissrn.org/nodes/</guid>
+      <description>Go to: Local Node Leaders Local Node Activities Local Node Members How to join
+Local Nodes of the SwissRN build the backbone of the network by initiating and coordinating activities at universities and other research institutions. Activities of local nodes are manifold, e.g.
+ open research working groups ReproducibiliTea journal clubs organisation of training activities such as carpentries workshops grant and ethics peer review groups etc  The organisation of local nodes differs from institution to institution: from a formalised administration to informal grassroot groups.</description>
+    </item>
     
-	<atom:link href="http://www.swissrn.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Organisation</title>
+      <link>http://www.swissrn.org/organisation/</link>
+      <pubDate>Tue, 10 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.swissrn.org/organisation/</guid>
+      <description>Go to: Steering Committee Institutions Stakeholders Advisory Board Coordinator
+Steering Committee The steering committee is responsible for the overall coordination of SwissRN activity and strategy.
+   Institution Unit Name      University of Zurich Faculty of Science and Faculty of Medicine, Center for Reproducible Science Leonhard Held    University of Geneva Faculty of Psychology and Educational Sciences, Swiss Open Psychological Science Initiative Evie Vergauwe    University of Bern Vetsuisse Faculty Bern, Swiss 3R Competence Centre Hanno Würbel      Institutions  Member institutions of the SwissRN are formally committed to support the aims of SwissRN and have begun implementing them.</description>
+    </item>
     
+    <item>
+      <title>Resources</title>
+      <link>http://www.swissrn.org/resources/</link>
+      <pubDate>Tue, 10 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.swissrn.org/resources/</guid>
+      <description>Terms of Reference Terms of Reference (Version March 2021)
+ Executive Summary Executive Summary (Version March 2021)
+ Presentation Slides Presentation slides on OSF
+ UKRN Open Research Primers The UKRN primer series is designed to introduce a broad audience to important topics in open and reproducible scholarship.
+ Reproducibility Reports   The Royal Netherlands Academy of Arts and Sciences, 2018: Improving Reproducibility in the Empirical Sciences
+  The National Academies of Science Engineering Medicine, 2019: Reproducibility and Replicability in Science</description>
+    </item>
     
     <item>
       <title>Swiss Reproducibility Award</title>
@@ -19,17 +51,6 @@
       <description>The Swiss Reproducibility Network (SwissRN) is a peer-led consortium that aims to promote and ensure rigorous research practices in Switzerland. SwissRN’s special focus is on reproducibility/replicability. With the goal of supporting and highlighting the work of young scholars who are paying special attention to such issues in their work, SwissRN invites nominations for three annual Swiss Reproducibility Awards.
 Criteria
  One award is granted in each scientific category: Humanities and Social Sciences; Mathematics, Natural and Engineering Sciences; and Biology and Medicine.</description>
-    </item>
-    
-    <item>
-      <title>Nodes</title>
-      <link>http://www.swissrn.org/nodes/</link>
-      <pubDate>Tue, 29 Mar 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.swissrn.org/nodes/</guid>
-      <description>Go to: Local Node Leaders Local Node Activities Local Node Members How to join
-Local Nodes of the SwissRN build the backbone of the network by initiating and coordinating activities at universities and other research institutions. Activities of local nodes are manifold, e.g.
- open research working groups ReproducibiliTea journal clubs organisation of training activities such as carpentries workshops grant and ethics peer review groups etc  The organisation of local nodes differs from institution to institution: from a formalised administration to informal grassroot groups.</description>
     </item>
     
     <item>
@@ -84,31 +105,6 @@ It will be an informal event where we will talk about why reproducibility and op
       <guid>http://www.swissrn.org/initiatives/</guid>
       <description>Go to: Preregistration and Registered Reports Research Assessment and Incentives Replication Studies Research Methodology Training ReproducibiliTea
 Preregistration and Registered Reports Preregistration, or the practice of documenting research aspects such as hypothesis, sample size, design, data exclusion, and statistical analyses, before data collection or data analysis, can help reduce questionable research practices. When integrated into the publishing process in the form of Registered Reports, it can also reduce publication bias. The aim of the SwissRN working group on Preregistration and Registered Reports is to promote and support existing initiatives and services related to Preregistration and Registered Reports (e.</description>
-    </item>
-    
-    <item>
-      <title>Resources</title>
-      <link>http://www.swissrn.org/resources/</link>
-      <pubDate>Tue, 19 Oct 2021 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.swissrn.org/resources/</guid>
-      <description>Terms of Reference Terms of Reference (Version March 2021)
- Executive Summary Executive Summary (Version March 2021)
- Presentation Slides Presentation slides on OSF
- UKRN Open Research Primers The UKRN primer series is designed to introduce a broad audience to important topics in open and reproducible scholarship.
- Reproducibility Reports   The Royal Netherlands Academy of Arts and Sciences, 2018: Improving Reproducibility in the Empirical Sciences
-  The National Academies of Science Engineering Medicine, 2019: Reproducibility and Replicability in Science</description>
-    </item>
-    
-    <item>
-      <title>Organisation</title>
-      <link>http://www.swissrn.org/organisation/</link>
-      <pubDate>Thu, 23 Sep 2021 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.swissrn.org/organisation/</guid>
-      <description>Go to: Steering Committee Institutions Stakeholders Advisory Board Coordinator
-Steering Committee The steering committee is responsible for the overall coordination of SwissRN activity and strategy.
-   Institution Unit Name      University of Zurich Faculty of Science and Faculty of Medicine, Center for Reproducible Science Leonhard Held    University of Geneva Faculty of Psychology and Educational Sciences, Swiss Open Psychological Science Initiative Evie Vergauwe    University of Bern Vetsuisse Faculty Bern, Swiss 3R Competence Centre Hanno Würbel      Institutions  Member institutions of the SwissRN are formally committed to support the aims of SwissRN and have begun implementing them.</description>
     </item>
     
     <item>
