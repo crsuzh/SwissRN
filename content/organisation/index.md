@@ -1,7 +1,7 @@
 +++
 author = "Updated by Tina Wünn"
 title = "Organisation"
-date = "2022-05-10"
+date = "2022-05-17"
 tags = ["Committees"]
 categories = ["Organisation"]
 
@@ -74,7 +74,7 @@ Institution| Unit/Function | Name |  |
 [Tilburg University](https://www.tilburguniversity.edu)| Department of Methodology | [Mich&egrave;le B. Nuijten](https://mbnuijten.com) |![Mich??le B. Nuijten](./../img/pic_MicheleBNuijten.jpg)  |
 [University of Bristol](https://www.bristol.ac.uk)| School of Psychological Science | [Marcus Munafo](http://www.bristol.ac.uk/expsych/people/marcus-r-munafo/) |![Marcus Munafo](./../img/pic_MarcusMunafo.jpg)  |
 [National Centre for the Replacement, Refinement and Reduction of Animals in Research](https://www.nc3rs.org.uk/)|  Head of Experimental Design and Reporting | [Nathalie Percie Du Sert](https://www.nc3rs.org.uk/dr-nathalie-percie-du-sert) |![Nathalie Percie Du Sert](./../img/pic_Nathalie_PercieDuSert.jpg)  |
-Former head of Competence Centre for Methodology and Statistics at the Luxembourg Institute of Health | Statistical Consultancy for the Pharmaceutical Industry | [Stephen Senn](http://www.senns.demon.co.uk/Consult.htm) |![Stephen Senn](./../img/pic_StephenSenn.jpg)  |
+Former head of Competence Centre for Methodology and Statistics at the Luxembourg Institute of Health | Statistical Consultancy for the Pharmaceutical Industry | [Stephen Senn](https://twitter.com/stephensenn) |![Stephen Senn](./../img/pic_StephenSenn.jpg)  |
 
 &nbsp;
 
