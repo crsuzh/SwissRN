@@ -5,7 +5,16 @@
     <link>http://www.swissrn.org/categories/</link>
     <description>Recent content in Categories on SwissRN</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 17 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://www.swissrn.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 24 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://www.swissrn.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nodes</title>
+      <link>http://www.swissrn.org/categories/nodes/</link>
+      <pubDate>Tue, 24 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.swissrn.org/categories/nodes/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Organisation</title>
       <link>http://www.swissrn.org/categories/organisation/</link>
@@ -21,15 +30,6 @@
       <pubDate>Tue, 17 May 2022 00:00:00 +0000</pubDate>
       
       <guid>http://www.swissrn.org/categories/resources/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Nodes</title>
-      <link>http://www.swissrn.org/categories/nodes/</link>
-      <pubDate>Tue, 10 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.swissrn.org/categories/nodes/</guid>
       <description></description>
     </item>
     

@@ -1,7 +1,7 @@
 +++
 author = "Updated by Tina Wünn"
 title = "Nodes"
-date = "2022-05-10"
+date = "2022-05-24"
 tags = ["Local Nodes"]
 categories = ["Nodes"]
 +++
@@ -24,7 +24,6 @@ Institution |  Unit |   Contact   |  |
 [EPFL/Unige Campus Biotech](https://www.campusbiotech.ch/) | Fondation Campus Biotech | [Micha&euml;l Dayan](https://www.campusbiotech.ch/en/people/michael-dayan) | ![Michael Dayan](./../img/pic_MichaelDayan.jpg)  |
 [ETH](https://www.ethz.ch) | NEXUS Personalized Health Technologies | [Daniel Stekhoven](https://www.nexus.ethz.ch/people/person-detail.html?persid=143058) | ![Daniel Stekhoven](./../img/pic_DanielStekhoven.jpeg)  |
 [FernUni Schweiz](https://fernuni.ch)| Psychology / Applied Mathematics | [Nicolas Rothen](https://fernuni.ch/nicolas-rothen/) / [Matthias Voigt](https://fernuni.ch/matthias-voigt/)| ![Nicoals Rothern](./../img/pic_NicolasRothen.jpg) ![Matthias Voigt](./../img/pic_MatthiasVoigt.png)  |
-[Lausanne University Hospital (CHUV)](https://www.chuv.ch/fr/chuv-home) | Precision Medicine Unit  | [Romain-Daniel Gosselin](https://www.chuv.ch/fr/medecine-precision/accueil/en-bref/notre-equipe/romain-daniel-gosselin) | ![Romain-Daniel Gosselin](./../img/pic_RomainDanielGosselin.jpg)  |
 [Haute école de gestion de Genève (HEG-Genève)](https://www.hesge.ch/heg/ ) |Data Mining and Machine Learning group  | [Grigorios Anagnostopoulos](http://dmml.ch/grigorios-anagnostopoulos/) | ![Grigorios Anagnostopoulos](./../img/pic_GrigoriosAnagnostopoulos.jpeg)  |
 [St.Gallen University of Teacher Education](https://www.phsg.ch/en)|Research Methods Working Group| [Michael Beck](https://www.phsg.ch/de/team/prof-dr-michael-beck) | ![Michael Beck](./../img/pic_MichaelBeck.jpg)  |
 [Swiss Institute of Bioinformatics (SIB)](https://www.sib.swiss/) |Bioinformatics |[Patricia Palagi](https://www.sib.swiss/directory?cn=patricia%20palagi)| ![Patricia Palagi](./../img/pic_PatriciaPalagi.jpg)  |
@@ -36,7 +35,7 @@ Institution |  Unit |   Contact   |  |
 [Università della Svizzera italiana (USI)](https://www.usi.ch/)| Data Science Lab | [Antonietta Mira](https://usi.to/exz) |![Antonietta Mira](./../img/pic_AntoniettaMira.jpeg)  |
 [University of Zurich (UZH)](https://www.uzh.ch/en.html)| Center for Reproducible Science| [Leonhard Held](https://www.ebpi.uzh.ch/en/aboutus/departments/biostatistics/teambiostats/held.html) |![Leonhard Held](./../img/pic_LeonhardHeld.jpg)  |
 [Zurich University of Applied Sciences (ZHAW)](https://zhaw.ch)| Institute of Data Analysis and Process Design (IDP) / ZHAW Services Research Data | [Christoph Hofer](https://www.zhaw.ch/en/about-us/person/hofc/)/ [Vanessa Klaas](https://www.zhaw.ch/en/about-us/person/klav/) | ![Christoph Hofer](./../img/pic_ChristophHofer.jpeg) ![Vanessa Klaas](./../img/pic_VanessaKlaas.png)  |
-
+<!-- [Lausanne University Hospital (CHUV)](https://www.chuv.ch/fr/chuv-home) | Precision Medicine Unit  | [Romain-Daniel Gosselin](https://www.chuv.ch/fr/medecine-precision/accueil/en-bref/notre-equipe/romain-daniel-gosselin) | ![Romain-Daniel Gosselin](./../img/pic_RomainDanielGosselin.jpg)  | -->
 &nbsp;  
 
 ### Local Node Activities {#local-node-activities}
