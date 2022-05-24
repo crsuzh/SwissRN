@@ -23,7 +23,7 @@ A letter of nomination (300 words) may be submitted for an eligible research out
 The SwissRN Steering Committee and the SwissRN advisory board will select the winners from the nominated manuscripts while soliciting additional expertise from external reviewers as needed.
 
 **Award**
-The three recipients will receive a cash award of CHF 500 along with an official certificate at the SwissRN Annual Meeting. The awardees are expected to give a brief presentation about their work.
+The three recipients will receive a cash award of CHF 500 along with an official certificate at the SwissRN Annual Meeting on Ocotber 28, 2022. The awardees are expected to give a brief presentation about their work.
 
 
 **Submit nomination**
