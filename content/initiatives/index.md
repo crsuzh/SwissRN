@@ -1,13 +1,13 @@
 +++
-author = "Updated by Tina Wünn"
+author = "Updated by Zhixuan Li"
 title = "Initiatives"
-date = "2021-10-19"
-tags = ["Working Groups", "ReproducibiliTea"]
+date = "2022-09-23"
+tags = ["Working Groups", "Computational Reproducibility"]
 categories = ["Initiatives"]
 
 +++
 
-`Go to:` [*`Preregistration and Registered Reports`*](#prereg) [*`Research Assessment and Incentives`*](#assess) [*`Replication Studies`*](#replicate) [*`Research Methodology`*](#methods) [*`Training`*](#training)  [*`ReproducibiliTea`*](#reprotea)
+`Go to:` [*`Preregistration and Registered Reports`*](#prereg) [*`Research Assessment and Incentives`*](#assess) [*`Replication Studies`*](#replicate) [*`Research Methodology`*](#methods) [*`Training`*](#training) [*`Computational Reproducibility`*](#comprepro) [*`ReproducibiliTea`*](#reprotea)
 
 ### Preregistration and Registered Reports{#prereg}
 Preregistration, or the practice of documenting research aspects such as hypothesis, sample size, design, data exclusion, and statistical analyses, before data collection or data analysis, can help reduce questionable research practices. When integrated into the publishing process in the form of Registered Reports, it can also reduce publication bias. The aim of the SwissRN working group on Preregistration and Registered Reports is to promote and support existing initiatives and services related to Preregistration and Registered Reports (e.g., through workshops and consulting services), as well as develop new initiatives with stakeholders.
@@ -55,6 +55,12 @@ Contact: [Michael Dayan](mailto:michael.dayan@fcbg.ch) or [Eva Furrer](mailto:ev
 
 ---
 
+### Computational Reproducibility{#comprepro}
+Aiming to facilitate and promote wider adoption of computational reproducibility practices and tools in order to foster robust and reproducible scientific data analyses
+
+[*`Back to top`*](#)
+
+---
 
 ### ReproducibiliTea{#reprotea}
 ReproducibiliTea is a grassroots journal club initiative that helps researchers create local Open Science journal clubs at their universities to discuss improving science, reproducibility and the Open Science movement, see [https://reproducibilitea.org/](https://www.crs.uzh.ch/en/training/ReproducibiliTea.html).
