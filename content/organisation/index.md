@@ -1,7 +1,7 @@
 +++
-author = "Updated by Tina Wünn"
+author = "Updated by Zhixuan Li"
 title = "Organisation"
-date = "2022-05-17"
+date = "2022-11-11"
 tags = ["Committees"]
 categories = ["Organisation"]
 
@@ -82,4 +82,4 @@ Former head of Competence Centre for Methodology and Statistics at the Luxembour
 ### Coordinator {#coordinator}
 Institution|   Name & Contact   |  |
 --------------|---|-------------|
-[University of Zurich (UZH)](https://www.uzh.ch/en.html) | [Eva Furrer](https://www.ebpi.uzh.ch/en/aboutus/departments/biostatistics/teambiostats/furrer.html), SwissRN coordinator. Please send inquiries to [eva.furrer@uzh.ch](mailto:eva.furrer@uzh.ch) |![Eva Furrer](./../img/pic_EvaFurrer.jpg)  |
+[University of Zurich (UZH)](https://www.uzh.ch/en.html) | Manuela H&ouml;fler, SwissRN coordinator. Please send inquiries to [manuelamaria.hoefler@uzh.ch](mailto:manuelamaria.hoefler@uzh.ch) |![Manuela H&ouml;fler](./../img/pic_ManuelaHoefler.jpg)  |
