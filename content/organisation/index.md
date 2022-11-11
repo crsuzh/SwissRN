@@ -42,7 +42,7 @@ Institution |  | Contact person
 
 We expect that institutions seeking membership of SwissRN will want to develop capacity to deliver a research improvement strategy, and to work with SwissRN to develop a strategy for ensuring the sustainability of SwissRN in the medium- and long-term, and to build a community of institutions focused on research improvement.
 
-Interested institutions please send an email to [Eva Furrer](mailto:eva.furrer@uzh.ch).
+Interested institutions please send an email to [Manuela H&ouml;fler](mailto:manuelamaria.hoefler@uzh.ch).
 
 ### Stakeholders  {#stakeholders}  
 Stakeholders who support the SwissRN form the Stakeholder Engagement Group with the goal of
