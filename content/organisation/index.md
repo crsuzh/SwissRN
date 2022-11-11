@@ -64,7 +64,7 @@ Institution |  | Contact person |
 
 Potential stakeholders include funders (both governmental and charity) and non-profit organisations that are part of the academic environment. To become a member of the Stakeholder Engagement Group an organization has to provide direct financial support or support in kind to SwissRN and is required to agree to our mission and values.
 
-If you would like to become a member of the Stakeholder Engagement Group of the Swiss Reproducibility Network, please send an email to [Eva Furrer](mailto:eva.furrer@uzh.ch).
+If you would like to become a member of the Stakeholder Engagement Group of the Swiss Reproducibility Network, please send an email to [Manuela H&ouml;fler](mailto:manuelamaria.hoefler@uzh.ch).
 
 ### Advisory Board {#advisory-board}
 An external Advisory Board comprising academics from the international research community with expertise related to the goals of the network supports the steering committee regarding strategy and direction.
@@ -82,4 +82,4 @@ Former head of Competence Centre for Methodology and Statistics at the Luxembour
 ### Coordinator {#coordinator}
 Institution|   Name & Contact   |  |
 --------------|---|-------------|
-[University of Zurich (UZH)](https://www.uzh.ch/en.html) | Manuela H&ouml;fler, SwissRN coordinator. Please send inquiries to [manuelamaria.hoefler@uzh.ch](mailto:manuelamaria.hoefler@uzh.ch) |![Manuela H&ouml;fler](./../img/pic_ManuelaHoefler.jpg)  |
+[University of Zurich (UZH)](https://www.uzh.ch/en.html) | Manuela H&ouml;fler, SwissRN coordinator. Please send inquiries to [manuelamaria.hoefler@uzh.ch](mailto:manuelamaria.hoefler@uzh.ch) | ![Manuela H&ouml;fler](./../img/pic_ManuelaHoefler.jpg)  |

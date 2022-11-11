@@ -19,7 +19,7 @@ Contact: [Evie Vergauwe](mailto:Evie.Vergauwe@unige.ch)
 ### Research Assessment and Incentives{#assess}
 Trustworthiness of research is unevitably linked to robustness, rigor and transparency. But the assessment of researchers for hiring and promotion rarely emphasizes behaviors that contribute to these factors. The SwissRN working group on Research Assessment and Incentives will be discussing possibilities to reward and recognise researchers for such behavior. In a dialogue with institutions and stakeholders the group will push for a change of culture. See the [Hong Kong Principles](https://doi.org/10.1371/journal.pbio.3000737) for a starting point.
 
-Contact: [Romain-Daniel Gosselin](mailto:Romain-Daniel.Gosselin@chuv.ch)
+Contact: TBD
 
 [*`Back to top`*](#)
 
@@ -57,6 +57,8 @@ Contact: [Michael Dayan](mailto:michael.dayan@fcbg.ch) or [Eva Furrer](mailto:ev
 
 ### Computational Reproducibility{#comprepro}
 Aiming to facilitate and promote wider adoption of computational reproducibility practices and tools in order to foster robust and reproducible scientific data analyses
+
+Contact: TBD
 
 [*`Back to top`*](#)
 
