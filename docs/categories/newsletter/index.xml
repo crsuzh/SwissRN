@@ -5,7 +5,18 @@
     <link>http://www.swissrn.org/categories/newsletter/</link>
     <description>Recent content in Newsletter on SwissRN</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 24 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://www.swissrn.org/categories/newsletter/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 25 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://www.swissrn.org/categories/newsletter/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SwissRN Newsletter</title>
+      <link>http://www.swissrn.org/news/newsletter202211november/</link>
+      <pubDate>Fri, 25 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.swissrn.org/news/newsletter202211november/</guid>
+      <description>We have a new Newsletter! Check out the fifth edition of November 2022
+You can subscribe to the newsletter by subscribing to our mailing list.
+Image credits: Dennis Skley</description>
+    </item>
+    
     <item>
       <title>SwissRN Newsletter</title>
       <link>http://www.swissrn.org/news/newsletter202205may/</link>
@@ -14,8 +25,7 @@
       <guid>http://www.swissrn.org/news/newsletter202205may/</guid>
       <description>We have a new Newsletter! Check out the fourth edition of May 2022
 You can subscribe to the newsletter by subscribing to our mailing list.
-Image credits: Dennis Skley
- </description>
+Image credits: Dennis Skley</description>
     </item>
     
     <item>
@@ -26,8 +36,7 @@ Image credits: Dennis Skley
       <guid>http://www.swissrn.org/news/newsletter202202february/</guid>
       <description>We have a new Newsletter! Check out the third edition of February 2022
 You can subscribe to the newsletter by subscribing to our mailing list.
-Image credits: Dennis Skley
- </description>
+Image credits: Dennis Skley</description>
     </item>
     
     <item>
@@ -38,8 +47,7 @@ Image credits: Dennis Skley
       <guid>http://www.swissrn.org/news/newsletter202106june/</guid>
       <description>We have a new Newsletter! Check out the second edition of June 2021
 You can subscribe to the newsletter by subscribing to our mailing list.
-Image credits: Dennis Skley
- </description>
+Image credits: Dennis Skley</description>
     </item>
     
     <item>
@@ -50,8 +58,7 @@ Image credits: Dennis Skley
       <guid>http://www.swissrn.org/news/newsletter202104april/</guid>
       <description>We have a brand new Newsletter! Check out the first edition of April 2021
 You can subscribe to the newsletter by subscribing to our mailing list.
-Image credits: Dennis Skley
- </description>
+Image credits: Dennis Skley</description>
     </item>
     
   </channel>

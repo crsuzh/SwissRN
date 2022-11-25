@@ -5,7 +5,18 @@
     <link>http://www.swissrn.org/tags/meetings/</link>
     <description>Recent content in Meetings on SwissRN</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 13 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://www.swissrn.org/tags/meetings/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 25 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://www.swissrn.org/tags/meetings/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SwissRN Annual Meeting 2022</title>
+      <link>http://www.swissrn.org/news/annualmeeting2022/</link>
+      <pubDate>Fri, 25 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.swissrn.org/news/annualmeeting2022/</guid>
+      <description>Save the Date and Register: SwissRN Annual Meeting and Swiss Reproducibility Awards, 13.1.2023
+After we had to postpone the SwissRN Annual Meeting, it is now scheduled to take place in person on January 13, 2023 in Berne. Please save the date and register here until Friday, 16th December 2022.
+Program Highlights: Presentation of the first Swiss Reproducibility Award Keynote by Brian Nosek, Co-founder and Executive Director of the Center for Open Science Discussion of the SwissRN Strategy Framework</description>
+    </item>
+    
     <item>
       <title>European Reproducibility Summit 2021</title>
       <link>http://www.swissrn.org/news/europeansummit2021/</link>
@@ -14,7 +25,7 @@
       <guid>http://www.swissrn.org/news/europeansummit2021/</guid>
       <description>SwissRN will host the first European Reproducibility summit on September 30, 2021 at the University of Bern. Leaders of current and emerging European Reproducibility Networks will meet with the goal of discussing collaboration and coordination. Many of those leaders will stay as guests for the SwissRN Annual Meeting on Ocotber 1st.
 List of confirmed attendees:
-   Name Institution Country     Roosmarijn Vandenbroucke Ghent University Belgium   Andreas Scherer Institute for Molecular Medicine Finland, Helsinki Finland   Vootele Voikar University of Helsinki Finland   Hans Rocha Ijzerman Université Grenoble Alpes France   Christian Fiebach Goethe University Frankfurt Germany   Antonia Schrader Helmholtz Association Open Science Office Germany   Cristina Zogmeister University of Milan – Bicocca Italy   Loek Brinkman UMC Utrecht The Netherlands   Daniel Lakens Eindhoven University of Technology The Netherlands   Siri Leknes University of Oslo Norway   Dan Quintana University of Oslo Norway   Katarzyna Jasko Jagiellonian University Poland   Susana Magalhaes University od Porto Portugal   Alessandra Souza University of Porto Portugal   Gustave Nilsonne Karolinska Institutet, Stockholm Sweden   Leonhard Held University of Zurich Switzerland   Evie Vergauwe University of Geneva Switzerland   Hanno Würbel University of Bern Switzerland   Marcus Munafo University of Bristol UK     </description>
+Name Institution Country Roosmarijn Vandenbroucke Ghent University Belgium Andreas Scherer Institute for Molecular Medicine Finland, Helsinki Finland Vootele Voikar University of Helsinki Finland Hans Rocha Ijzerman Université Grenoble Alpes France Christian Fiebach Goethe University Frankfurt Germany Antonia Schrader Helmholtz Association Open Science Office Germany Cristina Zogmeister University of Milan – Bicocca Italy Loek Brinkman UMC Utrecht The Netherlands Daniel Lakens Eindhoven University of Technology The Netherlands Siri Leknes University of Oslo Norway Dan Quintana University of Oslo Norway Katarzyna Jasko Jagiellonian University Poland Susana Magalhaes University od Porto Portugal Alessandra Souza University of Porto Portugal Gustave Nilsonne Karolinska Institutet, Stockholm Sweden Leonhard Held University of Zurich Switzerland Evie Vergauwe University of Geneva Switzerland Hanno Würbel University of Bern Switzerland Marcus Munafo University of Bristol UK </description>
     </item>
     
     <item>
@@ -44,7 +55,7 @@ If you are working in or close to research in Switzerland and would like to part
       <guid>http://www.swissrn.org/news/launchmeeting/</guid>
       <description>On October 23rd, 2020 the Swiss Reproducibility Network had its official (virtual) launch meeting. Members of the advisory board and of other Reproducibility Networks and stakeholders presented their vision on the reproducibility of research. A lively discussion of view points and potential action points inspired the more informal afternoon in which SwissRN defined its future activities.
 Working groups have been formed on
- Preregistration and Registered Reports: initial leader Evie Vergauwe Research Assessment and Incentives: initial leader Eva Furrer Replication Studies: initial leader Leonhard Held Research Methodology: initial leader Hanno Würbel Courses and course materials: initial leader Simon Schwab Journal club and communication: initial leader Eva Furrer  More details on the working groups will be announced soon.</description>
+Preregistration and Registered Reports: initial leader Evie Vergauwe Research Assessment and Incentives: initial leader Eva Furrer Replication Studies: initial leader Leonhard Held Research Methodology: initial leader Hanno Würbel Courses and course materials: initial leader Simon Schwab Journal club and communication: initial leader Eva Furrer More details on the working groups will be announced soon.</description>
     </item>
     
   </channel>
