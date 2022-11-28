@@ -5,7 +5,21 @@
     <link>http://www.swissrn.org/tags/swiss-reproducibility-award/</link>
     <description>Recent content in Swiss Reproducibility Award on SwissRN</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 05 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://www.swissrn.org/tags/swiss-reproducibility-award/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 28 Nov 2022 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.swissrn.org/tags/swiss-reproducibility-award/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Swiss Reproducibility Award Winners</title>
+      <link>http://www.swissrn.org/news/swissreproducibilityaward2022winners/</link>
+      <pubDate>Mon, 28 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.swissrn.org/news/swissreproducibilityaward2022winners/</guid>
+      <description>The Swiss Reproducibility Network (SwissRN) is happy to announce the following winners of its Swiss Reproducibility Award:
+ Category Biology and Medicine: Mathieu Seppey, University of Geneva Category Humanities and Social Science: Co-Winners Caro Hautekiet and Tobia Spampatti, both University of Geneva  The winners will be presented with their award at our Annual Meeting on 13.1.2023 in Berne. Join us in Berne to have the pleasure to hear more about their work!</description>
+    </item>
+    
     <item>
       <title>Swiss Reproducibility Award</title>
       <link>http://www.swissrn.org/news/swissreproducibilityaward2022/</link>
@@ -14,7 +28,7 @@
       <guid>http://www.swissrn.org/news/swissreproducibilityaward2022/</guid>
       <description>The Swiss Reproducibility Network (SwissRN) is a peer-led consortium that aims to promote and ensure rigorous research practices in Switzerland. SwissRN’s special focus is on reproducibility/replicability. With the goal of supporting and highlighting the work of young scholars who are paying special attention to such issues in their work, SwissRN invites nominations for three annual Swiss Reproducibility Awards.
 Criteria
-One award is granted in each scientific category: Humanities and Social Sciences; Mathematics, Natural and Engineering Sciences; and Biology and Medicine.</description>
+ One award is granted in each scientific category: Humanities and Social Sciences; Mathematics, Natural and Engineering Sciences; and Biology and Medicine.</description>
     </item>
     
   </channel>

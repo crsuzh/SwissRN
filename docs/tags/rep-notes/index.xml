@@ -5,7 +5,11 @@
     <link>http://www.swissrn.org/tags/rep-notes/</link>
     <description>Recent content in Rep Notes on SwissRN</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 20 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://www.swissrn.org/tags/rep-notes/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.swissrn.org/tags/rep-notes/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Reproducibility Notes</title>
       <link>http://www.swissrn.org/news/reproducibilitynotes/</link>
@@ -15,7 +19,8 @@
       <description>The Center for Reproducible Science (CRS) at the University of Zurich publishes a column on Reproducibility in the british-american magazine Significance:
 January 2020
 April 2020
-Special on COVID-19</description>
+Special on COVID-19
+ </description>
     </item>
     
   </channel>

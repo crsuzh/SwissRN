@@ -5,7 +5,11 @@
     <link>http://www.swissrn.org/tags/working-groups/</link>
     <description>Recent content in Working Groups on SwissRN</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 25 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://www.swissrn.org/tags/working-groups/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 25 Nov 2022 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.swissrn.org/tags/working-groups/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>SwissRN Annual Meeting 2022</title>
       <link>http://www.swissrn.org/news/annualmeeting2022/</link>
@@ -16,7 +20,7 @@
 SwissRN Annual Meeting and Swiss Reproducibility Awards, 13.1.2023
 After we had to postpone the SwissRN Annual Meeting, it is now scheduled to take place in person on January 13, 2023 in Berne. Please save the date and register here until Friday, 16th December 2022.
 Program Highlights:
-Presentation of the first Swiss Reproducibility Award Keynote by Brian Nosek, Co-founder and Executive Director of the Center for Open Science Discussion of the SwissRN Strategy Framework Reports by Local Nodes, Working Groups and the SwissRN Academy</description>
+ Presentation of the first Swiss Reproducibility Award Keynote by Brian Nosek, Co-founder and Executive Director of the Center for Open Science Discussion of the SwissRN Strategy Framework  Reports by Local Nodes, Working Groups and the SwissRN Academy</description>
     </item>
     
     <item>
@@ -47,7 +51,7 @@ If you are working in or close to research in Switzerland and would like to part
       <guid>http://www.swissrn.org/news/launchmeeting/</guid>
       <description>On October 23rd, 2020 the Swiss Reproducibility Network had its official (virtual) launch meeting. Members of the advisory board and of other Reproducibility Networks and stakeholders presented their vision on the reproducibility of research. A lively discussion of view points and potential action points inspired the more informal afternoon in which SwissRN defined its future activities.
 Working groups have been formed on
-Preregistration and Registered Reports: initial leader Evie Vergauwe Research Assessment and Incentives: initial leader Eva Furrer Replication Studies: initial leader Leonhard Held Research Methodology: initial leader Hanno Würbel Courses and course materials: initial leader Simon Schwab Journal club and communication: initial leader Eva Furrer More details on the working groups will be announced soon.</description>
+ Preregistration and Registered Reports: initial leader Evie Vergauwe Research Assessment and Incentives: initial leader Eva Furrer Replication Studies: initial leader Leonhard Held Research Methodology: initial leader Hanno Würbel Courses and course materials: initial leader Simon Schwab Journal club and communication: initial leader Eva Furrer  More details on the working groups will be announced soon.</description>
     </item>
     
   </channel>

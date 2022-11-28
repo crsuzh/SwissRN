@@ -5,7 +5,20 @@
     <link>http://www.swissrn.org/tags/</link>
     <description>Recent content in Tags on SwissRN</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 25 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://www.swissrn.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 28 Nov 2022 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.swissrn.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Swiss Reproducibility Award</title>
+      <link>http://www.swissrn.org/tags/swiss-reproducibility-award/</link>
+      <pubDate>Mon, 28 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.swissrn.org/tags/swiss-reproducibility-award/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Meetings</title>
       <link>http://www.swissrn.org/tags/meetings/</link>
@@ -75,15 +88,6 @@
       <pubDate>Tue, 17 May 2022 00:00:00 +0000</pubDate>
       
       <guid>http://www.swissrn.org/tags/terms-of-references/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Swiss Reproducibility Award</title>
-      <link>http://www.swissrn.org/tags/swiss-reproducibility-award/</link>
-      <pubDate>Thu, 05 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.swissrn.org/tags/swiss-reproducibility-award/</guid>
       <description></description>
     </item>
     

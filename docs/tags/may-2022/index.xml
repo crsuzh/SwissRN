@@ -5,7 +5,11 @@
     <link>http://www.swissrn.org/tags/may-2022/</link>
     <description>Recent content in May 2022 on SwissRN</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 24 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://www.swissrn.org/tags/may-2022/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 24 May 2022 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.swissrn.org/tags/may-2022/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>SwissRN Newsletter</title>
       <link>http://www.swissrn.org/news/newsletter202205may/</link>
@@ -14,7 +18,8 @@
       <guid>http://www.swissrn.org/news/newsletter202205may/</guid>
       <description>We have a new Newsletter! Check out the fourth edition of May 2022
 You can subscribe to the newsletter by subscribing to our mailing list.
-Image credits: Dennis Skley</description>
+Image credits: Dennis Skley
+ </description>
     </item>
     
   </channel>
