@@ -5,11 +5,7 @@
     <link>http://www.swissrn.org/tags/publication/</link>
     <description>Recent content in Publication on SwissRN</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 02 Oct 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://www.swissrn.org/tags/publication/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 02 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://www.swissrn.org/tags/publication/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Best Negative Data Prize</title>
       <link>http://www.swissrn.org/news/bestnegativedata/</link>
@@ -42,8 +38,7 @@ Florian has talked with radio RTS Info on this story</description>
       <description>The Center for Reproducible Science (CRS) at the University of Zurich publishes a column on Reproducibility in the british-american magazine Significance:
 January 2020
 April 2020
-Special on COVID-19
- </description>
+Special on COVID-19</description>
     </item>
     
   </channel>

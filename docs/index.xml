@@ -5,19 +5,16 @@
     <link>http://www.swissrn.org/</link>
     <description>Recent content on SwissRN</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 28 Nov 2022 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://www.swissrn.org/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 07 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://www.swissrn.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Swiss Reproducibility Award Winners</title>
-      <link>http://www.swissrn.org/news/swissreproducibilityaward2022winners/</link>
-      <pubDate>Mon, 28 Nov 2022 00:00:00 +0000</pubDate>
+      <title>Nodes</title>
+      <link>http://www.swissrn.org/nodes/</link>
+      <pubDate>Wed, 07 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://www.swissrn.org/news/swissreproducibilityaward2022winners/</guid>
-      <description>The Swiss Reproducibility Network (SwissRN) is happy to announce the following winners of its Swiss Reproducibility Award:
- Category Biology and Medicine: Mathieu Seppey, University of Geneva Category Humanities and Social Science: Co-Winners Caro Hautekiet and Tobia Spampatti, both University of Geneva  The winners will be presented with their award at our Annual Meeting on 13.1.2023 in Berne. Join us in Berne to have the pleasure to hear more about their work!</description>
+      <guid>http://www.swissrn.org/nodes/</guid>
+      <description>Go to: Local Node Leaders Local Node Activities Local Node Members How to join
+Local Nodes of the SwissRN build the backbone of the network by initiating and coordinating activities at universities and other research institutions. Activities of local nodes are manifold, e.g.
+open research working groups ReproducibiliTea journal clubs organisation of training activities such as carpentries workshops grant and ethics peer review groups etc The organisation of local nodes differs from institution to institution: from a formalised administration to informal grassroot groups.</description>
     </item>
     
     <item>
@@ -30,7 +27,7 @@
 SwissRN Annual Meeting and Swiss Reproducibility Awards, 13.1.2023
 After we had to postpone the SwissRN Annual Meeting, it is now scheduled to take place in person on January 13, 2023 in Berne. Please save the date and register here until Friday, 16th December 2022.
 Program Highlights:
- Presentation of the first Swiss Reproducibility Award Keynote by Brian Nosek, Co-founder and Executive Director of the Center for Open Science Discussion of the SwissRN Strategy Framework  Reports by Local Nodes, Working Groups and the SwissRN Academy</description>
+Presentation of the first Swiss Reproducibility Award Keynote by Brian Nosek, Co-founder and Executive Director of the Center for Open Science Discussion of the SwissRN Strategy Framework Reports by Local Nodes, Working Groups and the SwissRN Academy</description>
     </item>
     
     <item>
@@ -41,8 +38,7 @@ Program Highlights:
       <guid>http://www.swissrn.org/news/newsletter202211november/</guid>
       <description>We have a new Newsletter! Check out the fifth edition of November 2022
 You can subscribe to the newsletter by subscribing to our mailing list.
-Image credits: Dennis Skley
- </description>
+Image credits: Dennis Skley</description>
     </item>
     
     <item>
@@ -53,7 +49,7 @@ Image credits: Dennis Skley
       <guid>http://www.swissrn.org/organisation/</guid>
       <description>Go to: Steering Committee Institutions Stakeholders Advisory Board Coordinator
 Steering Committee The steering committee is responsible for the overall coordination of SwissRN activity and strategy.
-   Institution Unit Name      University of Zurich Faculty of Science and Faculty of Medicine, Center for Reproducible Science Leonhard Held    University of Geneva Faculty of Psychology and Educational Sciences, Swiss Open Psychological Science Initiative Evie Vergauwe    University of Bern Vetsuisse Faculty Bern, Swiss 3R Competence Centre Hanno Würbel      Institutions  Member institutions of the SwissRN are formally committed to support the aims of SwissRN and have begun implementing them.</description>
+Institution Unit Name University of Zurich Faculty of Science and Faculty of Medicine, Center for Reproducible Science Leonhard Held University of Geneva Faculty of Psychology and Educational Sciences, Swiss Open Psychological Science Initiative Evie Vergauwe University of Bern Vetsuisse Faculty Bern, Swiss 3R Competence Centre Hanno Würbel Institutions Member institutions of the SwissRN are formally committed to support the aims of SwissRN and have begun implementing them.</description>
     </item>
     
     <item>
@@ -67,17 +63,6 @@ Preregistration and Registered Reports Preregistration, or the practice of docum
     </item>
     
     <item>
-      <title>Nodes</title>
-      <link>http://www.swissrn.org/nodes/</link>
-      <pubDate>Tue, 24 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.swissrn.org/nodes/</guid>
-      <description>Go to: Local Node Leaders Local Node Activities Local Node Members How to join
-Local Nodes of the SwissRN build the backbone of the network by initiating and coordinating activities at universities and other research institutions. Activities of local nodes are manifold, e.g.
- open research working groups ReproducibiliTea journal clubs organisation of training activities such as carpentries workshops grant and ethics peer review groups etc  The organisation of local nodes differs from institution to institution: from a formalised administration to informal grassroot groups.</description>
-    </item>
-    
-    <item>
       <title>SwissRN Newsletter</title>
       <link>http://www.swissrn.org/news/newsletter202205may/</link>
       <pubDate>Tue, 24 May 2022 00:00:00 +0000</pubDate>
@@ -85,8 +70,7 @@ Local Nodes of the SwissRN build the backbone of the network by initiating and c
       <guid>http://www.swissrn.org/news/newsletter202205may/</guid>
       <description>We have a new Newsletter! Check out the fourth edition of May 2022
 You can subscribe to the newsletter by subscribing to our mailing list.
-Image credits: Dennis Skley
- </description>
+Image credits: Dennis Skley</description>
     </item>
     
     <item>
@@ -96,11 +80,11 @@ Image credits: Dennis Skley
       
       <guid>http://www.swissrn.org/resources/</guid>
       <description>Terms of Reference Terms of Reference (Version March 2021)
- Executive Summary Executive Summary (Version March 2021)
- Presentation Slides Presentation slides on OSF
- UKRN Open Research Primers The UKRN primer series is designed to introduce a broad audience to important topics in open and reproducible scholarship.
- Reproducibility Reports   The Royal Netherlands Academy of Arts and Sciences, 2018: Improving Reproducibility in the Empirical Sciences
-  The National Academies of Science Engineering Medicine, 2019: Reproducibility and Replicability in Science</description>
+Executive Summary Executive Summary (Version March 2021)
+Presentation Slides Presentation slides on OSF
+UKRN Open Research Primers The UKRN primer series is designed to introduce a broad audience to important topics in open and reproducible scholarship.
+Reproducibility Reports The Royal Netherlands Academy of Arts and Sciences, 2018: Improving Reproducibility in the Empirical Sciences
+The National Academies of Science Engineering Medicine, 2019: Reproducibility and Replicability in Science</description>
     </item>
     
     <item>
@@ -111,7 +95,7 @@ Image credits: Dennis Skley
       <guid>http://www.swissrn.org/news/swissreproducibilityaward2022/</guid>
       <description>The Swiss Reproducibility Network (SwissRN) is a peer-led consortium that aims to promote and ensure rigorous research practices in Switzerland. SwissRN’s special focus is on reproducibility/replicability. With the goal of supporting and highlighting the work of young scholars who are paying special attention to such issues in their work, SwissRN invites nominations for three annual Swiss Reproducibility Awards.
 Criteria
- One award is granted in each scientific category: Humanities and Social Sciences; Mathematics, Natural and Engineering Sciences; and Biology and Medicine.</description>
+One award is granted in each scientific category: Humanities and Social Sciences; Mathematics, Natural and Engineering Sciences; and Biology and Medicine.</description>
     </item>
     
     <item>
@@ -122,8 +106,7 @@ Criteria
       <guid>http://www.swissrn.org/news/academyreprohack2022/</guid>
       <description>On 20th May 2022, the Swiss Reproducibility Network Academy will host the first national Reproduciblity Hackathon &amp;ndash; Swiss ReproHack &amp;ndash; at the University of Bern.
 For information and registration see here https://www.eventbrite.com/e/swiss-reprohack-swiss-reproducibility-network-academy-tickets-300563923787
-The number of participants will be limited to 20 (master or PhD students or other interested persons).
- </description>
+The number of participants will be limited to 20 (master or PhD students or other interested persons).</description>
     </item>
     
     <item>
@@ -134,8 +117,7 @@ The number of participants will be limited to 20 (master or PhD students or othe
       <guid>http://www.swissrn.org/news/newsletter202202february/</guid>
       <description>We have a new Newsletter! Check out the third edition of February 2022
 You can subscribe to the newsletter by subscribing to our mailing list.
-Image credits: Dennis Skley
- </description>
+Image credits: Dennis Skley</description>
     </item>
     
     <item>
@@ -166,7 +148,7 @@ It will be an informal event where we will talk about why reproducibility and op
       <guid>http://www.swissrn.org/news/europeansummit2021/</guid>
       <description>SwissRN will host the first European Reproducibility summit on September 30, 2021 at the University of Bern. Leaders of current and emerging European Reproducibility Networks will meet with the goal of discussing collaboration and coordination. Many of those leaders will stay as guests for the SwissRN Annual Meeting on Ocotber 1st.
 List of confirmed attendees:
-   Name Institution Country     Roosmarijn Vandenbroucke Ghent University Belgium   Andreas Scherer Institute for Molecular Medicine Finland, Helsinki Finland   Vootele Voikar University of Helsinki Finland   Hans Rocha Ijzerman Université Grenoble Alpes France   Christian Fiebach Goethe University Frankfurt Germany   Antonia Schrader Helmholtz Association Open Science Office Germany   Cristina Zogmeister University of Milan – Bicocca Italy   Loek Brinkman UMC Utrecht The Netherlands   Daniel Lakens Eindhoven University of Technology The Netherlands   Siri Leknes University of Oslo Norway   Dan Quintana University of Oslo Norway   Katarzyna Jasko Jagiellonian University Poland   Susana Magalhaes University od Porto Portugal   Alessandra Souza University of Porto Portugal   Gustave Nilsonne Karolinska Institutet, Stockholm Sweden   Leonhard Held University of Zurich Switzerland   Evie Vergauwe University of Geneva Switzerland   Hanno Würbel University of Bern Switzerland   Marcus Munafo University of Bristol UK     </description>
+Name Institution Country Roosmarijn Vandenbroucke Ghent University Belgium Andreas Scherer Institute for Molecular Medicine Finland, Helsinki Finland Vootele Voikar University of Helsinki Finland Hans Rocha Ijzerman Université Grenoble Alpes France Christian Fiebach Goethe University Frankfurt Germany Antonia Schrader Helmholtz Association Open Science Office Germany Cristina Zogmeister University of Milan – Bicocca Italy Loek Brinkman UMC Utrecht The Netherlands Daniel Lakens Eindhoven University of Technology The Netherlands Siri Leknes University of Oslo Norway Dan Quintana University of Oslo Norway Katarzyna Jasko Jagiellonian University Poland Susana Magalhaes University od Porto Portugal Alessandra Souza University of Porto Portugal Gustave Nilsonne Karolinska Institutet, Stockholm Sweden Leonhard Held University of Zurich Switzerland Evie Vergauwe University of Geneva Switzerland Hanno Würbel University of Bern Switzerland Marcus Munafo University of Bristol UK </description>
     </item>
     
     <item>
@@ -187,8 +169,7 @@ If you are working in or close to research in Switzerland and would like to part
       <guid>http://www.swissrn.org/news/newsletter202106june/</guid>
       <description>We have a new Newsletter! Check out the second edition of June 2021
 You can subscribe to the newsletter by subscribing to our mailing list.
-Image credits: Dennis Skley
- </description>
+Image credits: Dennis Skley</description>
     </item>
     
     <item>
@@ -199,8 +180,7 @@ Image credits: Dennis Skley
       <guid>http://www.swissrn.org/news/newsletter202104april/</guid>
       <description>We have a brand new Newsletter! Check out the first edition of April 2021
 You can subscribe to the newsletter by subscribing to our mailing list.
-Image credits: Dennis Skley
- </description>
+Image credits: Dennis Skley</description>
     </item>
     
     <item>
@@ -220,7 +200,7 @@ Image credits: Dennis Skley
       <guid>http://www.swissrn.org/news/launchmeeting/</guid>
       <description>On October 23rd, 2020 the Swiss Reproducibility Network had its official (virtual) launch meeting. Members of the advisory board and of other Reproducibility Networks and stakeholders presented their vision on the reproducibility of research. A lively discussion of view points and potential action points inspired the more informal afternoon in which SwissRN defined its future activities.
 Working groups have been formed on
- Preregistration and Registered Reports: initial leader Evie Vergauwe Research Assessment and Incentives: initial leader Eva Furrer Replication Studies: initial leader Leonhard Held Research Methodology: initial leader Hanno Würbel Courses and course materials: initial leader Simon Schwab Journal club and communication: initial leader Eva Furrer  More details on the working groups will be announced soon.</description>
+Preregistration and Registered Reports: initial leader Evie Vergauwe Research Assessment and Incentives: initial leader Eva Furrer Replication Studies: initial leader Leonhard Held Research Methodology: initial leader Hanno Würbel Courses and course materials: initial leader Simon Schwab Journal club and communication: initial leader Eva Furrer More details on the working groups will be announced soon.</description>
     </item>
     
     <item>
@@ -255,8 +235,7 @@ Florian has talked with radio RTS Info on this story</description>
       <description>The Center for Reproducible Science (CRS) at the University of Zurich publishes a column on Reproducibility in the british-american magazine Significance:
 January 2020
 April 2020
-Special on COVID-19
- </description>
+Special on COVID-19</description>
     </item>
     
     <item>
@@ -266,7 +245,7 @@ Special on COVID-19
       
       <guid>http://www.swissrn.org/news/focusareacommunication/</guid>
       <description>One of the SwissRN Focus Areas is communication:
- Dissemination of new evidence Propagation of best practices Promotion of a culture change   What we offer  Publications Whitepapers Guidelines  </description>
+Dissemination of new evidence Propagation of best practices Promotion of a culture change What we offer Publications Whitepapers Guidelines </description>
     </item>
     
     <item>
@@ -276,7 +255,7 @@ Special on COVID-19
       
       <guid>http://www.swissrn.org/news/focusareaeducation/</guid>
       <description>One of the SwissRN Focus Areas is education:
- courses to early career researchers, conception of basic Good Research Practice training modules for Bachelor and Master students, preparation of online materials; coordination of virtual seminars and journals clubs   What we offer  Teaching/training materials ReproducibiliTeas CH-wide Workshops Seminars  </description>
+courses to early career researchers, conception of basic Good Research Practice training modules for Bachelor and Master students, preparation of online materials; coordination of virtual seminars and journals clubs What we offer Teaching/training materials ReproducibiliTeas CH-wide Workshops Seminars </description>
     </item>
     
     <item>
@@ -287,7 +266,7 @@ Special on COVID-19
       <guid>http://www.swissrn.org/news/focusareatransformation/</guid>
       <description>One of the SwissRN Focus Areas is transformation:
 Research improvement measures and related policies will be designed and evaluated in collaboration with stakeholders. Together we aim to order to influence policy and policy makers towards the improvement of the quality and robustness of research by reforming culture and practice.
- What we offer  Network to intiate collaboration projects Leverage of a nationwide network with close connection to key players  </description>
+What we offer Network to intiate collaboration projects Leverage of a nationwide network with close connection to key players </description>
     </item>
     
   </channel>
