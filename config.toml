@@ -226,3 +226,9 @@ pluralizeListTitles     = false
   mastodon              = ""
   # Email
   email                 = "crs@ebpi.uzh.ch"
+
+[markup]
+  defaultMarkdownHandler = "goldmark"
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
