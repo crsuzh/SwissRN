@@ -7,7 +7,6 @@ description = "SwissRN Annual Meeting"
 tags = [ "Working Groups", "Meetings"]
 categories = ["News"]
 +++
-
 **Register until December 16**
 
 **Register for the SwissRN Annual Meeting and Swiss Reproducibility Award, 13.1.2023**
