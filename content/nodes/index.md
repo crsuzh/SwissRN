@@ -1,7 +1,7 @@
 +++
 author = "Updated by Zhixuan Li"
 title = "Nodes"
-date = "2022-12-07"
+date = "2022-12-13"
 tags = ["Local Nodes"]
 categories = ["Nodes"]
 +++
@@ -19,10 +19,10 @@ The organisation of local nodes differs from institution to institution: from a 
 ### Local Node Leaders {#local-node-leaders}
 Institution |  Unit |   Contact   |  |
 --------------|---|-------------|---|
-[CERN](https://home.cern/) | Information Technology | [Tibor Simko](https://orcid.org/0000-0001-7202-5803)| ![Tibor Simko](./../img/pic_TiborSimko.jpeg)  |
-[&Eacute;cole polytechnique f&eacute;d&eacute;rale de Lausanne (EPFL)](https://www.epfl.ch/en/) | Neuroscience -- Brain Mind Institute | [Michael Herzog](https://www.epfl.ch/labs/lpsy/team/herzog/)| ![Michael Herzog](./../img/pic_MichaelHerzog.jpg)  |
-[EPFL/Unige Campus Biotech](https://www.campusbiotech.ch/) | Fondation Campus Biotech | [Micha&euml;l Dayan](https://www.campusbiotech.ch/en/people/michael-dayan) | ![Michael Dayan](./../img/pic_MichaelDayan.jpg)  |
-[ETH](https://www.ethz.ch) | NEXUS Personalized Health Technologies | [Daniel Stekhoven](https://www.nexus.ethz.ch/people/person-detail.html?persid=143058) | ![Daniel Stekhoven](./../img/pic_DanielStekhoven.jpeg)  |
+[CERN](https://home.cern/) | Information Technology | [Tibor Simko](https://orcid.org/0000-0001-7202-5803) <a href="https://orcid.org/0000-0001-7202-5803"><img alt="ORCID" src="./../img/ORCIDiD_icon16x16.png" style="height:16px; width:16px" /></a> | ![Tibor Simko](./../img/pic_TiborSimko.jpeg)  |
+[&Eacute;cole polytechnique f&eacute;d&eacute;rale de Lausanne (EPFL)](https://www.epfl.ch/en/) | Neuroscience -- Brain Mind Institute | [Michael Herzog](https://www.epfl.ch/labs/lpsy/team/herzog/) <br> [ORCiD](https://orcid.org/0000-0001-5433-1030)| ![Michael Herzog](./../img/pic_MichaelHerzog.jpg)  |
+[EPFL/Unige Campus Biotech](https://www.campusbiotech.ch/) | Fondation Campus Biotech | [Micha&euml;l Dayan](https://www.campusbiotech.ch/en/people/michael-dayan) <br> [(ORCiD)](https://orcid.org/0000-0002-2666-0969) | ![Michael Dayan](./../img/pic_MichaelDayan.jpg) |
+[ETH](https://www.ethz.ch) | NEXUS Personalized Health Technologies | [Daniel Stekhoven](https://www.nexus.ethz.ch/people/person-detail.html?persid=143058) <a href="https://orcid.org/0000-0001-7202-5803"><img alt="ORCID" src="./../img/ORCIDiD_icon16x16.png" style="height:16px; width:16px" /></a> | ![Daniel Stekhoven](./../img/pic_DanielStekhoven.jpeg)  |
 [FernUni Schweiz](https://fernuni.ch)| Psychology / Applied Mathematics | [Nicolas Rothen](https://fernuni.ch/nicolas-rothen/) / [Matthias Voigt](https://fernuni.ch/matthias-voigt/)| ![Nicoals Rothern](./../img/pic_NicolasRothen.jpg) ![Matthias Voigt](./../img/pic_MatthiasVoigt.png)  |
 [Haute école de gestion de Genève (HEG-Genève)](https://www.hesge.ch/heg/ ) |Data Mining and Machine Learning group  | [Grigorios Anagnostopoulos](http://dmml.ch/grigorios-anagnostopoulos/) | ![Grigorios Anagnostopoulos](./../img/pic_GrigoriosAnagnostopoulos.jpeg)  |
 [St.Gallen University of Teacher Education](https://www.phsg.ch/en)|Research Methods Working Group| [Michael Beck](https://www.phsg.ch/de/team/prof-dr-michael-beck) | ![Michael Beck](./../img/pic_MichaelBeck.jpg)  |
