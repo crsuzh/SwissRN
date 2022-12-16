@@ -1,7 +1,7 @@
 +++
 author = "Updated by Zhixuan Li"
 title = "Organisation"
-date = "2022-11-11"
+date = "2022-12-16"
 tags = ["Committees"]
 categories = ["Organisation"]
 
@@ -13,9 +13,9 @@ The steering committee is responsible for the overall coordination of SwissRN ac
 
 Institution | Unit |   Name   |  |
 --------------|---|-------------|---|
-[University of Zurich](https://www.uzh.ch/en.html)|Faculty of Science and Faculty of Medicine, Center for Reproducible Science| [Leonhard Held](https://www.ebpi.uzh.ch/en/aboutus/departments/biostatistics/teambiostats/held.html) |![Leonhard Held](./../img/pic_LeonhardHeld.jpg)  |
-[University of Geneva](https://unige.ch)| Faculty of Psychology and Educational Sciences, Swiss Open Psychological Science Initiative | [Evie Vergauwe](https://neurocenter-unige.ch/research-groups/evie-vergauwe/) | ![Evie Vergauwe](./../img/pic_EvieVergauwe.jpg)  |
-[University of Bern](https://www.unibe.ch/index_eng.html)| Vetsuisse Faculty Bern, Swiss 3R Competence Centre| [Hanno W&uuml;rbel](https://www.tierschutz.vetsuisse.unibe.ch/about_us/personnel/prof_dr_wuerbel_hanno/index_eng.html) |![Hanno W&uuml;rbel](./../img/pic_HannoWuerbel.jpg)  |
+[University of Zurich](https://www.uzh.ch/en.html)|Faculty of Science and Faculty of Medicine, Center for Reproducible Science| [Leonhard Held](https://www.ebpi.uzh.ch/en/aboutus/departments/biostatistics/teambiostats/held.html) <a href="https://orcid.org/0000-0002-8686-5325"><img alt="ORCID" src="./../img/ORCIDiD_icon16x16.png" style="height:16px; width:16px" /></a> |![Leonhard Held](./../img/pic_LeonhardHeld.jpg)  |
+[University of Geneva](https://unige.ch)| Faculty of Psychology and Educational Sciences, Swiss Open Psychological Science Initiative | [Evie Vergauwe](https://neurocenter-unige.ch/research-groups/evie-vergauwe/) <a href="https://orcid.org/0000-0002-7339-2370"><img alt="ORCID" src="./../img/ORCIDiD_icon16x16.png" style="height:16px; width:16px" /></a> | ![Evie Vergauwe](./../img/pic_EvieVergauwe.jpg)  |
+[University of Bern](https://www.unibe.ch/index_eng.html)| Vetsuisse Faculty Bern, Swiss 3R Competence Centre| [Hanno W&uuml;rbel](https://www.tierschutz.vetsuisse.unibe.ch/about_us/personnel/prof_dr_wuerbel_hanno/index_eng.html) <a href="https://orcid.org/0000-0002-2934-3010"><img alt="ORCID" src="./../img/ORCIDiD_icon16x16.png" style="height:16px; width:16px" /></a> |![Hanno W&uuml;rbel](./../img/pic_HannoWuerbel.jpg)  |
 
 &nbsp; 
 

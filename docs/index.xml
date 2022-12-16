@@ -5,16 +5,27 @@
     <link>http://www.swissrn.org/</link>
     <description>Recent content on SwissRN</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 13 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://www.swissrn.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 16 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://www.swissrn.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Nodes</title>
       <link>http://www.swissrn.org/nodes/</link>
-      <pubDate>Tue, 13 Dec 2022 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 16 Dec 2022 00:00:00 +0000</pubDate>
       
       <guid>http://www.swissrn.org/nodes/</guid>
       <description>Go to: Local Node Leaders Local Node Activities Local Node Members How to join
 Local Nodes of the SwissRN build the backbone of the network by initiating and coordinating activities at universities and other research institutions. Activities of local nodes are manifold, e.g.
 open research working groups ReproducibiliTea journal clubs organisation of training activities such as carpentries workshops grant and ethics peer review groups etc The organisation of local nodes differs from institution to institution: from a formalised administration to informal grassroot groups.</description>
+    </item>
+    
+    <item>
+      <title>Organisation</title>
+      <link>http://www.swissrn.org/organisation/</link>
+      <pubDate>Fri, 16 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.swissrn.org/organisation/</guid>
+      <description>Go to: Steering Committee Institutions Stakeholders Advisory Board Coordinator
+Steering Committee The steering committee is responsible for the overall coordination of SwissRN activity and strategy.
+Institution Unit Name University of Zurich Faculty of Science and Faculty of Medicine, Center for Reproducible Science Leonhard Held University of Geneva Faculty of Psychology and Educational Sciences, Swiss Open Psychological Science Initiative Evie Vergauwe University of Bern Vetsuisse Faculty Bern, Swiss 3R Competence Centre Hanno Würbel Institutions Member institutions of the SwissRN are formally committed to support the aims of SwissRN and have begun implementing them.</description>
     </item>
     
     <item>
@@ -38,17 +49,6 @@ Program:</description>
       <description>We have a new Newsletter! Check out the fifth edition of November 2022
 You can subscribe to the newsletter by subscribing to our mailing list.
 Image credits: Dennis Skley</description>
-    </item>
-    
-    <item>
-      <title>Organisation</title>
-      <link>http://www.swissrn.org/organisation/</link>
-      <pubDate>Fri, 11 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.swissrn.org/organisation/</guid>
-      <description>Go to: Steering Committee Institutions Stakeholders Advisory Board Coordinator
-Steering Committee The steering committee is responsible for the overall coordination of SwissRN activity and strategy.
-Institution Unit Name University of Zurich Faculty of Science and Faculty of Medicine, Center for Reproducible Science Leonhard Held University of Geneva Faculty of Psychology and Educational Sciences, Swiss Open Psychological Science Initiative Evie Vergauwe University of Bern Vetsuisse Faculty Bern, Swiss 3R Competence Centre Hanno Würbel Institutions Member institutions of the SwissRN are formally committed to support the aims of SwissRN and have begun implementing them.</description>
     </item>
     
     <item>
