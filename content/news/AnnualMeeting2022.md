@@ -1,7 +1,7 @@
 +++
 author = "Manuela Höfler"
 title = "SwissRN Annual Meeting 2022"
-date = "2022-12-21"
+date = "2023-1-11"
 images  = ["./img/activities_annualmeeting2022.jpg"]
 description = "SwissRN Annual Meeting"
 tags = [ "Working Groups", "Meetings"]
@@ -9,9 +9,11 @@ categories = ["News"]
 +++
 **Reminder:**
 
-**Register for the SwissRN Annual Meeting and Swiss Reproducibility Award, 13.1.2023**
+**SwissRN Annual Meeting and Swiss Reproducibility Award, 13.1.2023**
 
-<span style="color:#0080ff">The SwissRN Annual Meeting will take place in person on January 13, 2023 in Bern.</span> Don't miss to register for the meeting [here](https://docs.google.com/forms/d/e/1FAIpQLSfL9VOwCOFRh--kbUy9lT3Uz34i2s_nLU9-WTC2XafkpYUVFA/viewform). It is a great opportunity to connect and discuss the activities of SwissRN and its future strategy. Also feel free to invite colleagues in your network.
+<span style="color:#0080ff">The SwissRN Annual Meeting will take place in person on January 13, 2023 in Bern.</span> It is a great opportunity to connect and discuss the activities of SwissRN and its future strategy. 
+
+**Location**: University of Bern, Hochschulstrasse 4, Kuppelraum  
 
 Program:
 |Time | Topic|
