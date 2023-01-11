@@ -1,7 +1,7 @@
 +++
 author = "Manuela Höfler"
 title = "SwissRN Annual Meeting 2022"
-date = "2023-1-11"
+date = "2022-12-23"
 images  = ["./img/activities_annualmeeting2022.jpg"]
 description = "SwissRN Annual Meeting"
 tags = [ "Working Groups", "Meetings"]
