@@ -45,4 +45,4 @@ Course title | Host institution | Contact person
 [Good Statistical Practice](https://studentservices.uzh.ch/uzh/anonym/vvz/index.html?sap-language=DE&sap-ui-language=DE#/details/2020/003/SM/50954674)| University of Zurich | Eva Furrer
 [Various courses](https://www.sib.swiss/training/upcoming-training-courses)| SIB Swiss Institute of Bioinformatics | Patricia Palagi
 [Understanding Statistics](https://edu.epfl.ch/coursebook/en/understanding-statistics-and-experimental-design-BIO-449)| EPFL | Michael Herzog
-
+[Good Research Practices and Research Ethics (GRP)](UNIL_GRP_syllabous.pdf) | Université de Lausanne |Mauro Cherubini, Leonardo Restivo
