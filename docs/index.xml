@@ -5,7 +5,17 @@
     <link>http://www.swissrn.org/</link>
     <description>Recent content on SwissRN</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 27 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://www.swissrn.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 21 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://www.swissrn.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bern Local Node News</title>
+      <link>http://www.swissrn.org/news/newsletter202321february/</link>
+      <pubDate>Tue, 21 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.swissrn.org/news/newsletter202321february/</guid>
+      <description>Bern Local Node News: Reproducibility Hackathon, May 5th 2023
+As a first activity for this year the Bern node of the SwissRN is organizing a Reproducibility Hackathon on May 5th. The aim of the Hackathon is to investigate whether current practice of preregistration does indeed reduce researcher&amp;rsquo;s degrees of freedom to an extent that the analysis of study outcomes becomes reproducible. The Hackathon is a one-day on-site event in Bern (Friday, May 5th; though for students there is a pre-event lecture on May 4th covering principles of reproducibility, pre-registration, open data as well as a recap of mixed effect model analysis.</description>
+    </item>
+    
     <item>
       <title>Resources</title>
       <link>http://www.swissrn.org/resources/</link>
