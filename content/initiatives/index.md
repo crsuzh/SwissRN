@@ -56,9 +56,9 @@ Contact: [Michael Dayan](mailto:michael.dayan@fcbg.ch) or [Eva Furrer](mailto:ev
 ---
 
 ### Computational Reproducibility{#comprepro}
-Aiming to facilitate and promote wider adoption of computational reproducibility practices and tools in order to foster robust and reproducible scientific data analyses
-
-Contact: TBD
+Computational reproducibility refers to the ability to reproduce scientific results using the same computational methods and data. This involves documenting all aspects of the analysis process, including data collection, preprocessing, analysis, and visualization, as well as the software and hardware environment used to perform the analysis. Our working group aims at learning from each other about tools, services and approaches to facilitate computational reproducibility. Based on this we aim to offer tutorials, workshop and best practices to onboard the research community to adopt rigorous, transparent and reproducible research practices.
+ 
+Contact: [Stekhoven Daniel](mailto:stekhoven@nexus.ethz.ch)
 
 [*`Back to top`*](#)
 
