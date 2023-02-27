@@ -5,7 +5,17 @@
     <link>http://www.swissrn.org/tags/working-groups/</link>
     <description>Recent content in Working Groups on SwissRN</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 23 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://www.swissrn.org/tags/working-groups/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 27 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://www.swissrn.org/tags/working-groups/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Initiatives</title>
+      <link>http://www.swissrn.org/initiatives/</link>
+      <pubDate>Mon, 27 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.swissrn.org/initiatives/</guid>
+      <description>Go to: Preregistration and Registered Reports Research Assessment and Incentives Replication Studies Research Methodology Training Computational Reproducibility ReproducibiliTea
+Preregistration and Registered Reports Preregistration, or the practice of documenting research aspects such as hypothesis, sample size, design, data exclusion, and statistical analyses, before data collection or data analysis, can help reduce questionable research practices. When integrated into the publishing process in the form of Registered Reports, it can also reduce publication bias.</description>
+    </item>
+    
     <item>
       <title>SwissRN Annual Meeting 2022</title>
       <link>http://www.swissrn.org/news/annualmeeting2022/</link>
@@ -18,16 +28,6 @@ The SwissRN Annual Meeting will take place in person on January 13, 2023 in Bern
 Location: University of Bern, Hochschulstrasse 4, Kuppelraum
 Program:
 Time Topic 09:30-09:40 Welcome Note by VR Research Prof. Hugues Abriel 09:40-10:40 Presentation and Discussion of SwissRN Strategy 10:40-11:00 Coffee break 11:00-11:40 Reports from local nodes and discussion 11:40-12:00 Report SwissRN academy 12:00-13:30 Lunch break 13:30-14:00 Reports from working groups 14:00-14:45 Ceremony Swiss Reproducibility Award 2022.</description>
-    </item>
-    
-    <item>
-      <title>Initiatives</title>
-      <link>http://www.swissrn.org/initiatives/</link>
-      <pubDate>Fri, 23 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.swissrn.org/initiatives/</guid>
-      <description>Go to: Preregistration and Registered Reports Research Assessment and Incentives Replication Studies Research Methodology Training Computational Reproducibility ReproducibiliTea
-Preregistration and Registered Reports Preregistration, or the practice of documenting research aspects such as hypothesis, sample size, design, data exclusion, and statistical analyses, before data collection or data analysis, can help reduce questionable research practices. When integrated into the publishing process in the form of Registered Reports, it can also reduce publication bias.</description>
     </item>
     
     <item>

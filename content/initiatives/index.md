@@ -1,7 +1,7 @@
 +++
 author = "Updated by Zhixuan Li"
 title = "Initiatives"
-date = "2022-09-23"
+date = "2023-02-27"
 tags = ["Working Groups", "Computational Reproducibility"]
 categories = ["Initiatives"]
 

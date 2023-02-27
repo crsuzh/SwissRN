@@ -5,7 +5,25 @@
     <link>http://www.swissrn.org/tags/</link>
     <description>Recent content in Tags on SwissRN</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 21 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://www.swissrn.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 27 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://www.swissrn.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Computational Reproducibility</title>
+      <link>http://www.swissrn.org/tags/computational-reproducibility/</link>
+      <pubDate>Mon, 27 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.swissrn.org/tags/computational-reproducibility/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Working Groups</title>
+      <link>http://www.swissrn.org/tags/working-groups/</link>
+      <pubDate>Mon, 27 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.swissrn.org/tags/working-groups/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>February 2023</title>
       <link>http://www.swissrn.org/tags/february-2023/</link>
@@ -34,15 +52,6 @@
     </item>
     
     <item>
-      <title>Working Groups</title>
-      <link>http://www.swissrn.org/tags/working-groups/</link>
-      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.swissrn.org/tags/working-groups/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Committees</title>
       <link>http://www.swissrn.org/tags/committees/</link>
       <pubDate>Fri, 16 Dec 2022 00:00:00 +0000</pubDate>
@@ -66,15 +75,6 @@
       <pubDate>Fri, 25 Nov 2022 00:00:00 +0000</pubDate>
       
       <guid>http://www.swissrn.org/tags/november-2022/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Computational Reproducibility</title>
-      <link>http://www.swissrn.org/tags/computational-reproducibility/</link>
-      <pubDate>Fri, 23 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.swissrn.org/tags/computational-reproducibility/</guid>
       <description></description>
     </item>
     
