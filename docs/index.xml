@@ -5,7 +5,32 @@
     <link>http://www.swissrn.org/</link>
     <description>Recent content on SwissRN</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 27 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://www.swissrn.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 03 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://www.swissrn.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Computational Reproducibility Seminar</title>
+      <link>http://www.swissrn.org/news/computationalreproducibilityseminar/</link>
+      <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.swissrn.org/news/computationalreproducibilityseminar/</guid>
+      <description>Welcome to the SwissRN seminar series on Computational Reproducibility!
+In today&amp;rsquo;s world, computational research has become an essential tool for advancing scientific knowledge and discovery. However, the increasing complexity of computational models and the abundance of data available for analysis can make it challenging to reproduce research results. Computational reproducibility is the ability to independently verify the results of a computational study using the same data and methods. It is a critical aspect of scientific research as it ensures the transparency and credibility of scientific findings.</description>
+    </item>
+    
+    <item>
+      <title>Resources</title>
+      <link>http://www.swissrn.org/resources/</link>
+      <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.swissrn.org/resources/</guid>
+      <description>SwissRN Strategy SwissRN Strategy (Version February 2023)
+Terms of Reference Terms of Reference (Version March 2021)
+Executive Summary Executive Summary (Version March 2021)
+Presentation Slides Presentation slides on OSF
+UKRN Open Research Primers The UKRN primer series is designed to introduce a broad audience to important topics in open and reproducible scholarship.
+Reproducibility Reports The Royal Netherlands Academy of Arts and Sciences, 2018: Improving Reproducibility in the Empirical Sciences
+The National Academies of Science Engineering Medicine, 2019: Reproducibility and Replicability in Science</description>
+    </item>
+    
     <item>
       <title>Initiatives</title>
       <link>http://www.swissrn.org/initiatives/</link>
@@ -24,20 +49,6 @@ Preregistration and Registered Reports Preregistration, or the practice of docum
       <guid>http://www.swissrn.org/news/newsletter202321february/</guid>
       <description>Bern Local Node News: Reproducibility Hackathon, May 5th 2023
 As a first activity for this year the Bern node of the SwissRN is organizing a Reproducibility Hackathon on May 5th. The aim of the Hackathon is to investigate whether current practice of preregistration does indeed reduce researcher&amp;rsquo;s degrees of freedom to an extent that the analysis of study outcomes becomes reproducible. The Hackathon is a one-day on-site event in Bern (Friday, May 5th; though for students there is a pre-event lecture on May 4th covering principles of reproducibility, pre-registration, open data as well as a recap of mixed effect model analysis.</description>
-    </item>
-    
-    <item>
-      <title>Resources</title>
-      <link>http://www.swissrn.org/resources/</link>
-      <pubDate>Fri, 27 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.swissrn.org/resources/</guid>
-      <description>Terms of Reference Terms of Reference (Version March 2021)
-Executive Summary Executive Summary (Version March 2021)
-Presentation Slides Presentation slides on OSF
-UKRN Open Research Primers The UKRN primer series is designed to introduce a broad audience to important topics in open and reproducible scholarship.
-Reproducibility Reports The Royal Netherlands Academy of Arts and Sciences, 2018: Improving Reproducibility in the Empirical Sciences
-The National Academies of Science Engineering Medicine, 2019: Reproducibility and Replicability in Science</description>
     </item>
     
     <item>

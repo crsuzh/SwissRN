@@ -1,10 +1,15 @@
 +++
 author = "Updated by Zhixuan Li"
 title = "Resources"
-date = "2023-01-27"
+date = "2023-03-03"
 tags = [ "Terms of References"]
 categories = ["Resources"]
 +++
+
+### SwissRN Strategy
+[SwissRN Strategy](SwissRNStrategy_V2.2023.pdf) (Version February 2023)
+
+&nbsp;
 
 ### Terms of Reference
 [Terms of Reference](SwissRNTermsofReferenceV05.pdf) (Version March 2021)

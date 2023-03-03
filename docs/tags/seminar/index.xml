@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Seminar on SwissRN</title>
+    <link>http://www.swissrn.org/tags/seminar/</link>
+    <description>Recent content in Seminar on SwissRN</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 03 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://www.swissrn.org/tags/seminar/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Computational Reproducibility Seminar</title>
+      <link>http://www.swissrn.org/news/computationalreproducibilityseminar/</link>
+      <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.swissrn.org/news/computationalreproducibilityseminar/</guid>
+      <description>Welcome to the SwissRN seminar series on Computational Reproducibility!
+In today&amp;rsquo;s world, computational research has become an essential tool for advancing scientific knowledge and discovery. However, the increasing complexity of computational models and the abundance of data available for analysis can make it challenging to reproduce research results. Computational reproducibility is the ability to independently verify the results of a computational study using the same data and methods. It is a critical aspect of scientific research as it ensures the transparency and credibility of scientific findings.</description>
+    </item>
+    
+  </channel>
+</rss>
