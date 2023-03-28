@@ -1,7 +1,7 @@
 +++
 author = "Updated by Zhixuan Li"
 title = "Nodes"
-date = "2022-12-16"
+date = "2023-03-28"
 tags = ["Local Nodes"]
 categories = ["Nodes"]
 +++
@@ -24,7 +24,7 @@ Institution |  Unit |   Contact   |  |
 [EPFL/Unige Campus Biotech](https://www.campusbiotech.ch/) | Fondation Campus Biotech | [Micha&euml;l Dayan](https://www.campusbiotech.ch/en/people/michael-dayan) <a href="https://orcid.org/0000-0002-2666-0969"><img alt="ORCID" src="./../img/ORCIDiD_icon16x16.png" style="height:16px; width:16px" /></a> | ![Michael Dayan](./../img/pic_MichaelDayan.jpg) |
 [ETH](https://www.ethz.ch) | NEXUS Personalized Health Technologies | [Daniel Stekhoven](https://www.nexus.ethz.ch/people/person-detail.html?persid=143058) <a href="https://orcid.org/0000-0003-3163-3161"><img alt="ORCID" src="./../img/ORCIDiD_icon16x16.png" style="height:16px; width:16px" /></a> | ![Daniel Stekhoven](./../img/pic_DanielStekhoven.jpeg)  |
 [FernUni Schweiz](https://fernuni.ch)| Psychology / Applied Mathematics | [Nicolas Rothen](https://fernuni.ch/nicolas-rothen/)  <a href="https://orcid.org/0000-0002-8874-8341"><img alt="ORCID" src="./../img/ORCIDiD_icon16x16.png" style="height:16px; width:16px" /></a> / [Matthias Voigt](https://fernuni.ch/matthias-voigt/) <a href="https://orcid.org/0000-0001-8491-1861"><img alt="ORCID" src="./../img/ORCIDiD_icon16x16.png" style="height:16px; width:16px" /></a> | ![Nicoals Rothern](./../img/pic_NicolasRothen.jpg) ![Matthias Voigt](./../img/pic_MatthiasVoigt.png)  |
-[Haute école de gestion de Genève (HEG-Genève)](https://www.hesge.ch/heg/ ) |Data Mining and Machine Learning group  | [Grigorios Anagnostopoulos](http://dmml.ch/grigorios-anagnostopoulos/) <a href="https://orcid.org/0000-0002-8643-7427"><img alt="ORCID" src="./../img/ORCIDiD_icon16x16.png" style="height:16px; width:16px" /></a> | ![Grigorios Anagnostopoulos](./../img/pic_GrigoriosAnagnostopoulos.jpeg)  |
+[Haute Ecole Spécialisée de Suisse occidentale (HES-SO Geneve)](https://www.hesge.ch/geneve/ ) |Data Mining and Machine Learning group  | [Grigorios Anagnostopoulos](http://dmml.ch/grigorios-anagnostopoulos/) <a href="https://orcid.org/0000-0002-8643-7427"><img alt="ORCID" src="./../img/ORCIDiD_icon16x16.png" style="height:16px; width:16px" /></a> | ![Grigorios Anagnostopoulos](./../img/pic_GrigoriosAnagnostopoulos.jpeg)  |
 [St.Gallen University of Teacher Education](https://www.phsg.ch/en)|Research Methods Working Group| [Michael Beck](https://www.phsg.ch/de/team/prof-dr-michael-beck) <a href="https://orcid.org/0000-0001-7548-8029"><img alt="ORCID" src="./../img/ORCIDiD_icon16x16.png" style="height:16px; width:16px" /></a> | ![Michael Beck](./../img/pic_MichaelBeck.jpg) |
 [Swiss Institute of Bioinformatics (SIB)](https://www.sib.swiss/) |Bioinformatics |[Patricia Palagi](https://www.sib.swiss/directory?cn=patricia%20palagi) <a href="https://orcid.org/0000-0001-9062-6303"><img alt="ORCID" src="./../img/ORCIDiD_icon16x16.png" style="height:16px; width:16px" /></a> | ![Patricia Palagi](./../img/pic_PatriciaPalagi.jpg)  |
 [University of Basel (Unibas)](https://www.unibas.ch/en.html)| Department of Environmental Sciences| [Valentin Amrhein](https://camargue.unibas.ch/en/team/valentin-amrhein/) <a href="https://orcid.org/0000-0001-5173-4571"><img alt="ORCID" src="./../img/ORCIDiD_icon16x16.png" style="height:16px; width:16px" /></a> | ![Valentin Amrhein](./../img/pic_ValentinAmrhein.jpeg)  |

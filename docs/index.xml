@@ -5,7 +5,18 @@
     <link>http://www.swissrn.org/</link>
     <description>Recent content on SwissRN</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 03 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://www.swissrn.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 28 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://www.swissrn.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nodes</title>
+      <link>http://www.swissrn.org/nodes/</link>
+      <pubDate>Tue, 28 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.swissrn.org/nodes/</guid>
+      <description>Go to: Local Node Leaders Local Node Activities Local Node Members How to join
+Local Nodes of the SwissRN build the backbone of the network by initiating and coordinating activities at universities and other research institutions. Activities of local nodes are manifold, e.g.
+open research working groups ReproducibiliTea journal clubs organisation of training activities such as carpentries workshops grant and ethics peer review groups etc The organisation of local nodes differs from institution to institution: from a formalised administration to informal grassroot groups.</description>
+    </item>
+    
     <item>
       <title>Computational Reproducibility Seminar</title>
       <link>http://www.swissrn.org/news/computationalreproducibilityseminar/</link>
@@ -63,17 +74,6 @@ The SwissRN Annual Meeting will take place in person on January 13, 2023 in Bern
 Location: University of Bern, Hochschulstrasse 4, Kuppelraum
 Program:
 Time Topic 09:30-09:40 Welcome Note by VR Research Prof. Hugues Abriel 09:40-10:40 Presentation and Discussion of SwissRN Strategy 10:40-11:00 Coffee break 11:00-11:40 Reports from local nodes and discussion 11:40-12:00 Report SwissRN academy 12:00-13:30 Lunch break 13:30-14:00 Reports from working groups 14:00-14:45 Ceremony Swiss Reproducibility Award 2022.</description>
-    </item>
-    
-    <item>
-      <title>Nodes</title>
-      <link>http://www.swissrn.org/nodes/</link>
-      <pubDate>Fri, 16 Dec 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.swissrn.org/nodes/</guid>
-      <description>Go to: Local Node Leaders Local Node Activities Local Node Members How to join
-Local Nodes of the SwissRN build the backbone of the network by initiating and coordinating activities at universities and other research institutions. Activities of local nodes are manifold, e.g.
-open research working groups ReproducibiliTea journal clubs organisation of training activities such as carpentries workshops grant and ethics peer review groups etc The organisation of local nodes differs from institution to institution: from a formalised administration to informal grassroot groups.</description>
     </item>
     
     <item>
