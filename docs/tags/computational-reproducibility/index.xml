@@ -5,7 +5,17 @@
     <link>http://www.swissrn.org/tags/computational-reproducibility/</link>
     <description>Recent content in Computational Reproducibility on SwissRN</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 07 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://www.swissrn.org/tags/computational-reproducibility/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 03 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://www.swissrn.org/tags/computational-reproducibility/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Initiatives</title>
+      <link>http://www.swissrn.org/initiatives/</link>
+      <pubDate>Mon, 03 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.swissrn.org/initiatives/</guid>
+      <description>Go to: Preregistration and Registered Reports Research Assessment and Incentives Replication Studies Research Methodology Training Computational Reproducibility ReproducibiliTea
+Preregistration and Registered Reports Preregistration, or the practice of documenting research aspects such as hypothesis, sample size, design, data exclusion, and statistical analyses, before data collection or data analysis, can help reduce questionable research practices. When integrated into the publishing process in the form of Registered Reports, it can also reduce publication bias.</description>
+    </item>
+    
     <item>
       <title>Computational Reproducibility</title>
       <link>http://www.swissrn.org/computational/</link>
@@ -14,16 +24,6 @@
       <guid>http://www.swissrn.org/computational/</guid>
       <description>Go to: Why Computational Reproducibility? Who we are and how we work Seminar Series
 Why Computational Reproducibility? Computational reproducibility is the ability to independently verify the results of a computational study using the same data and methods. It is a critical aspect of scientific research as it ensures the transparency and credibility of scientific findings. Computational reproducibility allows researchers to build upon the work of others, helping to accelerate scientific progress.</description>
-    </item>
-    
-    <item>
-      <title>Initiatives</title>
-      <link>http://www.swissrn.org/initiatives/</link>
-      <pubDate>Mon, 27 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.swissrn.org/initiatives/</guid>
-      <description>Go to: Preregistration and Registered Reports Research Assessment and Incentives Replication Studies Research Methodology Training Computational Reproducibility ReproducibiliTea
-Preregistration and Registered Reports Preregistration, or the practice of documenting research aspects such as hypothesis, sample size, design, data exclusion, and statistical analyses, before data collection or data analysis, can help reduce questionable research practices. When integrated into the publishing process in the form of Registered Reports, it can also reduce publication bias.</description>
     </item>
     
   </channel>

@@ -1,7 +1,7 @@
 +++
-author = "Updated by Zhixuan Li"
+author = "Updated by Eva Furrer"
 title = "Initiatives"
-date = "2023-02-27"
+date = "2023-04-03"
 tags = ["Working Groups", "Computational Reproducibility"]
 categories = ["Initiatives"]
 
@@ -56,7 +56,7 @@ Contact: [Michael Dayan](mailto:michael.dayan@fcbg.ch) or [Eva Furrer](mailto:ev
 ---
 
 ### Computational Reproducibility{#comprepro}
-Computational reproducibility refers to the ability to reproduce scientific results using the same computational methods and data. This involves documenting all aspects of the analysis process, including data collection, preprocessing, analysis, and visualization, as well as the software and hardware environment used to perform the analysis. Our working group aims at learning from each other about tools, services and approaches to facilitate computational reproducibility. Based on this we aim to offer tutorials, workshop and best practices to onboard the research community to adopt rigorous, transparent and reproducible research practices.
+Computational reproducibility refers to the ability to reproduce scientific results using the same computational methods and data. This involves documenting all aspects of the analysis process, including data collection, preprocessing, analysis, and visualization, as well as the software and hardware environment used to perform the analysis. Our working group aims at learning from each other about tools, services and approaches to facilitate computational reproducibility. Based on this we aim to offer tutorials, workshop and best practices to onboard the research community to adopt rigorous, transparent and reproducible research practices. See the [Working Group's webpage](https://www.swissrn.org/computational/).
  
 Contact: [Stekhoven Daniel](mailto:stekhoven@nexus.ethz.ch)
 
