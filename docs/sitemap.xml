@@ -20,6 +20,18 @@
     <loc>http://www.swissrn.org/tags/</loc>
     <lastmod>2023-03-28T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://www.swissrn.org/tags/computational-reproducibility/</loc>
+    <lastmod>2023-03-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.swissrn.org/computational/</loc>
+    <lastmod>2023-03-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.swissrn.org/tags/working-groups/</loc>
+    <lastmod>2023-03-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.swissrn.org/categories/working-groups/</loc>
+    <lastmod>2023-03-07T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://www.swissrn.org/news/computationalreproducibilityseminar/</loc>
     <lastmod>2023-03-03T00:00:00+00:00</lastmod>
   </url><url>
@@ -41,16 +53,10 @@
     <loc>http://www.swissrn.org/tags/terms-of-references/</loc>
     <lastmod>2023-03-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://www.swissrn.org/tags/computational-reproducibility/</loc>
-    <lastmod>2023-02-27T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://www.swissrn.org/categories/initiatives/</loc>
     <lastmod>2023-02-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://www.swissrn.org/initiatives/</loc>
-    <lastmod>2023-02-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://www.swissrn.org/tags/working-groups/</loc>
     <lastmod>2023-02-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://www.swissrn.org/news/newsletter202321february/</loc>
@@ -77,6 +83,12 @@
     <loc>http://www.swissrn.org/organisation/</loc>
     <lastmod>2022-12-16T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://www.swissrn.org/tags/swiss-reproducibility-award/</loc>
+    <lastmod>2022-11-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.swissrn.org/news/swissreproducibilityaward2022winners/</loc>
+    <lastmod>2022-11-28T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://www.swissrn.org/tags/november-2022/</loc>
     <lastmod>2022-11-25T00:00:00+00:00</lastmod>
   </url><url>
@@ -88,9 +100,6 @@
   </url><url>
     <loc>http://www.swissrn.org/news/newsletter202205may/</loc>
     <lastmod>2022-05-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://www.swissrn.org/tags/swiss-reproducibility-award/</loc>
-    <lastmod>2022-05-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://www.swissrn.org/news/swissreproducibilityaward2022/</loc>
     <lastmod>2022-05-05T00:00:00+00:00</lastmod>
