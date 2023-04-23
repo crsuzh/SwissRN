@@ -45,11 +45,10 @@ If you want to give a talk as part of this series, please contact [Daniel Stekho
 
 Date       | Topic                                  | Speaker
 -----------|----------------------------------------|---------------------------------
-2023-04-19 | Metadata management using Labkey       | Natalia Chicherova, ETH Zurich
 2023-05-17 | TBA                                    | TBA
 2023-06-21 | TBA                                    | TBA
 2023-09-20 | Multi-tool deployment using containers | Vipin Sreedharan, ETH Zurich
-2023-10-25 | TBA                                    | TBA
+2023-10-25 | TBA                                    | Johannes Köster, Uni Duisburg Essen
 2023-11-15 | MaRDI TA2: Research Data and Reproducibility in Scientific Computing | Jens Saark, MPI Magdeburg
 2023-12-13 | TBA                                    | TBA
 
@@ -57,7 +56,8 @@ Date       | Topic                                  | Speaker
 
 If available recording of the seminars can be found here.
 
-Date       | Topic                                  | Speaker
------------|----------------------------------------|---------------------------------
+Date       | Topic                                              | Speaker                         | Resources
+-----------|----------------------------------------------------|---------------------------------| -----------------
+2023-04-19 | LabKey Server for Reproducible Biomedical Research | Natalia Chicherova, ETH Zurich  | slides, recording
 
 [*`Back to top`*](#)
