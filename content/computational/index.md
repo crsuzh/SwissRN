@@ -43,14 +43,14 @@ The seminar is free to attend and no registration is required. Join us on [Zoom]
 
 If you want to give a talk as part of this series, please contact [Daniel Stekhoven](mailto:stekhoven@nexus.ethz.ch).
 
-Date       | Topic                                  | Speaker
------------|----------------------------------------|---------------------------------
-2023-05-17 | TBA                                    | TBA
-2023-06-21 | TBA                                    | TBA
-2023-09-20 | Multi-tool deployment using containers | Vipin Sreedharan, ETH Zurich
-2023-10-25 | TBA                                    | Johannes Köster, Uni Duisburg Essen
+Date       | Topic                                                  | Speaker
+-----------|--------------------------------------------------------|---------------------------------
+2023-05-17 | TBA                                                    | TBA
+2023-06-21 | TBA                                                    | TBA
+2023-09-20 | Multi-tool deployment using containers                 | Vipin Sreedharan, ETH Zurich
+2023-10-25 | Reproducibility and beyond with Snakemake and Datavzrd | Johannes Köster, Uni Duisburg Essen
 2023-11-15 | MaRDI TA2: Research Data and Reproducibility in Scientific Computing | Jens Saark, MPI Magdeburg
-2023-12-13 | TBA                                    | TBA
+2023-12-13 | TBA                                                    | TBA
 
 #### Past Seminars
 
@@ -58,6 +58,6 @@ If available recording of the seminars can be found here.
 
 Date       | Topic                                              | Speaker                         | Resources
 -----------|----------------------------------------------------|---------------------------------| -----------------
-2023-04-19 | LabKey Server for Reproducible Biomedical Research | Natalia Chicherova, ETH Zurich  | slides, recording
+2023-04-19 | LabKey Server for Reproducible Biomedical Research | Natalia Chicherova, ETH Zurich  | [slides](/slides/Comp_Repro_Seminar_04-2023.pdf), recording
 
 [*`Back to top`*](#)
