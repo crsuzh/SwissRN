@@ -2,10 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://www.swissrn.org/tags/april/</loc>
+    <loc>http://www.swissrn.org/categories/</loc>
     <lastmod>2023-04-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://www.swissrn.org/categories/</loc>
+    <loc>http://www.swissrn.org/tags/coara/</loc>
     <lastmod>2023-04-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://www.swissrn.org/tags/committees/</loc>
@@ -17,16 +17,28 @@
     <loc>http://www.swissrn.org/computational/</loc>
     <lastmod>2023-04-26T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://www.swissrn.org/news/newmemberethz/</loc>
+    <lastmod>2023-04-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.swissrn.org/tags/newmember/</loc>
+    <lastmod>2023-04-26T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://www.swissrn.org/categories/news/</loc>
     <lastmod>2023-04-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://www.swissrn.org/news/</loc>
     <lastmod>2023-04-26T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://www.swissrn.org/tags/openscience/</loc>
+    <lastmod>2023-04-26T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://www.swissrn.org/categories/organisation/</loc>
     <lastmod>2023-04-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://www.swissrn.org/organisation/</loc>
+    <lastmod>2023-04-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.swissrn.org/tags/researchassessment/</loc>
     <lastmod>2023-04-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://www.swissrn.org/</loc>

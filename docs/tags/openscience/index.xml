@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>openscience on SwissRN</title>
+    <link>http://www.swissrn.org/tags/openscience/</link>
+    <description>Recent content in openscience on SwissRN</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 26 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://www.swissrn.org/tags/openscience/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ETH Zurich joined SwissRN as an institutional member!</title>
+      <link>http://www.swissrn.org/news/newmemberethz/</link>
+      <pubDate>Wed, 26 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.swissrn.org/news/newmemberethz/</guid>
+      <description>We are very happy to announce that ETH Zurich has joined SwissRN as an institutional member. Welcome on board, ETH! We are looking forward to the joint collaboration in our network. Prof. Dr. Christian Wolfrum, Vice President Research of ETH Zurich will be the institutional contact person. Dr. Daniel Stekhoven will represent the institution in the SwissRN steering committee and continue as Local Node Leader. He is also the Managing Director of NEXUS Personalized Health Technologies.</description>
+    </item>
+    
+    <item>
+      <title>SwissRN has signed the Agreement on Reforming Research Assessment</title>
+      <link>http://www.swissrn.org/news/agreementonreformingresearchassessment/</link>
+      <pubDate>Wed, 26 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.swissrn.org/news/agreementonreformingresearchassessment/</guid>
+      <description>SwissRN signed the Agreement on Reforming Research Assessment, which sets a shared direction for changes in assessment practices for research, researchers and research performing organizations. The overarching goal is to maximize the quality and impact of research. SwissRN sees the reform of research assessment practices as one key element in order to advance, promote and ensure rigorous research practices.
+More information on the agreement and its commitments can be found here.</description>
+    </item>
+    
+  </channel>
+</rss>

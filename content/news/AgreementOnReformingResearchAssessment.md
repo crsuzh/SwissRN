@@ -2,8 +2,8 @@
 author = "Manuela Höfler"
 title = "SwissRN has signed the Agreement on Reforming Research Assessment"
 date = "2023-04-26"
-images  = ["./img/CoARA_logo.jpg"]
-tags = [ "April"]
+images  = ["./img/logo-CoARA-menu.svg"]
+tags = [ "researchassessment", "CoARA", "openscience"]
 categories = ["News"]
 +++
 
