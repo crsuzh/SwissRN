@@ -3,7 +3,7 @@ author = "Manuela Höfler"
 title = "ETH Zurich joined SwissRN as an institutional member!"
 date = "2023-04-26"
 images  = ["./img/eth_logo_kurz_pos.png"]
-tags = [ "newmember", "openscience"]
+tags = [ "newmember", "openscience", "SwissRN"]
 categories = ["News"]
 +++
 
