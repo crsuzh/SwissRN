@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://www.swissrn.org/tags/april/</loc>
+    <lastmod>2023-04-26T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://www.swissrn.org/categories/</loc>
     <lastmod>2023-04-26T00:00:00+00:00</lastmod>
   </url><url>
@@ -14,6 +17,12 @@
     <loc>http://www.swissrn.org/computational/</loc>
     <lastmod>2023-04-26T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://www.swissrn.org/categories/news/</loc>
+    <lastmod>2023-04-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.swissrn.org/news/</loc>
+    <lastmod>2023-04-26T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://www.swissrn.org/categories/organisation/</loc>
     <lastmod>2023-04-26T00:00:00+00:00</lastmod>
   </url><url>
@@ -21,6 +30,9 @@
     <lastmod>2023-04-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://www.swissrn.org/</loc>
+    <lastmod>2023-04-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.swissrn.org/news/agreementonreformingresearchassessment/</loc>
     <lastmod>2023-04-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://www.swissrn.org/tags/</loc>
@@ -48,12 +60,6 @@
     <lastmod>2023-03-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://www.swissrn.org/news/computationalreproducibilityseminar/</loc>
-    <lastmod>2023-03-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://www.swissrn.org/categories/news/</loc>
-    <lastmod>2023-03-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://www.swissrn.org/news/</loc>
     <lastmod>2023-03-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://www.swissrn.org/categories/resources/</loc>
