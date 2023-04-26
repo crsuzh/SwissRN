@@ -1,7 +1,7 @@
 +++
 author = "Daniel Stekhoven"
 title = "Computational Reproducibility"
-date = "2023-04-04"
+date = "2023-04-26"
 images  = ["./img/activities_ComputationalReproducibilitySeminar.jpeg"]
 tags = ["Working Groups", "Computational Reproducibility"]
 categories = ["Working Groups"]
@@ -58,6 +58,6 @@ If available recording of the seminars can be found here.
 
 Date       | Topic                                              | Speaker                         | Resources
 -----------|----------------------------------------------------|---------------------------------| -----------------
-2023-04-19 | LabKey Server for Reproducible Biomedical Research | Natalia Chicherova, ETH Zurich  | [slides](/slides/Comp_Repro_Seminar_04-2023.pdf), recording
+2023-04-19 | LabKey Server for Reproducible Biomedical Research | Natalia Chicherova, ETH Zurich  | [slides](/slides/Comp_Repro_Seminar_04-2023.pdf), [recording](https://www.youtube.com/watch?v=pbHJfg_7H2g)
 
 [*`Back to top`*](#)
