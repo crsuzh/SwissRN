@@ -1,7 +1,7 @@
 +++
 author = "Updated by Zhixuan Li"
 title = "Organisation"
-date = "2022-12-16"
+date = "2023-04-26"
 tags = ["Committees"]
 categories = ["Organisation"]
 
@@ -26,14 +26,15 @@ Member institutions of the SwissRN are formally committed to support the aims of
 
 Institution |  | Contact person
 --------|------ |------
-[FernUni Schweiz / UniDistance Suisse](https://fernuni.ch/)| ![alt text](./../img/Logo_kurz_bi_small.jpg "FernUni Schweiz / UniDistance Suisse") | [Prof. Dr. Walter Perrig](https://fernuni.ch/ueber-uns/organisation/direktion/), Vice Rector Research |
-[University of Basel](https://www.unibas.ch) | ![alt text](./../img/UniBas_Logo_EN_Schwarz_RGB_65.jpg "University of Basel") | [Dr. Frank Neumann](https://www.unibas.ch/en/University/Administration-Services/Vice-President-for-Research/Research-Office.html), Head Research Office |
-[University of Bern](https://www.unibe.ch) | ![alt text](./../img/logo_unibern.png "University of Bern") |     [Prof. Dr. Hugues Abriel](https://www.unibe.ch/university/organization/executive_board_and_central_administration/vice_rectorate_research/prof_dr_abriel_hugues/index_eng.html), Vice Rector for Research  |
-[University of Geneva](https://www.unige.ch) | ![alt text](./../img/logo_unige.png "University of Geneva") |[Prof. Dr. Antoine Geissbuhler](https://www.unige.ch/rectorat/en/home/vice-recteur-antoine-geissbuhler/), Vice Rector Digital Transformation  |
-[University of Fribourg](https://www.unifr.ch) | ![alt text](./../img/UNF_Logo_100pr_pos.png "University of Fribourg") |[Prof. Dr. Bernhard Ries](https://www.unifr.ch/uni/fr/organisation/direction/relations-internationales/ries.html), Vice Rector  International Relations, Digitalisation and Interdisciplinarity  |
-[University of Zurich](https://www.uzh.ch) | ![alt text](./../img/logo_uzh.png "University of Zurich") | [Prof. Dr. Elisabeth Stark](https://www.research.uzh.ch/de/vp/prorektorin_forschung.html), Vice President Research |
-[Università della Svizzera italiana](https://www.usi.ch)  | ![alt text](./../img/usi-logo.png "Università della Svizzera italiana") |[Prof. Dr. Patrick Gagliardini](https://www.usi.ch/en/university/organisation/structure/rectorate), Pro-Rector for Research |
-[Zurich University of Applied Sciences](https://www.zhaw.ch/en/university/) | ![alt text](./../img/zhaw_rgb_byline_e.png "ZHAW") |[Prof. Dr. Andreas Gerber-Grote](https://www.zhaw.ch/en/about-us/person/gerd/), Head of Research and Development |
+[FernUni Schweiz / UniDistance Suisse](https://fernuni.ch/)| ![alt text](./../img/Logo_kurz_bi_small.jpg "FernUni Schweiz / UniDistance Suisse") | [Prof. Dr. Walter Perrig](https://fernuni.ch/ueber-uns/organisation/direktion/),<br> Vice Rector Research |
+[University of Basel](https://www.unibas.ch) | ![alt text](./../img/UniBas_Logo_EN_Schwarz_RGB_65.jpg "University of Basel") | [Dr. Frank Neumann](https://www.unibas.ch/en/University/Administration-Services/Vice-President-for-Research/Research-Office.html),<br> Head Research Office |
+[University of Bern](https://www.unibe.ch) | ![alt text](./../img/logo_unibern.png "University of Bern") |     [Prof. Dr. Hugues Abriel](https://www.unibe.ch/university/organization/executive_board_and_central_administration/vice_rectorate_research/prof_dr_abriel_hugues/index_eng.html),<br> Vice Rector for Research  |
+[University of Geneva](https://www.unige.ch) | ![alt text](./../img/logo_unige.png "University of Geneva") |[Prof. Dr. Antoine Geissbuhler](https://www.unige.ch/rectorat/en/home/vice-recteur-antoine-geissbuhler/),<br> Vice Rector Digital Transformation  |
+[University of Fribourg](https://www.unifr.ch) | ![alt text](./../img/UNF_Logo_100pr_pos.png "University of Fribourg") |[Prof. Dr. Bernhard Ries](https://www.unifr.ch/uni/fr/organisation/direction/relations-internationales/ries.html),<br> Vice Rector International Relations, Digitalisation and Interdisciplinarity  |
+[University of Zurich](https://www.uzh.ch) | ![alt text](./../img/logo_uzh.png "University of Zurich") | [Prof. Dr. Elisabeth Stark](https://www.research.uzh.ch/de/vp/prorektorin_forschung.html),<br> Vice President Research |
+[Università della Svizzera italiana](https://www.usi.ch)  | ![alt text](./../img/usi-logo.png "Università della Svizzera italiana") |[Prof. Dr. Patrick Gagliardini](https://www.usi.ch/en/university/organisation/structure/rectorate),<br> Pro-Rector for Research |
+[Zurich University of Applied Sciences](https://www.zhaw.ch/en/university/) | ![alt text](./../img/zhaw_rgb_byline_e.png "ZHAW") |[Prof. Dr. Andreas Gerber-Grote](https://www.zhaw.ch/en/about-us/person/gerd/),<br> Head of Research and Development |
+[Swiss Federal Institute of Technology in Zürich](https://ethz.ch/en.html) | ![alt text](./../img/eth_logo_kurz_pos.png "ETH Zürich") |[Prof. Dr. Christian Wolfrum](https://ethz.ch/en/the-eth-zurich/organisation/executive-board/vice-president-research.html),<br> Vice President Research |
 
 
 &nbsp;  
