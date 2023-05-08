@@ -45,7 +45,7 @@ If you want to give a talk as part of this series, please contact [Daniel Stekho
 
 Date       | Topic                                                  | Speaker
 -----------|--------------------------------------------------------|---------------------------------
-2023-05-17 | TBA                                                    | TBA
+2023-05-17 | Replicability, Reproducibility, and Reusability in Computer-based Experiments | Jan Heiland, MPI for Dynamics of Complex Technical Systems
 2023-06-21 | TBA                                                    | TBA
 2023-09-20 | Multi-tool deployment using containers                 | Vipin Sreedharan, ETH Zurich
 2023-10-25 | Reproducibility and beyond with Snakemake and Datavzrd | Johannes Köster, Uni Duisburg Essen
