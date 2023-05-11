@@ -49,7 +49,7 @@ Date       | Topic                                                  | Speaker
 2023-06-21 | TBA                                                    | TBA
 2023-09-20 | Multi-tool deployment using containers                 | Vipin Sreedharan, ETH Zurich
 2023-10-25 | Reproducibility and beyond with Snakemake and Datavzrd | Johannes Köster, Uni Duisburg Essen
-2023-11-15 | MaRDI TA2: Research Data and Reproducibility in Scientific Computing | Jens Saark, MPI Magdeburg
+2023-11-15 | MaRDI TA2: Research Data and Reproducibility in Scientific Computing | Jens Saak, MPI for Dynamics of Complex Technical Systems
 2023-12-13 | TBA                                                    | TBA
 
 #### Past Seminars
