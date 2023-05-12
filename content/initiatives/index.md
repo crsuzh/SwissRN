@@ -73,6 +73,8 @@ ReproducibiliTeas at SwissRN local nodes:
 * Geneva: [https://reproducibilitea.org/journal-clubs/#Geneva](https://reproducibilitea.org/journal-clubs/#Geneva)
 * Zurich: [https://www.crs.uzh.ch/en/training/ReproducibiliTea.html](https://www.crs.uzh.ch/en/training/ReproducibiliTea.html)
 
+[*`Back to top`*](#)
+
 ---
 
 ### Open Research Data{#data}
