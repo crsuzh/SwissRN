@@ -7,12 +7,23 @@ categories = ["Initiatives"]
 
 +++
 
-`Go to:` [*`Preregistration and Registered Reports`*](#prereg) [*`Research Assessment and Incentives`*](#assess) [*`Replication Studies`*](#replicate) [*`Research Methodology`*](#methods) [*`Training`*](#training) [*`Computational Reproducibility`*](#comprepro) [*`ReproducibiliTea`*](#reprotea) [*`Open Research Data`*](#data)
+`Go to:` [*`Open Research Data`*](#data) [*`Preregistration and Registered Reports`*](#prereg) [*`Research Assessment and Incentives`*](#assess) [*`Replication Studies`*](#replicate) [*`Research Methodology`*](#methods) [*`Training`*](#training) [*`Computational Reproducibility`*](#comprepro) [*`ReproducibiliTea`*](#reprotea) 
+
+
+### Open Research Data{#data}
+
+In order to reproduce and replicate research findings, open and also FAIR research data are a prerequisite. However, publishing research data is still not a standard and studies show how difficult it is to gain access to research data upon request. The SwissRN working group aims to promote open research data, to improve and facilitate data management across different research disciplines, to provide a network to collaborate in Open Research Data projects (including project proposals for ORD calls) and to engage with different stakeholders to facilitate dissemination and uptake.
+
+Contact: [Leonhard Held](mailto:leonhard.held@uzh.ch)
+
+---
 
 ### Preregistration and Registered Reports{#prereg}
 Preregistration, or the practice of documenting research aspects such as hypothesis, sample size, design, data exclusion, and statistical analyses, before data collection or data analysis, can help reduce questionable research practices. When integrated into the publishing process in the form of Registered Reports, it can also reduce publication bias. The aim of the SwissRN working group on Preregistration and Registered Reports is to promote and support existing initiatives and services related to Preregistration and Registered Reports (e.g., through workshops and consulting services), as well as develop new initiatives with stakeholders.
 
 Contact: [Evie Vergauwe](mailto:Evie.Vergauwe@unige.ch)
+
+[*`Back to top`*](#)
 
 ---
 
@@ -75,12 +86,3 @@ ReproducibiliTeas at SwissRN local nodes:
 
 [*`Back to top`*](#)
 
----
-
-### Open Research Data{#data}
-
-In order to reproduce and replicate research findings, open and also FAIR research data are a prerequisite. However, publishing research data is still not a standard and studies show how difficult it is to gain access to research data upon request. The SwissRN working group aims to promote open research data, to improve and facilitate data management across different research disciplines, to provide a network to collaborate in Open Research Data projects (including project proposals for ORD calls) and to engage with different stakeholders to facilitate dissemination and uptake.
-
-Contact: [Leonhard Held](mailto:leonhard.held@uzh.ch)
-
-[*`Back to top`*](#)

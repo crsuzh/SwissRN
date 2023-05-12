@@ -5,7 +5,17 @@
     <link>http://www.swissrn.org/news/</link>
     <description>Recent content in News on SwissRN</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 26 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://www.swissrn.org/news/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 12 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://www.swissrn.org/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Successful Reproducibility Hackathon Bern, 5th May 2023: First Findings</title>
+      <link>http://www.swissrn.org/news/successful-reproducibility-hackathonmay2023/</link>
+      <pubDate>Fri, 12 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.swissrn.org/news/successful-reproducibility-hackathonmay2023/</guid>
+      <description>Successful Reproducibility Hackathon Bern, May 5th 2023: First Findings
+On May 5th 2023 the Bern node of the SwissRN organized a Reproducibility Hackathon. Thirteen people showed up, re-analysing the statistical analyses of pre-registered reports from the Reproducibility Project Cancer Biology. After eight hours of intense code hacking (with decent breaks for pizza and cake), over 60 confirmatory tests have been re-analysed. Participants got the original pre-registration protocol as well as the published data, while they did not see the code and the report of the study outcome published by the authors beforehand.</description>
+    </item>
+    
     <item>
       <title>ETH Zurich joined SwissRN as an institutional member!</title>
       <link>http://www.swissrn.org/news/newmemberethz/</link>
