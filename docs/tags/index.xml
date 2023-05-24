@@ -5,13 +5,22 @@
     <link>http://www.swissrn.org/tags/</link>
     <description>Recent content in Tags on SwissRN</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 12 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://www.swissrn.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 24 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://www.swissrn.org/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Computational Reproducibility</title>
       <link>http://www.swissrn.org/tags/computational-reproducibility/</link>
-      <pubDate>Fri, 12 May 2023 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 24 May 2023 00:00:00 +0000</pubDate>
       
       <guid>http://www.swissrn.org/tags/computational-reproducibility/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Working Groups</title>
+      <link>http://www.swissrn.org/tags/working-groups/</link>
+      <pubDate>Wed, 24 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.swissrn.org/tags/working-groups/</guid>
       <description></description>
     </item>
     
@@ -30,15 +39,6 @@
       <pubDate>Fri, 12 May 2023 00:00:00 +0000</pubDate>
       
       <guid>http://www.swissrn.org/tags/openscience/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Working Groups</title>
-      <link>http://www.swissrn.org/tags/working-groups/</link>
-      <pubDate>Fri, 12 May 2023 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.swissrn.org/tags/working-groups/</guid>
       <description></description>
     </item>
     

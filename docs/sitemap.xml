@@ -2,14 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://www.swissrn.org/projects/</loc>
-    <lastmod>2023-05-22T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://www.swissrn.org/categories/</loc>
-    <lastmod>2023-05-12T00:00:00+00:00</lastmod>
+    <lastmod>2023-05-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://www.swissrn.org/tags/computational-reproducibility/</loc>
-    <lastmod>2023-05-12T00:00:00+00:00</lastmod>
+    <lastmod>2023-05-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.swissrn.org/computational/</loc>
+    <lastmod>2023-05-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.swissrn.org/</loc>
+    <lastmod>2023-05-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.swissrn.org/tags/</loc>
+    <lastmod>2023-05-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.swissrn.org/tags/working-groups/</loc>
+    <lastmod>2023-05-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.swissrn.org/categories/working-groups/</loc>
+    <lastmod>2023-05-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.swissrn.org/projects/</loc>
+    <lastmod>2023-05-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://www.swissrn.org/tags/hackathon/</loc>
     <lastmod>2023-05-12T00:00:00+00:00</lastmod>
@@ -32,22 +47,10 @@
     <loc>http://www.swissrn.org/news/successful-reproducibility-hackathonmay2023/</loc>
     <lastmod>2023-05-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://www.swissrn.org/</loc>
-    <lastmod>2023-05-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://www.swissrn.org/tags/</loc>
-    <lastmod>2023-05-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://www.swissrn.org/tags/working-groups/</loc>
-    <lastmod>2023-05-12T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://www.swissrn.org/tags/coara/</loc>
     <lastmod>2023-04-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://www.swissrn.org/tags/committees/</loc>
-    <lastmod>2023-04-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://www.swissrn.org/computational/</loc>
     <lastmod>2023-04-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://www.swissrn.org/news/newmemberethz/</loc>
@@ -69,9 +72,6 @@
     <lastmod>2023-04-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://www.swissrn.org/news/agreementonreformingresearchassessment/</loc>
-    <lastmod>2023-04-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://www.swissrn.org/categories/working-groups/</loc>
     <lastmod>2023-04-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://www.swissrn.org/tags/local-nodes/</loc>
