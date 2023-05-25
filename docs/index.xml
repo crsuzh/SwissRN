@@ -5,7 +5,18 @@
     <link>http://www.swissrn.org/</link>
     <description>Recent content on SwissRN</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 24 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://www.swissrn.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 25 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://www.swissrn.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Organisation</title>
+      <link>http://www.swissrn.org/organisation/</link>
+      <pubDate>Thu, 25 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.swissrn.org/organisation/</guid>
+      <description>Go to: Steering Committee Institutions Stakeholders Advisory Board Coordinator
+Steering Committee The steering committee is responsible for the overall coordination of SwissRN activity and strategy.
+Institution Unit Name University of Zurich Faculty of Science and Faculty of Medicine, Center for Reproducible Science Leonhard Held University of Geneva Faculty of Psychology and Educational Sciences, Swiss Open Psychological Science Initiative Evie Vergauwe University of Bern Vetsuisse Faculty Bern, Swiss 3R Competence Centre Hanno Würbel Institutions Member institutions of the SwissRN are formally committed to support the aims of SwissRN and have begun implementing them.</description>
+    </item>
+    
     <item>
       <title>Computational Reproducibility</title>
       <link>http://www.swissrn.org/computational/</link>
@@ -53,17 +64,6 @@ On May 5th 2023 the Bern node of the SwissRN organized a Reproducibility Hackath
       
       <guid>http://www.swissrn.org/news/newmemberethz/</guid>
       <description>We are very happy to announce that ETH Zurich has joined SwissRN as an institutional member. Welcome on board, ETH! We are looking forward to the joint collaboration in our network. Prof. Dr. Christian Wolfrum, Vice President Research of ETH Zurich will be the institutional contact person. Dr. Daniel Stekhoven will represent the institution in the SwissRN steering committee and continue as Local Node Leader. He is also the Managing Director of NEXUS Personalized Health Technologies.</description>
-    </item>
-    
-    <item>
-      <title>Organisation</title>
-      <link>http://www.swissrn.org/organisation/</link>
-      <pubDate>Wed, 26 Apr 2023 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.swissrn.org/organisation/</guid>
-      <description>Go to: Steering Committee Institutions Stakeholders Advisory Board Coordinator
-Steering Committee The steering committee is responsible for the overall coordination of SwissRN activity and strategy.
-Institution Unit Name University of Zurich Faculty of Science and Faculty of Medicine, Center for Reproducible Science Leonhard Held University of Geneva Faculty of Psychology and Educational Sciences, Swiss Open Psychological Science Initiative Evie Vergauwe University of Bern Vetsuisse Faculty Bern, Swiss 3R Competence Centre Hanno Würbel Institutions Member institutions of the SwissRN are formally committed to support the aims of SwissRN and have begun implementing them.</description>
     </item>
     
     <item>

@@ -1,7 +1,7 @@
 +++
 author = "Updated by Zhixuan Li"
 title = "Organisation"
-date = "2023-04-26"
+date = "2023-05-25"
 tags = ["Committees"]
 categories = ["Organisation"]
 
@@ -26,7 +26,7 @@ Member institutions of the SwissRN are formally committed to support the aims of
 
 Institution |  | Contact person
 --------|------ |------
-[FernUni Schweiz / UniDistance Suisse](https://fernuni.ch/)| ![alt text](./../img/Logo_kurz_bi_small.jpg "FernUni Schweiz / UniDistance Suisse") | [Prof. Dr. Walter Perrig](https://fernuni.ch/ueber-uns/organisation/direktion/),<br> Vice Rector Research |
+[FernUni Schweiz / UniDistance Suisse](https://fernuni.ch/)| ![alt text](./../img/Logo_kurz_bi_small.jpg "FernUni Schweiz / UniDistance Suisse") | [Prof. Dr. Nicolas Rothen](https://fernuni.ch/profil/nicolas-rothen),<br> Vice-Rector for Research |
 [University of Basel](https://www.unibas.ch) | ![alt text](./../img/UniBas_Logo_EN_Schwarz_RGB_65.jpg "University of Basel") | [Dr. Frank Neumann](https://www.unibas.ch/en/University/Administration-Services/Vice-President-for-Research/Research-Office.html),<br> Head Research Office |
 [University of Bern](https://www.unibe.ch) | ![alt text](./../img/logo_unibern.png "University of Bern") |     [Prof. Dr. Hugues Abriel](https://www.unibe.ch/university/organization/executive_board_and_central_administration/vice_rectorate_research/prof_dr_abriel_hugues/index_eng.html),<br> Vice Rector for Research  |
 [University of Geneva](https://www.unige.ch) | ![alt text](./../img/logo_unige.png "University of Geneva") |[Prof. Dr. Antoine Geissbuhler](https://www.unige.ch/rectorat/en/home/vice-recteur-antoine-geissbuhler/),<br> Vice Rector Digital Transformation  |
