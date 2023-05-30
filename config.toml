@@ -154,9 +154,9 @@ pluralizeListTitles     = false
       weight            = 4
 
     [[menu.main]]
-      name              = "Initiatives"
-      identifier        = "initiatives"
-      url               = "./initiatives/"
+      name              = "Projects"
+      identifier        = "projects"
+      url               = "./projects/"
       pre               = "<i class='fas fa-share-alt'></i>"
       weight            = 5
 
