@@ -5,7 +5,18 @@
     <link>http://www.swissrn.org/</link>
     <description>Recent content on SwissRN</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 30 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://www.swissrn.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 06 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://www.swissrn.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nodes</title>
+      <link>http://www.swissrn.org/nodes/</link>
+      <pubDate>Tue, 06 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.swissrn.org/nodes/</guid>
+      <description>Go to: Local Node Leaders Local Node Activities Local Node Members How to join
+Local Nodes of the SwissRN build the backbone of the network by initiating and coordinating activities at universities and other research institutions. Activities of local nodes are manifold, e.g.
+open research working groups ReproducibiliTea journal clubs organisation of training activities such as carpentries workshops grant and ethics peer review groups etc The organisation of local nodes differs from institution to institution: from a formalised administration to informal grassroot groups.</description>
+    </item>
+    
     <item>
       <title>Projects</title>
       <link>http://www.swissrn.org/projects/</link>
@@ -45,7 +56,7 @@ Why Computational Reproducibility? Computational reproducibility is the ability 
       
       <guid>http://www.swissrn.org/grants/</guid>
       <description>Go to: Sirro SIRRO team
-Strengthen the Interoperability and Reusability of Research Outputs Rigorous design, transparent reporting, and reproducible workflows are major factors strengthening the interoperability and reusability of research data and are hence crucial to increase the value of research data and, more broadly, the value of research outputs. The aims of the SIRRO project are to 1) fortify SwissRN as an existing community engaging with ORD practices that have the goal of strengthening interoperability and reusability, and 2) intensify the efforts of SwissRN towards a systematic assessment of the impact and obstacles in the implementation of ORD practices.</description>
+Strengthen the Interoperability and Reusability of Research Outputs (SIRRO) Rigorous design, transparent reporting, and reproducible workflows are major factors strengthening the interoperability and reusability of research data and are hence crucial to increase the value of research data and, more broadly, the value of research outputs. The aims of the SIRRO project are to 1) fortify SwissRN as an existing community engaging with ORD practices that have the goal of strengthening interoperability and reusability, and 2) intensify the efforts of SwissRN towards a systematic assessment of the impact and obstacles in the implementation of ORD practices.</description>
     </item>
     
     <item>
@@ -75,17 +86,6 @@ On May 5th 2023 the Bern node of the SwissRN organized a Reproducibility Hackath
       <guid>http://www.swissrn.org/news/agreementonreformingresearchassessment/</guid>
       <description>SwissRN signed the Agreement on Reforming Research Assessment, which sets a shared direction for changes in assessment practices for research, researchers and research performing organizations. The overarching goal is to maximize the quality and impact of research. SwissRN sees the reform of research assessment practices as one key element in order to advance, promote and ensure rigorous research practices.
 More information on the agreement and its commitments can be found here.</description>
-    </item>
-    
-    <item>
-      <title>Nodes</title>
-      <link>http://www.swissrn.org/nodes/</link>
-      <pubDate>Tue, 28 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.swissrn.org/nodes/</guid>
-      <description>Go to: Local Node Leaders Local Node Activities Local Node Members How to join
-Local Nodes of the SwissRN build the backbone of the network by initiating and coordinating activities at universities and other research institutions. Activities of local nodes are manifold, e.g.
-open research working groups ReproducibiliTea journal clubs organisation of training activities such as carpentries workshops grant and ethics peer review groups etc The organisation of local nodes differs from institution to institution: from a formalised administration to informal grassroot groups.</description>
     </item>
     
     <item>
