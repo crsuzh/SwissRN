@@ -1,7 +1,7 @@
 +++
 author = "Updated by Zhixuan Li"
 title = "Resources"
-date = "2023-03-03"
+date = "2023-06-07"
 tags = [ "Terms of References"]
 categories = ["Resources"]
 +++
@@ -16,8 +16,8 @@ categories = ["Resources"]
 
 &nbsp;
 
-### Executive Summary
-[Executive Summary](SwissRNExecutiveSummary.pdf) (Version March 2021)
+### Executive Summary and Institutional Membership
+[Executive Summary](SwissReproducibilityNetworkandInstitutionalMembership24.5.2023Exec.Summary.pdf) (Version May 2023)
 
 &nbsp;
 
