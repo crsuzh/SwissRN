@@ -1,7 +1,7 @@
 +++
 author = "Updated by Zhixuan Li"
 title = "Nodes"
-date = "2023-06-06"
+date = "2023-06-13"
 tags = ["Local Nodes"]
 categories = ["Nodes"]
 +++
@@ -35,7 +35,7 @@ Institution |  Unit |   Contact   |  |
 [Universit&eacute; de Neuch&acirc;tel (Unine)](https://www.unine.ch/unine/home.html)| Institut de Psychologie du Travail et des Organisations | [Laurenz Meier](https://www.unine.ch/ipto/home/collaborateurstrices/laurenzmeier.html) <a href="https://orcid.org/0000-0002-5675-1562"><img alt="ORCID" src="./../img/ORCIDiD_icon16x16.png" style="height:16px; width:16px" /></a> |![Laurenz Meier](./../img/pic_LaurenzMeier.png)  |
 [Università della Svizzera italiana (USI)](https://www.usi.ch/)| Data Science Lab | [Antonietta Mira](https://usi.to/exz) <a href="https://orcid.org/0000-0002-5609-7935"><img alt="ORCID" src="./../img/ORCIDiD_icon16x16.png" style="height:16px; width:16px" /></a> |![Antonietta Mira](./../img/pic_AntoniettaMira.jpeg)  |
 [University of Zurich (UZH)](https://www.uzh.ch/en.html)| Center for Reproducible Science| [Leonhard Held](https://www.ebpi.uzh.ch/en/aboutus/departments/biostatistics/teambiostats/held.html) <a href="https://orcid.org/0000-0002-8686-5325"><img alt="ORCID" src="./../img/ORCIDiD_icon16x16.png" style="height:16px; width:16px" /></a> |![Leonhard Held](./../img/pic_LeonhardHeld.jpg)  |
-[Zurich University of Applied Sciences (ZHAW)](https://zhaw.ch)| Institute of Data Analysis and Process Design (IDP) / <br> ZHAW Services Research Data | [Christoph Hofer](https://www.zhaw.ch/en/about-us/person/hofc/)/ [Vanessa Klaas](https://www.zhaw.ch/en/about-us/person/klav/) <a href="https://orcid.org/0000-0001-5484-4354"><img alt="ORCID" src="./../img/ORCIDiD_icon16x16.png" style="height:16px; width:16px" /></a> | ![Christoph Hofer](./../img/pic_ChristophHofer.jpeg) ![Vanessa Klaas](./../img/pic_VanessaKlaas.png)  |
+[Zurich University of Applied Sciences (ZHAW)](https://zhaw.ch)| Institute of Data Analysis and Process Design (IDP) | [Christoph Hofer](https://www.zhaw.ch/en/about-us/person/hofc/) | ![Christoph Hofer](./../img/pic_ChristophHofer.jpeg)  |
 <!-- [Lausanne University Hospital (CHUV)](https://www.chuv.ch/fr/chuv-home) | Precision Medicine Unit  | [Romain-Daniel Gosselin](https://www.chuv.ch/fr/medecine-precision/accueil/en-bref/notre-equipe/romain-daniel-gosselin) | ![Romain-Daniel Gosselin](./../img/pic_RomainDanielGosselin.jpg)  | -->
 
 &nbsp;  
