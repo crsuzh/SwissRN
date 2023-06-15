@@ -5,7 +5,16 @@
     <link>http://www.swissrn.org/news/</link>
     <description>Recent content in News on SwissRN</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 12 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://www.swissrn.org/news/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 15 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://www.swissrn.org/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>STRIDE Lab Summer School</title>
+      <link>http://www.swissrn.org/news/summerschool2023/</link>
+      <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.swissrn.org/news/summerschool2023/</guid>
+      <description>“Systematic reviews of animal studies: fostering evidence-based and reproducible preclinical research”, 28 – 31 Aug 2023 The growing biomedical literature requires researchers to have tools for managing data and conducting structured research. A systematic review is a rigorous, structured, and reproducible research summary that allows to map a research field at the start of a project, are a prerequisite for a clinical trial, or are used to assess employed methods within a field.</description>
+    </item>
+    
     <item>
       <title>Successful Reproducibility Hackathon Bern, 5th May 2023: First Findings</title>
       <link>http://www.swissrn.org/news/successful-reproducibility-hackathonmay2023/</link>

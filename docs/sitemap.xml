@@ -3,7 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://www.swissrn.org/categories/</loc>
-    <lastmod>2023-06-13T00:00:00+00:00</lastmod>
+    <lastmod>2023-06-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.swissrn.org/categories/news/</loc>
+    <lastmod>2023-06-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.swissrn.org/news/</loc>
+    <lastmod>2023-06-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.swissrn.org/tags/openscience/</loc>
+    <lastmod>2023-06-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.swissrn.org/news/summerschool2023/</loc>
+    <lastmod>2023-06-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.swissrn.org/tags/summerschool/</loc>
+    <lastmod>2023-06-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.swissrn.org/</loc>
+    <lastmod>2023-06-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.swissrn.org/tags/</loc>
+    <lastmod>2023-06-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://www.swissrn.org/tags/local-nodes/</loc>
     <lastmod>2023-06-13T00:00:00+00:00</lastmod>
@@ -12,12 +33,6 @@
     <lastmod>2023-06-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://www.swissrn.org/nodes/</loc>
-    <lastmod>2023-06-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://www.swissrn.org/</loc>
-    <lastmod>2023-06-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://www.swissrn.org/tags/</loc>
     <lastmod>2023-06-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://www.swissrn.org/categories/resources/</loc>
@@ -60,15 +75,6 @@
     <lastmod>2023-05-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://www.swissrn.org/tags/hackathon/</loc>
-    <lastmod>2023-05-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://www.swissrn.org/categories/news/</loc>
-    <lastmod>2023-05-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://www.swissrn.org/news/</loc>
-    <lastmod>2023-05-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://www.swissrn.org/tags/openscience/</loc>
     <lastmod>2023-05-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://www.swissrn.org/news/successful-reproducibility-hackathonmay2023/</loc>
