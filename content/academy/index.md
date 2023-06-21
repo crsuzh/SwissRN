@@ -1,7 +1,7 @@
 +++
-author = "Updated by Eva Furrer"
+author = "Updated by Zhixuan Li"
 title = "SwissRN academy"
-date = "2022-02-11"
+date = "2023-06-21"
 tags = [ "ERC"]
 categories = ["Academy"]
 +++
@@ -16,13 +16,6 @@ If you are interested in these or related topics, feel free to contact us to fin
 
 
 Other Reproducibility Networks have established similar academies, such as the [UKRN Academy](https://www.ukrn.org/ukrn-academy/).
-
-&nbsp;
-
-```diff
-- 25.02.2022: SwissRN Academy meet-and-greet at 4pm. Come join!
-```
-&rArr; [More information on program and registration](https://www.swissrn.org/news/academyfirstmeeting/)
 
 &nbsp;
 

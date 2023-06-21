@@ -5,7 +5,27 @@
     <link>http://www.swissrn.org/</link>
     <description>Recent content on SwissRN</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 15 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://www.swissrn.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 21 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://www.swissrn.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Organisation</title>
+      <link>http://www.swissrn.org/organisation/</link>
+      <pubDate>Wed, 21 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.swissrn.org/organisation/</guid>
+      <description>Go to: Steering Committee Institutions Stakeholders Advisory Board Coordinator
+Steering Committee The steering committee is responsible for the overall coordination of SwissRN activity and strategy.
+Institution Unit Name University of Zurich Faculty of Science and Faculty of Medicine, Center for Reproducible Science Leonhard Held University of Geneva Faculty of Psychology and Educational Sciences, Swiss Open Psychological Science Initiative Evie Vergauwe University of Bern Vetsuisse Faculty Bern, Swiss 3R Competence Centre Hanno Würbel Institutions Member institutions of the SwissRN are formally committed to support the aims of SwissRN and have begun implementing them.</description>
+    </item>
+    
+    <item>
+      <title>SwissRN academy</title>
+      <link>http://www.swissrn.org/academy/</link>
+      <pubDate>Wed, 21 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.swissrn.org/academy/</guid>
+      <description>Organisation and membership The Swiss Reproducibility Network (SwissRN) Academy is a group of Early Career Researchers from Swiss universities who are interested in reproducibility, metascience, good research practices, and transparency. Our goal is improving the quality of science by sharing our knowledge of reproducible research with students and researchers. We want to create a national network among young researchers from various fields and backgrounds, that enables interdisciplinary dialogue and collaboration. **We’d be happy to see our community grow!</description>
+    </item>
+    
     <item>
       <title>STRIDE Lab Summer School</title>
       <link>http://www.swissrn.org/news/summerschool2023/</link>
@@ -49,17 +69,6 @@ Reproducibility Reports The Royal Netherlands Academy of Arts and Sciences, 2018
       <description>Go to Working Group: Open Research Data Preregistration and Registered Reports Computational Reproducibility Training Research Assessment and Incentives
 Go to: Grants ReproducibiliTea
 Working groups Open Research Data In order to reproduce and replicate research findings, open and also FAIR research data are a prerequisite. However, publishing research data is still not a standard and studies show how difficult it is to gain access to research data upon request. The SwissRN working group aims to promote open research data, to improve and facilitate data management across different research disciplines, to provide a network to collaborate in Open Research Data projects (including project proposals for ORD calls) and to engage with different stakeholders to facilitate dissemination and uptake.</description>
-    </item>
-    
-    <item>
-      <title>Organisation</title>
-      <link>http://www.swissrn.org/organisation/</link>
-      <pubDate>Thu, 25 May 2023 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.swissrn.org/organisation/</guid>
-      <description>Go to: Steering Committee Institutions Stakeholders Advisory Board Coordinator
-Steering Committee The steering committee is responsible for the overall coordination of SwissRN activity and strategy.
-Institution Unit Name University of Zurich Faculty of Science and Faculty of Medicine, Center for Reproducible Science Leonhard Held University of Geneva Faculty of Psychology and Educational Sciences, Swiss Open Psychological Science Initiative Evie Vergauwe University of Bern Vetsuisse Faculty Bern, Swiss 3R Competence Centre Hanno Würbel Institutions Member institutions of the SwissRN are formally committed to support the aims of SwissRN and have begun implementing them.</description>
     </item>
     
     <item>
@@ -208,15 +217,6 @@ The number of participants will be limited to 20 (master or PhD students or othe
       <description>We have a new Newsletter! Check out the third edition of February 2022
 You can subscribe to the newsletter by subscribing to our mailing list.
 Image credits: Dennis Skley</description>
-    </item>
-    
-    <item>
-      <title>SwissRN academy</title>
-      <link>http://www.swissrn.org/academy/</link>
-      <pubDate>Fri, 11 Feb 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.swissrn.org/academy/</guid>
-      <description>Organisation and membership The Swiss Reproducibility Network (SwissRN) Academy is a group of Early Career Researchers from Swiss universities who are interested in reproducibility, metascience, good research practices, and transparency. Our goal is improving the quality of science by sharing our knowledge of reproducible research with students and researchers. We want to create a national network among young researchers from various fields and backgrounds, that enables interdisciplinary dialogue and collaboration. **We’d be happy to see our community grow!</description>
     </item>
     
     <item>

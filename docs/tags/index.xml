@@ -5,7 +5,25 @@
     <link>http://www.swissrn.org/tags/</link>
     <description>Recent content in Tags on SwissRN</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 15 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://www.swissrn.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 21 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://www.swissrn.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Committees</title>
+      <link>http://www.swissrn.org/tags/committees/</link>
+      <pubDate>Wed, 21 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.swissrn.org/tags/committees/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ERC</title>
+      <link>http://www.swissrn.org/tags/erc/</link>
+      <pubDate>Wed, 21 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.swissrn.org/tags/erc/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>openscience</title>
       <link>http://www.swissrn.org/tags/openscience/</link>
@@ -57,15 +75,6 @@
       <pubDate>Tue, 30 May 2023 00:00:00 +0000</pubDate>
       
       <guid>http://www.swissrn.org/tags/working-groups/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Committees</title>
-      <link>http://www.swissrn.org/tags/committees/</link>
-      <pubDate>Thu, 25 May 2023 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.swissrn.org/tags/committees/</guid>
       <description></description>
     </item>
     
@@ -183,15 +192,6 @@
       <pubDate>Tue, 15 Feb 2022 00:00:00 +0000</pubDate>
       
       <guid>http://www.swissrn.org/tags/february-2022/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ERC</title>
-      <link>http://www.swissrn.org/tags/erc/</link>
-      <pubDate>Fri, 11 Feb 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.swissrn.org/tags/erc/</guid>
       <description></description>
     </item>
     
