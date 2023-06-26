@@ -2,10 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://www.swissrn.org/categories/academy/</loc>
-    <lastmod>2023-06-21T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://www.swissrn.org/categories/</loc>
+    <lastmod>2023-06-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.swissrn.org/tags/local-nodes/</loc>
+    <lastmod>2023-06-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.swissrn.org/categories/nodes/</loc>
+    <lastmod>2023-06-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.swissrn.org/nodes/</loc>
+    <lastmod>2023-06-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.swissrn.org/</loc>
+    <lastmod>2023-06-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.swissrn.org/tags/</loc>
+    <lastmod>2023-06-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.swissrn.org/categories/academy/</loc>
     <lastmod>2023-06-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://www.swissrn.org/tags/committees/</loc>
@@ -20,13 +35,7 @@
     <loc>http://www.swissrn.org/organisation/</loc>
     <lastmod>2023-06-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://www.swissrn.org/</loc>
-    <lastmod>2023-06-21T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://www.swissrn.org/academy/</loc>
-    <lastmod>2023-06-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://www.swissrn.org/tags/</loc>
     <lastmod>2023-06-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://www.swissrn.org/categories/news/</loc>
@@ -43,15 +52,6 @@
   </url><url>
     <loc>http://www.swissrn.org/tags/summerschool/</loc>
     <lastmod>2023-06-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://www.swissrn.org/tags/local-nodes/</loc>
-    <lastmod>2023-06-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://www.swissrn.org/categories/nodes/</loc>
-    <lastmod>2023-06-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://www.swissrn.org/nodes/</loc>
-    <lastmod>2023-06-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://www.swissrn.org/categories/resources/</loc>
     <lastmod>2023-06-07T00:00:00+00:00</lastmod>
