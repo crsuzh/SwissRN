@@ -1,7 +1,7 @@
 +++
 author = "Daniel Stekhoven"
 title = "Computational Reproducibility"
-date = "2023-05-24"
+date = "2023-06-26"
 images  = ["./img/activities_ComputationalReproducibilitySeminar.jpeg"]
 tags = ["Working Groups", "Computational Reproducibility"]
 categories = ["Working Groups"]
@@ -45,11 +45,10 @@ If you want to give a talk as part of this series, please contact [Daniel Stekho
 
 Date       | Topic                                                  | Speaker
 -----------|--------------------------------------------------------|---------------------------------
-2023-06-21 | Sustainable tool benchmarking and workflow development in Computational Biology | Kim Philipp Jablonski, Google
 2023-09-20 | Multi-tool deployment using containers                 | Vipin Sreedharan, ETH Zurich
 2023-10-25 | Reproducibility and beyond with Snakemake and Datavzrd | Johannes Köster, Uni Duisburg Essen
 2023-11-15 | MaRDI TA2: Research Data and Reproducibility in Scientific Computing | Jens Saak, MPI for Dynamics of Complex Technical Systems
-2023-12-13 | TBA                                                    | TBA
+2023-12-13 | Sustainable data science with the Renku platform       | Rok Roškar, Swiss Data Science Center
 
 #### Past Seminars
 
@@ -57,6 +56,7 @@ If available recording of the seminars can be found here.
 
 Date       | Topic                                              | Speaker                         | Resources
 -----------|----------------------------------------------------|---------------------------------| -----------------
+2023-06-21 | Sustainable tool benchmarking and workflow development in Computational Biology | Kim Philipp Jablonski, Google | [slides](/slides/kpj-talk.pdf), [recording](https://www.youtube.com/watch?v=f5m48lhAVXo)
 2023-05-17 | Replicability, Reproducibility, and Reusability in Computer-based Experiments | Jan Heiland, MPI for Dynamics of Complex Technical Systems | [slides](/slides/rrr-talk.pdf)
 2023-04-19 | LabKey Server for Reproducible Biomedical Research | Natalia Chicherova, ETH Zurich  | [slides](/slides/Comp_Repro_Seminar_04-2023.pdf), [recording](https://www.youtube.com/watch?v=pbHJfg_7H2g)
 

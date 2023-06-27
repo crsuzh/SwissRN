@@ -5,7 +5,17 @@
     <link>http://www.swissrn.org/tags/working-groups/</link>
     <description>Recent content in Working Groups on SwissRN</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 30 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://www.swissrn.org/tags/working-groups/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://www.swissrn.org/tags/working-groups/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Computational Reproducibility</title>
+      <link>http://www.swissrn.org/computational/</link>
+      <pubDate>Mon, 26 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.swissrn.org/computational/</guid>
+      <description>Go to: Why Computational Reproducibility? Who we are and how we work Seminar Series
+Why Computational Reproducibility? Computational reproducibility is the ability to independently verify the results of a computational study using the same data and methods. It is a critical aspect of scientific research as it ensures the transparency and credibility of scientific findings. Computational reproducibility allows researchers to build upon the work of others, helping to accelerate scientific progress.</description>
+    </item>
+    
     <item>
       <title>Projects</title>
       <link>http://www.swissrn.org/projects/</link>
@@ -15,16 +25,6 @@
       <description>Go to Working Group: Open Research Data Preregistration and Registered Reports Computational Reproducibility Training Research Assessment and Incentives
 Go to: Grants ReproducibiliTea
 Working groups Open Research Data In order to reproduce and replicate research findings, open and also FAIR research data are a prerequisite. However, publishing research data is still not a standard and studies show how difficult it is to gain access to research data upon request. The SwissRN working group aims to promote open research data, to improve and facilitate data management across different research disciplines, to provide a network to collaborate in Open Research Data projects (including project proposals for ORD calls) and to engage with different stakeholders to facilitate dissemination and uptake.</description>
-    </item>
-    
-    <item>
-      <title>Computational Reproducibility</title>
-      <link>http://www.swissrn.org/computational/</link>
-      <pubDate>Wed, 24 May 2023 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.swissrn.org/computational/</guid>
-      <description>Go to: Why Computational Reproducibility? Who we are and how we work Seminar Series
-Why Computational Reproducibility? Computational reproducibility is the ability to independently verify the results of a computational study using the same data and methods. It is a critical aspect of scientific research as it ensures the transparency and credibility of scientific findings. Computational reproducibility allows researchers to build upon the work of others, helping to accelerate scientific progress.</description>
     </item>
     
     <item>

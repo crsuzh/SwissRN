@@ -7,11 +7,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Mon, 26 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://www.swissrn.org/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Computational Reproducibility</title>
+      <link>http://www.swissrn.org/tags/computational-reproducibility/</link>
+      <pubDate>Mon, 26 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.swissrn.org/tags/computational-reproducibility/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Local Nodes</title>
       <link>http://www.swissrn.org/tags/local-nodes/</link>
       <pubDate>Mon, 26 Jun 2023 00:00:00 +0000</pubDate>
       
       <guid>http://www.swissrn.org/tags/local-nodes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Working Groups</title>
+      <link>http://www.swissrn.org/tags/working-groups/</link>
+      <pubDate>Mon, 26 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.swissrn.org/tags/working-groups/</guid>
       <description></description>
     </item>
     
@@ -57,24 +75,6 @@
       <pubDate>Wed, 07 Jun 2023 00:00:00 +0000</pubDate>
       
       <guid>http://www.swissrn.org/tags/terms-of-references/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Computational Reproducibility</title>
-      <link>http://www.swissrn.org/tags/computational-reproducibility/</link>
-      <pubDate>Tue, 30 May 2023 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.swissrn.org/tags/computational-reproducibility/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Working Groups</title>
-      <link>http://www.swissrn.org/tags/working-groups/</link>
-      <pubDate>Tue, 30 May 2023 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.swissrn.org/tags/working-groups/</guid>
       <description></description>
     </item>
     
