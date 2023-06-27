@@ -1,7 +1,7 @@
 +++
 author = "Updated by Zhixuan Li"
 title = "SwissRN academy"
-date = "2023-06-21"
+date = "2023-06-27"
 tags = [ "ERC"]
 categories = ["Academy"]
 +++
@@ -12,7 +12,7 @@ categories = ["Academy"]
 The Swiss Reproducibility Network (SwissRN) Academy is a group of Early Career Researchers from Swiss universities who are interested in reproducibility, metascience, good research practices, and transparency.
 Our goal is improving the quality of science by sharing our knowledge of reproducible research with students and researchers. We want to create a national network among young researchers from various fields and backgrounds, that enables interdisciplinary dialogue and collaboration. **We’d be happy to see our community grow! **
 
-If you are interested in these or related topics, feel free to contact us to find out how to join and contribute: [swissrnacademy@gmail.com](mailto:swissrnacademy@gmail.com)
+If you are interested in these or related topics, feel free to contact us to find out how to join and contribute: [SwissRN academy](mailto:samuel.pawel@uzh.ch)
 
 
 Other Reproducibility Networks have established similar academies, such as the [UKRN Academy](https://www.ukrn.org/ukrn-academy/).
