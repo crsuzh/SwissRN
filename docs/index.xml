@@ -5,7 +5,17 @@
     <link>http://www.swissrn.org/</link>
     <description>Recent content on SwissRN</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 07 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://www.swissrn.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 19 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://www.swissrn.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Computational Reproducibility</title>
+      <link>http://www.swissrn.org/computational/</link>
+      <pubDate>Tue, 19 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.swissrn.org/computational/</guid>
+      <description>Go to: Why Computational Reproducibility? Who we are and how we work Seminar Series
+Why Computational Reproducibility? Computational reproducibility is the ability to independently verify the results of a computational study using the same data and methods. It is a critical aspect of scientific research as it ensures the transparency and credibility of scientific findings. Computational reproducibility allows researchers to build upon the work of others, helping to accelerate scientific progress.</description>
+    </item>
+    
     <item>
       <title>Nodes</title>
       <link>http://www.swissrn.org/nodes/</link>
@@ -45,16 +55,6 @@ This enables SwissRN members to collaborate in the CoARA Working Groups, current
       
       <guid>http://www.swissrn.org/academy/</guid>
       <description>Organisation and membership The Swiss Reproducibility Network (SwissRN) Academy is a group of Early Career Researchers from Swiss universities who are interested in reproducibility, metascience, good research practices, and transparency. Our goal is improving the quality of science by sharing our knowledge of reproducible research with students and researchers. We want to create a national network among young researchers from various fields and backgrounds, that enables interdisciplinary dialogue and collaboration. We’d be happy to see our community grow!</description>
-    </item>
-    
-    <item>
-      <title>Computational Reproducibility</title>
-      <link>http://www.swissrn.org/computational/</link>
-      <pubDate>Mon, 26 Jun 2023 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.swissrn.org/computational/</guid>
-      <description>Go to: Why Computational Reproducibility? Who we are and how we work Seminar Series
-Why Computational Reproducibility? Computational reproducibility is the ability to independently verify the results of a computational study using the same data and methods. It is a critical aspect of scientific research as it ensures the transparency and credibility of scientific findings. Computational reproducibility allows researchers to build upon the work of others, helping to accelerate scientific progress.</description>
     </item>
     
     <item>
