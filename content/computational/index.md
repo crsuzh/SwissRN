@@ -1,7 +1,7 @@
 +++
 author = "Daniel Stekhoven"
 title = "Computational Reproducibility"
-date = "2023-06-26"
+date = "2023-09-19"
 images  = ["./img/activities_ComputationalReproducibilitySeminar.jpeg"]
 tags = ["Working Groups", "Computational Reproducibility"]
 categories = ["Working Groups"]
@@ -45,10 +45,13 @@ If you want to give a talk as part of this series, please contact [Daniel Stekho
 
 Date       | Topic                                                  | Speaker
 -----------|--------------------------------------------------------|---------------------------------
-2023-09-20 | Multi-tool deployment using containers                 | Vipin Sreedharan, ETH Zurich
-2023-10-25 | Reproducibility and beyond with Snakemake and Datavzrd | Johannes Köster, Uni Duisburg Essen
+2023-10-18 | Multi-tool deployment using containers                 | Vipin Sreedharan, ETH Zurich
 2023-11-15 | MaRDI TA2: Research Data and Reproducibility in Scientific Computing | Jens Saak, MPI for Dynamics of Complex Technical Systems
 2023-12-13 | Sustainable data science with the Renku platform       | Rok Roškar, Swiss Data Science Center
+2024-01-17 | The Reproducible Research Platform – Towards FAIR and reproducible sharing of data, code and computational environments | Henry Lütcke, ETH Zurich
+2024-02-21 | TBA                                                    | TBA
+2024-03-20 | TBA                                                    | TBA
+TBA        | Reproducibility and beyond with Snakemake and Datavzrd | Johannes Köster, Uni Duisburg Essen
 
 #### Past Seminars
 
