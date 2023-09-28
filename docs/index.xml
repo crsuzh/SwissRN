@@ -5,7 +5,25 @@
     <link>http://www.swissrn.org/</link>
     <description>Recent content on SwissRN</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 19 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://www.swissrn.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 28 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://www.swissrn.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Swiss Reproducibility Network Anlass @ZHAW, 22.11.2023  </title>
+      <link>http://www.swissrn.org/news/swissreproducibilitynetworkevent_zhaw/</link>
+      <pubDate>Thu, 28 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.swissrn.org/news/swissreproducibilitynetworkevent_zhaw/</guid>
+      <description>Das Swiss Reproducibility Network (SwissRN) und das Departement Gesundheit der ZHAW laden interessierte Forschende zu einem Infoanlass ein. SwissRN wird das Netzwerk und seine Aktivitäten vorstellen und aufzeigen, wie sich Forschende bei SwissRN engagieren und vom Netzwerk profitieren können. Danach lernen wir zwei SwissRN-Projekte kennen, die von swissuniversities ko-finanziert werden, und bei denen zum einen die Wiederverwendbarkeit von Forschungsoutputs und zum anderen Open Educational Resources zum Thema Reproduzierbarkeit im Zentrum stehen.</description>
+    </item>
+    
+    <item>
+      <title>Swiss Reproducibility Network Event @UNIL, 15.11.2023 </title>
+      <link>http://www.swissrn.org/news/swissreproducibilitynetworkevent_unil/</link>
+      <pubDate>Thu, 28 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.swissrn.org/news/swissreproducibilitynetworkevent_unil/</guid>
+      <description>Swiss Reproducibility Network (SwissRN) invites interested researchers to get to know more about our network and how researchers can engage with and benefit from its activities. We also present two SwissRN projects which are co-financed by swissuniversities. One focusses on reusability and interoperability of research outputs and the other on open educational resources on topics like reproducibility. At the end of the event we have the opportunity to exchange at the apéro.</description>
+    </item>
+    
     <item>
       <title>Computational Reproducibility</title>
       <link>http://www.swissrn.org/computational/</link>
