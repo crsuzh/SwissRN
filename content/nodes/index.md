@@ -58,4 +58,4 @@ Activity |  Unit |   Institution   | Contact  |
 &nbsp;
 
 ### How to join {#how-to-join}
-If you are organising a local group with pertinent activities/goals and want to become a Local SwissRN Node please send an email to [Manuela H&ouml;fler](mailto:manuelamaria.hoefler@uzh.ch).
+If you are organising a local group with pertinent activities/goals and want to become a Local SwissRN Node please send an email to [Manuela H&ouml;fler](mailto:info@swissrn.org).

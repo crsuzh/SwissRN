@@ -11,7 +11,7 @@ Das Swiss Reproducibility Network (SwissRN) und das Departement Gesundheit der Z
 Am Ende des Anlasses können wir uns beim Apéro austauschen. 
 
 **Datum, Zeit**: 22. November 2023, 15.00-17.00 Uhr <br>
-**Ort**: Winterthur, Departement Gesundheit (Haus Adeline Favre) <br>
+**Ort**: Winterthur, Katharina-Sulzer-Platz 9, Departement Gesundheit (Haus Adeline Favre), Gebäude MG, [Lageplan](https://www.zhaw.ch/storage/shared/hochschule/lageplaene/lageplaene-winterthur/lageplan-winterthur-stadt-mitte.pdf) <br>
 **Anmeldung**: Eine Anmeldung idealerweise bis am 15.11.2023 ist erwünscht, aber auch spontanes Erscheinen ist möglich: [Anmeldung](https://docs.google.com/forms/d/e/1FAIpQLSfcrXGofq42cIgoOS8-2dq0uxIlPRqwAMuYAUOcNs7Ja0qbjQ/viewform) <br>
 
 

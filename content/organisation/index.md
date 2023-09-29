@@ -13,10 +13,10 @@ The steering committee is responsible for the overall coordination of SwissRN ac
 
 Institution | Unit |   Name   |  |
 --------------|---|-------------|---|
-[University of Z&uuml;rich](https://www.uzh.ch/en.html)|Faculty of Science and Faculty of Medicine, <br>Center for Reproducible Science| [Leonhard Held](https://www.ebpi.uzh.ch/en/aboutus/departments/biostatistics/teambiostats/held.html) <a href="https://orcid.org/0000-0002-8686-5325"><img alt="ORCID" src="./../img/ORCIDiD_icon16x16.png" style="height:16px; width:16px" /></a> |![Leonhard Held](./../img/pic_LeonhardHeld.jpg)  |
+[University of Z&uuml;rich](https://www.uzh.ch/en.html)|Faculty of Science and Faculty of Medicine, <br>Center for Reproducible Science| <nobr>[Leonhard Held](https://www.ebpi.uzh.ch/en/aboutus/departments/biostatistics/teambiostats/held.html) <a href="https://orcid.org/0000-0002-8686-5325"><img alt="ORCID" src="./../img/ORCIDiD_icon16x16.png" style="height:16px; width:16px" /></a> |![Leonhard Held](./../img/pic_LeonhardHeld.jpg)  |
 [ETH Z&uuml;rich](https://www.ethz.ch)| Department of Mathematics, <br>NEXUS Personalized Health Technologies | [Daniel Stekhoven](https://www.nexus.ethz.ch/about/people1/person-detail.html?persid=143058) <a href="https://orcid.org/0000-0003-3163-3161"><img alt="ORCID" src="./../img/ORCIDiD_icon16x16.png" style="height:16px; width:16px" /></a> | ![Daniel Stekhoven](./../img/pic_DanielStekhoven.jpeg)  |
-[University of Geneva](https://unige.ch)| Faculty of Psychology and Educational Sciences, Swiss Open Psychological Science Initiative | [Evie Vergauwe](https://neurocenter-unige.ch/research-groups/evie-vergauwe/) <a href="https://orcid.org/0000-0002-7339-2370"><img alt="ORCID" src="./../img/ORCIDiD_icon16x16.png" style="height:16px; width:16px" /></a> | ![Evie Vergauwe](./../img/pic_EvieVergauwe.jpg)  |
-[University of Bern](https://www.unibe.ch/index_eng.html)| Vetsuisse Faculty Bern, <br>Swiss 3R Competence Centre| [Hanno W&uuml;rbel](https://www.tierschutz.vetsuisse.unibe.ch/about_us/personnel/prof_dr_wuerbel_hanno/index_eng.html) <a href="https://orcid.org/0000-0002-2934-3010"><img alt="ORCID" src="./../img/ORCIDiD_icon16x16.png" style="height:16px; width:16px" /></a> |![Hanno W&uuml;rbel](./../img/pic_HannoWuerbel.jpg)  |
+[University of Geneva](https://unige.ch)| Faculty of Psychology and Educational Sciences, Swiss Open Psychological Science Initiative | <nobr>[Evie Vergauwe](https://neurocenter-unige.ch/research-groups/evie-vergauwe/) <a href="https://orcid.org/0000-0002-7339-2370"><img alt="ORCID" src="./../img/ORCIDiD_icon16x16.png" style="height:16px; width:16px" /></a> | ![Evie Vergauwe](./../img/pic_EvieVergauwe.jpg)  |
+[University of Bern](https://www.unibe.ch/index_eng.html)| Vetsuisse Faculty Bern, <br>Swiss 3R Competence Centre| <nobr>[Hanno W&uuml;rbel](https://www.tierschutz.vetsuisse.unibe.ch/about_us/personnel/prof_dr_wuerbel_hanno/index_eng.html) <a href="https://orcid.org/0000-0002-2934-3010"><img alt="ORCID" src="./../img/ORCIDiD_icon16x16.png" style="height:16px; width:16px" /></a> |![Hanno W&uuml;rbel](./../img/pic_HannoWuerbel.jpg)  |
 
 &nbsp; 
 
@@ -31,7 +31,7 @@ Institution |  | Contact person
 [University of Basel](https://www.unibas.ch) | ![alt text](./../img/UniBas_Logo_EN_Schwarz_RGB_65.jpg "University of Basel") | [Dr. Frank Neumann](https://www.unibas.ch/en/University/Administration-Services/Vice-President-for-Research/Research-Office.html),<br> Head Research Office |
 [University of Bern](https://www.unibe.ch) | ![alt text](./../img/logo_unibern.png "University of Bern") |     [Prof. Dr. Hugues Abriel](https://www.unibe.ch/university/organization/executive_board_and_central_administration/vice_rectorate_research/prof_dr_abriel_hugues/index_eng.html),<br> Vice Rector for Research  |
 [University of Geneva](https://www.unige.ch) | ![alt text](./../img/logo_unige.png "University of Geneva") |[Prof. Dr. Brigitte Galliot](https://www.unige.ch/rectorat/en/home/vice-rectrice-brigitte-galliot/),<br> Vice-Rector  of Research  |
-[University of Fribourg](https://www.unifr.ch) | ![alt text](./../img/UNF_Logo_100pr_pos.png "University of Fribourg") |[Prof. Dr. Bernhard Ries](https://www.unifr.ch/uni/fr/organisation/direction/relations-internationales/ries.html),<br> Vice Rector International Relations, Digitalisation and Interdisciplinarity  |
+<nobr>[University of Fribourg](https://www.unifr.ch) | ![alt text](./../img/UNF_Logo_100pr_pos.png "University of Fribourg") |[Prof. Dr. Bernhard Ries](https://www.unifr.ch/uni/fr/organisation/direction/relations-internationales/ries.html),<br> <nobr>Vice Rector International Relations,<br> Digitalisation and Interdisciplinarity  |
 [University of Zurich](https://www.uzh.ch) | ![alt text](./../img/logo_uzh.png "University of Zurich") | [Prof. Dr. Elisabeth Stark](https://www.research.uzh.ch/de/vp/prorektorin_forschung.html),<br> Vice President Research |
 [Università della Svizzera italiana](https://www.usi.ch)  | ![alt text](./../img/usi-logo.png "Università della Svizzera italiana") |[Prof. Dr. Patrick Gagliardini](https://www.usi.ch/en/university/organisation/structure/rectorate),<br> Pro-Rector for Research |
 [Zurich University of Applied Sciences](https://www.zhaw.ch/en/university/) | ![alt text](./../img/zhaw_rgb_byline_e.png "ZHAW") |[Prof. Dr. Andreas Gerber-Grote](https://www.zhaw.ch/en/about-us/person/gerd/),<br> Head of Research and Development |
@@ -56,17 +56,17 @@ Stakeholders who support the SwissRN form the Stakeholder Engagement Group with 
 
 Institution |  | Contact person |
 --------------|-------------|---|
-[Swiss National Science Foundation](http://www.snf.ch/en/Pages/default.aspx/)| ![SNSF](./../img/stakeholder_snf.png "SNF") | Dr. Katrin Milzow, head of strategy |
+[Swiss National Science Foundation](http://www.snf.ch/en/Pages/default.aspx/)| ![SNSF](./../img/stakeholder_snf.png "SNF") | Dr. Katrin Milzow,<br> head of strategy |
 [Swiss Academies of Arts and Sciences](https://akademien-schweiz.ch/en)| ![Academies](./../img/stakeholder_swissacademies.png "Academies") | Claudia Appenzeller  |
 [FORS - Swiss Centre of Expertise in the Social Sciences](https://www.forscenter.ch)| ![FORS](./../img/forslogo.png "FORS") | Dr. Marieke Heers |
-[Swiss Psychological Society](https://www.swisspsychologicalsociety.ch/)| ![SSP-SGP](./../img/SPS_SGP_SSP_Logo_rgb-01.png "SSP-SGP") |Prof. Dr. Matthias Kliegel |
+<nobr>[Swiss Psychological Society](https://www.swisspsychologicalsociety.ch/)| ![SSP-SGP](./../img/SPS_SGP_SSP_Logo_rgb-01.png "SSP-SGP") |<nobr>Prof. Dr. Matthias Kliegel |
 &nbsp;  
 
 **Become a stakeholder in SwissRN**
 
 Potential stakeholders include funders (both governmental and charity) and non-profit organisations that are part of the academic environment. To become a member of the Stakeholder Engagement Group an organization has to provide direct financial support or support in kind to SwissRN and is required to agree to our mission and values.
 
-If you would like to become a member of the Stakeholder Engagement Group of the Swiss Reproducibility Network, please send an email to [Manuela H&ouml;fler](mailto:manuelamaria.hoefler@uzh.ch).
+If you would like to become a member of the Stakeholder Engagement Group of the Swiss Reproducibility Network, please send an email to [Manuela H&ouml;fler](mailto:info@swissrn.org).
 
 ### Advisory Board {#advisory-board}
 An external Advisory Board comprising academics from the international research community with expertise related to the goals of the network supports the steering committee regarding strategy and direction.
@@ -84,4 +84,4 @@ Former head of Competence Centre for Methodology and Statistics at the Luxembour
 ### Coordinator {#coordinator}
 Institution|   Name & Contact   |  |
 --------------|---|-------------|
-[University of Zurich (UZH)](https://www.uzh.ch/en.html) | Manuela H&ouml;fler, SwissRN coordinator. Please send inquiries to [manuelamaria.hoefler@uzh.ch](mailto:manuelamaria.hoefler@uzh.ch) | ![Manuela H&ouml;fler](./../img/pic_ManuelaHoefler.jpg)  |
+<nobr>[University of Zurich (UZH)](https://www.uzh.ch/en.html) | Manuela H&ouml;fler, SwissRN coordinator. Please send inquiries to [info@swissrn.org](mailto:info@swissrn.org) | ![Manuela H&ouml;fler](./../img/pic_ManuelaHoefler.jpg)  |
