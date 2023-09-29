@@ -16,18 +16,9 @@
     </item>
     
     <item>
-      <title>Working Groups</title>
-      <link>http://www.swissrn.org/categories/working-groups/</link>
-      <pubDate>Tue, 19 Sep 2023 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.swissrn.org/categories/working-groups/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Nodes</title>
       <link>http://www.swissrn.org/categories/nodes/</link>
-      <pubDate>Fri, 07 Jul 2023 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 28 Sep 2023 00:00:00 +0000</pubDate>
       
       <guid>http://www.swissrn.org/categories/nodes/</guid>
       <description></description>
@@ -36,9 +27,18 @@
     <item>
       <title>Organisation</title>
       <link>http://www.swissrn.org/categories/organisation/</link>
-      <pubDate>Fri, 07 Jul 2023 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 28 Sep 2023 00:00:00 +0000</pubDate>
       
       <guid>http://www.swissrn.org/categories/organisation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Working Groups</title>
+      <link>http://www.swissrn.org/categories/working-groups/</link>
+      <pubDate>Tue, 19 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.swissrn.org/categories/working-groups/</guid>
       <description></description>
     </item>
     

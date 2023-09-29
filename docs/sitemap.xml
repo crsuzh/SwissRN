@@ -5,13 +5,31 @@
     <loc>http://www.swissrn.org/categories/</loc>
     <lastmod>2023-09-28T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://www.swissrn.org/tags/committees/</loc>
+    <lastmod>2023-09-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.swissrn.org/tags/local-nodes/</loc>
+    <lastmod>2023-09-28T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://www.swissrn.org/categories/news/</loc>
     <lastmod>2023-09-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://www.swissrn.org/news/</loc>
     <lastmod>2023-09-28T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://www.swissrn.org/categories/nodes/</loc>
+    <lastmod>2023-09-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.swissrn.org/nodes/</loc>
+    <lastmod>2023-09-28T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://www.swissrn.org/tags/openscience/</loc>
+    <lastmod>2023-09-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.swissrn.org/categories/organisation/</loc>
+    <lastmod>2023-09-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.swissrn.org/organisation/</loc>
     <lastmod>2023-09-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://www.swissrn.org/news/swissreproducibilitynetworkevent_zhaw/</loc>
@@ -40,24 +58,6 @@
   </url><url>
     <loc>http://www.swissrn.org/categories/working-groups/</loc>
     <lastmod>2023-09-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://www.swissrn.org/tags/committees/</loc>
-    <lastmod>2023-07-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://www.swissrn.org/tags/local-nodes/</loc>
-    <lastmod>2023-07-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://www.swissrn.org/categories/nodes/</loc>
-    <lastmod>2023-07-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://www.swissrn.org/nodes/</loc>
-    <lastmod>2023-07-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://www.swissrn.org/categories/organisation/</loc>
-    <lastmod>2023-07-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://www.swissrn.org/organisation/</loc>
-    <lastmod>2023-07-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://www.swissrn.org/tags/coara/</loc>
     <lastmod>2023-06-30T00:00:00+00:00</lastmod>
