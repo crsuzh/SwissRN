@@ -22,7 +22,7 @@ Program:
 |15.40 - 15.50   |   Q&A SIRRO |  |
 |15.50 - 16.05   |   SwissRN Project <br>“Open Educational Resources providing Core Skills for Reproducibility of Open Data (OER4ROD)” <br>UZH, ETHZ, ZHAW | Dr. Eva Furrer |
 |16.05 - 16.15   |   Q&A  OER4ROD |  |
-|16.15 - 16.25   |   Summarising Remarks from Local Node UNIL, <br>EPFL and CHUV | Dr. Romain-Daniel Gosselin, PhD |
+|16.15 - 16.25   |   Summarising Remarks from <br>[Local Node UNIL, EPFL and CHUV](https://www.unil.ch/openscience/en/home/menuguid/swissrn.html) | Dr. Romain-Daniel Gosselin, PhD |
 |16.25 - 17.00   |   Apéro |  |
 
 
