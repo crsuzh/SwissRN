@@ -5,7 +5,16 @@
     <link>http://www.swissrn.org/tags/</link>
     <description>Recent content in Tags on SwissRN</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 19 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://www.swissrn.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 20 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://www.swissrn.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Local Nodes</title>
+      <link>http://www.swissrn.org/tags/local-nodes/</link>
+      <pubDate>Fri, 20 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.swissrn.org/tags/local-nodes/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>ERC</title>
       <link>http://www.swissrn.org/tags/erc/</link>
@@ -21,15 +30,6 @@
       <pubDate>Thu, 28 Sep 2023 00:00:00 +0000</pubDate>
       
       <guid>http://www.swissrn.org/tags/committees/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Local Nodes</title>
-      <link>http://www.swissrn.org/tags/local-nodes/</link>
-      <pubDate>Thu, 28 Sep 2023 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.swissrn.org/tags/local-nodes/</guid>
       <description></description>
     </item>
     
