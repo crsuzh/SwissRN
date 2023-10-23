@@ -1,7 +1,7 @@
 +++
 author = "Updated by Zhixuan Li"
 title = "SwissRN academy"
-date = "2023-10-19"
+date = "2023-10-23"
 tags = [ "ERC"]
 categories = ["Academy"]
 +++
@@ -23,7 +23,7 @@ Other Reproducibility Networks have established similar academies, such as the [
 
 *Ordered alphabetically by last name.*  
 
-[*`Ursa Bernadic`*](#UrsaBernadic)    &nbsp;[*`Lin Boynton`*](#LinBoynton)        &nbsp;[*`Gorka Fraga Gonzalez`*](#GorkaFragaGonzalez)        &nbsp;[*`Linard David Hoessly`*](#LinardDavidHoessly)        &nbsp;[*`Charlotte Micheloud`*](#CharlotteMicheloud)    &nbsp;[*`Samuel Pawel`*](#SamuelPawel)        &nbsp;[*`Marianna Rosso`*](#MariannaRosso)
+[*`Ursa Bernadic`*](#UrsaBernadic)    &nbsp;[*`Lin Boynton`*](#LinBoynton)        &nbsp;[*`Gorka Fraga Gonzalez`*](#GorkaFragaGonzalez)        &nbsp;[*`Linard David Hoessly`*](#LinardDavidHoessly)        &nbsp;[*`Noémie Kuenzi`*](#NoémieKuenzi)        &nbsp;[*`Charlotte Micheloud`*](#CharlotteMicheloud)    &nbsp;[*`Samuel Pawel`*](#SamuelPawel)        &nbsp;[*`Marianna Rosso`*](#MariannaRosso)
  
 # {#UrsaBernardic}
 |Ursa Bernardic <a href="https://orcid.org/0000-0001-5503-9736"><img alt="ORCID" src="./../img/ORCIDiD_icon16x16.png" style="height:16px; width:16px" /></a>|
@@ -44,6 +44,11 @@ Other Reproducibility Networks have established similar academies, such as the [
 |Linard David Hoessly <a href="https://orcid.org/0000-0002-2745-2141"><img alt="ORCID" src="./../img/ORCIDiD_icon16x16.png" style="height:16px; width:16px" /></a>|
 | :----------- |
 |<span style="font-weight:normal">I am interested in regression modelling and best practice in medicine mostly for observational data. This includes the selection of variables, transformations, competing risk methodology as well as the use of p-values and alternatives.</span> |
+
+# {#NoémieKuenzi}
+|Noémie Kuenzi <a href="https://orcid.org/0000-0003-1368-167X"><img alt="ORCID" src="./../img/ORCIDiD_icon16x16.png" style="height:16px; width:16px" /></a>|
+| :----------- |
+|<span style="font-weight:normal">I hold a Master's degree in neuroscience and work as a data manager within the Psychiatry Research and Teaching Platform of the University Hospitals of Geneva (HUG) where I advise doctors on the management of their data. I am currently writing a PhD project due to start next year on how to improve reproducibility in medical science through good data management practices. My previous research concentrated on fMRI and schizophrenia patients. Generally speaking, reproducibility, data sharing, and FAIR data are topics that interest me. My goal is to raise awareness of good research practices to improve the quality and transparency of medical research.</span> |
 
 # {#CharlotteMicheloud}
 |Charlotte Micheloud <a href="https://orcid.org/0000-0002-4995-4505"><img alt="ORCID" src="./../img/ORCIDiD_icon16x16.png" style="height:16px; width:16px" /></a>|
