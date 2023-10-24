@@ -11,7 +11,7 @@ Swiss Reproducibility Network (SwissRN) invites interested researchers to get to
 
 **Date, Time**: 15. November 2023, 15.00 - 17.00 <br>
 **Location**: UNIL, Salle CUB I <br>
-**Registration**: Registration preferably until 10.11.2023 is very welcome (but you can also join spontaneously): [Registration](https://docs.google.com/forms/d/e/1FAIpQLSfiy3EIQ7WyZsrpYOIopz9K_Lrz-OmIwP_GUkPbxrdB33X3sQ/viewform) <br>
+**Registration**: Registration preferably until 31.10.2023 is very welcome (but you can also join spontaneously): [Registration](https://docs.google.com/forms/d/e/1FAIpQLSfiy3EIQ7WyZsrpYOIopz9K_Lrz-OmIwP_GUkPbxrdB33X3sQ/viewform) <br>
 
 Program:
 | Time | Wednesday 15.11.2023 | Speaker |
