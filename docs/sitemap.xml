@@ -3,7 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://www.swissrn.org/categories/</loc>
-    <lastmod>2023-10-24T00:00:00+00:00</lastmod>
+    <lastmod>2023-10-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.swissrn.org/tags/conference/</loc>
+    <lastmod>2023-10-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.swissrn.org/categories/news/</loc>
+    <lastmod>2023-10-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.swissrn.org/news/</loc>
+    <lastmod>2023-10-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.swissrn.org/news/swissreproducibilityconference2024/</loc>
+    <lastmod>2023-10-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.swissrn.org/tags/swiss-reproducibility-award/</loc>
+    <lastmod>2023-10-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.swissrn.org/news/swissreproducibilityaward2024/</loc>
+    <lastmod>2023-10-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.swissrn.org/</loc>
+    <lastmod>2023-10-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.swissrn.org/tags/</loc>
+    <lastmod>2023-10-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://www.swissrn.org/tags/local-nodes/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
@@ -12,12 +36,6 @@
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://www.swissrn.org/nodes/</loc>
-    <lastmod>2023-10-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://www.swissrn.org/</loc>
-    <lastmod>2023-10-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://www.swissrn.org/tags/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://www.swissrn.org/categories/academy/</loc>
@@ -30,12 +48,6 @@
     <lastmod>2023-10-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://www.swissrn.org/tags/committees/</loc>
-    <lastmod>2023-09-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://www.swissrn.org/categories/news/</loc>
-    <lastmod>2023-09-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://www.swissrn.org/news/</loc>
     <lastmod>2023-09-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://www.swissrn.org/tags/openscience/</loc>
@@ -136,9 +148,6 @@
   </url><url>
     <loc>http://www.swissrn.org/news/annualmeeting2022/</loc>
     <lastmod>2022-12-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://www.swissrn.org/tags/swiss-reproducibility-award/</loc>
-    <lastmod>2022-11-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://www.swissrn.org/news/swissreproducibilityaward2022winners/</loc>
     <lastmod>2022-11-28T00:00:00+00:00</lastmod>

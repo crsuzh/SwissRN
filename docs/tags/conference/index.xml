@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Conference on SwissRN</title>
+    <link>http://www.swissrn.org/tags/conference/</link>
+    <description>Recent content in Conference on SwissRN</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 25 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://www.swissrn.org/tags/conference/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Save the date: Swiss Reproducibility Conference, June 10 - 11, 2024</title>
+      <link>http://www.swissrn.org/news/swissreproducibilityconference2024/</link>
+      <pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.swissrn.org/news/swissreproducibilityconference2024/</guid>
+      <description>The Swiss National Science Foundation (SNSF) and the Swiss Reproducibility Network (SwissRN) co-organise the first Swiss Reproducibility Conference, which takes place 10 - 11 June 2024 in Zürich.
+Reproducibility represents an extraordinary challenge for the entire research community. The aim of the conference is to bring together world-leading experts in the field of reproducible research with researchers from all career levels, including early career researchers, and from all disciplines to engage with and learn from each other how to make research more rigorous, transparent and reproducible.</description>
+    </item>
+    
+  </channel>
+</rss>
