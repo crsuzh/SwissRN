@@ -225,7 +225,7 @@ pluralizeListTitles     = false
   keybase               = ""
   mastodon              = ""
   # Email
-  email                 = "crs@ebpi.uzh.ch"
+  email                 = "info@swissrn.org"
 
 [markup]
   defaultMarkdownHandler = "goldmark"
