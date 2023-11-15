@@ -21,10 +21,10 @@ Program:
 |15.10 - 15.25   |   Vorstellung SwissRN: <ul><li>Was ist SwissRN? </li><li>Was bietet SwissRN?</li><li>Möglichkeiten sich zu engagieren</li></ul> | Prof. Dr. Leonhard Held,<br> Dr. Daniel Stekhoven |
 |15.25 - 15.40   |   SwissRN Projekt <br>“Strengthen the Interoperability and Reusability of Research Outputs (SIRRO)”<br>UZH, Uni Bern, Uni Genf | Prof. Dr. Hanno Würbel,<br> Dr. Eva Furrer |
 |15.40 - 15.50   |   Fragerunde zu SIRRO |  |
-|15.50 - 16.05   |   Vorschau auf Schweizer Reproducibility Konferenz 2024 | Dr. Eva Furrer,<br> Dr. Daniel Stekhoven |
-|16.05 - 16.15   |   Fragerunde |  |
-|16.15 - 16.25   |   Schlusswort ZHAW Services Forschungsdaten | Andreas Fürholz |
-|16.25 - 17.00   |   Apéro |  |
+|15.50 - 16.00   |   Vorschau auf Schweizer Reproducibility Konferenz 2024 | Dr. Daniel Stekhoven |
+|16.00 - 16.05   |   Fragerunde |  |
+|16.05 - 16.15   |   Schlusswort ZHAW Services Forschungsdaten | Andreas Fürholz |
+|16.15 - 17.00   |   Apéro |  |
 
 
 ---
