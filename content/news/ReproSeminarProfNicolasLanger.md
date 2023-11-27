@@ -14,8 +14,9 @@ The speaker will share his experience with open science, its challenges and adva
 More info below and in the [flyer](/resources/ReproSeminar_Flyer.pdf).
  
 **Title**: "Bringing Open and Reproducible Science into a Successful Career"<br>
-**Where**: Rämistrasse 71 room KOL-E-18 8006 Zurich.<br>
+**Where**: Room KOL-E-18, Rämistrasse 71, 8006 Zurich<br>
 Streamed via https://ethz.zoom.us/j/65987337564 <br>
+
 Apero will follow
 
 Looking forward to seeing many of you there!
