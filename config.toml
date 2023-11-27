@@ -84,7 +84,7 @@ pluralizeListTitles     = false
   [params.sidebar]
     about               = ""
     # Sets the number of recent posts to show in the sidebar. The default value is 5.
-    postAmount          = 0
+    postAmount          = 2
     # set to show or to hide categories in the sidebar
     categories          = false
     # Sets Categories to sort by number of posts instead of alphabetical
