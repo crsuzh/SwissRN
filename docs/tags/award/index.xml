@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>award on SwissRN</title>
+    <link>http://www.swissrn.org/tags/award/</link>
+    <description>Recent content in award on SwissRN</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 01 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://www.swissrn.org/tags/award/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Call for Swiss Reproducibility Award and Swiss Reproducibility Conference 2024</title>
+      <link>http://www.swissrn.org/news/callforswissreproducibilityawardandswissreproducibilityconference2024/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.swissrn.org/news/callforswissreproducibilityawardandswissreproducibilityconference2024/</guid>
+      <description>The Swiss National Science Foundation and the Swiss Reproducibility Network invite you to submit abstracts for the Swiss Reproducibility Conference, taking place June, 10 - 11, 2024 in Zürich, as well as nominations for the Swiss Reproducibility Award 2024.
+First Swiss Reproducibility Conference: Call for Contributed Talks and Posters Don’t miss the opportunity to present your work at the first Swiss Reproducibility Conference that takes place June 10 - 11, 2024.</description>
+    </item>
+    
+  </channel>
+</rss>
