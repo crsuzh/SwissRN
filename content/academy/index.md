@@ -33,7 +33,7 @@ Members of the SwissRN Academy gathered in Zurich to chat about open science and
  - 20 May 2022 – [Swiss ReproHack](https://www.reprohack.org/event/16/) – University of Bern <br>
 The SwissRN Academy hosted the first national Reproducibility Hackathon, and talks by Mark Robinson, Anja Eggert, and Tim Errington.
 
- - February 25 2022 – [SwissRN Academy First Meeting](https://www.swissrn.org/news/academyfirstmeeting/) – Online <br>
+ - 25 February 2022 – [SwissRN Academy First Meeting](https://www.swissrn.org/news/academyfirstmeeting/) – Online <br>
 The SwissRN Academy hosted an online event with two presentations, networking and discussion of future activities.
 
 &nbsp;
