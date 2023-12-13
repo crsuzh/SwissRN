@@ -1,7 +1,7 @@
 +++
 author = "Updated by Zhixuan Li"
 title = "SwissRN academy"
-date = "2023-10-23"
+date = "2023-12-13"
 tags = [ "ERC"]
 categories = ["Academy"]
 +++
@@ -19,12 +19,36 @@ Other Reproducibility Networks have established similar academies, such as the [
 
 &nbsp;
 
-### PhD student profiles
+### Past Events
+
+ - 6 December 2023 – [Talk with Prof. Nicolas Langer: “Bringing Open and Reproducible Science into a Successful Career”](https://www.swissrn.org/news/reproseminarprofnicolaslanger/) – University of Zurich / Online
+The SwissRN Academy hosted a talk by Prof. Dr. Nicolas Langer who shared his experiences with open science, its challenges and benefits, and how it is shaping his career. He also shared his tips on reproducibility and how he promotes open science in his lab.
+
+ - 21 November 2023 – Social Meeting – Zurich
+Members of the SwissRN Academy gathered in Zurich to chat about open science and reproducibility while enjoying Glühwein.
+
+ - 10 October 2023 – Social Meeting – Zurich
+Members of the SwissRN Academy gathered in Zurich to chat about open science and reproducibility.
+
+ - 20 May 2022 – [Swiss ReproHack](https://www.reprohack.org/event/16/) – University of Bern
+The SwissRN Academy hosted the first national Reproducibility Hackathon, and talks by Mark Robinson, Anja Eggert, and Tim Errington.
+
+ - February 25 2022 – [SwissRN Academy First Meeting](https://www.swissrn.org/news/academyfirstmeeting/) – Online
+The SwissRN Academy hosted an online event with two presentations, networking and discussion of future activities.
+
+&nbsp;
+
+### Member Profiles
 
 *Ordered alphabetically by last name.*  
 
-[*`Ursa Bernadic`*](#UrsaBernadic)    &nbsp;[*`Lin Boynton`*](#LinBoynton)        &nbsp;[*`Gorka Fraga Gonzalez`*](#GorkaFragaGonzalez)        &nbsp;[*`Linard David Hoessly`*](#LinardDavidHoessly)        &nbsp;[*`Noémie Kuenzi`*](#NoémieKuenzi)        &nbsp;[*`Charlotte Micheloud`*](#CharlotteMicheloud)    &nbsp;[*`Samuel Pawel`*](#SamuelPawel)        &nbsp;[*`Marianna Rosso`*](#MariannaRosso)
- 
+[*`Berit Barthelmes`*](#BeritBarthelmes)    &nbsp;[*`Ursa Bernadic`*](#UrsaBernadic)    &nbsp;[*`Lin Boynton`*](#LinBoynton)        &nbsp;[*`Gorka Fraga Gonzalez`*](#GorkaFragaGonzalez)        &nbsp;[*`Linard David Hoessly`*](#LinardDavidHoessly)        &nbsp;[*`Noémie Kuenzi`*](#NoémieKuenzi)        &nbsp;[*`Abigail Licata`*](#AbigailLicata)    &nbsp;[*`Charlotte Micheloud`*](#CharlotteMicheloud)    &nbsp;[*`Samuel Pawel`*](#SamuelPawel)        &nbsp;[*`Marianna Rosso`*](#MariannaRosso)
+
+# {#BeritBarthelmes}
+|Berit Barthelmes <a href="https://orcid.org/0009-0007-8194-4861"><img alt="ORCID" src="./../img/ORCIDiD_icon16x16.png" style="height:16px; width:16px" /></a>|
+| :----------- |
+|<span style="font-weight:normal">Finishing up my Master’s in Psychology at UZH, I feel that open science practices have been part of my work and studies ever since. There is a strong effort in my field to improve research methods and reflect on given standards. I plan to start my PhD in the US next year and would love to continue my academic journey in the field of metascience. I have a deep interest in improving methods and theories in scientific psychology.</span> |
+
 # {#UrsaBernardic}
 |Ursa Bernardic <a href="https://orcid.org/0000-0001-5503-9736"><img alt="ORCID" src="./../img/ORCIDiD_icon16x16.png" style="height:16px; width:16px" /></a>|
 | :----------- |
@@ -49,6 +73,11 @@ Other Reproducibility Networks have established similar academies, such as the [
 |Noémie Kuenzi <a href="https://orcid.org/0000-0003-1368-167X"><img alt="ORCID" src="./../img/ORCIDiD_icon16x16.png" style="height:16px; width:16px" /></a>|
 | :----------- |
 |<span style="font-weight:normal">I hold a Master's degree in neuroscience and work as a data manager within the Psychiatry Research and Teaching Platform of the University Hospitals of Geneva (HUG) where I advise doctors on the management of their data. I am currently writing a PhD project due to start next year on how to improve reproducibility in medical science through good data management practices. My previous research concentrated on fMRI and schizophrenia patients. Generally speaking, reproducibility, data sharing, and FAIR data are topics that interest me. My goal is to raise awareness of good research practices to improve the quality and transparency of medical research.</span> |
+
+# {#AbigailLicata}
+|Abigail Licata <a href="https://orcid.org/0000-0003-2278-0856"><img alt="ORCID" src="./../img/ORCIDiD_icon16x16.png" style="height:16px; width:16px" /></a>|
+| :----------- |
+|<span style="font-weight:normal">I am a neuroscience PhD student with a background in biology and neuropsychology. Before my PhD, I worked as a neuroimaging data assistant in two different countries and noticed the difficulty in streamlining imaging procedures across sites, cities, and countries… this led to my initial interest in open science, as I wanted to make imaging pipelines and procedures as transparent as possible through proper documentation and data/code dissemination. Currently, I research the temporal dynamics of multilingual semantic knowledge and co-organize ReproducibiliTea journal clubs in Geneva with the local SwissRN node.</span> |
 
 # {#CharlotteMicheloud}
 |Charlotte Micheloud <a href="https://orcid.org/0000-0002-4995-4505"><img alt="ORCID" src="./../img/ORCIDiD_icon16x16.png" style="height:16px; width:16px" /></a>|
