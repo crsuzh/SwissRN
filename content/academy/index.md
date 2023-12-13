@@ -21,19 +21,19 @@ Other Reproducibility Networks have established similar academies, such as the [
 
 ### Past Events
 
- - 6 December 2023 – [Talk with Prof. Nicolas Langer: “Bringing Open and Reproducible Science into a Successful Career”](https://www.swissrn.org/news/reproseminarprofnicolaslanger/) – University of Zurich / Online
+ - 6 December 2023 – [Talk with Prof. Nicolas Langer: “Bringing Open and Reproducible Science into a Successful Career”](https://www.swissrn.org/news/reproseminarprofnicolaslanger/) – University of Zurich / Online <br>
 The SwissRN Academy hosted a talk by Prof. Dr. Nicolas Langer who shared his experiences with open science, its challenges and benefits, and how it is shaping his career. He also shared his tips on reproducibility and how he promotes open science in his lab.
 
- - 21 November 2023 – Social Meeting – Zurich
+ - 21 November 2023 – Social Meeting – Zurich <br>
 Members of the SwissRN Academy gathered in Zurich to chat about open science and reproducibility while enjoying Glühwein.
 
- - 10 October 2023 – Social Meeting – Zurich
+ - 10 October 2023 – Social Meeting – Zurich <br>
 Members of the SwissRN Academy gathered in Zurich to chat about open science and reproducibility.
 
- - 20 May 2022 – [Swiss ReproHack](https://www.reprohack.org/event/16/) – University of Bern
+ - 20 May 2022 – [Swiss ReproHack](https://www.reprohack.org/event/16/) – University of Bern <br>
 The SwissRN Academy hosted the first national Reproducibility Hackathon, and talks by Mark Robinson, Anja Eggert, and Tim Errington.
 
- - February 25 2022 – [SwissRN Academy First Meeting](https://www.swissrn.org/news/academyfirstmeeting/) – Online
+ - February 25 2022 – [SwissRN Academy First Meeting](https://www.swissrn.org/news/academyfirstmeeting/) – Online <br>
 The SwissRN Academy hosted an online event with two presentations, networking and discussion of future activities.
 
 &nbsp;
