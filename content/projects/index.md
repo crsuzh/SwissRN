@@ -1,7 +1,7 @@
 +++
-author = "Updated by Eva Furrer"
+author = "Updated by Zhixuan Li"
 title = "Projects"
-date = "2023-05-30"
+date = "2024-01-10"
 tags = ["Working Groups", "Computational Reproducibility"]
 categories = ["Initiatives"]
 
@@ -44,7 +44,7 @@ The SwissRN working group on Training aims to provide pertinent training activit
 
 See the [Resources]( {{< ref "resources/" >}}) page for a list of training opportunities concerning reproducibility offered at Swiss institutions.
 
-Contact: [Michael Dayan](mailto:michael.dayan@fcbg.ch) or [Eva Furrer](mailto:eva.furrer@uzh.ch)
+Contact: [Eva Furrer](mailto:eva.furrer@uzh.ch)
 
 [*`Back to top`*](#)
 

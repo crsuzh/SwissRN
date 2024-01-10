@@ -1,7 +1,7 @@
 +++
 author = "Updated by Zhixuan Li"
 title = "Nodes"
-date = "2023-10-24"
+date = "2024-01-10"
 tags = ["Local Nodes"]
 categories = ["Nodes"]
 +++
@@ -21,7 +21,6 @@ Institution |  Unit |   Contact   |  |
 --------------|---|-------------|---|
 [CERN](https://home.cern/) | Information Technology | [Tibor Simko](https://orcid.org/0000-0001-7202-5803) <a href="https://orcid.org/0000-0001-7202-5803"><img alt="ORCID" src="./../img/ORCIDiD_icon16x16.png" style="height:16px; width:16px" /></a> | ![Tibor Simko](./../img/pic_TiborSimko.jpeg)  |
 [&Eacute;cole polytechnique f&eacute;d&eacute;rale de Lausanne (EPFL)](https://www.epfl.ch/en/) | Neuroscience -- Brain Mind Institute | [Michael Herzog](https://www.epfl.ch/labs/lpsy/team/herzog/) <a href="https://orcid.org/0000-0001-5433-1030"><img alt="ORCID" src="./../img/ORCIDiD_icon16x16.png" style="height:16px; width:16px" /></a>| ![Michael Herzog](./../img/pic_MichaelHerzog.jpg)  |
-[EPFL/Unige Campus Biotech](https://www.campusbiotech.ch/) | Fondation Campus Biotech | [Micha&euml;l Dayan](https://www.campusbiotech.ch/en/people/michael-dayan) <a href="https://orcid.org/0000-0002-2666-0969"><img alt="ORCID" src="./../img/ORCIDiD_icon16x16.png" style="height:16px; width:16px" /></a> | ![Michael Dayan](./../img/pic_MichaelDayan.jpg) |
 [ETH Z&uuml;rich](https://www.ethz.ch) | NEXUS Personalized Health Technologies | <nobr>[Daniel Stekhoven](https://www.nexus.ethz.ch/about/people1/person-detail.html?persid=143058) <a href="https://orcid.org/0000-0003-3163-3161"><img alt="ORCID" src="./../img/ORCIDiD_icon16x16.png" style="height:16px; width:16px" /></a> | ![Daniel Stekhoven](./../img/pic_DanielStekhoven.jpeg)  |
 [FernUni Schweiz](https://fernuni.ch)| Economics / Applied Mathematics | [Michael Kurschilgen](https://fernuni.ch/profil/michael-kurschilgen)  <a href="https://orcid.org/0000-0001-6109-4969"><img alt="ORCID" src="./../img/ORCIDiD_icon16x16.png" style="height:16px; width:16px" /></a> / <br> [Matthias Voigt](https://fernuni.ch/matthias-voigt/) <a href="https://orcid.org/0000-0001-8491-1861"><img alt="ORCID" src="./../img/ORCIDiD_icon16x16.png" style="height:16px; width:16px" /></a> | ![Michael Kurschilgen](./../img/pic_MichaelKurschilgen.jpg) ![Matthias Voigt](./../img/pic_MatthiasVoigt.png)  |
 [Haute Ecole Spécialisée de Suisse occidentale (HES-SO)](https://www.hes-so.ch/de/startseite) |Data Mining and Machine Learning group  | [Grigorios Anagnostopoulos](http://dmml.ch/grigorios-anagnostopoulos/) <a href="https://orcid.org/0000-0002-8643-7427"><img alt="ORCID" src="./../img/ORCIDiD_icon16x16.png" style="height:16px; width:16px" /></a> | ![Grigorios Anagnostopoulos](./../img/pic_GrigoriosAnagnostopoulos.jpeg)  |

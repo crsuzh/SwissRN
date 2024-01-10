@@ -5,7 +5,25 @@
     <link>http://www.swissrn.org/categories/</link>
     <description>Recent content in Categories on SwissRN</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 13 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://www.swissrn.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 10 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://www.swissrn.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Initiatives</title>
+      <link>http://www.swissrn.org/categories/initiatives/</link>
+      <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.swissrn.org/categories/initiatives/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nodes</title>
+      <link>http://www.swissrn.org/categories/nodes/</link>
+      <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.swissrn.org/categories/nodes/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Academy</title>
       <link>http://www.swissrn.org/categories/academy/</link>
@@ -34,15 +52,6 @@
     </item>
     
     <item>
-      <title>Nodes</title>
-      <link>http://www.swissrn.org/categories/nodes/</link>
-      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.swissrn.org/categories/nodes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Organisation</title>
       <link>http://www.swissrn.org/categories/organisation/</link>
       <pubDate>Thu, 28 Sep 2023 00:00:00 +0000</pubDate>
@@ -57,15 +66,6 @@
       <pubDate>Wed, 07 Jun 2023 00:00:00 +0000</pubDate>
       
       <guid>http://www.swissrn.org/categories/resources/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Initiatives</title>
-      <link>http://www.swissrn.org/categories/initiatives/</link>
-      <pubDate>Tue, 30 May 2023 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.swissrn.org/categories/initiatives/</guid>
       <description></description>
     </item>
     
