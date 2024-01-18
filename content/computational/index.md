@@ -1,14 +1,12 @@
 +++
 author = "Daniel Stekhoven"
 title = "Computational Reproducibility"
-date = "2023-12-08"
+date = "2024-01-18"
 images  = ["./img/activities_ComputationalReproducibilitySeminar.jpeg"]
 tags = ["Working Groups", "Computational Reproducibility"]
 categories = ["Working Groups"]
 
 +++
-
-
 
 `Go to:` [*`Why Computational Reproducibility?`*](#comprepro) [*`Who we are and how we work`*](#whoandhow) [*`Seminar Series`*](#seminar)
 
@@ -45,9 +43,13 @@ If you want to give a talk as part of this series, please contact [Daniel Stekho
 
 Date       | Topic                                                  | Speaker
 -----------|--------------------------------------------------------|---------------------------------
-2024-01-17 | The Reproducible Research Platform – Towards FAIR and reproducible sharing of data, code and computational environments | Henry Lütcke, ETH Zurich
 2024-02-21 | Reproducibility and beyond with Snakemake and Datavzrd | Johannes Köster, Uni Duisburg Essen
 2024-03-20 | Reproducibility for Causal Discovery                   | Jack Kuipers, ETH Zurich
+2024-04-17 | *Available slot*                                       | *TBA*
+2024-05-15 | *Available slot*                                       | *TBA*
+2024-06-19 | *Available slot*                                       | *TBA*
+Jul + Aug  | Summer break                                           | 
+2024-09-18 | *Available slot*                                       | *TBA*
 
 #### Past Seminars
 
@@ -55,9 +57,10 @@ If available recording of the seminars can be found here.
 
 Date       | Topic                                              | Speaker                         | Resources
 -----------|----------------------------------------------------|---------------------------------| -----------------
-2023-12-13 | Sustainable data science with the Renku platform   | Elisabet Capon Garcia, Swiss Data Science Center | [slides](/slides/2023-12-13 Renku_SRN.pdf), recording follows soon
-2023-11-15 | MaRDI TA2: Research Data and Reproducibility in Scientific Computing | Jens Saak, MPI for Dynamics of Complex Technical Systems | [slides](/slides/saak-talk.pdf), recording follows soon
-2023-10-18 | Singularity Containers in Bioinformatics           | Vipin Sreedharan, ETH Zurich | [slides](/slides/2023-10-18_CRS_NEXUS_Singularity.pdf), recording follows soon
+2024-01-17 | The Reproducible Research Platform – Towards FAIR and reproducible sharing of data, code and computational environments | Henry Lütcke, ETH Zurich | [slides](https://siscourses.ethz.ch/reproducible_computing/2024-01_RRP-Seminar_SwissRN.pdf), recording follows soon
+2023-12-13 | Sustainable data science with the Renku platform   | Elisabet Capon Garcia, Swiss Data Science Center | [slides](/slides/2023-12-13 Renku_SRN.pdf), [recording](https://www.youtube.com/watch?v=0Rul2yg3DqQ)
+2023-11-15 | MaRDI TA2: Research Data and Reproducibility in Scientific Computing | Jens Saak, MPI for Dynamics of Complex Technical Systems | [slides](/slides/saak-talk.pdf), [recording](https://www.youtube.com/watch?v=E5FXZJOiEZE)
+2023-10-18 | Singularity Containers in Bioinformatics           | Vipin Sreedharan, ETH Zurich | [slides](/slides/2023-10-18_CRS_NEXUS_Singularity.pdf), [recording](https://www.youtube.com/watch?v=2pdiSMX7lrc)
 2023-06-21 | Sustainable tool benchmarking and workflow development in Computational Biology | Kim Philipp Jablonski, Google | [slides](/slides/kpj-talk.pdf), [recording](https://www.youtube.com/watch?v=f5m48lhAVXo)
 2023-05-17 | Replicability, Reproducibility, and Reusability in Computer-based Experiments | Jan Heiland, MPI for Dynamics of Complex Technical Systems | [slides](/slides/rrr-talk.pdf)
 2023-04-19 | LabKey Server for Reproducible Biomedical Research | Natalia Chicherova, ETH Zurich  | [slides](/slides/Comp_Repro_Seminar_04-2023.pdf), [recording](https://www.youtube.com/watch?v=pbHJfg_7H2g)
