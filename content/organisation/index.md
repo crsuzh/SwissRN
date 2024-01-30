@@ -1,7 +1,7 @@
 +++
 author = "Updated by Zhixuan Li"
 title = "Organisation"
-date = "2023-09-28"
+date = "2024-01-30"
 tags = ["Committees"]
 categories = ["Organisation"]
 
@@ -60,6 +60,8 @@ Institution |  | Contact person |
 [Swiss Academies of Arts and Sciences](https://akademien-schweiz.ch/en)| ![Academies](./../img/stakeholder_swissacademies.png "Academies") | Claudia Appenzeller  |
 [FORS - Swiss Centre of Expertise in the Social Sciences](https://www.forscenter.ch)| ![FORS](./../img/forslogo.png "FORS") | Dr. Marieke Heers |
 <nobr>[Swiss Psychological Society](https://www.swisspsychologicalsociety.ch/)| ![SSP-SGP](./../img/SPS_SGP_SSP_Logo_rgb-01.png "SSP-SGP") |<nobr>Prof. Dr. Matthias Kliegel |
+<nobr>[Swiss 3R Competence Center](https://swiss3rcc.org/)| ![swiss_3r](./../img/logo_Swiss3R.png "swiss_3r") |<nobr>Dr. Armand Mensen|
+
 &nbsp;  
 
 **Become a stakeholder in SwissRN**
