@@ -1,7 +1,7 @@
 +++
 author = "Updated by Zhixuan Li"
 title = "SwissRN academy"
-date = "2023-12-13"
+date = "2024-02-08"
 tags = [ "ERC"]
 categories = ["Academy"]
 +++
@@ -16,6 +16,14 @@ If you are interested in these or related topics, feel free to contact us to fin
 
 
 Other Reproducibility Networks have established similar academies, such as the [UKRN Academy](https://www.ukrn.org/ukrn-academy/).
+
+&nbsp;
+
+### Upcoming Events
+
+ - 11 June 2024 – ReproHack at the Swiss Reproducibility Conference 2024 - Zurich <br>
+During this Reproducibility Hackathon (ReproHack) held at [the Swiss Reproducibility Conference 2024](https://www.reproducibility.ch/), participants will attempt to reproduce results from published research papers with openly available code and data. <br>Information on how to register will be posted on [ReproHack Hub](https://www.reprohack.org/event/28/) soon.
+
 
 &nbsp;
 
@@ -42,7 +50,7 @@ The SwissRN Academy hosted an online event with two presentations, networking an
 
 *Ordered alphabetically by last name.*  
 
-[*`Berit Barthelmes`*](#BeritBarthelmes)    &nbsp;[*`Ursa Bernadic`*](#UrsaBernadic)    &nbsp;[*`Lin Boynton`*](#LinBoynton)        &nbsp;[*`Gorka Fraga Gonzalez`*](#GorkaFragaGonzalez)        &nbsp;[*`Linard David Hoessly`*](#LinardDavidHoessly)        &nbsp;[*`Noémie Kuenzi`*](#NoémieKuenzi)        &nbsp;[*`Abigail Licata`*](#AbigailLicata)    &nbsp;[*`Charlotte Micheloud`*](#CharlotteMicheloud)    &nbsp;[*`Samuel Pawel`*](#SamuelPawel)        &nbsp;[*`Marianna Rosso`*](#MariannaRosso)
+[*`Berit Barthelmes`*](#BeritBarthelmes)    &nbsp;[*`Ursa Bernadic`*](#UrsaBernadic)    &nbsp;[*`Lin Boynton`*](#LinBoynton)        &nbsp;[*`Peter Degen`*](#PeterDegen)    &nbsp;[*`Gorka Fraga Gonzalez`*](#GorkaFragaGonzalez)        &nbsp;[*`Linard David Hoessly`*](#LinardDavidHoessly)        &nbsp;[*`Noémie Kuenzi`*](#NoémieKuenzi)        &nbsp;[*`Abigail Licata`*](#AbigailLicata)    &nbsp;[*`Charlotte Micheloud`*](#CharlotteMicheloud)    &nbsp;[*`Samuel Pawel`*](#SamuelPawel)        &nbsp;[*`Marianna Rosso`*](#MariannaRosso)
 
 # {#BeritBarthelmes}
 |Berit Barthelmes <a href="https://orcid.org/0009-0007-8194-4861"><img alt="ORCID" src="./../img/ORCIDiD_icon16x16.png" style="height:16px; width:16px" /></a>|
@@ -58,6 +66,11 @@ The SwissRN Academy hosted an online event with two presentations, networking an
 |Lin Boynton <a href="https://orcid.org/0000-0002-9944-3834"><img alt="ORCID" src="./../img/ORCIDiD_icon16x16.png" style="height:16px; width:16px" /></a>|
 | :----------- |
 |<span style="font-weight:normal">Only 9% of plastic waste is recycled worldwide, despite existing technologies to do so. As part of the Global Health Engineering group at ETH Zurich, my research seeks to engineer solutions that work in low-resource contexts. Open-science and reproducibility can facilitate multiplier effects of plastic recycling solutions, especially in low- and middle-income countries. In pursuit of this, I aim to provide transparency and credit to the people and methods that contribute to my PhD research.</span> |
+
+# {#PeterDegen}
+|Peter Degen <a href="https://orcid.org/0009-0004-0706-9200"><img alt="ORCID" src="./../img/ORCIDiD_icon16x16.png" style="height:16px; width:16px" /></a>|
+| :----------- |
+|<span style="font-weight:normal">In my first project as a PhD student in bioinformatics, I performed data-driven simulations to investigate the replicability of bulk RNA sequencing experiments in the presence of small cohorts and population heterogeneity. My current work as a senior PhD student focuses on the robustness of single-cell RNA-Seq analysis results under variation of computational pipelines. As my projects are closely related to meta-scientific research, I’m happy to have discovered an active network of early-career researchers interested in principles of open science, reproducibility, and replicability.</span> |
 
 # {#GorkaFragaGonzalez}
 |Gorka Fraga Gonzalez <a href="https://orcid.org/0000-0002-1857-8607"><img alt="ORCID" src="./../img/ORCIDiD_icon16x16.png" style="height:16px; width:16px" /></a>|
