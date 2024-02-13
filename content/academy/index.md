@@ -1,7 +1,7 @@
 +++
 author = "Updated by Zhixuan Li"
 title = "SwissRN academy"
-date = "2024-02-08"
+date = "2024-02-13"
 tags = [ "ERC"]
 categories = ["Academy"]
 +++
@@ -50,7 +50,7 @@ The SwissRN Academy hosted an online event with two presentations, networking an
 
 *Ordered alphabetically by last name.*  
 
-[*`Berit Barthelmes`*](#BeritBarthelmes)    &nbsp;[*`Ursa Bernadic`*](#UrsaBernadic)    &nbsp;[*`Lin Boynton`*](#LinBoynton)        &nbsp;[*`Peter Degen`*](#PeterDegen)    &nbsp;[*`Gorka Fraga Gonzalez`*](#GorkaFragaGonzalez)        &nbsp;[*`Linard David Hoessly`*](#LinardDavidHoessly)        &nbsp;[*`Noémie Kuenzi`*](#NoémieKuenzi)        &nbsp;[*`Abigail Licata`*](#AbigailLicata)    &nbsp;[*`Charlotte Micheloud`*](#CharlotteMicheloud)    &nbsp;[*`Samuel Pawel`*](#SamuelPawel)        &nbsp;[*`Marianna Rosso`*](#MariannaRosso)
+[*`Berit Barthelmes`*](#BeritBarthelmes)    &nbsp;[*`Ursa Bernadic`*](#UrsaBernadic)    &nbsp;[*`Elena Bolt`*](#ElenaBolt)        &nbsp;[*`Lin Boynton`*](#LinBoynton)        &nbsp;[*`Peter Degen`*](#PeterDegen)    &nbsp;[*`Gorka Fraga Gonzalez`*](#GorkaFragaGonzalez)        &nbsp;[*`Linard David Hoessly`*](#LinardDavidHoessly)        &nbsp;[*`Noémie Kuenzi`*](#NoémieKuenzi)        &nbsp;[*`Abigail Licata`*](#AbigailLicata)    &nbsp;[*`Charlotte Micheloud`*](#CharlotteMicheloud)    &nbsp;[*`Julian Ockelmann`*](#JulianOckelmann)        &nbsp;[*`Samuel Pawel`*](#SamuelPawel)        &nbsp;[*`Marianna Rosso`*](#MariannaRosso)
 
 # {#BeritBarthelmes}
 |Berit Barthelmes <a href="https://orcid.org/0009-0007-8194-4861"><img alt="ORCID" src="./../img/ORCIDiD_icon16x16.png" style="height:16px; width:16px" /></a>|
@@ -61,6 +61,11 @@ The SwissRN Academy hosted an online event with two presentations, networking an
 |Ursa Bernardic <a href="https://orcid.org/0000-0001-5503-9736"><img alt="ORCID" src="./../img/ORCIDiD_icon16x16.png" style="height:16px; width:16px" /></a>|
 | :----------- |
 |<span style="font-weight:normal">Ursa has a PhD in Marketing and Management and is currently a Postdoctoralresearcher at CEPE, ETH Zürich. During her PhD, she was interested in open science practices in marketing and management journals, and worked on prosocial behavior, inequality perception, and developing more objective marketing measures. Currently, she is dedicated to conducting preregisteredRandomized Controlled Trials (RCTs) to increase sustainable behavior. Ursa's commitment to open science is evident as she preregisters all her studies and readily shares data, code, and experiment scripts on the Open ScienceFramework (OSF). Furthermore, she has actively joined the Swiss ResearchNetwork (SwissRN) to advocate for these principles among her colleagues.</span> |
+
+# {#ElenaBolt}
+|Elena Bolt <a href="https://orcid.org/0000-0002-7611-7905"><img alt="ORCID" src="./../img/ORCIDiD_icon16x16.png" style="height:16px; width:16px" /></a>|
+| :----------- |
+|<span style="font-weight:normal">I am a psychologist and PhD student at the Institute of Computational Linguistics, working on neural auditory processing in older adults with varying hearing and cognitive abilities. In this context, I have learned a lot about signal and data processing and computational modeling, as well as writing processing pipelines and acquiring data. Since I have also benefited a lot from the open work of others and want to make my scripts and data accessible myself, I am happy to exchange ideas with people who are interested in exactly that. In the field of neuroscience and psychology, the reproducibility crisis is a big topic and I am very interested in solutions and strategies to solve this problem in the longer term.</span> |
 
 # {#LinBoynton}
 |Lin Boynton <a href="https://orcid.org/0000-0002-9944-3834"><img alt="ORCID" src="./../img/ORCIDiD_icon16x16.png" style="height:16px; width:16px" /></a>|
@@ -96,6 +101,11 @@ The SwissRN Academy hosted an online event with two presentations, networking an
 |Charlotte Micheloud <a href="https://orcid.org/0000-0002-4995-4505"><img alt="ORCID" src="./../img/ORCIDiD_icon16x16.png" style="height:16px; width:16px" /></a>|
 | :----------- |
 |<span style="font-weight:normal">I am currently in the final stages of my PhD in Biostatistics. My research focuses on methodological aspects of replicability. Specifically, I am developing new methods for the design and the analysis of replication studies. My PhD journey made me realize the importance of good research practices, reproducibility and transparency. Furthermore, I am a strong advocate of open science and believe that research outputs should be available to everyone.</span> |
+
+#  {#JulianOckelmann}
+|Julian Ockelmann <a href="https://orcid.org/0000-0002-4780-8993"><img alt="ORCID" src="./../img/ORCIDiD_icon16x16.png" style="height:16px; width:16px" /></a>|
+| :----------- |
+|<span style="font-weight:normal">I am a PhD student in cognitive neuroscience with a background in psychology. The first year of my PhD made me realize the importance of reproducible science practices, as I was faced with an enormous pile of published but incomparable study procedures. A large portion of deviations between study procedures arises from the lack of openly accessible assessment tools, which facilitate assessment standardization. This issue led me to my current project: I am developing a multilingual, open-access, and open-source working memory test battery in Python. As part of the SwissRN I hope to collaborate with like-minded researchers to contribute to the corpus of transparent open-access research tools within science.</span> |
 
 #  {#SamuelPawel}
 |Samuel Pawel <a href="https://orcid.org/0000-0003-2779-320X"><img alt="ORCID" src="./../img/ORCIDiD_icon16x16.png" style="height:16px; width:16px" /></a>|
