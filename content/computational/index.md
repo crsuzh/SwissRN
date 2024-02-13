@@ -1,7 +1,7 @@
 +++
 author = "Daniel Stekhoven"
 title = "Computational Reproducibility"
-date = "2024-01-18"
+date = "2024-02-13"
 images  = ["./img/activities_ComputationalReproducibilitySeminar.jpeg"]
 tags = ["Working Groups", "Computational Reproducibility"]
 categories = ["Working Groups"]
@@ -22,7 +22,7 @@ The importance of computational reproducibility is particularly evident in field
 
 We are researchers and service providers working with tools and technologies facilitating our everyday processing of data. While some of us are good in one aspect of making computational methods more reproducible, others might have improved other ways of achieving this. Together, we aim to learn from each other and find the best ways to ensure reproducibility of our research, our services, and our work.
 
-We are still a very young working group, trying to find a suitable mode of operation. Feel free to join us and defining the best way forward in achieving our goals ... oh yeah, and help us define goals!
+After our Q1 coordination meeting in January 2024, we have set out to better organise the task force and come up with a roadmap by summer.
 
 If you feel up to the challenge, please contact [Daniel Stekhoven](mailto:stekhoven@nexus.ethz.ch), to join the group.
 
@@ -43,7 +43,7 @@ If you want to give a talk as part of this series, please contact [Daniel Stekho
 
 Date       | Topic                                                  | Speaker
 -----------|--------------------------------------------------------|---------------------------------
-2024-02-21 | Reproducibility and beyond with Snakemake and Datavzrd | Johannes Köster, Uni Duisburg Essen
+2024-02-21 | Transparency, reproducibility and the democratization of an ecosystem - the benefits of Snakemake 8 | Johannes Köster, University of Duisburg-Essen
 2024-03-20 | Reproducibility for Causal Discovery                   | Jack Kuipers, ETH Zurich
 2024-04-17 | *Available slot*                                       | *TBA*
 2024-05-15 | *Available slot*                                       | *TBA*

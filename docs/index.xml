@@ -7,6 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Tue, 13 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://www.swissrn.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Computational Reproducibility</title>
+      <link>http://www.swissrn.org/computational/</link>
+      <pubDate>Tue, 13 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.swissrn.org/computational/</guid>
+      <description>Go to: Why Computational Reproducibility? Who we are and how we work Seminar Series
+Why Computational Reproducibility? Computational reproducibility is the ability to independently verify the results of a computational study using the same data and methods. It is a critical aspect of scientific research as it ensures the transparency and credibility of scientific findings. Computational reproducibility allows researchers to build upon the work of others, helping to accelerate scientific progress.</description>
+    </item>
+    
+    <item>
       <title>SwissRN academy</title>
       <link>http://www.swissrn.org/academy/</link>
       <pubDate>Tue, 13 Feb 2024 00:00:00 +0000</pubDate>
@@ -24,16 +34,6 @@
       <description>Go to: Steering Committee Institutions Stakeholders Advisory Board Coordinator
 Steering Committee The steering committee is responsible for the overall coordination of SwissRN activity and strategy.
 Institution Unit Name University of Zürich Faculty of Science and Faculty of Medicine, Center for Reproducible Science Leonhard Held ETH Zürich Department of Mathematics, NEXUS Personalized Health Technologies Daniel Stekhoven University of Geneva Faculty of Psychology and Educational Sciences, Swiss Open Psychological Science Initiative Evie Vergauwe University of Bern Vetsuisse Faculty Bern, Swiss 3R Competence Centre Hanno Würbel Institutions Member institutions of the SwissRN are formally committed to support the aims of SwissRN and have begun implementing them.</description>
-    </item>
-    
-    <item>
-      <title>Computational Reproducibility</title>
-      <link>http://www.swissrn.org/computational/</link>
-      <pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.swissrn.org/computational/</guid>
-      <description>Go to: Why Computational Reproducibility? Who we are and how we work Seminar Series
-Why Computational Reproducibility? Computational reproducibility is the ability to independently verify the results of a computational study using the same data and methods. It is a critical aspect of scientific research as it ensures the transparency and credibility of scientific findings. Computational reproducibility allows researchers to build upon the work of others, helping to accelerate scientific progress.</description>
     </item>
     
     <item>
