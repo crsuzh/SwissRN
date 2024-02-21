@@ -2,10 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://www.swissrn.org/categories/academy/</loc>
-    <lastmod>2024-02-13T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://www.swissrn.org/categories/</loc>
+    <lastmod>2024-02-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.swissrn.org/tags/committees/</loc>
+    <lastmod>2024-02-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.swissrn.org/categories/organisation/</loc>
+    <lastmod>2024-02-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.swissrn.org/organisation/</loc>
+    <lastmod>2024-02-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.swissrn.org/</loc>
+    <lastmod>2024-02-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.swissrn.org/tags/</loc>
+    <lastmod>2024-02-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.swissrn.org/categories/academy/</loc>
     <lastmod>2024-02-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://www.swissrn.org/tags/computational-reproducibility/</loc>
@@ -17,13 +32,7 @@
     <loc>http://www.swissrn.org/tags/erc/</loc>
     <lastmod>2024-02-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://www.swissrn.org/</loc>
-    <lastmod>2024-02-13T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://www.swissrn.org/academy/</loc>
-    <lastmod>2024-02-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://www.swissrn.org/tags/</loc>
     <lastmod>2024-02-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://www.swissrn.org/tags/working-groups/</loc>
@@ -31,15 +40,6 @@
   </url><url>
     <loc>http://www.swissrn.org/categories/working-groups/</loc>
     <lastmod>2024-02-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://www.swissrn.org/tags/committees/</loc>
-    <lastmod>2024-01-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://www.swissrn.org/categories/organisation/</loc>
-    <lastmod>2024-01-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://www.swissrn.org/organisation/</loc>
-    <lastmod>2024-01-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://www.swissrn.org/categories/initiatives/</loc>
     <lastmod>2024-01-10T00:00:00+00:00</lastmod>

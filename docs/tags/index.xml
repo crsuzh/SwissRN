@@ -5,7 +5,16 @@
     <link>http://www.swissrn.org/tags/</link>
     <description>Recent content in Tags on SwissRN</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 13 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://www.swissrn.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 21 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://www.swissrn.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Committees</title>
+      <link>http://www.swissrn.org/tags/committees/</link>
+      <pubDate>Wed, 21 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.swissrn.org/tags/committees/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Computational Reproducibility</title>
       <link>http://www.swissrn.org/tags/computational-reproducibility/</link>
@@ -30,15 +39,6 @@
       <pubDate>Tue, 13 Feb 2024 00:00:00 +0000</pubDate>
       
       <guid>http://www.swissrn.org/tags/working-groups/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Committees</title>
-      <link>http://www.swissrn.org/tags/committees/</link>
-      <pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.swissrn.org/tags/committees/</guid>
       <description></description>
     </item>
     
