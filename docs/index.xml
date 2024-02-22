@@ -5,7 +5,21 @@
     <link>http://www.swissrn.org/</link>
     <description>Recent content on SwissRN</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 21 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://www.swissrn.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 22 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://www.swissrn.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Resources</title>
+      <link>http://www.swissrn.org/resources/</link>
+      <pubDate>Thu, 22 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.swissrn.org/resources/</guid>
+      <description>SwissRN Strategy SwissRN Strategy (Version February 2023)
+Terms of Reference Terms of Reference (Version March 2021)
+Executive Summary and Institutional Membership Executive Summary (Version May 2023)
+Presentation Slides Presentation slides on OSF
+UKRN Open Research Primers The UKRN primer series is designed to introduce a broad audience to important topics in open and reproducible scholarship.
+Reproducibility Reports The Royal Netherlands Academy of Arts and Sciences, 2018: Improving Reproducibility in the Empirical Sciences</description>
+    </item>
+    
     <item>
       <title>Organisation</title>
       <link>http://www.swissrn.org/organisation/</link>
@@ -125,20 +139,6 @@ This enables SwissRN members to collaborate in the CoARA Working Groups, current
       
       <guid>http://www.swissrn.org/news/summerschool2023/</guid>
       <description>“Systematic reviews of animal studies: fostering evidence-based and reproducible preclinical research”, 28 – 31 Aug 2023 The growing biomedical literature requires researchers to have tools for managing data and conducting structured research. A systematic review is a rigorous, structured, and reproducible research summary that allows to map a research field at the start of a project, are a prerequisite for a clinical trial, or are used to assess employed methods within a field.</description>
-    </item>
-    
-    <item>
-      <title>Resources</title>
-      <link>http://www.swissrn.org/resources/</link>
-      <pubDate>Wed, 07 Jun 2023 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.swissrn.org/resources/</guid>
-      <description>SwissRN Strategy SwissRN Strategy (Version February 2023)
-Terms of Reference Terms of Reference (Version March 2021)
-Executive Summary and Institutional Membership Executive Summary (Version May 2023)
-Presentation Slides Presentation slides on OSF
-UKRN Open Research Primers The UKRN primer series is designed to introduce a broad audience to important topics in open and reproducible scholarship.
-Reproducibility Reports The Royal Netherlands Academy of Arts and Sciences, 2018: Improving Reproducibility in the Empirical Sciences</description>
     </item>
     
     <item>

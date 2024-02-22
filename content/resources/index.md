@@ -1,7 +1,7 @@
 +++
 author = "Updated by Zhixuan Li"
 title = "Resources"
-date = "2023-06-07"
+date = "2024-02-22"
 tags = [ "Terms of References"]
 categories = ["Resources"]
 +++
@@ -51,3 +51,4 @@ Course title | Host institution | Contact person
 [Various courses](https://www.sib.swiss/training/upcoming-training-courses)| SIB Swiss Institute of Bioinformatics | Patricia Palagi
 [Understanding Statistics](https://edu.epfl.ch/coursebook/en/understanding-statistics-and-experimental-design-BIO-449)| EPFL | Michael Herzog
 [Good Research Practices and Research Ethics (GRP)](UNIL_GRP_syllabous.pdf) | Université de Lausanne |Mauro Cherubini, Leonardo Restivo
+[The profession and good research practices of researchers in the field of psychology](https://pgc.unige.ch/main/teachings/details/2023-751345?year=2023) | University of Geneva | Evie Vergauwe
