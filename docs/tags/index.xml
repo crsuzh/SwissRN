@@ -5,7 +5,34 @@
     <link>http://www.swissrn.org/tags/</link>
     <description>Recent content in Tags on SwissRN</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 23 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://www.swissrn.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://www.swissrn.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>April 2021</title>
+      <link>http://www.swissrn.org/tags/april-2021/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.swissrn.org/tags/april-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>award</title>
+      <link>http://www.swissrn.org/tags/award/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.swissrn.org/tags/award/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>conference</title>
+      <link>http://www.swissrn.org/tags/conference/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.swissrn.org/tags/conference/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Local Nodes</title>
       <link>http://www.swissrn.org/tags/local-nodes/</link>
@@ -57,24 +84,6 @@
       <pubDate>Tue, 13 Feb 2024 00:00:00 +0000</pubDate>
       
       <guid>http://www.swissrn.org/tags/erc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>award</title>
-      <link>http://www.swissrn.org/tags/award/</link>
-      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.swissrn.org/tags/award/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>conference</title>
-      <link>http://www.swissrn.org/tags/conference/</link>
-      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.swissrn.org/tags/conference/</guid>
       <description></description>
     </item>
     
@@ -219,15 +228,6 @@
       <pubDate>Mon, 28 Jun 2021 00:00:00 +0000</pubDate>
       
       <guid>http://www.swissrn.org/tags/june-2021/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>April 2021</title>
-      <link>http://www.swissrn.org/tags/april-2021/</link>
-      <pubDate>Tue, 20 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.swissrn.org/tags/april-2021/</guid>
       <description></description>
     </item>
     
