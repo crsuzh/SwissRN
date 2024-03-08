@@ -5,7 +5,21 @@
     <link>http://www.swissrn.org/</link>
     <description>Recent content on SwissRN</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 01 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://www.swissrn.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 08 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://www.swissrn.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Resources</title>
+      <link>http://www.swissrn.org/resources/</link>
+      <pubDate>Fri, 08 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.swissrn.org/resources/</guid>
+      <description>SwissRN Strategy SwissRN Strategy (Version February 2023)
+Terms of Reference Terms of Reference (Version March 2021)
+Executive Summary and Institutional Membership Executive Summary (Version May 2023)
+Presentation Slides Presentation slides on OSF
+UKRN Open Research Primers The UKRN primer series is designed to introduce a broad audience to important topics in open and reproducible scholarship.
+Reproducibility Reports The Royal Netherlands Academy of Arts and Sciences, 2018: Improving Reproducibility in the Empirical Sciences</description>
+    </item>
+    
     <item>
       <title>Extension of Call for Abstracts for Swiss Reproducibility Conference and Nominations for Swiss Reproducibility Award 2024</title>
       <link>http://www.swissrn.org/news/extensioncall_srconference_award2024/</link>
@@ -55,20 +69,6 @@ open research working groups ReproducibiliTea journal clubs organisation of trai
       <guid>http://www.swissrn.org/computational/</guid>
       <description>Go to: Why Computational Reproducibility? Who we are and how we work Seminar Series
 Why Computational Reproducibility? Computational reproducibility is the ability to independently verify the results of a computational study using the same data and methods. It is a critical aspect of scientific research as it ensures the transparency and credibility of scientific findings. Computational reproducibility allows researchers to build upon the work of others, helping to accelerate scientific progress.</description>
-    </item>
-    
-    <item>
-      <title>Resources</title>
-      <link>http://www.swissrn.org/resources/</link>
-      <pubDate>Thu, 22 Feb 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.swissrn.org/resources/</guid>
-      <description>SwissRN Strategy SwissRN Strategy (Version February 2023)
-Terms of Reference Terms of Reference (Version March 2021)
-Executive Summary and Institutional Membership Executive Summary (Version May 2023)
-Presentation Slides Presentation slides on OSF
-UKRN Open Research Primers The UKRN primer series is designed to introduce a broad audience to important topics in open and reproducible scholarship.
-Reproducibility Reports The Royal Netherlands Academy of Arts and Sciences, 2018: Improving Reproducibility in the Empirical Sciences</description>
     </item>
     
     <item>
