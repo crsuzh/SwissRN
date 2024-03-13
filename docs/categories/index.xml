@@ -5,22 +5,31 @@
     <link>http://www.swissrn.org/categories/</link>
     <description>Recent content in Categories on SwissRN</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 11 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://www.swissrn.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 13 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://www.swissrn.org/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Working Groups</title>
-      <link>http://www.swissrn.org/categories/working-groups/</link>
-      <pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate>
+      <title>Initiatives</title>
+      <link>http://www.swissrn.org/categories/initiatives/</link>
+      <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://www.swissrn.org/categories/working-groups/</guid>
+      <guid>http://www.swissrn.org/categories/initiatives/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Resources</title>
       <link>http://www.swissrn.org/categories/resources/</link>
-      <pubDate>Fri, 08 Mar 2024 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
       
       <guid>http://www.swissrn.org/categories/resources/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Working Groups</title>
+      <link>http://www.swissrn.org/categories/working-groups/</link>
+      <pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.swissrn.org/categories/working-groups/</guid>
       <description></description>
     </item>
     
@@ -66,15 +75,6 @@
       <pubDate>Tue, 13 Feb 2024 00:00:00 +0000</pubDate>
       
       <guid>http://www.swissrn.org/categories/academy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Initiatives</title>
-      <link>http://www.swissrn.org/categories/initiatives/</link>
-      <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.swissrn.org/categories/initiatives/</guid>
       <description></description>
     </item>
     

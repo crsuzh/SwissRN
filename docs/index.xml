@@ -5,21 +5,22 @@
     <link>http://www.swissrn.org/</link>
     <description>Recent content on SwissRN</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 11 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://www.swissrn.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 13 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://www.swissrn.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Computational Reproducibility</title>
-      <link>http://www.swissrn.org/computational/</link>
-      <pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate>
+      <title>Projects</title>
+      <link>http://www.swissrn.org/projects/</link>
+      <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://www.swissrn.org/computational/</guid>
-      <description>Go to: Why Computational Reproducibility? Who we are and how we work Seminar Series
-Why Computational Reproducibility? Computational reproducibility is the ability to independently verify the results of a computational study using the same data and methods. It is a critical aspect of scientific research as it ensures the transparency and credibility of scientific findings. Computational reproducibility allows researchers to build upon the work of others, helping to accelerate scientific progress.</description>
+      <guid>http://www.swissrn.org/projects/</guid>
+      <description>Go to Working Group: Open Research Data Preregistration and Registered Reports Computational Reproducibility Training Research Assessment and Incentives
+Go to: Grants ReproducibiliTea
+Working groups Open Research Data In order to reproduce and replicate research findings, open and also FAIR research data are a prerequisite. However, publishing research data is still not a standard and studies show how difficult it is to gain access to research data upon request. The SwissRN working group aims to promote open research data, to improve and facilitate data management across different research disciplines, to provide a network to collaborate in Open Research Data projects (including project proposals for ORD calls) and to engage with different stakeholders to facilitate dissemination and uptake.</description>
     </item>
     
     <item>
       <title>Resources</title>
       <link>http://www.swissrn.org/resources/</link>
-      <pubDate>Fri, 08 Mar 2024 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
       
       <guid>http://www.swissrn.org/resources/</guid>
       <description>SwissRN Strategy SwissRN Strategy (Version February 2023)
@@ -28,6 +29,16 @@ Executive Summary and Institutional Membership Executive Summary (Version May 20
 Presentation Slides Presentation slides on OSF
 UKRN Open Research Primers The UKRN primer series is designed to introduce a broad audience to important topics in open and reproducible scholarship.
 Reproducibility Reports The Royal Netherlands Academy of Arts and Sciences, 2018: Improving Reproducibility in the Empirical Sciences</description>
+    </item>
+    
+    <item>
+      <title>Computational Reproducibility</title>
+      <link>http://www.swissrn.org/computational/</link>
+      <pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.swissrn.org/computational/</guid>
+      <description>Go to: Why Computational Reproducibility? Who we are and how we work Seminar Series
+Why Computational Reproducibility? Computational reproducibility is the ability to independently verify the results of a computational study using the same data and methods. It is a critical aspect of scientific research as it ensures the transparency and credibility of scientific findings. Computational reproducibility allows researchers to build upon the work of others, helping to accelerate scientific progress.</description>
     </item>
     
     <item>
@@ -89,17 +100,6 @@ Institution Unit Name University of Zürich Faculty of Science and Faculty of Me
       
       <guid>http://www.swissrn.org/academy/</guid>
       <description>Organisation and membership The Swiss Reproducibility Network (SwissRN) Academy is a group of Early Career Researchers from Swiss universities who are interested in reproducibility, metascience, good research practices, and transparency. Our goal is improving the quality of science by sharing our knowledge of reproducible research with students and researchers. We want to create a national network among young researchers from various fields and backgrounds, that enables interdisciplinary dialogue and collaboration. We’d be happy to see our community grow!</description>
-    </item>
-    
-    <item>
-      <title>Projects</title>
-      <link>http://www.swissrn.org/projects/</link>
-      <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.swissrn.org/projects/</guid>
-      <description>Go to Working Group: Open Research Data Preregistration and Registered Reports Computational Reproducibility Training Research Assessment and Incentives
-Go to: Grants ReproducibiliTea
-Working groups Open Research Data In order to reproduce and replicate research findings, open and also FAIR research data are a prerequisite. However, publishing research data is still not a standard and studies show how difficult it is to gain access to research data upon request. The SwissRN working group aims to promote open research data, to improve and facilitate data management across different research disciplines, to provide a network to collaborate in Open Research Data projects (including project proposals for ORD calls) and to engage with different stakeholders to facilitate dissemination and uptake.</description>
     </item>
     
     <item>

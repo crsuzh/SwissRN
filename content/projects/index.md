@@ -1,7 +1,7 @@
 +++
 author = "Updated by Zhixuan Li"
 title = "Projects"
-date = "2024-01-10"
+date = "2024-03-13"
 tags = ["Working Groups", "Computational Reproducibility"]
 categories = ["Initiatives"]
 
@@ -17,7 +17,7 @@ categories = ["Initiatives"]
 In order to reproduce and replicate research findings, open and also FAIR research data are a prerequisite. However, publishing research data is still not a standard and studies show how difficult it is to gain access to research data upon request. The SwissRN working group aims to promote open research data, to improve and facilitate data management across different research disciplines, to provide a network to collaborate in Open Research Data projects (including project proposals for ORD calls) and to engage with different stakeholders to facilitate dissemination and uptake.
 See the [Working Group's webpage](https://crsuzh.pages.uzh.ch/swissrn_ord/).
 
-Contact: [Leonhard Held](mailto:leonhard.held@uzh.ch)
+Contact: [Gorka Fraga Gonzalez](mailto:gorka.fragagonzalez@psychologie.uzh.ch)
 
 ---
 
