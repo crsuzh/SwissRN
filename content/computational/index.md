@@ -1,7 +1,7 @@
 +++
 author = "Daniel Stekhoven"
 title = "Computational Reproducibility"
-date = "2024-03-11"
+date = "2024-03-21"
 images  = ["./img/activities_ComputationalReproducibilitySeminar.jpeg"]
 tags = ["Working Groups", "Computational Reproducibility"]
 categories = ["Working Groups"]
@@ -43,7 +43,6 @@ If you want to give a talk as part of this series, please contact [Daniel Stekho
 
 Date       | Topic                                                  | Speaker
 -----------|--------------------------------------------------------|---------------------------------
-2024-03-20, 17:00 | Using computational reproducibility tools for benchmarking causal discovery | Jack Kuipers, ETH Zurich
 2024-04-18 | *Available slot*                                       | *TBA*
 2024-05-16 | *Available slot*                                       | *TBA*
 2024-06-20 | *Available slot*                                       | *TBA*
@@ -56,6 +55,7 @@ If available slides and recording of the seminars can be found here.
 
 Date       | Topic                                              | Speaker                         | Resources
 -----------|----------------------------------------------------|---------------------------------| -----------------
+2024-03-20 | Using computational reproducibility tools for benchmarking causal discovery | Jack Kuipers, ETH Zurich | [slides](/slides/2024-03-20_causal_reproducibility_kuipers.pdf), recording follows soon
 2024-02-21 | Transparency, reproducibility and the democratization of an ecosystem - the benefits of Snakemake 8 | Johannes Köster, University of Duisburg-Essen | [slides](https://slides.com/johanneskoester/snakemake-8)
 2024-01-17 | The Reproducible Research Platform – Towards FAIR and reproducible sharing of data, code and computational environments | Henry Lütcke, ETH Zurich | [slides](https://siscourses.ethz.ch/reproducible_computing/2024-01_RRP-Seminar_SwissRN.pdf), [recording](https://www.youtube.com/watch?v=4juovsPkv0Q) 
 2023-12-13 | Sustainable data science with the Renku platform   | Elisabet Capon Garcia, Swiss Data Science Center | [slides](/slides/2023-12-13_Renku_SRN.pdf), [recording](https://www.youtube.com/watch?v=0Rul2yg3DqQ)
