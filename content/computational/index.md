@@ -1,7 +1,7 @@
 +++
 author = "Daniel Stekhoven"
 title = "Computational Reproducibility"
-date = "2024-03-21"
+date = "2024-04-16"
 images  = ["./img/activities_ComputationalReproducibilitySeminar.jpeg"]
 tags = ["Working Groups", "Computational Reproducibility"]
 categories = ["Working Groups"]
@@ -43,7 +43,7 @@ If you want to give a talk as part of this series, please contact [Daniel Stekho
 
 Date       | Topic                                                  | Speaker
 -----------|--------------------------------------------------------|---------------------------------
-2024-04-18 | *Available slot*                                       | *TBA*
+2024-04-18 | Cancelled                                              | 
 2024-05-16 | *Available slot*                                       | *TBA*
 2024-06-20 | *Available slot*                                       | *TBA*
 Jul + Aug  | Summer break                                           | 
