@@ -3,18 +3,30 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://www.swissrn.org/categories/</loc>
-    <lastmod>2024-04-16T00:00:00+00:00</lastmod>
+    <lastmod>2024-04-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.swissrn.org/categories/news/</loc>
+    <lastmod>2024-04-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.swissrn.org/news/</loc>
+    <lastmod>2024-04-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.swissrn.org/news/preregistrationdatamanagementworkshop/</loc>
+    <lastmod>2024-04-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.swissrn.org/</loc>
+    <lastmod>2024-04-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.swissrn.org/tags/</loc>
+    <lastmod>2024-04-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.swissrn.org/tags/workshop/</loc>
+    <lastmod>2024-04-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://www.swissrn.org/tags/computational-reproducibility/</loc>
     <lastmod>2024-04-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://www.swissrn.org/computational/</loc>
-    <lastmod>2024-04-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://www.swissrn.org/</loc>
-    <lastmod>2024-04-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://www.swissrn.org/tags/</loc>
     <lastmod>2024-04-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://www.swissrn.org/tags/working-groups/</loc>
@@ -48,12 +60,6 @@
     <lastmod>2024-03-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://www.swissrn.org/news/extensioncall_srconference_award2024/</loc>
-    <lastmod>2024-03-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://www.swissrn.org/categories/news/</loc>
-    <lastmod>2024-03-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://www.swissrn.org/news/</loc>
     <lastmod>2024-03-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://www.swissrn.org/categories/newsletter/</loc>

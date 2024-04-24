@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Workshop on SwissRN</title>
+    <link>http://www.swissrn.org/tags/workshop/</link>
+    <description>Recent content in Workshop on SwissRN</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 24 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://www.swissrn.org/tags/workshop/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Preregistration &amp; Data Management Workshop</title>
+      <link>http://www.swissrn.org/news/preregistrationdatamanagementworkshop/</link>
+      <pubDate>Wed, 24 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.swissrn.org/news/preregistrationdatamanagementworkshop/</guid>
+      <description>As part of the Swiss Open Research Data Grants, the Swiss Reproducibility Network (SwissRN) is organizing two half-day workshops for researchers in all empirical disciplines and at all levels at SwissRN institutional members in Switzerland: one about preregistration and registered reports (presented by Evie Vergauwe and Caro Hautekiet) and one about data and research management (presented by Eva Furrer and Rachel Heyard).
+The half-day workshops will be held on the same day at four different locations: the University of Zurich and ETH Zurich (May 6th), the University of Bern (May 31st) and the University of Geneva (June 7th).</description>
+    </item>
+    
+  </channel>
+</rss>
