@@ -1,7 +1,7 @@
 +++
 author = "Updated by Zhixuan Li"
 title = "SwissRN academy"
-date = "2024-02-13"
+date = "2024-04-30"
 tags = [ "ERC"]
 categories = ["Academy"]
 +++
@@ -23,6 +23,9 @@ Other Reproducibility Networks have established similar academies, such as the [
 
  - 11 June 2024 – ReproHack at the Swiss Reproducibility Conference 2024 - Zurich <br>
 During this Reproducibility Hackathon (ReproHack) held at [the Swiss Reproducibility Conference 2024](https://www.reproducibility.ch/), participants will attempt to reproduce results from published research papers with openly available code and data. <br>Information on how to register will be posted on [ReproHack Hub](https://www.reprohack.org/event/28/) soon.
+
+ - 2 May 2024 – [Swiss Reproducibility Network Academy meets Cancer Research Network Bern](https://www.swissrn.org/news/academymeetsordbern/) – Bern <br>
+In collaboration with the Open Science Team of the University Library of Bern, we will be hosting two short talks at the Cancer Research Network Bern on Thursday May 2nd, 2024 from 13:00-14:00, online via Zoom and on-site. Dr. habil. Olga Churakova (Data Steward: Medicine and Veterinary Medicine, University of Bern) will talk about research data management and Peter Methys Degen (PhD Candidate Bioinformatics, University of Bern) will talk about researcher degrees of freedom in the analysis of Single-cell RNA-Sequencing data.
 
 
 &nbsp;

@@ -5,7 +5,13 @@
     <loc>http://www.swissrn.org/tags/academy/</loc>
     <lastmod>2024-04-30T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://www.swissrn.org/categories/academy/</loc>
+    <lastmod>2024-04-30T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://www.swissrn.org/categories/</loc>
+    <lastmod>2024-04-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.swissrn.org/tags/erc/</loc>
     <lastmod>2024-04-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://www.swissrn.org/categories/news/</loc>
@@ -18,6 +24,9 @@
     <lastmod>2024-04-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://www.swissrn.org/</loc>
+    <lastmod>2024-04-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.swissrn.org/academy/</loc>
     <lastmod>2024-04-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://www.swissrn.org/tags/</loc>
@@ -94,15 +103,6 @@
   </url><url>
     <loc>http://www.swissrn.org/organisation/</loc>
     <lastmod>2024-02-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://www.swissrn.org/categories/academy/</loc>
-    <lastmod>2024-02-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://www.swissrn.org/tags/erc/</loc>
-    <lastmod>2024-02-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://www.swissrn.org/academy/</loc>
-    <lastmod>2024-02-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://www.swissrn.org/news/callforswissreproducibilityawardandswissreproducibilityconference2024/</loc>
     <lastmod>2023-12-01T00:00:00+00:00</lastmod>
