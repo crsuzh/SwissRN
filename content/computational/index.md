@@ -1,7 +1,7 @@
 +++
 author = "Daniel Stekhoven"
 title = "Computational Reproducibility"
-date = "2024-04-16"
+date = "2024-05-02"
 images  = ["./img/activities_ComputationalReproducibilitySeminar.jpeg"]
 tags = ["Working Groups", "Computational Reproducibility"]
 categories = ["Working Groups"]
@@ -43,8 +43,7 @@ If you want to give a talk as part of this series, please contact [Daniel Stekho
 
 Date       | Topic                                                  | Speaker
 -----------|--------------------------------------------------------|---------------------------------
-2024-04-18 | Cancelled                                              | 
-2024-05-16 | *Available slot*                                       | *TBA*
+2024-05-16 | Ten Simple Rules for Good Research Practice            | Simon Schwab, Swiss Transplant
 2024-06-20 | *Available slot*                                       | *TBA*
 Jul + Aug  | Summer break                                           | 
 2024-09-19 | *Available slot*                                       | *TBA*

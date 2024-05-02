@@ -5,7 +5,17 @@
     <link>http://www.swissrn.org/</link>
     <description>Recent content on SwissRN</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 30 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://www.swissrn.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://www.swissrn.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Computational Reproducibility</title>
+      <link>http://www.swissrn.org/computational/</link>
+      <pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.swissrn.org/computational/</guid>
+      <description>Go to: Why Computational Reproducibility? Who we are and how we work Seminar Series
+Why Computational Reproducibility? Computational reproducibility is the ability to independently verify the results of a computational study using the same data and methods. It is a critical aspect of scientific research as it ensures the transparency and credibility of scientific findings. Computational reproducibility allows researchers to build upon the work of others, helping to accelerate scientific progress.</description>
+    </item>
+    
     <item>
       <title>Swiss Reproducibility Network Academy meets Cancer Research Network Bern</title>
       <link>http://www.swissrn.org/news/academymeetsordbern/</link>
@@ -33,16 +43,6 @@ Swiss Reproducibility Network Academy meets Cancer Research Network Bern</descri
       <guid>http://www.swissrn.org/news/preregistrationdatamanagementworkshop/</guid>
       <description>As part of the Swiss Open Research Data Grants, the Swiss Reproducibility Network (SwissRN) is organizing two half-day workshops for researchers in all empirical disciplines and at all levels at SwissRN institutional members in Switzerland: one about preregistration and registered reports (presented by Evie Vergauwe and Caro Hautekiet) and one about data and research management (presented by Eva Furrer and Rachel Heyard).
 The half-day workshops will be held on the same day at four different locations: the University of Zurich and ETH Zurich (May 6th), the University of Bern (May 31st) and the University of Geneva (June 7th).</description>
-    </item>
-    
-    <item>
-      <title>Computational Reproducibility</title>
-      <link>http://www.swissrn.org/computational/</link>
-      <pubDate>Tue, 16 Apr 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.swissrn.org/computational/</guid>
-      <description>Go to: Why Computational Reproducibility? Who we are and how we work Seminar Series
-Why Computational Reproducibility? Computational reproducibility is the ability to independently verify the results of a computational study using the same data and methods. It is a critical aspect of scientific research as it ensures the transparency and credibility of scientific findings. Computational reproducibility allows researchers to build upon the work of others, helping to accelerate scientific progress.</description>
     </item>
     
     <item>
