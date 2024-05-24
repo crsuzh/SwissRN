@@ -26,7 +26,32 @@ Funded by swissuniversities Swiss Open Research Data Grants program [Track A, Au
 
 **Why preregistration?** Ask the Texas sharpshooter
 
+<p align="center">
+    <img src="./../img/01-TexasSharpShooter.png"
+    alt="Texas sharpshooter"
+    width="800" 
+        height="600" >
+p>
+
 ![Texas sharpshooter](./../img/01-TexasSharpShooter.png)
+
+---
+<details>
+  <summary>Survey</summary>
+  
+  ### hhhha
+  1. Foo
+  2. Bar
+     * Baz
+     * Qux
+
+  ### Some Javascript
+  ```js
+  function logSomething(something) {
+    console.log('Something', something);
+  }
+  ```
+</details>
 
 ---
 
