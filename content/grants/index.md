@@ -41,14 +41,12 @@ What is the perceived impact of ORD related requirements on careers? <br>
 
 <b>Population:</b> Researchers working at Swiss universities and universities of applied sciences
 
-<b>Goals:</b> 
-<ol>
+<b>Goals:</b> <ol>
   <li>Cover all types of research;</li>
   <li>Compare groups</li>
 </ol>  
 
-<b>New:</b> 
-<ul>
+<b>New:</b> <ul>
   <li>Cluster Sampling (approx. 1500 institutes), multi-stage stratified sampling with over-sampling of some disciplines</li>
   <li>Questions not normatively suggestive</li>
   <li>Link to evaluation practices & barriers: feasibility of ORD implementation</li>
@@ -56,7 +54,7 @@ What is the perceived impact of ORD related requirements on careers? <br>
 </details>
 
 <details>
-  <summary>Assessment</summary>
+  <summary><h4>Assessment</h4></summary>
  What are research outputs?
   All digitally available information required to 
 <ul>
@@ -77,7 +75,7 @@ Are there disciplinary differences in output type or quantity? <br>
 </details>
 
 <details>
-  <summary>Feasibility</summary>
+  <summary><h4>Feasibility</h4></summary>
 What are the hurdles for a community to adopt <b>preregistration</b> as a measure more widely? 
 Why are <b>DMP</b>s often not a part of preregistrations? 
 What can be incentives to do both? 
@@ -86,7 +84,7 @@ How can researchers be supported for the adoption? <br>
 </details>
 
 <details>
-  <summary>Training</summary>
+  <summary><h4>Training</h4></summary>
 Design and teach Good Research Practice courses with a focus on <b>preregistration and data management</b> planning at several locations. <br>
 &rarr; Four 1-day training events at Uni Bern 31<sup>th</sup> May 2024, Uni Geneva 7<sup>th</sup> June 2024, Uni Zurich 6<sup>th</sup> May 2024 and ETHZ 6<sup>th</sup> May 2024
 
@@ -102,7 +100,7 @@ Leonhard Held
 Rachel Heyard  
 Michael Ochsner  
 Manuel Pfister  
-Christina Priboi
+Christina Priboi  
 Evie Vergauwe  
 Hanno Würbel  
 
