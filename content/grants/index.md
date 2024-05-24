@@ -1,7 +1,7 @@
 +++
 author = "Eva Furrer"
 title = "Grants"
-date = "2023-05-22"
+date = "2024-05-24"
 images  = ["./img/grants_resized.jpg"]
 
 +++
@@ -12,6 +12,8 @@ images  = ["./img/grants_resized.jpg"]
 ### Strengthen the Interoperability and Reusability of Research Outputs (SIRRO) {#sirro}
 
 Rigorous design, transparent reporting, and reproducible workflows are major factors strengthening the interoperability and reusability of research data and are hence crucial to increase the value of research data and, more broadly, the value of research outputs. The aims of the SIRRO project are to 1) fortify SwissRN as an existing community engaging with ORD practices that have the goal of strengthening interoperability and reusability, and 2) intensify the efforts of SwissRN towards a systematic assessment of the impact and obstacles in the implementation of ORD practices. 
+
+![Fair principles](./../img/FAIRprinciples.jpg)
 
 More specifically, the focus of this project is on the ORD practices of preregistration and data management planning as measures to avoid bias and to increase quality. The project contains four parts: 
 
