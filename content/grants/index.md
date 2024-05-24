@@ -34,7 +34,7 @@ Funded by swissuniversities Swiss Open Research Data Grants program [Track A, Au
 ---
 ### Work packages
 <details>
-  <summary><h3>Survey</h3></summary>
+  <summary><h4>Survey</h4></summary>
   What is the <b>understanding of ORD practices</b>, and rigorous, transparent, and reproducible research practices more generally, across disciplines?
 What is the perceived impact of ORD related requirements on careers? <br>
 &rarr; Large-scale, interdisciplinary survey together with FORS (Swiss Centre of Expertise in the Social Sciences)
@@ -76,6 +76,23 @@ Are there disciplinary differences in output type or quantity? <br>
 &rarr; Exploratory data analysis with publicly available data from the SNSF
 </details>
 
+<details>
+  <summary>Feasibility</summary>
+What are the hurdles for a community to adopt <b>preregistration</b> as a measure more widely? 
+Why are <b>DMP</b>s often not a part of preregistrations? 
+What can be incentives to do both? 
+How can researchers be supported for the adoption? <br>
+&rarr; Feasibility study on the implementation of preregistration in the field of animal sciences
+</details>
+
+<details>
+  <summary>Training</summary>
+Design and teach Good Research Practice courses with a focus on <b>preregistration and data management</b> planning at several locations. <br>
+&rarr; Four 1-day training events at Uni Bern 31<sup>th</sup> May 2024, Uni Geneva 7<sup>th</sup> June 2024, Uni Zurich 6<sup>th</sup> May 2024 and ETHZ 6<sup>th</sup> May 2024
+
+Material available at osf.io/g45nt
+</details>
+
 ---
 
 ### SIRRO Team {#whosirro}
@@ -85,6 +102,7 @@ Leonhard Held
 Rachel Heyard  
 Michael Ochsner  
 Manuel Pfister  
+Christina Priboi
 Evie Vergauwe  
 Hanno Würbel  
 
