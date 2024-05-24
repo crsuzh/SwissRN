@@ -100,7 +100,8 @@ Design and teach Good Research Practice courses with a focus on <b>preregistrati
   <li>ETHZ 6<sup>th</sup> May 2024</li>
 </ul>     
 
-Material available at [osf.io/g45nt](osf.io/g45nt)
+Material available at <a href="https://osf.io/g45nt/">osf.io/g45nt</a>
+
 </details>
 
 ---
