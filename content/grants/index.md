@@ -29,8 +29,7 @@ Funded by swissuniversities Swiss Open Research Data Grants program [Track A, Au
 <p align="center">
     <img src="./../img/01-TexasSharpShooter.png"
     alt="Texas sharpshooter"
-    width="800" 
-        height="600" >
+    width="400" >
 p>
 
 ![Texas sharpshooter](./../img/01-TexasSharpShooter.png)
@@ -38,19 +37,10 @@ p>
 ---
 <details>
   <summary>Survey</summary>
-  
-  ### hhhha
-  1. Foo
-  2. Bar
-     * Baz
-     * Qux
+  What is the **understanding of ORD practices**, and rigorous, transparent, and reproducible research practices more generally, across disciplines?
+What is the perceived impact of ORD related requirements on careers? <br>
 
-  ### Some Javascript
-  ```js
-  function logSomething(something) {
-    console.log('Something', something);
-  }
-  ```
+&rarr; Large-scale, interdisciplinary survey together with FORS (Swiss Centre of Expertise in the Social Sciences)
 </details>
 
 ---
