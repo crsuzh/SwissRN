@@ -1,7 +1,7 @@
 +++
 author = "Updated by Zhixuan Li"
 title = "SwissRN academy"
-date = "2024-04-30"
+date = "2024-05-24"
 tags = [ "ERC"]
 categories = ["Academy"]
 +++
