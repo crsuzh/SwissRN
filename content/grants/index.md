@@ -24,6 +24,10 @@ More specifically, the focus of this project is on the ORD practices of preregis
 
 Funded by swissuniversities Swiss Open Research Data Grants program [Track A, August 2022]( https://www.swissuniversities.ch/fileadmin/swissuniversities/Dokumente/Hochschulpolitik/ORD/Calls/Approved_Projects_Track_A_1st_Call.pdf)
 
+**Why preregistration?** Ask the Texas sharpshooter
+
+![Texas sharpshooter](./../img/01-TexasSharpShooter.png)
+
 ---
 
 ### SIRRO Team {#whosirro}
