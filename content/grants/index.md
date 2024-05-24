@@ -26,11 +26,10 @@ Funded by swissuniversities Swiss Open Research Data Grants program [Track A, Au
 
 **Why preregistration?** Ask the Texas sharpshooter
 
-<p align="center">
-    <img src="./../img/01-TexasSharpShooter.png"
-    alt="Texas sharpshooter"
-    width="450" >
-</p>
+<img src="./../img/01-TexasSharpShooter.png"
+     alt="Texas sharpshooter"
+     width="450" 
+     style="display: block; margin: 0 auto"/>
 
 ![Texas sharpshooter](./../img/01-TexasSharpShooter.png)
 
@@ -40,6 +39,42 @@ Funded by swissuniversities Swiss Open Research Data Grants program [Track A, Au
   What is the <b>understanding of ORD practices</b>, and rigorous, transparent, and reproducible research practices more generally, across disciplines?
 What is the perceived impact of ORD related requirements on careers? <br>
 &rarr; Large-scale, interdisciplinary survey together with FORS (Swiss Centre of Expertise in the Social Sciences)
+
+<b>Population:</b> Researchers working at Swiss universities and universities of applied sciences
+
+<b>Goals:</b> 
+<ol>
+  <li>Cover all types of research;</li>
+  <li>Compare groups</li>
+</ol>  
+
+<b>New:</b> 
+<ul>
+  <li>Cluster Sampling (approx. 1500 institutes), multi-stage stratified sampling with over-sampling of some disciplines</li>
+  <li>Questions not normatively suggestive</li>
+  <li>Link to evaluation practices & barriers: feasibility of ORD implementation</li>
+</ul>  
+</details>
+
+<details>
+  <summary>Assessment</summary>
+  &rarr; What are research outputs?
+  All digitally available information required to 
+<ul>
+  <li>reproduce research results </li>
+  <li>validate conclusions</li>
+  <li>reuse research data in further projects</li>
+</ul>  
+including
+<ul>
+  <li>raw and processed data </li>
+  <li>all software components of the research pipeline</li>
+  <li>preregistrations and/or protocols</li>
+  <li>standard operating procedures</li>
+</ul> 
+What <b>types of open research outputs</b> are already produced and documented? 
+Are there disciplinary differences in output type or quantity?
+&rarr; Exploratory data analysis with publicly available data from the SNSF
 </details>
 
 ---
