@@ -34,7 +34,7 @@ Funded by swissuniversities Swiss Open Research Data Grants program [Track A, Au
 ---
 ### Work packages
 <details>
-  <summary>Survey</summary>
+  <summary><b>Survey</b></summary>
   What is the <b>understanding of ORD practices</b>, and rigorous, transparent, and reproducible research practices more generally, across disciplines?
 What is the perceived impact of ORD related requirements on careers? <br>
 &rarr; Large-scale, interdisciplinary survey together with FORS (Swiss Centre of Expertise in the Social Sciences)
