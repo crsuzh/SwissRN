@@ -122,6 +122,10 @@ Hanno Würbel
 ---
 
 
-Image credit: [Nick Youngson](http://www.nyphotographic.com/) CC BY-SA 3.0 Pix4free.org
+Image credit: 
+
+ - [Nick Youngson](http://www.nyphotographic.com/) CC BY-SA 3.0 Pix4free.org
+ - [Scriberia with The Turing Way community](https://zenodo.org/records/10654984) CC-BY 4.0 
+ - [Comic book illustration of HARKing](https://www.researchgate.net/figure/Comic-book-illustration-of-HARKing-Dirk-Jan-Hoek-CC-BY_fig1_376739522) CC-BY 4.0
 
 [*`Back to top`*](#)
