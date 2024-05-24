@@ -92,7 +92,13 @@ How can researchers be supported for the adoption? <br>
 <details>
   <summary>Training</summary>
 Design and teach Good Research Practice courses with a focus on <b>preregistration and data management</b> planning at several locations. <br>
-&rarr; Four 1-day training events at Uni Bern 31<sup>th</sup> May 2024, Uni Geneva 7<sup>th</sup> June 2024, Uni Zurich 6<sup>th</sup> May 2024 and ETHZ 6<sup>th</sup> May 2024
+&rarr; Four 1-day training events at 
+<ul>
+  <li>Uni Bern 31<sup>th</sup> May 2024,</li>
+  <li>Uni Geneva 7<sup>th</sup> June 2024,</li>
+  <li>Uni Zurich 6<sup>th</sup> May 2024 and</li>
+  <li>ETHZ 6<sup>th</sup> May 2024</li>
+</ul>     
 
 Material available at [osf.io/g45nt](osf.io/g45nt)
 </details>
