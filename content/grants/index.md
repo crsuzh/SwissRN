@@ -13,7 +13,10 @@ images  = ["./img/grants_resized.jpg"]
 
 Rigorous design, transparent reporting, and reproducible workflows are major factors strengthening the interoperability and reusability of research data and are hence crucial to increase the value of research data and, more broadly, the value of research outputs. The aims of the SIRRO project are to 1) fortify SwissRN as an existing community engaging with ORD practices that have the goal of strengthening interoperability and reusability, and 2) intensify the efforts of SwissRN towards a systematic assessment of the impact and obstacles in the implementation of ORD practices. 
 
-![Fair principles](./../img/FAIRprinciples.jpg)
+<img src="./../img/FAIRprinciples.jpg"
+     alt="Fair principles"
+     width="300" 
+     style="display: block; margin: 0 auto"/>
 
 More specifically, the focus of this project is on the ORD practices of preregistration and data management planning as measures to avoid bias and to increase quality. The project contains four parts: 
 
@@ -28,7 +31,7 @@ Funded by swissuniversities Swiss Open Research Data Grants program [Track A, Au
 
 <img src="./../img/01-TexasSharpShooter.png"
      alt="Texas sharpshooter"
-     width="450" 
+     width="300" 
      style="display: block; margin: 0 auto"/>
 
 ---
@@ -56,7 +59,7 @@ What is the perceived impact of ORD related requirements on careers? <br>
 &nbsp;
 
 <details>
-  <summary>Assessment</summary>
+  <summary><b>Assessment</b></summary>
  What are research outputs?
   All digitally available information required to 
 <ul>
@@ -79,7 +82,7 @@ Are there disciplinary differences in output type or quantity? <br>
 &nbsp;
 
 <details>
-  <summary>Feasibility</summary>
+  <summary><b>Feasibility</b></summary>
 What are the hurdles for a community to adopt <b>preregistration</b> as a measure more widely? 
 Why are <b>DMP</b>s often not a part of preregistrations? 
 What can be incentives to do both? 
@@ -90,7 +93,7 @@ How can researchers be supported for the adoption? <br>
 &nbsp;
 
 <details>
-  <summary>Training</summary>
+  <summary><b>Training</b></summary>
 Design and teach Good Research Practice courses with a focus on <b>preregistration and data management</b> planning at several locations. <br>
 &rarr; Four 1-day training events at 
 <ul>
