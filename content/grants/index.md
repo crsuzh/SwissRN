@@ -15,7 +15,7 @@ Rigorous design, transparent reporting, and reproducible workflows are major fac
 
 <img src="./../img/FAIRprinciples.jpg"
      alt="Fair principles"
-     width="300" 
+     width="400" 
      style="display: block; margin: 0 auto"/>
 
 More specifically, the focus of this project is on the ORD practices of preregistration and data management planning as measures to avoid bias and to increase quality. The project contains four parts: 
@@ -31,7 +31,7 @@ Funded by swissuniversities Swiss Open Research Data Grants program [Track A, Au
 
 <img src="./../img/01-TexasSharpShooter.png"
      alt="Texas sharpshooter"
-     width="300" 
+     width="400" 
      style="display: block; margin: 0 auto"/>
 
 ---
