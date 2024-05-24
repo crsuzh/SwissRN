@@ -31,11 +31,10 @@ Funded by swissuniversities Swiss Open Research Data Grants program [Track A, Au
      width="450" 
      style="display: block; margin: 0 auto"/>
 
-![Texas sharpshooter](./../img/01-TexasSharpShooter.png)
-
 ---
+### Work packages
 <details>
-  <summary>Survey</summary>
+  <summary><h3>Survey</h3></summary>
   What is the <b>understanding of ORD practices</b>, and rigorous, transparent, and reproducible research practices more generally, across disciplines?
 What is the perceived impact of ORD related requirements on careers? <br>
 &rarr; Large-scale, interdisciplinary survey together with FORS (Swiss Centre of Expertise in the Social Sciences)
@@ -58,7 +57,7 @@ What is the perceived impact of ORD related requirements on careers? <br>
 
 <details>
   <summary>Assessment</summary>
-  &rarr; What are research outputs?
+ What are research outputs?
   All digitally available information required to 
 <ul>
   <li>reproduce research results </li>
@@ -73,7 +72,7 @@ including
   <li>standard operating procedures</li>
 </ul> 
 What <b>types of open research outputs</b> are already produced and documented? 
-Are there disciplinary differences in output type or quantity?
+Are there disciplinary differences in output type or quantity? <br>
 &rarr; Exploratory data analysis with publicly available data from the SNSF
 </details>
 
