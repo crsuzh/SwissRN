@@ -29,17 +29,16 @@ Funded by swissuniversities Swiss Open Research Data Grants program [Track A, Au
 <p align="center">
     <img src="./../img/01-TexasSharpShooter.png"
     alt="Texas sharpshooter"
-    width="400" >
-p>
+    width="450" >
+</p>
 
 ![Texas sharpshooter](./../img/01-TexasSharpShooter.png)
 
 ---
 <details>
   <summary>Survey</summary>
-  What is the **understanding of ORD practices**, and rigorous, transparent, and reproducible research practices more generally, across disciplines?
+  What is the <b>understanding of ORD practices</b>, and rigorous, transparent, and reproducible research practices more generally, across disciplines?
 What is the perceived impact of ORD related requirements on careers? <br>
-
 &rarr; Large-scale, interdisciplinary survey together with FORS (Swiss Centre of Expertise in the Social Sciences)
 </details>
 
