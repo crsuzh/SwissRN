@@ -24,13 +24,13 @@ Other Reproducibility Networks have established similar academies, such as the [
  - 11 June 2024 – ReproHack at the Swiss Reproducibility Conference 2024 - Zurich <br>
 During this Reproducibility Hackathon (ReproHack) held at [the Swiss Reproducibility Conference 2024](https://www.reproducibility.ch/), participants will attempt to reproduce results from published research papers with openly available code and data. <br>Information on how to register will be posted on [ReproHack Hub](https://www.reprohack.org/event/28/) soon.
 
- - 2 May 2024 – [Swiss Reproducibility Network Academy meets Cancer Research Network Bern](https://www.swissrn.org/news/academymeetsordbern/) – Bern <br>
-In collaboration with the Open Science Team of the University Library of Bern, we will be hosting two short talks at the Cancer Research Network Bern on Thursday May 2nd, 2024 from 13:00-14:00, online via Zoom and on-site. Dr. habil. Olga Churakova (Data Steward: Medicine and Veterinary Medicine, University of Bern) will talk about research data management and Peter Methys Degen (PhD Candidate Bioinformatics, University of Bern) will talk about researcher degrees of freedom in the analysis of Single-cell RNA-Sequencing data.
-
 
 &nbsp;
 
 ### Past Events
+
+ - 2 May 2024 – [Swiss Reproducibility Network Academy meets Cancer Research Network Bern](https://www.swissrn.org/news/academymeetsordbern/) – Bern <br>
+In collaboration with the Open Science Team of the University Library of Bern, we will be hosting two short talks at the Cancer Research Network Bern on Thursday May 2nd, 2024 from 13:00-14:00, online via Zoom and on-site. Dr. habil. Olga Churakova (Data Steward: Medicine and Veterinary Medicine, University of Bern) will talk about research data management and Peter Methys Degen (PhD Candidate Bioinformatics, University of Bern) will talk about researcher degrees of freedom in the analysis of Single-cell RNA-Sequencing data.
 
  - 6 December 2023 – [Talk with Prof. Nicolas Langer: “Bringing Open and Reproducible Science into a Successful Career”](https://www.swissrn.org/news/reproseminarprofnicolaslanger/) – University of Zurich / Online <br>
 The SwissRN Academy hosted a talk by Prof. Dr. Nicolas Langer who shared his experiences with open science, its challenges and benefits, and how it is shaping his career. He also shared his tips on reproducibility and how he promotes open science in his lab.
@@ -53,7 +53,7 @@ The SwissRN Academy hosted an online event with two presentations, networking an
 
 *Ordered alphabetically by last name.*  
 
-[*`Berit Barthelmes`*](#BeritBarthelmes)    &nbsp;[*`Ursa Bernadic`*](#UrsaBernadic)    &nbsp;[*`Elena Bolt`*](#ElenaBolt)        &nbsp;[*`Lin Boynton`*](#LinBoynton)        &nbsp;[*`Peter Degen`*](#PeterDegen)    &nbsp;[*`Gorka Fraga Gonzalez`*](#GorkaFragaGonzalez)        &nbsp;[*`Linard David Hoessly`*](#LinardDavidHoessly)        &nbsp;[*`Noémie Kuenzi`*](#NoémieKuenzi)        &nbsp;[*`Abigail Licata`*](#AbigailLicata)    &nbsp;[*`Charlotte Micheloud`*](#CharlotteMicheloud)    &nbsp;[*`Julian Ockelmann`*](#JulianOckelmann)        &nbsp;[*`Samuel Pawel`*](#SamuelPawel)        &nbsp;[*`Marianna Rosso`*](#MariannaRosso)
+[*`Berit Barthelmes`*](#BeritBarthelmes)    &nbsp;[*`Ursa Bernadic`*](#UrsaBernadic)    &nbsp;[*`Elena Bolt`*](#ElenaBolt)        &nbsp;[*`Lin Boynton`*](#LinBoynton)        &nbsp;[*`Peter Degen`*](#PeterDegen)    &nbsp;[*`Gorka Fraga Gonzalez`*](#GorkaFragaGonzalez)        &nbsp;[*`Carlos Manuel Herrera-Castillo`*](#CarlosManuelHerrera-Castillo)        &nbsp;[*`Linard David Hoessly`*](#LinardDavidHoessly)        &nbsp;[*`Noémie Kuenzi`*](#NoémieKuenzi)        &nbsp;[*`Abigail Licata`*](#AbigailLicata)    &nbsp;[*`Charlotte Micheloud`*](#CharlotteMicheloud)    &nbsp;[*`Julian Ockelmann`*](#JulianOckelmann)        &nbsp;[*`Samuel Pawel`*](#SamuelPawel)        &nbsp;[*`Marianna Rosso`*](#MariannaRosso)
 
 # {#BeritBarthelmes}
 |Berit Barthelmes <a href="https://orcid.org/0009-0007-8194-4861"><img alt="ORCID" src="./../img/ORCIDiD_icon16x16.png" style="height:16px; width:16px" /></a>|
@@ -84,6 +84,11 @@ The SwissRN Academy hosted an online event with two presentations, networking an
 |Gorka Fraga Gonzalez <a href="https://orcid.org/0000-0002-1857-8607"><img alt="ORCID" src="./../img/ORCIDiD_icon16x16.png" style="height:16px; width:16px" /></a>|
 | :----------- |
 |<span style="font-weight:normal">I am a researcher with a PhD in Developmental Psychology from the University of Amsterdam. In my research I used different non-invasive neuroimaging techniques (electroencephalography, magnetic resonance imaging) and methodological approaches (e.g., computational models) to study audiovisual learning in children and adults. In Zurich I worked at the Department of Child and Adolescent Psychiatry and Psychotherapy and at the Neurolinguistics group in the Psychology Department. My current focus is on using my experiences with diverse types of data, methodologies, and researchers to improve reproducibility and open science.</span> |
+
+# {#CarlosManuelHerrera-Castillo}
+|Carlos Manuel Herrera-Castillo <a href="https://orcid.org/0000-0002-4811-5902"><img alt="ORCID" src="./../img/ORCIDiD_icon16x16.png" style="height:16px; width:16px" /></a>|
+| :----------- |
+|<span style="font-weight:normal">I am an evolutionary biologist and PhD student at the University of Basel, working on trying to understand the causes of adaptation through a genomic and developmental biology standpoint. Working with genomic data makes me confront the complexity of handling enormous datasets and long pipelines that have to be communicated in a transparent way to guide other researchers through the process that leads to a particular conclusion. I find the Swiss Reproducibility Network Academy a good environment to learn and exchange ideas on how to improve our practices as researchers and bring transparency and analytical and computational reproducibility to our fields.</span> |
 
 # {#LinardDavidHoessly}
 |Linard David Hoessly <a href="https://orcid.org/0000-0002-2745-2141"><img alt="ORCID" src="./../img/ORCIDiD_icon16x16.png" style="height:16px; width:16px" /></a>|
