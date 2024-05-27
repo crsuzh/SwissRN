@@ -112,6 +112,7 @@ Material available at <a href="https://osf.io/g45nt/">osf.io/g45nt</a>
 ### SIRRO Team {#whosirro}
 
 Eva Furrer  
+Caro Hautekiet  
 Leonhard Held  
 Rachel Heyard  
 Michael Ochsner  
