@@ -5,7 +5,25 @@
     <link>http://www.swissrn.org/tags/</link>
     <description>Recent content in Tags on SwissRN</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 24 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://www.swissrn.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 03 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://www.swissrn.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Computational Reproducibility</title>
+      <link>http://www.swissrn.org/tags/computational-reproducibility/</link>
+      <pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.swissrn.org/tags/computational-reproducibility/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Working Groups</title>
+      <link>http://www.swissrn.org/tags/working-groups/</link>
+      <pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.swissrn.org/tags/working-groups/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>ERC</title>
       <link>http://www.swissrn.org/tags/erc/</link>
@@ -21,24 +39,6 @@
       <pubDate>Thu, 16 May 2024 00:00:00 +0000</pubDate>
       
       <guid>http://www.swissrn.org/tags/conference/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Computational Reproducibility</title>
-      <link>http://www.swissrn.org/tags/computational-reproducibility/</link>
-      <pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.swissrn.org/tags/computational-reproducibility/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Working Groups</title>
-      <link>http://www.swissrn.org/tags/working-groups/</link>
-      <pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.swissrn.org/tags/working-groups/</guid>
       <description></description>
     </item>
     

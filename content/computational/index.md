@@ -1,7 +1,7 @@
 +++
 author = "Daniel Stekhoven"
 title = "Computational Reproducibility"
-date = "2024-05-02"
+date = "2024-06-03"
 images  = ["./img/activities_ComputationalReproducibilitySeminar.jpeg"]
 tags = ["Working Groups", "Computational Reproducibility"]
 categories = ["Working Groups"]
@@ -43,10 +43,9 @@ If you want to give a talk as part of this series, please contact [Daniel Stekho
 
 Date       | Topic                                                  | Speaker
 -----------|--------------------------------------------------------|---------------------------------
-2024-05-16 | Ten Simple Rules for Good Research Practice            | Simon Schwab, Swiss Transplant
-2024-06-20 | *Available slot*                                       | *TBA*
+2024-06-20 | TBA                                                    | TBA
 Jul + Aug  | Summer break                                           | 
-2024-09-19 | *Available slot*                                       | *TBA*
+2024-09-19 | Ensuring Reproducibility in Computational Research     | [Geir Kjetil Ferkingstad Sandve](https://www.mn.uio.no/ifi/english/people/aca/geirksa/), Universitetet i Oslo
 
 #### Past Seminars
 
@@ -54,6 +53,7 @@ If available slides and recording of the seminars can be found here.
 
 Date       | Topic                                              | Speaker                         | Resources
 -----------|----------------------------------------------------|---------------------------------| -----------------
+2024-05-16 | Ten Simple Rules for Good Research Practice        | Simon Schwab, Swiss Transplant  | slides follow soon, recording follows soon
 2024-03-20 | Using computational reproducibility tools for benchmarking causal discovery | Jack Kuipers, ETH Zurich | [slides](/slides/2024-03-20_causal_reproducibility_kuipers.pdf), recording follows soon
 2024-02-21 | Transparency, reproducibility and the democratization of an ecosystem - the benefits of Snakemake 8 | Johannes Köster, University of Duisburg-Essen | [slides](https://slides.com/johanneskoester/snakemake-8)
 2024-01-17 | The Reproducible Research Platform – Towards FAIR and reproducible sharing of data, code and computational environments | Henry Lütcke, ETH Zurich | [slides](https://siscourses.ethz.ch/reproducible_computing/2024-01_RRP-Seminar_SwissRN.pdf), [recording](https://www.youtube.com/watch?v=4juovsPkv0Q) 
