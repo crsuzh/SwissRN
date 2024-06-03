@@ -43,7 +43,7 @@ If you want to give a talk as part of this series, please contact [Daniel Stekho
 
 Date       | Topic                                                  | Speaker
 -----------|--------------------------------------------------------|---------------------------------
-2024-06-20 | TBA                                                    | TBA
+2024-06-20 | REANA: A platform for reproducible computational data analyses | Tibor Simko, CERN
 Jul + Aug  | Summer break                                           | 
 2024-09-19 | Ensuring Reproducibility in Computational Research     | [Geir Kjetil Ferkingstad Sandve](https://www.mn.uio.no/ifi/english/people/aca/geirksa/), Universitetet i Oslo
 
