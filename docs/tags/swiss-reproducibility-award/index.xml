@@ -5,7 +5,18 @@
     <link>http://www.swissrn.org/tags/swiss-reproducibility-award/</link>
     <description>Recent content in Swiss Reproducibility Award on SwissRN</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 25 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://www.swissrn.org/tags/swiss-reproducibility-award/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 12 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://www.swissrn.org/tags/swiss-reproducibility-award/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Winners of the Swiss Reproducibility Awards 2024</title>
+      <link>http://www.swissrn.org/news/swissreproducibilityaward2024winners/</link>
+      <pubDate>Wed, 12 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.swissrn.org/news/swissreproducibilityaward2024winners/</guid>
+      <description>The winners of the Swiss Reproducibility Awards 2024 were announced at the Swiss Reproducibility Conference at the award ceremony. The prize money of CHF 3000 for each of the Early Career Researcher Awards and the CHF 6000 for the recipients of the team Award was sponsored by the SNSF.
+The Early Career Researchers Awards were presented for the second time. The following applicants won this year:
+Category Biology and Medicine: Virginia Chiocchia, PhD from the University of Bern for her tool ROB-MEN, a user-friendly web application to assess the Risk Of Bias due to Missing Evidence in Network meta-analysis.</description>
+    </item>
+    
     <item>
       <title>Swiss Reproducibility Award 2024</title>
       <link>http://www.swissrn.org/news/swissreproducibilityaward2024/</link>
@@ -34,17 +45,6 @@ Category Biology and Medicine: Mathieu Seppey, University of Geneva Category Hum
       <description>The Swiss Reproducibility Network (SwissRN) is a peer-led consortium that aims to promote and ensure rigorous research practices in Switzerland. SwissRN’s special focus is on reproducibility/replicability. With the goal of supporting and highlighting the work of young scholars who are paying special attention to such issues in their work, SwissRN invites nominations for three annual Swiss Reproducibility Awards.
 Criteria
 One award is granted in each scientific category: Humanities and Social Sciences; Mathematics, Natural and Engineering Sciences; and Biology and Medicine.</description>
-    </item>
-    
-    <item>
-      <title>Winners of the Swiss Reproducibility Awards 2024</title>
-      <link>http://www.swissrn.org/news/swissreproducibilityaward2024winners/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.swissrn.org/news/swissreproducibilityaward2024winners/</guid>
-      <description>The winners of the Swiss Reproducibility Awards 2024 were announced at the Swiss Reproducibility Conference at the award ceremony. The prize money of CHF 3000 for each of the Early Career Researcher Awards and the CHF 6000 for the recipients of the team Award was sponsored by the SNSF.
-The Early Career Researchers Awards were presented for the second time. The following applicants won this year:
-Category Biology and Medicine: Virginia Chiocchia, PhD from the University of Bern for her tool ROB-MEN, a user-friendly web application to assess the Risk Of Bias due to Missing Evidence in Network meta-analysis.</description>
     </item>
     
   </channel>

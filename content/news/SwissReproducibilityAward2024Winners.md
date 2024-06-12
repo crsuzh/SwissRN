@@ -1,7 +1,7 @@
 +++
 author = "Manuela Höfler"
 title = "Winners of the Swiss Reproducibility Awards 2024"
-date = "2024-6-12"
+date = "2024-06-12"
 description = "Swiss Reproducibility Award"
 images  = ["./img/awards.jpg"]
 tags = [ "Swiss Reproducibility Award"]
