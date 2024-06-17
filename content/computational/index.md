@@ -53,7 +53,7 @@ If available slides and recording of the seminars can be found here.
 
 Date       | Topic                                              | Speaker                         | Resources
 -----------|----------------------------------------------------|---------------------------------| -----------------
-2024-05-16 | Ten Simple Rules for Good Research Practice        | Simon Schwab, Swiss Transplant  | slides follow soon, recording follows soon
+2024-05-16 | Ten Simple Rules for Good Research Practice        | Simon Schwab, Swiss Transplant  |  [slides](/slides/2024-05-16_10_simple_rules_grp_schwab.pdf), [recording](https://www.youtube.com/watch?v=IFIq0EMl3eM), [paper](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010139)
 2024-03-20 | Using computational reproducibility tools for benchmarking causal discovery | Jack Kuipers, ETH Zurich | [slides](/slides/2024-03-20_causal_reproducibility_kuipers.pdf), recording follows soon
 2024-02-21 | Transparency, reproducibility and the democratization of an ecosystem - the benefits of Snakemake 8 | Johannes Köster, University of Duisburg-Essen | [slides](https://slides.com/johanneskoester/snakemake-8)
 2024-01-17 | The Reproducible Research Platform – Towards FAIR and reproducible sharing of data, code and computational environments | Henry Lütcke, ETH Zurich | [slides](https://siscourses.ethz.ch/reproducible_computing/2024-01_RRP-Seminar_SwissRN.pdf), [recording](https://www.youtube.com/watch?v=4juovsPkv0Q) 
