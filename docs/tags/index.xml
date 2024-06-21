@@ -5,20 +5,11 @@
     <link>http://www.swissrn.org/tags/</link>
     <description>Recent content in Tags on SwissRN</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 12 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://www.swissrn.org/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Swiss Reproducibility Award</title>
-      <link>http://www.swissrn.org/tags/swiss-reproducibility-award/</link>
-      <pubDate>Wed, 12 Jun 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.swissrn.org/tags/swiss-reproducibility-award/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Fri, 21 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://www.swissrn.org/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Computational Reproducibility</title>
       <link>http://www.swissrn.org/tags/computational-reproducibility/</link>
-      <pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 21 Jun 2024 00:00:00 +0000</pubDate>
       
       <guid>http://www.swissrn.org/tags/computational-reproducibility/</guid>
       <description></description>
@@ -27,9 +18,18 @@
     <item>
       <title>Working Groups</title>
       <link>http://www.swissrn.org/tags/working-groups/</link>
-      <pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 21 Jun 2024 00:00:00 +0000</pubDate>
       
       <guid>http://www.swissrn.org/tags/working-groups/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Swiss Reproducibility Award</title>
+      <link>http://www.swissrn.org/tags/swiss-reproducibility-award/</link>
+      <pubDate>Wed, 12 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.swissrn.org/tags/swiss-reproducibility-award/</guid>
       <description></description>
     </item>
     
