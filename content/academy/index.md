@@ -1,7 +1,7 @@
 +++
 author = "Updated by Zhixuan Li"
 title = "SwissRN academy"
-date = "2024-05-24"
+date = "2024-06-28"
 tags = [ "ERC"]
 categories = ["Academy"]
 +++
@@ -21,13 +21,14 @@ Other Reproducibility Networks have established similar academies, such as the [
 
 ### Upcoming Events
 
- - 11 June 2024 – ReproHack at the Swiss Reproducibility Conference 2024 - Zurich <br>
-During this Reproducibility Hackathon (ReproHack) held at [the Swiss Reproducibility Conference 2024](https://www.reproducibility.ch/), participants will attempt to reproduce results from published research papers with openly available code and data. <br>Information on how to register will be posted on [ReproHack Hub](https://www.reprohack.org/event/28/) soon.
-
+ - R Markdown Workshop in Fall 2024, Geneva (more details will be announced soon)
 
 &nbsp;
 
 ### Past Events
+
+ - 11 June 2024 – [ReproHack](https://www.reprohack.org/event/28/) at the Swiss Reproducibility Conference 2024 - Zurich <br>
+During this Reproducibility Hackathon held at [the Swiss Reproducibility Conference 2024](https://www.reproducibility.ch/), participants attempted to reproduce results from published research papers with openly available code and data. Read more about the insights from the event in our [report](https://doi.org/10.5281/zenodo.12516515).
 
  - 2 May 2024 – [Swiss Reproducibility Network Academy meets Cancer Research Network Bern](https://www.swissrn.org/news/academymeetsordbern/) – Bern <br>
 In collaboration with the Open Science Team of the University Library of Bern, we will be hosting two short talks at the Cancer Research Network Bern on Thursday May 2nd, 2024 from 13:00-14:00, online via Zoom and on-site. Dr. habil. Olga Churakova (Data Steward: Medicine and Veterinary Medicine, University of Bern) will talk about research data management and Peter Methys Degen (PhD Candidate Bioinformatics, University of Bern) will talk about researcher degrees of freedom in the analysis of Single-cell RNA-Sequencing data.
@@ -53,7 +54,7 @@ The SwissRN Academy hosted an online event with two presentations, networking an
 
 *Ordered alphabetically by last name.*  
 
-[*`Berit Barthelmes`*](#BeritBarthelmes)    &nbsp;[*`Ursa Bernadic`*](#UrsaBernadic)    &nbsp;[*`Elena Bolt`*](#ElenaBolt)        &nbsp;[*`Lin Boynton`*](#LinBoynton)        &nbsp;[*`Peter Degen`*](#PeterDegen)    &nbsp;[*`Gorka Fraga Gonzalez`*](#GorkaFragaGonzalez)        &nbsp;[*`Carlos Manuel Herrera-Castillo`*](#CarlosManuelHerrera-Castillo)        &nbsp;[*`Linard David Hoessly`*](#LinardDavidHoessly)        &nbsp;[*`Noémie Kuenzi`*](#NoémieKuenzi)        &nbsp;[*`Abigail Licata`*](#AbigailLicata)    &nbsp;[*`Charlotte Micheloud`*](#CharlotteMicheloud)    &nbsp;[*`Julian Ockelmann`*](#JulianOckelmann)        &nbsp;[*`Samuel Pawel`*](#SamuelPawel)        &nbsp;[*`Marianna Rosso`*](#MariannaRosso)
+[*`Berit Barthelmes`*](#BeritBarthelmes)    &nbsp;[*`Ursa Bernadic`*](#UrsaBernadic)    &nbsp;[*`Elena Bolt`*](#ElenaBolt)        &nbsp;[*`Lin Boynton`*](#LinBoynton)        &nbsp;[*`Peter Degen`*](#PeterDegen)    &nbsp;[*`Gorka Fraga Gonzalez`*](#GorkaFragaGonzalez)        &nbsp;[*`Carlos Manuel Herrera-Castillo`*](#CarlosManuelHerrera-Castillo)        &nbsp;[*`Linard David Hoessly`*](#LinardDavidHoessly)        &nbsp;[*`Luisa Jansen`*](#LuisaJansen)        &nbsp;[*`Noémie Kuenzi`*](#NoémieKuenzi)        &nbsp;[*`Abigail Licata`*](#AbigailLicata)    &nbsp;[*`Charlotte Micheloud`*](#CharlotteMicheloud)    &nbsp;[*`Julian Ockelmann`*](#JulianOckelmann)        &nbsp;[*`Samuel Pawel`*](#SamuelPawel)        &nbsp;[*`Paul Ritsche`*](#PaulRitsche)        &nbsp;[*`Marianna Rosso`*](#MariannaRosso)        &nbsp;[*`Chhavi Sachdeva`*](#ChhaviSachdeva)
 
 # {#BeritBarthelmes}
 |Berit Barthelmes <a href="https://orcid.org/0009-0007-8194-4861"><img alt="ORCID" src="./../img/ORCIDiD_icon16x16.png" style="height:16px; width:16px" /></a>|
@@ -95,6 +96,11 @@ The SwissRN Academy hosted an online event with two presentations, networking an
 | :----------- |
 |<span style="font-weight:normal">I am interested in regression modelling and best practice in medicine mostly for observational data. This includes the selection of variables, transformations, competing risk methodology as well as the use of p-values and alternatives.</span> |
 
+# {#LuisaJansen}
+|Luisa Jansen <a href="https://orcid.org/0000-0001-8126-1306"><img alt="ORCID" src="./../img/ORCIDiD_icon16x16.png" style="height:16px; width:16px" /></a>|
+| :----------- |
+|<span style="font-weight:normal">I am a psychologist beginning my PhD at the University of Bern, focusing on the intersection of psychology and cybersecurity. In my research, I am particularly interested in supporting professionals in privacy and cybersecurity. The interdisciplinary nature of my field makes synthesizing and reproducing results challenging. For me personally, my methodological training has always emphasized the importance of reproducibility in research. Now, I aim to improve methods of psychological research in the realms of cybersecurity and privacy.</span> |
+
 # {#NoémieKuenzi}
 |Noémie Kuenzi <a href="https://orcid.org/0000-0003-1368-167X"><img alt="ORCID" src="./../img/ORCIDiD_icon16x16.png" style="height:16px; width:16px" /></a>|
 | :----------- |
@@ -120,9 +126,19 @@ The SwissRN Academy hosted an online event with two presentations, networking an
 | :----------- |
 |<span style="font-weight:normal">I am a trained statistician with a PhD in Epidemiology and Biostatistics. During my PhD I worked on statistical methodology for the design and analysis of replication studies. I am generally interested in statistics, meta-research and their intersection. My current work includes statistical research for evidence assessment and meta-research on methodological research, for example, on the reporting of simulation studies. I believe that transparency and openness are essential for the credibility of research. I try to make my research reproducible and openly available, and to promote these principles among my colleagues and peers.</span> |
 
+#  {#PaulRitsche}
+|Paul Ritsche <a href="https://orcid.org/0000-0001-9446-7872"><img alt="ORCID" src="./../img/ORCIDiD_icon16x16.png" style="height:16px; width:16px" /></a>|
+| :----------- |
+|<span style="font-weight:normal">I am a second-year PhD student at the University of Basel (CH), focusing on muscle physiology and biomechanics. My research develops openly available automatic image analysis methods to evaluate muscle geometry and its adaptation to training and ageing. I care about open science and reproducibility because they promote transparency, which is crucial when working with images. Sharing image data and analysis methods ensures that findings can be verified and built upon, which is vital in advancing our understanding of muscle adaptation to health and disease.</span> |
+
 # {#MariannaRosso}
 |Marianna Rosso <a href="https://orcid.org/0000-0002-1236-4085"><img alt="ORCID" src="./../img/ORCIDiD_icon16x16.png" style="height:16px; width:16px" /></a>|
 | :----------- |
 |<span style="font-weight:normal">As a dedicated Research Fellow at the Center of Reproducible Science, I am committed to advancing the field of animal welfare and scientific rigor. My work primarily focuses on advancing systematic review methodology, emphasizing the critical importance of reproducibility in research. My team and I are working on the development of automated systematic review methodologies, aiming at facilitating the way we synthesize scientific evidence. <br>Furthermore, our research aims at improving the translation of findings from animal studies to human therapies in neuroscience. My passion lies in fostering a culture of transparency, rigor, and ethical considerations, ultimately contributing to the enhancement of scientific practices and the betterment of society.</span> |
+
+# {#ChhaviSachdeva}
+|Chhavi Sachdeva <a href="https://orcid.org/0000-0002-0074-4371"><img alt="ORCID" src="./../img/ORCIDiD_icon16x16.png" style="height:16px; width:16px" /></a>|
+| :----------- |
+|<span style="font-weight:normal">My name is Chhavi Sachdeva, and I am currently a junior postdoctoral researcher at UniDistance Suisse, under the supervision of Prof. Dr. Nicolas Rothen. My research focuses on the link between visual perception and memory, using healthy special populations as my sample. I believe that the purpose of research is to benefit both other researchers and the general public. This is why I advocate for science to be both reproducible and open—reproducible so we can trust research, and open so it is accessible to a wider audience.</span> |
 
 ---

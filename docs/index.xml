@@ -5,7 +5,16 @@
     <link>http://www.swissrn.org/</link>
     <description>Recent content on SwissRN</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 21 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://www.swissrn.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 28 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://www.swissrn.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SwissRN academy</title>
+      <link>http://www.swissrn.org/academy/</link>
+      <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.swissrn.org/academy/</guid>
+      <description>Organisation and membership The Swiss Reproducibility Network (SwissRN) Academy is a group of Early Career Researchers from Swiss universities who are interested in reproducibility, metascience, good research practices, and transparency. Our goal is improving the quality of science by sharing our knowledge of reproducible research with students and researchers. We want to create a national network among young researchers from various fields and backgrounds, that enables interdisciplinary dialogue and collaboration. We’d be happy to see our community grow!</description>
+    </item>
+    
     <item>
       <title>Computational Reproducibility</title>
       <link>http://www.swissrn.org/computational/</link>
@@ -35,15 +44,6 @@ Category Biology and Medicine: Virginia Chiocchia, PhD from the University of Be
       <guid>http://www.swissrn.org/grants/</guid>
       <description>Go to: Sirro SIRRO team
 Strengthen the Interoperability and Reusability of Research Outputs (SIRRO) Rigorous design, transparent reporting, and reproducible workflows are major factors strengthening the interoperability and reusability of research data and are hence crucial to increase the value of research data and, more broadly, the value of research outputs. The aims of the SIRRO project are to 1) fortify SwissRN as an existing community engaging with ORD practices that have the goal of strengthening interoperability and reusability, and 2) intensify the efforts of SwissRN towards a systematic assessment of the impact and obstacles in the implementation of ORD practices.</description>
-    </item>
-    
-    <item>
-      <title>SwissRN academy</title>
-      <link>http://www.swissrn.org/academy/</link>
-      <pubDate>Fri, 24 May 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.swissrn.org/academy/</guid>
-      <description>Organisation and membership The Swiss Reproducibility Network (SwissRN) Academy is a group of Early Career Researchers from Swiss universities who are interested in reproducibility, metascience, good research practices, and transparency. Our goal is improving the quality of science by sharing our knowledge of reproducible research with students and researchers. We want to create a national network among young researchers from various fields and backgrounds, that enables interdisciplinary dialogue and collaboration. We’d be happy to see our community grow!</description>
     </item>
     
     <item>
