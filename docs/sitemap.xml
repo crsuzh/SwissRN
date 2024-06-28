@@ -8,7 +8,16 @@
     <loc>http://www.swissrn.org/categories/</loc>
     <lastmod>2024-06-28T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://www.swissrn.org/tags/committees/</loc>
+    <lastmod>2024-06-28T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://www.swissrn.org/tags/erc/</loc>
+    <lastmod>2024-06-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.swissrn.org/categories/organisation/</loc>
+    <lastmod>2024-06-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.swissrn.org/organisation/</loc>
     <lastmod>2024-06-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://www.swissrn.org/</loc>
@@ -103,15 +112,6 @@
   </url><url>
     <loc>http://www.swissrn.org/nodes/</loc>
     <lastmod>2024-02-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://www.swissrn.org/tags/committees/</loc>
-    <lastmod>2024-02-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://www.swissrn.org/categories/organisation/</loc>
-    <lastmod>2024-02-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://www.swissrn.org/organisation/</loc>
-    <lastmod>2024-02-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://www.swissrn.org/news/callforswissreproducibilityawardandswissreproducibilityconference2024/</loc>
     <lastmod>2023-12-01T00:00:00+00:00</lastmod>
