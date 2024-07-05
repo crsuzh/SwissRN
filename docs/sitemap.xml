@@ -2,10 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://www.swissrn.org/categories/academy/</loc>
-    <lastmod>2024-06-28T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://www.swissrn.org/categories/</loc>
+    <lastmod>2024-07-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.swissrn.org/categories/resources/</loc>
+    <lastmod>2024-07-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.swissrn.org/resources/</loc>
+    <lastmod>2024-07-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.swissrn.org/</loc>
+    <lastmod>2024-07-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.swissrn.org/tags/</loc>
+    <lastmod>2024-07-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.swissrn.org/tags/terms-of-references/</loc>
+    <lastmod>2024-07-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.swissrn.org/categories/academy/</loc>
     <lastmod>2024-06-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://www.swissrn.org/tags/committees/</loc>
@@ -20,13 +35,7 @@
     <loc>http://www.swissrn.org/organisation/</loc>
     <lastmod>2024-06-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://www.swissrn.org/</loc>
-    <lastmod>2024-06-28T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://www.swissrn.org/academy/</loc>
-    <lastmod>2024-06-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://www.swissrn.org/tags/</loc>
     <lastmod>2024-06-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://www.swissrn.org/tags/computational-reproducibility/</loc>
@@ -78,15 +87,6 @@
     <lastmod>2024-03-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://www.swissrn.org/projects/</loc>
-    <lastmod>2024-03-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://www.swissrn.org/categories/resources/</loc>
-    <lastmod>2024-03-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://www.swissrn.org/resources/</loc>
-    <lastmod>2024-03-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://www.swissrn.org/tags/terms-of-references/</loc>
     <lastmod>2024-03-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://www.swissrn.org/tags/april-2021/</loc>

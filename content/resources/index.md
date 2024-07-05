@@ -1,7 +1,7 @@
 +++
 author = "Updated by Zhixuan Li"
 title = "Resources"
-date = "2024-03-13"
+date = "2024-07-05"
 tags = [ "Terms of References"]
 categories = ["Resources"]
 +++
@@ -12,7 +12,7 @@ categories = ["Resources"]
 &nbsp;
 
 ### Terms of Reference
-[Terms of Reference](SwissRNTermsofReferenceV05.pdf) (Version March 2021)
+[Terms of Reference](20240625_SwissRN_Terms_of_Ref_V06.pdf) (Version June 2024)
 
 &nbsp;
 

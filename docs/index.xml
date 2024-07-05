@@ -5,7 +5,21 @@
     <link>http://www.swissrn.org/</link>
     <description>Recent content on SwissRN</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 28 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://www.swissrn.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 05 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://www.swissrn.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Resources</title>
+      <link>http://www.swissrn.org/resources/</link>
+      <pubDate>Fri, 05 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.swissrn.org/resources/</guid>
+      <description>SwissRN Strategy SwissRN Strategy (Version February 2023)
+Terms of Reference Terms of Reference (Version June 2024)
+Executive Summary and Institutional Membership Executive Summary (Version May 2023)
+Presentation Slides Presentation slides on OSF
+UKRN Open Research Primers The UKRN primer series is designed to introduce a broad audience to important topics in open and reproducible scholarship.
+Reproducibility Reports The Royal Netherlands Academy of Arts and Sciences, 2018: Improving Reproducibility in the Empirical Sciences</description>
+    </item>
+    
     <item>
       <title>Organisation</title>
       <link>http://www.swissrn.org/organisation/</link>
@@ -97,20 +111,6 @@ The half-day workshops will be held on the same day at four different locations:
       <description>Go to Working Group: Open Research Data Preregistration and Registered Reports Computational Reproducibility Training Research Assessment and Incentives
 Go to: Grants ReproducibiliTea
 Working groups Open Research Data In order to reproduce and replicate research findings, open and also FAIR research data are a prerequisite. However, publishing research data is still not a standard and studies show how difficult it is to gain access to research data upon request. The SwissRN working group aims to promote open research data, to improve and facilitate data management across different research disciplines, to provide a network to collaborate in Open Research Data projects (including project proposals for ORD calls) and to engage with different stakeholders to facilitate dissemination and uptake.</description>
-    </item>
-    
-    <item>
-      <title>Resources</title>
-      <link>http://www.swissrn.org/resources/</link>
-      <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.swissrn.org/resources/</guid>
-      <description>SwissRN Strategy SwissRN Strategy (Version February 2023)
-Terms of Reference Terms of Reference (Version March 2021)
-Executive Summary and Institutional Membership Executive Summary (Version May 2023)
-Presentation Slides Presentation slides on OSF
-UKRN Open Research Primers The UKRN primer series is designed to introduce a broad audience to important topics in open and reproducible scholarship.
-Reproducibility Reports The Royal Netherlands Academy of Arts and Sciences, 2018: Improving Reproducibility in the Empirical Sciences</description>
     </item>
     
     <item>
