@@ -5,7 +5,18 @@
     <link>http://www.swissrn.org/</link>
     <description>Recent content on SwissRN</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 05 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://www.swissrn.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 20 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://www.swissrn.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nodes</title>
+      <link>http://www.swissrn.org/nodes/</link>
+      <pubDate>Tue, 20 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.swissrn.org/nodes/</guid>
+      <description>Go to: Local Node Leaders Local Node Activities Local Node Members How to join
+Local Nodes of the SwissRN build the backbone of the network by initiating and coordinating activities at universities and other research institutions. Activities of local nodes are manifold, e.g.
+open research working groups ReproducibiliTea journal clubs organisation of training activities such as carpentries workshops grant and ethics peer review groups etc The organisation of local nodes differs from institution to institution: from a formalised administration to informal grassroot groups.</description>
+    </item>
+    
     <item>
       <title>Resources</title>
       <link>http://www.swissrn.org/resources/</link>
@@ -131,17 +142,6 @@ Tim Errington, Center for Open Science Anne-Laure Boulesteix, University Münche
       <guid>http://www.swissrn.org/news/newsletter202401march/</guid>
       <description>Swiss Reproducibility Conference 2024: Registration is open now! Register now for the Swiss Reproducibility Conference, taking place June, 10 - 11, 2024 in Zürich. Early Bird tickets are available until 31.3.2024.
 This is the first ever national conference on all topics related to reproducibility including the National Reproducibility Awards. The registration fee covers all conference activities (scientific talks, coffee breaks, lunches, award ceremony and apéro riche, workshops/hackathon) held during 10th and 11th June 2024 as indicated in the conference program.</description>
-    </item>
-    
-    <item>
-      <title>Nodes</title>
-      <link>http://www.swissrn.org/nodes/</link>
-      <pubDate>Fri, 23 Feb 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.swissrn.org/nodes/</guid>
-      <description>Go to: Local Node Leaders Local Node Activities Local Node Members How to join
-Local Nodes of the SwissRN build the backbone of the network by initiating and coordinating activities at universities and other research institutions. Activities of local nodes are manifold, e.g.
-open research working groups ReproducibiliTea journal clubs organisation of training activities such as carpentries workshops grant and ethics peer review groups etc The organisation of local nodes differs from institution to institution: from a formalised administration to informal grassroot groups.</description>
     </item>
     
     <item>
