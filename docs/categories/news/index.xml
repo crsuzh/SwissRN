@@ -5,7 +5,17 @@
     <link>http://www.swissrn.org/categories/news/</link>
     <description>Recent content in News on SwissRN</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 12 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://www.swissrn.org/categories/news/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 30 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://www.swissrn.org/categories/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Swiss Reproducibility Conference 2024: Presentations</title>
+      <link>http://www.swissrn.org/news/swissreproducibilityconference2024presentations/</link>
+      <pubDate>Fri, 30 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.swissrn.org/news/swissreproducibilityconference2024presentations/</guid>
+      <description>Presentations from the Swiss Reproducibility Conference 2024 Now Available Online!
+A big thank you to everyone who participated, presented and engaged in discussions on reproducibility at the inaugural Swiss Reproducibility Conference last June. If you’d like to revisit the insights shared during the event, the presentations are now accessible on OSF.</description>
+    </item>
+    
     <item>
       <title>Winners of the Swiss Reproducibility Awards 2024</title>
       <link>http://www.swissrn.org/news/swissreproducibilityaward2024winners/</link>

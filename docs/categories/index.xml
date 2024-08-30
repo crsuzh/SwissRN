@@ -5,7 +5,25 @@
     <link>http://www.swissrn.org/categories/</link>
     <description>Recent content in Categories on SwissRN</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 23 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://www.swissrn.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 30 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://www.swissrn.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>News</title>
+      <link>http://www.swissrn.org/categories/news/</link>
+      <pubDate>Fri, 30 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.swissrn.org/categories/news/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resources</title>
+      <link>http://www.swissrn.org/categories/resources/</link>
+      <pubDate>Fri, 30 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.swissrn.org/categories/resources/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Nodes</title>
       <link>http://www.swissrn.org/categories/nodes/</link>
@@ -25,15 +43,6 @@
     </item>
     
     <item>
-      <title>Resources</title>
-      <link>http://www.swissrn.org/categories/resources/</link>
-      <pubDate>Fri, 05 Jul 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.swissrn.org/categories/resources/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Academy</title>
       <link>http://www.swissrn.org/categories/academy/</link>
       <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
@@ -48,15 +57,6 @@
       <pubDate>Fri, 21 Jun 2024 00:00:00 +0000</pubDate>
       
       <guid>http://www.swissrn.org/categories/working-groups/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>News</title>
-      <link>http://www.swissrn.org/categories/news/</link>
-      <pubDate>Wed, 12 Jun 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.swissrn.org/categories/news/</guid>
       <description></description>
     </item>
     

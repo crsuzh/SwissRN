@@ -5,7 +5,31 @@
     <link>http://www.swissrn.org/</link>
     <description>Recent content on SwissRN</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 23 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://www.swissrn.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 30 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://www.swissrn.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Resources</title>
+      <link>http://www.swissrn.org/resources/</link>
+      <pubDate>Fri, 30 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.swissrn.org/resources/</guid>
+      <description>SwissRN Strategy SwissRN Strategy (Version February 2023)
+Terms of Reference Terms of Reference (Version June 2024)
+Executive Summary and Institutional Membership Executive Summary (Version May 2023)
+Presentation Slides Presentation slides on OSF Presentations of Swiss Reproducibility Conference 2024
+UKRN Open Research Primers The UKRN primer series is designed to introduce a broad audience to important topics in open and reproducible scholarship.
+Reproducibility Reports The Royal Netherlands Academy of Arts and Sciences, 2018: Improving Reproducibility in the Empirical Sciences</description>
+    </item>
+    
+    <item>
+      <title>Swiss Reproducibility Conference 2024: Presentations</title>
+      <link>http://www.swissrn.org/news/swissreproducibilityconference2024presentations/</link>
+      <pubDate>Fri, 30 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.swissrn.org/news/swissreproducibilityconference2024presentations/</guid>
+      <description>Presentations from the Swiss Reproducibility Conference 2024 Now Available Online!
+A big thank you to everyone who participated, presented and engaged in discussions on reproducibility at the inaugural Swiss Reproducibility Conference last June. If you’d like to revisit the insights shared during the event, the presentations are now accessible on OSF.</description>
+    </item>
+    
     <item>
       <title>Nodes</title>
       <link>http://www.swissrn.org/nodes/</link>
@@ -27,20 +51,6 @@ open research working groups ReproducibiliTea journal clubs organisation of trai
 Steering Committee The steering committee is responsible for the overall coordination of SwissRN activity and strategy.
 Institution Unit Name University of Zürich Faculty of Science and Faculty of Medicine, Center for Reproducible Science Leonhard Held ETH Zürich Department of Mathematics, NEXUS Personalized Health Technologies Daniel
 Stekhoven University of Geneva Faculty of Psychology and Educational Sciences, Swiss Open Psychological Science Initiative Evie Vergauwe University of Bern Vetsuisse Faculty Bern, Swiss 3R Competence Centre Hanno Würbel University Hospital Basel Department of Biomedical Engineering, Department of Radiology Claudia</description>
-    </item>
-    
-    <item>
-      <title>Resources</title>
-      <link>http://www.swissrn.org/resources/</link>
-      <pubDate>Fri, 05 Jul 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.swissrn.org/resources/</guid>
-      <description>SwissRN Strategy SwissRN Strategy (Version February 2023)
-Terms of Reference Terms of Reference (Version June 2024)
-Executive Summary and Institutional Membership Executive Summary (Version May 2023)
-Presentation Slides Presentation slides on OSF
-UKRN Open Research Primers The UKRN primer series is designed to introduce a broad audience to important topics in open and reproducible scholarship.
-Reproducibility Reports The Royal Netherlands Academy of Arts and Sciences, 2018: Improving Reproducibility in the Empirical Sciences</description>
     </item>
     
     <item>

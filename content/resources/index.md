@@ -1,7 +1,7 @@
 +++
 author = "Updated by Zhixuan Li"
 title = "Resources"
-date = "2024-07-05"
+date = "2024-08-30"
 tags = [ "Terms of References"]
 categories = ["Resources"]
 +++
@@ -22,7 +22,8 @@ categories = ["Resources"]
 &nbsp;
 
 ### Presentation Slides
-[Presentation slides on OSF](https://osf.io/gzntw/)
+[Presentation slides on OSF](https://osf.io/gzntw/) <br>
+[Presentations of Swiss Reproducibility Conference 2024](https://osf.io/f7p5b/)
 
 &nbsp;
 
