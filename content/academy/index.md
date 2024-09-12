@@ -1,7 +1,7 @@
 +++
 author = "Updated by Zhixuan Li"
 title = "SwissRN academy"
-date = "2024-06-28"
+date = "2024-09-12"
 tags = [ "ERC"]
 categories = ["Academy"]
 +++
@@ -54,7 +54,7 @@ The SwissRN Academy hosted an online event with two presentations, networking an
 
 *Ordered alphabetically by last name.*  
 
-[*`Berit Barthelmes`*](#BeritBarthelmes)    &nbsp;[*`Ursa Bernadic`*](#UrsaBernadic)    &nbsp;[*`Elena Bolt`*](#ElenaBolt)        &nbsp;[*`Lin Boynton`*](#LinBoynton)        &nbsp;[*`Peter Degen`*](#PeterDegen)    &nbsp;[*`Gorka Fraga Gonzalez`*](#GorkaFragaGonzalez)        &nbsp;[*`Carlos Manuel Herrera-Castillo`*](#CarlosManuelHerrera-Castillo)        &nbsp;[*`Linard David Hoessly`*](#LinardDavidHoessly)        &nbsp;[*`Luisa Jansen`*](#LuisaJansen)        &nbsp;[*`Noémie Kuenzi`*](#NoémieKuenzi)        &nbsp;[*`Abigail Licata`*](#AbigailLicata)    &nbsp;[*`Charlotte Micheloud`*](#CharlotteMicheloud)    &nbsp;[*`Julian Ockelmann`*](#JulianOckelmann)        &nbsp;[*`Samuel Pawel`*](#SamuelPawel)        &nbsp;[*`Paul Ritsche`*](#PaulRitsche)        &nbsp;[*`Marianna Rosso`*](#MariannaRosso)        &nbsp;[*`Chhavi Sachdeva`*](#ChhaviSachdeva)
+[*`Berit Barthelmes`*](#BeritBarthelmes)    &nbsp;[*`Ursa Bernadic`*](#UrsaBernadic)    &nbsp;[*`Elena Bolt`*](#ElenaBolt)        &nbsp;[*`Lin Boynton`*](#LinBoynton)        &nbsp;[*`Pui Ching Chu`*](#PuiChingChu)        &nbsp;[*`Peter Degen`*](#PeterDegen)    &nbsp;[*`Gorka Fraga Gonzalez`*](#GorkaFragaGonzalez)        &nbsp;[*`Carlos Manuel Herrera-Castillo`*](#CarlosManuelHerrera-Castillo)        &nbsp;[*`Linard David Hoessly`*](#LinardDavidHoessly)        &nbsp;[*`Luisa Jansen`*](#LuisaJansen)        &nbsp;[*`Noémie Kuenzi`*](#NoémieKuenzi)        &nbsp;[*`Abigail Licata`*](#AbigailLicata)    &nbsp;[*`Charlotte Micheloud`*](#CharlotteMicheloud)    &nbsp;[*`Julian Ockelmann`*](#JulianOckelmann)        &nbsp;[*`Samuel Pawel`*](#SamuelPawel)        &nbsp;[*`Paul Ritsche`*](#PaulRitsche)        &nbsp;[*`Marianna Rosso`*](#MariannaRosso)        &nbsp;[*`Chhavi Sachdeva`*](#ChhaviSachdeva)
 
 # {#BeritBarthelmes}
 |Berit Barthelmes <a href="https://orcid.org/0009-0007-8194-4861"><img alt="ORCID" src="./../img/ORCIDiD_icon16x16.png" style="height:16px; width:16px" /></a>|
@@ -75,6 +75,11 @@ The SwissRN Academy hosted an online event with two presentations, networking an
 |Lin Boynton <a href="https://orcid.org/0000-0002-9944-3834"><img alt="ORCID" src="./../img/ORCIDiD_icon16x16.png" style="height:16px; width:16px" /></a>|
 | :----------- |
 |<span style="font-weight:normal">Only 9% of plastic waste is recycled worldwide, despite existing technologies to do so. As part of the Global Health Engineering group at ETH Zurich, my research seeks to engineer solutions that work in low-resource contexts. Open-science and reproducibility can facilitate multiplier effects of plastic recycling solutions, especially in low- and middle-income countries. In pursuit of this, I aim to provide transparency and credit to the people and methods that contribute to my PhD research.</span> |
+
+# {#PuiChingChu}
+|Pui Ching Chu <a href="https://orcid.org/0009-0006-5408-300X"><img alt="ORCID" src="./../img/ORCIDiD_icon16x16.png" style="height:16px; width:16px" /></a>|
+| :----------- |
+|<span style="font-weight:normal">I am a PhD student at the University of Bern, under the supervision of Prof. Hanno Würbel. Our research project will investigate how inbreeding impacts developmental robustness and stress resilience in mice, with a focus on its implications to animal welfare and replicability of research. I believe that replicability is a cornerstone of science, separating evidence from anecdotes. It is essential for maintaining the quality of our research and public trust in our findings.</span> |
 
 # {#PeterDegen}
 |Peter Degen <a href="https://orcid.org/0009-0004-0706-9200"><img alt="ORCID" src="./../img/ORCIDiD_icon16x16.png" style="height:16px; width:16px" /></a>|
