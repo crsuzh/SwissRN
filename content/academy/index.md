@@ -1,7 +1,7 @@
 +++
 author = "Updated by Zhixuan Li"
 title = "SwissRN academy"
-date = "2024-09-12"
+date = "2024-09-13"
 tags = [ "ERC"]
 categories = ["Academy"]
 +++
@@ -21,7 +21,9 @@ Other Reproducibility Networks have established similar academies, such as the [
 
 ### Upcoming Events
 
- - R Markdown Workshop in Fall 2024, Geneva (more details will be announced soon)
+ - 7 November 2024 – Quarto & R Markdown Workshop - Geneva <br>
+In collaboration with the Center for Reproducible Science (CRS) at the University of Zurich, we will be hosting a half-day workshop dedicated to learning how to use Quarto and R Markdown tools in our own research workflow, in order to analyze, visualize and prepare manuscripts in one straightforward tool. With the help of two experts from the CRS, the theoretical background on these tools and their use in reproducible research practices will be described (virtually, open to all) and a hands-on workshop will take place where researchers can practice using the tools on their own research data (on-site at Uni Mail, places limited). If you’re interested in learning more, reach out to the organizers at nocelaboratory@unige.ch or sign up for either part (virtual introduction and/or the on-site workshop at Uni Mail) here: https://forms.gle/rfSoDZMcTXXXQ9xj7
+
 
 &nbsp;
 
