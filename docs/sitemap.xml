@@ -2,22 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://www.swissrn.org/categories/academy/</loc>
-    <lastmod>2024-09-13T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://www.swissrn.org/categories/</loc>
+    <lastmod>2024-09-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.swissrn.org/tags/computational-reproducibility/</loc>
+    <lastmod>2024-09-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.swissrn.org/computational/</loc>
+    <lastmod>2024-09-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.swissrn.org/</loc>
+    <lastmod>2024-09-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.swissrn.org/tags/</loc>
+    <lastmod>2024-09-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.swissrn.org/tags/working-groups/</loc>
+    <lastmod>2024-09-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.swissrn.org/categories/working-groups/</loc>
+    <lastmod>2024-09-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.swissrn.org/categories/academy/</loc>
     <lastmod>2024-09-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://www.swissrn.org/tags/erc/</loc>
     <lastmod>2024-09-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://www.swissrn.org/</loc>
-    <lastmod>2024-09-13T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://www.swissrn.org/academy/</loc>
-    <lastmod>2024-09-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://www.swissrn.org/tags/</loc>
     <lastmod>2024-09-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://www.swissrn.org/tags/conference/</loc>
@@ -58,18 +70,6 @@
   </url><url>
     <loc>http://www.swissrn.org/organisation/</loc>
     <lastmod>2024-08-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://www.swissrn.org/tags/computational-reproducibility/</loc>
-    <lastmod>2024-06-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://www.swissrn.org/computational/</loc>
-    <lastmod>2024-06-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://www.swissrn.org/tags/working-groups/</loc>
-    <lastmod>2024-06-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://www.swissrn.org/categories/working-groups/</loc>
-    <lastmod>2024-06-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://www.swissrn.org/tags/swiss-reproducibility-award/</loc>
     <lastmod>2024-06-12T00:00:00+00:00</lastmod>

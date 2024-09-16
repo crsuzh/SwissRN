@@ -1,7 +1,7 @@
 +++
 author = "Daniel Stekhoven"
 title = "Computational Reproducibility"
-date = "2024-06-21"
+date = "2024-09-16"
 images  = ["./img/activities_ComputationalReproducibilitySeminar.jpeg"]
 tags = ["Working Groups", "Computational Reproducibility"]
 categories = ["Working Groups"]
@@ -43,7 +43,6 @@ If you want to give a talk as part of this series, please contact [Daniel Stekho
 
 Date       | Topic                                                  | Speaker
 -----------|--------------------------------------------------------|---------------------------------
-Jul + Aug  | Summer break                                           | -
 2024-09-19 | Ensuring Reproducibility in Computational Research     | [Geir Kjetil Ferkingstad Sandve](https://www.mn.uio.no/ifi/english/people/aca/geirksa/), Universitetet i Oslo
 2024-10-17 | Slot available                                         | You?
 2024-11-21 | Slot available                                         | Someone you know?
@@ -57,7 +56,7 @@ Date       | Topic                                              | Speaker       
 -----------|----------------------------------------------------|---------------------------------| -----------------
 2024-06-20 | REANA: A platform for reproducible computational data analyses | Tibor Simko, CERN   | [slides](https://simko.web.cern.ch/tmp/reana-swissrn-webinar-20240620.pdf), recording follows soon
 2024-05-16 | Ten Simple Rules for Good Research Practice        | Simon Schwab, Swiss Transplant  |  [slides](/slides/2024-05-16_10_simple_rules_grp_schwab.pdf), [recording](https://www.youtube.com/watch?v=IFIq0EMl3eM), [paper](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010139)
-2024-03-20 | Using computational reproducibility tools for benchmarking causal discovery | Jack Kuipers, ETH Zurich | [slides](/slides/2024-03-20_causal_reproducibility_kuipers.pdf), recording follows soon
+2024-03-20 | Using computational reproducibility tools for benchmarking causal discovery | Jack Kuipers, ETH Zurich | [slides](/slides/2024-03-20_causal_reproducibility_kuipers.pdf), [recording](https://www.youtube.com/watch?v=GjnCkbnBydk)
 2024-02-21 | Transparency, reproducibility and the democratization of an ecosystem - the benefits of Snakemake 8 | Johannes Köster, University of Duisburg-Essen | [slides](https://slides.com/johanneskoester/snakemake-8)
 2024-01-17 | The Reproducible Research Platform – Towards FAIR and reproducible sharing of data, code and computational environments | Henry Lütcke, ETH Zurich | [slides](https://siscourses.ethz.ch/reproducible_computing/2024-01_RRP-Seminar_SwissRN.pdf), [recording](https://www.youtube.com/watch?v=4juovsPkv0Q) 
 2023-12-13 | Sustainable data science with the Renku platform   | Elisabet Capon Garcia, Swiss Data Science Center | [slides](/slides/2023-12-13_Renku_SRN.pdf), [recording](https://www.youtube.com/watch?v=0Rul2yg3DqQ)
