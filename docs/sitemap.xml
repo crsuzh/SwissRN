@@ -2,19 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://www.swissrn.org/tags/academy/</loc>
+    <lastmod>2024-09-17T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://www.swissrn.org/categories/</loc>
-    <lastmod>2024-09-16T00:00:00+00:00</lastmod>
+    <lastmod>2024-09-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.swissrn.org/tags/education/</loc>
+    <lastmod>2024-09-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.swissrn.org/categories/news/</loc>
+    <lastmod>2024-09-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.swissrn.org/news/</loc>
+    <lastmod>2024-09-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.swissrn.org/</loc>
+    <lastmod>2024-09-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.swissrn.org/news/academyworkshopquarto-_and_rmarkdown/</loc>
+    <lastmod>2024-09-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.swissrn.org/tags/</loc>
+    <lastmod>2024-09-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://www.swissrn.org/tags/computational-reproducibility/</loc>
     <lastmod>2024-09-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://www.swissrn.org/computational/</loc>
-    <lastmod>2024-09-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://www.swissrn.org/</loc>
-    <lastmod>2024-09-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://www.swissrn.org/tags/</loc>
     <lastmod>2024-09-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://www.swissrn.org/tags/working-groups/</loc>
@@ -33,12 +48,6 @@
     <lastmod>2024-09-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://www.swissrn.org/tags/conference/</loc>
-    <lastmod>2024-08-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://www.swissrn.org/categories/news/</loc>
-    <lastmod>2024-08-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://www.swissrn.org/news/</loc>
     <lastmod>2024-08-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://www.swissrn.org/categories/resources/</loc>
@@ -82,9 +91,6 @@
   </url><url>
     <loc>http://www.swissrn.org/news/swissreproducibilityconference2024registration/</loc>
     <lastmod>2024-05-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://www.swissrn.org/tags/academy/</loc>
-    <lastmod>2024-04-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://www.swissrn.org/news/academymeetsordbern/</loc>
     <lastmod>2024-04-30T00:00:00+00:00</lastmod>
@@ -267,9 +273,6 @@
     <lastmod>2020-05-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://www.swissrn.org/news/focusareacommunication/</loc>
-    <lastmod>2020-05-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://www.swissrn.org/tags/education/</loc>
     <lastmod>2020-05-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://www.swissrn.org/categories/education/</loc>

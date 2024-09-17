@@ -5,7 +5,17 @@
     <link>http://www.swissrn.org/news/</link>
     <description>Recent content in News on SwissRN</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 30 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://www.swissrn.org/news/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 17 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://www.swissrn.org/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SwissRN Academy: Workshop on Quarto and R Markdown</title>
+      <link>http://www.swissrn.org/news/academyworkshopquarto-_and_rmarkdown/</link>
+      <pubDate>Tue, 17 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.swissrn.org/news/academyworkshopquarto-_and_rmarkdown/</guid>
+      <description>SwissRN Academy: Workshop on Quarto and R Markdown – 7th November 2024, 13:30 – 16:30, Uni Geneva
+Tired of reformatting your work &amp;amp; wasting time? Looking for a one-stop solution to analyzing, visualizing &amp;amp; preparing your work for publication? Join our Workshop on Quarto and R Markdown - a chance to learn about &amp;amp; practice using powerful tools that allow you to combine coding, writing, and formatting for publication all in one place.</description>
+    </item>
+    
     <item>
       <title>Swiss Reproducibility Conference 2024: Presentations</title>
       <link>http://www.swissrn.org/news/swissreproducibilityconference2024presentations/</link>
