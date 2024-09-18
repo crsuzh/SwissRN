@@ -1,7 +1,7 @@
 +++
 author = "Updated by Zhixuan Li"
 title = "Organisation"
-date = "2024-08-23"
+date = "2024-09-18"
 tags = ["Committees"]
 categories = ["Organisation"]
 
