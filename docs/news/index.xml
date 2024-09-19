@@ -5,7 +5,17 @@
     <link>http://www.swissrn.org/news/</link>
     <description>Recent content in News on SwissRN</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 17 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://www.swissrn.org/news/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 19 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://www.swissrn.org/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SwissRN Academy: Workshop on Quarto and R Markdown</title>
+      <link>http://www.swissrn.org/news/dataownershipworkshop/</link>
+      <pubDate>Thu, 19 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.swissrn.org/news/dataownershipworkshop/</guid>
+      <description>Panel Discussion: Who Owns the Data? – December 5th 2024, 15:00-17:30, Bern
+Recent discussions regarding the reproducibility and efficiency of science have instigated institutions, funders, and publishers to promote or demand more transparency, open data, data sharing and data re-use. As such practices open up questions regarding data ownership, usage rights and responsibilities, the Swiss Reproducibility Network in Bern is organizing a panel discussion, where legal experts and researchers will discuss issues around production and ownership of research data in basic science.</description>
+    </item>
+    
     <item>
       <title>SwissRN Academy: Workshop on Quarto and R Markdown</title>
       <link>http://www.swissrn.org/news/academyworkshopquarto-_and_rmarkdown/</link>
