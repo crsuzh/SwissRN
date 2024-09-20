@@ -1,6 +1,6 @@
 +++
 author = "Bernhard Voelkl"
-title = "SwissRN Academy: Workshop on Quarto and R Markdown"
+title = "Panel Discussion: Who Owns the Data?"
 date = "2024-09-19"
 images  = ["./img/whoOwnsDataLine02.png"]
 tags = [ "paneldiscussion", "workshop"]
