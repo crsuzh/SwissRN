@@ -5,7 +5,16 @@
     <link>http://www.swissrn.org/</link>
     <description>Recent content on SwissRN</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 19 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://www.swissrn.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 11 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://www.swissrn.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SwissRN academy</title>
+      <link>http://www.swissrn.org/academy/</link>
+      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.swissrn.org/academy/</guid>
+      <description>Organisation and membership The Swiss Reproducibility Network (SwissRN) Academy is a group of Early Career Researchers from Swiss universities who are interested in reproducibility, metascience, good research practices, and transparency. Our goal is improving the quality of science by sharing our knowledge of reproducible research with students and researchers. We want to create a national network among young researchers from various fields and backgrounds, that enables interdisciplinary dialogue and collaboration. We’d be happy to see our community grow!</description>
+    </item>
+    
     <item>
       <title>Panel Discussion: Who Owns the Data?</title>
       <link>http://www.swissrn.org/news/dataownershipworkshop/</link>
@@ -46,15 +55,6 @@ Tired of reformatting your work &amp;amp; wasting time? Looking for a one-stop s
       <guid>http://www.swissrn.org/computational/</guid>
       <description>Go to: Why Computational Reproducibility? Who we are and how we work Seminar Series
 Why Computational Reproducibility? Computational reproducibility is the ability to independently verify the results of a computational study using the same data and methods. It is a critical aspect of scientific research as it ensures the transparency and credibility of scientific findings. Computational reproducibility allows researchers to build upon the work of others, helping to accelerate scientific progress.</description>
-    </item>
-    
-    <item>
-      <title>SwissRN academy</title>
-      <link>http://www.swissrn.org/academy/</link>
-      <pubDate>Fri, 13 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.swissrn.org/academy/</guid>
-      <description>Organisation and membership The Swiss Reproducibility Network (SwissRN) Academy is a group of Early Career Researchers from Swiss universities who are interested in reproducibility, metascience, good research practices, and transparency. Our goal is improving the quality of science by sharing our knowledge of reproducible research with students and researchers. We want to create a national network among young researchers from various fields and backgrounds, that enables interdisciplinary dialogue and collaboration. We’d be happy to see our community grow!</description>
     </item>
     
     <item>

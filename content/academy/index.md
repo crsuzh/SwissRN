@@ -1,7 +1,7 @@
 +++
 author = "Updated by Zhixuan Li"
 title = "SwissRN academy"
-date = "2024-09-13"
+date = "2024-10-11"
 tags = [ "ERC"]
 categories = ["Academy"]
 +++
@@ -56,7 +56,7 @@ The SwissRN Academy hosted an online event with two presentations, networking an
 
 *Ordered alphabetically by last name.*  
 
-[*`Berit Barthelmes`*](#BeritBarthelmes)    &nbsp;[*`Ursa Bernadic`*](#UrsaBernadic)    &nbsp;[*`Elena Bolt`*](#ElenaBolt)        &nbsp;[*`Lin Boynton`*](#LinBoynton)        &nbsp;[*`Pui Ching Chu`*](#PuiChingChu)        &nbsp;[*`Peter Degen`*](#PeterDegen)    &nbsp;[*`Gorka Fraga Gonzalez`*](#GorkaFragaGonzalez)        &nbsp;[*`Carlos Manuel Herrera-Castillo`*](#CarlosManuelHerrera-Castillo)        &nbsp;[*`Linard David Hoessly`*](#LinardDavidHoessly)        &nbsp;[*`Luisa Jansen`*](#LuisaJansen)        &nbsp;[*`Noémie Kuenzi`*](#NoémieKuenzi)        &nbsp;[*`Abigail Licata`*](#AbigailLicata)    &nbsp;[*`Charlotte Micheloud`*](#CharlotteMicheloud)    &nbsp;[*`Julian Ockelmann`*](#JulianOckelmann)        &nbsp;[*`Samuel Pawel`*](#SamuelPawel)        &nbsp;[*`Paul Ritsche`*](#PaulRitsche)        &nbsp;[*`Marianna Rosso`*](#MariannaRosso)        &nbsp;[*`Chhavi Sachdeva`*](#ChhaviSachdeva)
+[*`Berit Barthelmes`*](#BeritBarthelmes)    &nbsp;[*`Ursa Bernadic`*](#UrsaBernadic)    &nbsp;[*`Elena Bolt`*](#ElenaBolt)        &nbsp;[*`Lin Boynton`*](#LinBoynton)        &nbsp;[*`Pui Ching Chu`*](#PuiChingChu)        &nbsp;[*`Peter Degen`*](#PeterDegen)    &nbsp;[*`Gorka Fraga Gonzalez`*](#GorkaFragaGonzalez)        &nbsp;[*`Carlos Manuel Herrera-Castillo`*](#CarlosManuelHerrera-Castillo)        &nbsp;[*`Linard David Hoessly`*](#LinardDavidHoessly)        &nbsp;[*`Luisa Jansen`*](#LuisaJansen)        &nbsp;[*`Noémie Kuenzi`*](#NoémieKuenzi)        &nbsp;[*`Abigail Licata`*](#AbigailLicata)    &nbsp;[*`Anna Mavromanoli`*](#AnnaMavromanoli)    &nbsp;[*`Charlotte Micheloud`*](#CharlotteMicheloud)    &nbsp;[*`Julian Ockelmann`*](#JulianOckelmann)        &nbsp;[*`Samuel Pawel`*](#SamuelPawel)        &nbsp;[*`Paul Ritsche`*](#PaulRitsche)        &nbsp;[*`Marianna Rosso`*](#MariannaRosso)        &nbsp;[*`Chhavi Sachdeva`*](#ChhaviSachdeva)
 
 # {#BeritBarthelmes}
 |Berit Barthelmes <a href="https://orcid.org/0009-0007-8194-4861"><img alt="ORCID" src="./../img/ORCIDiD_icon16x16.png" style="height:16px; width:16px" /></a>|
@@ -117,6 +117,11 @@ The SwissRN Academy hosted an online event with two presentations, networking an
 |Abigail Licata <a href="https://orcid.org/0000-0003-2278-0856"><img alt="ORCID" src="./../img/ORCIDiD_icon16x16.png" style="height:16px; width:16px" /></a>|
 | :----------- |
 |<span style="font-weight:normal">I am a neuroscience PhD student with a background in biology and neuropsychology. Before my PhD, I worked as a neuroimaging data assistant in two different countries and noticed the difficulty in streamlining imaging procedures across sites, cities, and countries… this led to my initial interest in open science, as I wanted to make imaging pipelines and procedures as transparent as possible through proper documentation and data/code dissemination. Currently, I research the temporal dynamics of multilingual semantic knowledge and co-organize ReproducibiliTea journal clubs in Geneva with the local SwissRN node.</span> |
+
+# {#AnnaMavromanoli}
+|Anna Mavromanoli <a href="https://orcid.org/0000-0001-8833-2859"><img alt="ORCID" src="./../img/ORCIDiD_icon16x16.png" style="height:16px; width:16px" /></a>|
+| :----------- |
+|<span style="font-weight:normal">A medical doctor with a Masters in Nanosciences and Nanotechnologies as well as a Masters in Epidemiology and a PhD in the field of clinical trials. Having a great interest in reproducible research and techniques for optimising open science in research projects.</span> |
 
 # {#CharlotteMicheloud}
 |Charlotte Micheloud <a href="https://orcid.org/0000-0002-4995-4505"><img alt="ORCID" src="./../img/ORCIDiD_icon16x16.png" style="height:16px; width:16px" /></a>|
